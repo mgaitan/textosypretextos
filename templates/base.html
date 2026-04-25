@@ -6,6 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <meta name="description" content="{% block meta_description %}{{ config.description }}{% endblock meta_description %}">
+    <script>
+      (() => {
+        const storageKey = "typ:theme";
+        try {
+          const saved = localStorage.getItem(storageKey);
+          const theme = saved === "dark" || saved === "light"
+            ? saved
+            : (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+          document.documentElement.dataset.theme = theme;
+        } catch (_error) {
+          document.documentElement.dataset.theme = "light";
+        }
+      })();
+    </script>
     <link rel="stylesheet" href="/assets/site.css">
     <script type="module" src="/assets/site.js"></script>
     <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path='atom.xml') }}">
@@ -18,11 +32,17 @@
           <a href="/autores/">Autores</a>
           <a href="/etiquetas/">Etiquetas</a>
         </div>
-        <form class="search-form" action="/buscar/" method="get" role="search">
-          <label class="sr-only" for="site-search">Buscar</label>
-          <input id="site-search" type="search" name="q" placeholder="Buscar…" autocomplete="off">
-          <button type="submit" aria-label="Buscar">⌕</button>
-        </form>
+        <div class="utility-actions">
+          <form class="search-form" action="/buscar/" method="get" role="search">
+            <label class="sr-only" for="site-search">Buscar</label>
+            <input id="site-search" type="search" name="q" placeholder="Buscar…" autocomplete="off">
+            <button type="submit" aria-label="Buscar">⌕</button>
+          </form>
+          <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false">
+            <span class="theme-toggle-icon" data-theme-icon aria-hidden="true">☾</span>
+            <span class="theme-toggle-label" data-theme-label>Modo oscuro</span>
+          </button>
+        </div>
       </div>
 
       <header class="masthead">
