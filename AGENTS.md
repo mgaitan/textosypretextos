@@ -227,3 +227,29 @@ Cuando un prompt traiga una lista de tareas nuevas:
 Excepción:
 
 - si el pedido ya dice “implementá el issue #N” o remite con claridad a un issue existente, no crear otro issue duplicado
+
+### Uso correcto de `gh issue create` con body multilínea
+
+El flag `--body` acepta texto plano pero **el shell puede interpolar backticks
+y otras expansiones**, corrompiendo el contenido. Para evitarlo, siempre pasar
+el cuerpo desde un archivo:
+
+```bash
+# escribir el body en un archivo temporal
+cat > /tmp/issue_body.md << 'EOF'
+Descripción del issue.
+
+Puede incluir `backticks`, listas, etc. sin problema.
+EOF
+
+gh issue create --title "Título del issue" --body-file /tmp/issue_body.md
+```
+
+Alternativamente, con `printf` y proceso de sustitución:
+
+```bash
+gh issue create --title "Título" --body "$(printf '%s' 'Texto sin expansiones')"
+```
+
+La forma más robusta y legible sigue siendo `--body-file` con un heredoc
+delimitado por comillas (`<< 'EOF'`), que desactiva toda interpolación.
