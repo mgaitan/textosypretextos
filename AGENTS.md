@@ -19,7 +19,8 @@ npm install
 npm run dev
 ```
 
-- `npm run dev` recompila assets y levanta `zola serve`.
+- `npm run dev` recompila assets y levanta `zola serve` sin drafts.
+- `npm run dev:drafts` hace lo mismo pero incluye borradores.
 - `npm run build` genera `public/`.
 - `npm run preview` levanta una preview local con Wrangler sobre el build.
 
