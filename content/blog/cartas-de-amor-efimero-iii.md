@@ -107,7 +107,7 @@ Estoy convencido de que el pomo de la pasta de dientes nunca se acaba: siempre s
 
 Escribo y leo. Séptimo grado completo. También saco fotos: hay que apretar un botón,  el aparato hace click, y el tiempo se congela.
 
-Cuando era chico y feliz -- que no fue el único tiempo en el que fui feliz, ni todo el tiempo en el que fui chico-- supe algunas poesias de memoria, pero luego tuve que ocupar esas neuronas en recordar formulas de integrales. Tuve un blog que abandoné y alguna vez resucitaré desde las cenizas del spam y el olvido. Será igual de aburrido y tendrá la misma dirección: [->http://www.textosypretextos.com.ar].
+Cuando era chico y feliz -- que no fue el único tiempo en el que fui feliz, ni todo el tiempo en el que fui chico-- supe algunas poesias de memoria, pero luego tuve que ocupar esas neuronas en recordar formulas de integrales. Tuve un blog que abandoné y alguna vez resucitaré desde las cenizas del spam y el olvido. Será igual de aburrido y tendrá la misma dirección: [http://www.textosypretextos.com.ar](http://www.textosypretextos.com.ar).
 
 Aunque lo disimulo, soy un nerd. Estudio y trabajo a través de computadoras. Creo en esas cosas y en
 internet. Son herramientas revolucionarias, e intento luchar por su
@@ -124,7 +124,7 @@ Martín.
 {{ media_image(src="/media/jpg/DSC_0301.jpg", alt="", caption="", align="center") }}
 
 {% postscript() %}
-Completan la trilogía [->113] y [->115]
+Completan la trilogía [Cartas de amor efímero I](@/blog/cartas-de-amor-efimero-i.md) y [Cartas de amor efímero II](@/blog/cartas-de-amor-efimero-ii.md).
 {% end %}
 
 <span id="comments"></span>

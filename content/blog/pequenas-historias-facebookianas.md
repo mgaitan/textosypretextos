@@ -2,7 +2,7 @@
 title = "Pequeñas historias facebookianas"
 slug = "pequenas-historias-facebookianas"
 date = 2009-11-19 01:25:18
-description = "Bart y el Hombre Radioactivo [hombre_radioactivo<-] De: Martin Gaitán _ Para: Cristian Alarcón _ el 30 de enero a las 1:09 Hola Cristian. Me llamo Martín y soy el…"
+description = "Bart y el Hombre Radioactivo. Facebook es una irrealidad donde Bart Simpson puede ser amigo del Hombre Radioactivo. Cierto que no deja de ser cholulismo, pero…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 310
 section_slug = "blog"
 section_title = "Blog"
-summary = "Bart y el Hombre Radioactivo [hombre_radioactivo http://josefinalicitra.wordpress.com]): Facebook es una irrealidad donde Bart Simpson puede ser amigo del Hombre Radioactivo. Cierto que no deja de ser cholulismo, pero…"
+summary = "Bart y el Hombre Radioactivo. Facebook es una irrealidad donde Bart Simpson puede ser amigo del Hombre Radioactivo. Cierto que no deja de ser cholulismo, pero es una tentación difícil de resistir…"
 visits = 2207
 popularite = 0.901595242913061
 hero_image = ""
@@ -29,7 +29,7 @@ comment_count = 5
 legacy_url = "/blog/pequenas-historias-facebookianas/"
 surtitle = ""
 subtitle = ""
-deck = "### Bart y el Hombre Radioactivo <span id=\"hombre_radioactivo\"></span>\n\n**De: Martin Gaitán\n_ Para: Cristian Alarcón\n_ el 30 de enero a las 1:09**\n\nHola Cristian. Me llamo Martín y soy el primero, exceptuando a la CIA,  en encontrarle alguna utilidad a Facebook: escribo el nombre de los escritores que me gustan en la cajita de búsqueda, cruzo los dedos de los pies y aprieto enter. Como a muchos no les conozco la cara (sobre todo a los que leí en ediciones baratas)  voy al buscador de imágenes de google y busco alguna coincidencia en los resultados. Sí, todo un investigador 2.0."
+deck = ""
 author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
@@ -94,20 +94,26 @@ title = "Pequeñas historias facebookianas"
 body = "Buenas,En cuanto a lo del arte yo sirpeme he pensado lo mismo que vosotros. El modernismo no me inspira nada, ningfan sentimiento; (aunque quize1s haya habido alguna excepcif3n del alguna obra con efecto visual, de esas que dices: este1 logrado). Pero la verdad es que aparte de la impresif3n general,  eso tambie9n lo hago yo , a veces pienso  las civilizaciones antiguas hacedan cosas me1s bonitas y no tenedan los recursos de hoy .En cuanto a las peledculas o la moda en general, es todo una patraf1a. Hay gente que toma decisiones sobre lo que se ve1 a llevar el af1o que viene, o lo que se va a vender. Y la verdad, muchas veces no es nada revolucionario. Pero como toda la industria lo acepta no te queda me1s remedio, vas a una tienda a otra y a otra y lo mismo en todas, cosas a rayas. a1Que9 vas a hacer, necesitas ropa!. Con lo que al final alimentas la espiral, porque lo compra todo el mundo y se convierte en lo que se lleva. Y al que se le ocurrif3 lo de las rayas le tienen todaveda me1s respeto.Pero la masa consumista solo sabe hacer eso, consumir. Y consume lo que las productoras, emisoras o marcas les meten en la cabeza de manera subliminal, con campaf1as publicitarias bestiales (si se dedicase la creatividad del publicismo en otras cosas ). Por ejemplo, al final de los telediarios ponen trailers de los estrenos (seguro que cobran un montf3n). Y bfpor que9? Porque en el telediario te lo venden como veraz, como bueno. La gente no se da cuenta y cuando va al cine ya tiene un prejucio. Y si la peledcula no te gusta no te devuelven el dinero.Lo dejo aqued porque hay tema para rato. Pero me gusta ver que no soy el fanico que piensa que movimientos me1s cle1sicos como el realismo tienen me1s valeda. Y es que en muchos aspectos se vende mierda a precios muy altos.Un saludo"
 +++
 
-Ya le dije a Josefina Licitra (que me aceptó como amigo, un poco por lástima y otro poco  porque creé su [weblog no oficial](http://josefinalicitra.wordpress.com)): Facebook es una irrealidad donde Bart Simpson puede ser amigo del Hombre Radioactivo.
+### Bart y el Hombre Radioactivo <span id="hombre_radioactivo"></span>
+
+**De: Martin Gaitán**<br>
+**Para: Cristian Alarcón**<br>
+**El:** 30 de enero a las 1:09
+
+Hola Cristian. Me llamo Martín y soy el primero, exceptuando a la CIA, en encontrarle alguna utilidad a Facebook: escribo el nombre de los escritores que me gustan en la cajita de búsqueda, cruzo los dedos de los pies y aprieto enter. Como a muchos no les conozco la cara (sobre todo a los que leí en ediciones baratas) voy al buscador de imágenes de Google y busco alguna coincidencia en los resultados. Sí, todo un investigador 2.0.
+
+Ya le dije a Josefina Licitra (que me aceptó como amigo, un poco por lástima y otro poco porque creé su [weblog no oficial](http://josefinalicitra.wordpress.com)): Facebook es una irrealidad donde Bart Simpson puede ser amigo del Hombre Radioactivo.
 
 Cierto que no deja de ser cholulismo, pero es una tentación difícil de resistir. Tengo amigos que perdieron mechones de pelo y ganaron esguinces de tobillo por conseguir una pua, un simple y estúpido pedacito de plástico que había sido usado por el roquero en fama. Y mirame a mí, escribiéndole piolita, con un cafecito sobre el escritorio y el ventilador prendido, a uno de los periodistas más grosos del último tiempo. 
 
 Pero claro, no hay que abusar, una cosa es tener la posibilidad de escribirte y otra es que me permitas formar parte de tu círculo, de tus amistades, pero, ay, no aguanto, perdón... ¿querés ser mi amigo, Hombre Radioactivo?
 
-** 
-De: Cristian Alarcón
-_ el 19 de febrero a las 17:19
-**
+**De: Cristian Alarcón**<br>
+**El:** 19 de febrero a las 17:19
 
 Bart, querido, ya te investigué y te leí. Quiero ser tu amigo. El hombre radioactivo. <span id="2"></span>
 
-###  ¡Gaitanes del mundo, uníos!  
+### ¡Gaitanes del mundo, uníos!
 
 Lo mejor que tiene Facebook es ese link chiquitito que dice "Ignorar todo". Es como encogerse de hombros, esconder el labio inferior atras del superior y exclamar ante la multitud  "mmh, que hammmbre", y todo con un sólo click. 
 

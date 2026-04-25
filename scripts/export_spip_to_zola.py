@@ -612,12 +612,16 @@ def strip_all_markup(text: str) -> str:
     if not text:
         return ""
     text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = normalize_spip_soft_breaks(text, hard_breaks=False)
     text = re.sub(r"<(?:img|doc|emb)\d+\|[^>]*>", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<cita\|[^>]+>", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<quote>|</quote>|<poesie>|</poesie>|<poetry>|</poetry>|<html>|</html>", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\[[A-Za-z0-9_-]+<-\]", " ", text)
     text = re.sub(r"\[([^\]]+?)\-\>[^\]]+\]", r"\1", text)
+    text = re.sub(r"\[\-\>([^\]]+)\]", lambda m: m.group(1).strip(), text)
+    text = re.sub(r"\[\?([^\]]+)\]", lambda m: m.group(1).strip(), text)
     text = text.replace("{{{", "").replace("}}}", "").replace("{{", "").replace("}}", "").replace("{", "").replace("}", "")
     return fix_text(html.unescape(text))
 
@@ -905,9 +909,92 @@ def detect_remote_provider(url: str) -> tuple[str, str, str]:
     return "", "", text
 
 
+def normalize_spip_soft_breaks(text: str, *, hard_breaks: bool) -> str:
+    replacement = "  \n" if hard_breaks else " "
+    text = re.sub(r"(?m)^_ +", "", text)
+    text = re.sub(
+        r"\s+_\s+(?=(?:\*\*|[A-ZÁÉÍÓÚÜÑ(]|[A-Za-z][\w.-]*:|el\b|la\b|\d{4}|https?://|\[OT\]))",
+        replacement,
+        text,
+    )
+    return text
+
+
+def normalize_spip_dialogue(text: str) -> str:
+    normalized_lines: list[str] = []
+    for line in text.splitlines():
+        stripped = line.lstrip()
+        leading = line[: len(line) - len(stripped)]
+        if stripped.startswith("-- "):
+            stripped = "— " + stripped[3:]
+            stripped = re.sub(r"\s+--\s+", " — ", stripped)
+        stripped = re.sub(r"^((?:\*\*[^*\n]+\*\*|\([^)\n]+\)|\*[^*\n]+\*))\s+--\s+", r"\1 — ", stripped)
+        normalized_lines.append(leading + stripped)
+    return "\n".join(normalized_lines)
+
+
+def preserve_dialogue_linebreaks(text: str) -> str:
+    def is_dialogue_line(line: str) -> bool:
+        stripped = line.strip()
+        if not stripped:
+            return False
+        if stripped.startswith((">", "<", "{{", "{%", "###", "## ", "# ")):
+            return False
+        if stripped.startswith("— "):
+            return True
+        return bool(re.match(r"^\*\*[^*\n]+\*\*\s+—\s+", stripped))
+
+    lines = text.splitlines()
+    for index, line in enumerate(lines[:-1]):
+        if not is_dialogue_line(line):
+            continue
+        if not lines[index + 1].strip():
+            continue
+        lines[index] = line.rstrip() + "\\"
+    return "\n".join(lines)
+
+
+def label_for_spip_target(context: ExportContext, target: str) -> str:
+    target = html.unescape(target.strip()).replace("&amp;", "&")
+    lower = target.lower()
+
+    if match := re.fullmatch(r"art(?:icle)?(\d+)", lower):
+        article_id = match.group(1)
+        if article_id in context.articles:
+            return context.articles[article_id].get("titre", "").strip() or target
+    if match := re.fullmatch(r"rub(?:rique)?(\d+)", lower):
+        rubrique_id = match.group(1)
+        if rubrique_id in context.rubriques:
+            return context.rubriques[rubrique_id].get("titre", "").strip() or target
+    if match := re.fullmatch(r"aut(?:eur)?(\d+)", lower):
+        author_id = match.group(1)
+        if author_id in context.author_display_names:
+            return context.author_display_names[author_id]
+    if match := re.fullmatch(r"mot(\d+)", lower):
+        mot_id = match.group(1)
+        if mot_id in context.mots:
+            return context.mots[mot_id].get("titre", "").strip() or target
+    if match := re.fullmatch(r"doc(\d+)", lower):
+        doc_id = match.group(1)
+        if doc_id in context.documents:
+            return context.documents[doc_id].label
+    if re.fullmatch(r"\d+", lower):
+        if lower in context.articles:
+            return context.articles[lower].get("titre", "").strip() or target
+        if lower in context.rubriques:
+            return context.rubriques[lower].get("titre", "").strip() or target
+        if lower in context.author_display_names:
+            return context.author_display_names[lower]
+        if lower in context.mots:
+            return context.mots[lower].get("titre", "").strip() or target
+    return target
+
+
 def convert_inline_markup(context: ExportContext, text: str) -> str:
     text = text.replace("\r\n", "\n").replace("\r", "\n")
     text = html.unescape(text)
+    text = normalize_spip_soft_breaks(text, hard_breaks=True)
+    text = normalize_spip_dialogue(text)
 
     placeholders: list[str] = []
     shortcode_placeholders: list[str] = []
@@ -922,10 +1009,19 @@ def convert_inline_markup(context: ExportContext, text: str) -> str:
         placeholders.append(f"[{label}]({target})")
         return f"@@LINK{len(placeholders) - 1}@@"
 
+    def replace_bare_link(match: re.Match[str]) -> str:
+        raw_target = match.group(1).strip()
+        label = label_for_spip_target(context, raw_target)
+        target = resolve_spip_target(context, raw_target)
+        placeholders.append(f"[{label}]({target})")
+        return f"@@LINK{len(placeholders) - 1}@@"
+
     text = re.sub(r"\{\{\s*[a-zA-Z_][\w-]*\([^{}]*\)\s*\}\}", protect_shortcode, text)
     text = re.sub(r"\[([A-Za-z0-9_-]+)<-\]", r'<span id="\1"></span>', text)
+    text = re.sub(r"\[\-\>([^\]]+)\]", replace_bare_link, text)
     text = re.sub(r"\[([^\]]+?)\-\>([^\]]+)\]", replace_link, text)
     text = re.sub(r"\[([^\]]+?)\-\>\]", lambda m: m.group(1).strip(), text)
+    text = re.sub(r"\[\?([^\]]+)\]", lambda m: m.group(1).strip(), text)
     text = re.sub(r"\{\{\{([^{}]+)\}\}\}", r"### \1", text)
     text = re.sub(r"\{\{([^{}]+)\}\}", r"**\1**", text)
     text = re.sub(r"\{([^{}]+)\}", r"*\1*", text)
@@ -1041,6 +1137,7 @@ def convert_spip_body(context: ExportContext, raw_text: str, article_doc_ids: li
     text = re.sub(r"</?(?:html)>", "", text, flags=re.IGNORECASE)
 
     text = convert_inline_markup(context, text)
+    text = preserve_dialogue_linebreaks(text)
     text = text.replace("<ul>", "\n<ul>\n").replace("</ul>", "\n</ul>\n")
     text = text.replace("<ol>", "\n<ol>\n").replace("</ol>", "\n</ol>\n")
     text = text.replace("</li>", "</li>\n")

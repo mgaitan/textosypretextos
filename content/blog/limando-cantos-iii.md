@@ -2,7 +2,7 @@
 title = "Limando cantos III"
 slug = "limando-cantos-iii"
 date = 2009-10-21 12:23:00
-description = "From: Luis Roberto Ramallo _ to: ing_computacion@googlegroups.com _ date Mon, Sep 28, 2009 at 1:52 PM _ subject: Informacion sobre la Ley de Medios…"
+description = "Intercambio sobre la Ley de Medios en la lista de Ingeniería en Computación. El hilo reúne posiciones enfrentadas sobre libertad de expresión, monopolios y política…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 338
 section_slug = "blog"
 section_title = "Blog"
-summary = "From: Luis Roberto Ramallo _ to: ing_computacion@googlegroups.com _ date Mon, Sep 28, 2009 at 1:52 PM _ subject: Informacion sobre la Ley de Medios. [->http://www.megaupload.com/?d=JBM07UT5] Ley De Medios from Mario…"
+summary = "Intercambio sobre la Ley de Medios en la lista de Ingeniería en Computación. El hilo reúne posiciones enfrentadas sobre libertad de expresión, monopolios y política…"
 visits = 1999
 popularite = 0.9071578465883542
 hero_image = "/media/gif/2h3z9l5.gif"
@@ -63,20 +63,20 @@ title = "Limando cantos III"
 body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que este ingeniero lea este blog. Respecto de la libertad de elegir libros: cuànta inocencia!!! O cinismo? Realmente se puede creer q somos libres de elegir libros cuando: 1- no todos se consiguen editar? 2- cuando se entra a una librería sin un plan de búsqueda precisa, no se accede a ver todos los libros en venta; lógicamente están mayormepnte expuesto los q más pagan? 3- si se va a buscar algún libro preciso, uno ya tuvo coartada la libertad al leer las críticas (siempre de unos libros y no de todos)? Me cago en la libertad capitalista. \nRespecto del \"terror\" que se siente ante este gobierno y ante el posible uso que se haga de la Ley: por más rápida q sea la puesta en marcha de la Ley, y más corto el plazo de cumplimiento, nunca va a ser antes de que este mandato termine. O sea que esta ley de ningún modo podría favorecer a este gobierno; salvo, por supuesto, que haber construido la viabilidad política (por los motivos e intereses q fueren) necesaria para su aprobación le signifique su reelección. \nY un comentario final en línea con el final del intercambio expuesto: sea la Ley q fuera, ninguna cambia la idiosincrasia, los hábitos, las conciencias prácticas (o llamémoslas directamente prácticas para no confundir). Por más q esta Ley se apruebe (y espero q así sea porq soy capaz de quemar el Congreso si no se hace: aquí tienen material los de derecha, ja, una piba zurdita y violenta), los contenidos seguirán siendo porquerías acríticas, reproductoras de sentido común, hegemónico; y si pretenden ciertos contenidos alternativos, es poco probable que las formas acompañen ese salto cualitativo. Porque estamos formateados y nos llevará años desprendernos de estas formas q ganaron las pantallas compitiendo por el ratting. Y es muy probable que el público en gral, durante años, siga \"eligiendo\" los mismos canales (q no van a desaparecer, q a lo sumo cambiarán -alguno- de manos). Y será muy costoso para las organizaciones sociales poner en marcha proyectos audiovisuales de buena calidad; es decir que habrá q confiar en buenas políticas de financiación, esto es, que la distribución no se agote en el espectro radioeléctrico sino q se inicie de una vez por todas la pretendida distribución de la riqueza. En fin, sí, la lucha continúa; ya lo explicaba Gramsci. \nSaludos, Laura. (gracias por el espacio)"
 +++
 
-**From:**	Luis Roberto Ramallo
-_ **to:**	ing_computacion@googlegroups.com
-_ **date**	Mon, Sep 28, 2009 at 1:52 PM
-_ **subject**: Informacion sobre la Ley de Medios.
+**From:** Luis Roberto Ramallo<br>
+**to:** ing_computacion@googlegroups.com<br>
+**date:** Mon, Sep 28, 2009 at 1:52 PM<br>
+**subject:** Informacion sobre la Ley de Medios.
 	
 
-> [->http://www.megaupload.com/?d=JBM07UT5]
+> [http://www.megaupload.com/?d=JBM07UT5](http://www.megaupload.com/?d=JBM07UT5)
 >
 > <div style="width:425px;text-align:left" id="__ss_2105997"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/guest28c83ee7/ley-de-medios-2105997" title="Ley De Medios">Ley De Medios</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=leydemedios-091001141719-phpapp01&stripped_title=ley-de-medios-2105997" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=leydemedios-091001141719-phpapp01&stripped_title=ley-de-medios-2105997" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object>
 
-**from**	Mario Martinez <sergiochalave@gmail.com>
-_ **to**	ing_computacion@googlegroups.com
-_ **date**	Mon, Sep 28, 2009 at 3:10 PM
-_ **subject**	Re: Informacion sobre la Ley de Medios.
+**from** Mario Martinez <sergiochalave@gmail.com><br>
+**to:** ing_computacion@googlegroups.com<br>
+**date:** Mon, Sep 28, 2009 at 3:10 PM<br>
+**subject:** Re: Informacion sobre la Ley de Medios.
 	
 
 > Señores.
@@ -98,10 +98,10 @@ _ **subject**	Re: Informacion sobre la Ley de Medios.
 >
 > PD. no se olviden que esta en Diputados el proyecto para el  aumento del 30 % de productos de Informatica y celulares.... que disfruten de la tarde.
 
-**from**	Emilio Gallego <gaitan@gmail.com>
-_ **to**	ing_computacion@googlegroups.com
-_ **date**	Fri, Oct 2, 2009 at 2:18 AM
-_ **subject**	Re: Informacion sobre la Ley de Medios.
+**from** Emilio Gallego <gaitan@gmail.com><br>
+**to:** ing_computacion@googlegroups.com<br>
+**date:** Fri, Oct 2, 2009 at 2:18 AM<br>
+**subject:** Re: Informacion sobre la Ley de Medios.
 
 > Ingeniero Martinez:
 >
@@ -113,8 +113,8 @@ _ **subject**	Re: Informacion sobre la Ley de Medios.
 >
 > Le dejo los dos links, por las dudas:
 >
-> [->http://www.megaupload.com/?d=JBM07UT5]
-> [->http://www.comfer.gov.ar/web/blog/wp-content/uploads/2009/09/ley-senado-21-9.pdf]
+> [http://www.megaupload.com/?d=JBM07UT5](http://www.megaupload.com/?d=JBM07UT5)
+> [http://www.comfer.gov.ar/web/blog/wp-content/uploads/2009/09/ley-senado-21-9.pdf](http://www.comfer.gov.ar/web/blog/wp-content/uploads/2009/09/ley-senado-21-9.pdf)
 >
 > Dijo usted:
 >
@@ -160,15 +160,15 @@ Me deja sin palabras, porque sólo destila odio y ninguna fundamentación.  Real
 Dejo acá, obviando comentar sobre su posdata fuera de tema, que sólo enfatiza su odio sin poner el eje en la discusión objetiva sobre esta ley, como sí han hecho muchos compañeros.
 
 Saludos a ud. atte.
-_ Emilio Gallego
+Emilio Gallego
 </quote>
 
 <span id="actualizacion"></span> ### Actualización
 
-**from**	Mario Martinez <sergiochalave@gmail.com>
-_ **to**	ing_computacion@googlegroups.com
-_ **date** Fri, Oct 2, 2009 at 1:18 PM
-_ **subject**:	Re: Informacion sobre la Ley de Medios.
+**from** Mario Martinez <sergiochalave@gmail.com><br>
+**to:** ing_computacion@googlegroups.com<br>
+**date:** Fri, Oct 2, 2009 at 1:18 PM<br>
+**subject:** Re: Informacion sobre la Ley de Medios.
 	
 
 > Hola Martin y a Todos.
@@ -180,10 +180,10 @@ _ **subject**:	Re: Informacion sobre la Ley de Medios.
 >
 > Mario Martinez
 
-**from**	Emilio Gallego <gaitan@gmail.com>
-_ **to**	ing_computacion@googlegroups.com
-_ **date** Fri, Oct 2, 2009 at 7:04 PM
-_ **subject**	Re: Informacion sobre la Ley de Medios.
+**from** Emilio Gallego <gaitan@gmail.com><br>
+**to:** ing_computacion@googlegroups.com<br>
+**date:** Fri, Oct 2, 2009 at 7:04 PM<br>
+**subject:** Re: Informacion sobre la Ley de Medios.
 
 > Ingeniero
 >
@@ -225,10 +225,10 @@ Así lo haremos, y ojalá podamos en ese momento seguir reflexinando al respecto
 
 Saludos</quote>
 
-**from**	Mario Martinez 
-_ **to**	ing_computacion@googlegroups.com
-_ **date**	Fri, Oct 2, 2009 at 8:12 PM
-_ **subject**	Re: Informacion sobre la Ley de Medios.
+**from** Mario Martinez<br>
+**to:** ing_computacion@googlegroups.com<br>
+**date:** Fri, Oct 2, 2009 at 8:12 PM<br>
+**subject:** Re: Informacion sobre la Ley de Medios.
 		
 
 > Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
@@ -245,10 +245,10 @@ _ **subject**	Re: Informacion sobre la Ley de Medios.
 >
 > buen fin de semana.
 
-**from**	Emilio Gallego
-_ **to**	ing_computacion@googlegroups.com
-_ **date**	Fri, Oct 2, 2009 at 10:14 PM
-_ **subject**	Re: Informacion sobre la Ley de Medios.
+**from** Emilio Gallego<br>
+**to:** ing_computacion@googlegroups.com<br>
+**date:** Fri, Oct 2, 2009 at 10:14 PM<br>
+**subject:** Re: Informacion sobre la Ley de Medios.
 	
 
 > <quote>    Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
@@ -284,7 +284,7 @@ Me quedo con la última oración de esa cita:
 *"A algunos no les entra en la cabeza (o no les conviene aceptar) que esta movida supera los límites del kirchnerismo"*
 
 Saludos y buen fin de semana.
-_ Emilio</quote>
+Emilio</quote>
 
 {% postscript() %}
 Hay más limaduras de cantos en los archivos. Sólo [tenés que buscarlas](/spip.php?page=recherche&recherche=limando+cantos)

@@ -2,7 +2,7 @@
 title = "Limando cantos IV"
 slug = "limando-cantos-iv"
 date = 2010-10-21 12:24:00
-description = "From: Juan Perez _ to: Grupo Ing Computación _ date 2010/10/17 _ subject: [OT] Voto Electrónico Hoy en una charla Relámpago de la Pycon, Federico Heinz, presidente de…"
+description = "Intercambio sobre voto electrónico y escrutinio en la lista de Ingeniería en Computación. El hilo reúne argumentos técnicos, políticos y éticos sobre transparencia electoral…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 368
 section_slug = "blog"
 section_title = "Blog"
-summary = "From: Juan Perez _ to: Grupo Ing Computación _ date 2010/10/17 _ subject: [OT] Voto Electrónico Hoy en una charla Relámpago de la Pycon, Federico Heinz, presidente de la Fundación Via Libre nos invita a colaborar…"
+summary = "Intercambio sobre voto electrónico y escrutinio en la lista de Ingeniería en Computación. El hilo reúne argumentos técnicos, políticos y éticos sobre transparencia electoral…"
 visits = 18932
 popularite = 0.666447177952851
 hero_image = ""
@@ -96,10 +96,10 @@ title = "Limando cantos IV"
 body = "Ja! \n1) Justo Salta implementó el bendito voto electrónico para las internas de todos los partidos en búsqueda de quienes se presentarían para Intendente (no recuerdo si para gobernador también). Por esas cosas de la vida, mi tía trabaja dentro del PJ, apoyando a una lista en particular. Ella me contó las  trampas que se mandaban con total impunidad, y que aunque ella armaba lío y se quejaba de la situación, nada se hizo. \nEn Salta hay una gran población de ancianos,que como se sabe les cuesta adaptarse a los cambios. Los jefes de mesa los acompañaban para explicarle, yan cuidadosamente que hasta les indicaban que botón había que presionar al momento del voto efectivo.\nConclusión: Pa hacer trampa no sólo está el software.... y sí, esté sistema deja mucho que desear y muchos baches pa que el diablo meta la cola, porque si quien tiene que controlar es quien quiere ganar......\n\n2- Ese tema del rédito económico vs, horas trabajadas, de querer ganar no menos de $5000 y de que nuestra profesión esta sub-valuada, que no respetan nuestro trabajo, que en el exterior sí y que se yo cuanto más...AARRGGGHHH!!! Porque siempre el ser humano quiere todo??Es decir, no se conforma con una vida cómoda, quiere una vida de lujos y confort; no quiere un trabajo que le de sus libertades o que lo permita exlorar, quiere el mejor trabajo: el cargo más alto..... Desde el ámbito más simple se ve esa lucha y ncesidad de poder y ambición, después uno se queja de USA y de cómo los poderosos no pueden para de destruir todo; y por aquí abajo??? Por qué no poder trabajar GRATIS ( que en realidad no lo creo asi, porque recibís un montón de conocimiento, contactos, etc.) para mejorar algo, para aportar algo a la sociedad, o simplemente para mejoramiento personal??? Por qué la vida tiene que ser una continua persecución del vil metal???\nEsas cosas no entiendo, y coincido con que si uno es joven porque no hacerlo, sí justamente no tiene encima un montón de responsabilidades ni obligaciones que lo aten o hagan peligrar su \"status\"... aparte ningún proyecto te consume las 24 hs de día...... todo, siempre, es cuestión de organización de tiempos.\nEs más, corregíme si me equivoco, pero en su momento la práctica no podía o era ad honorem???"
 +++
 
-**From:** Juan Perez
-_ **to:**   Grupo Ing Computación
-_ **date**  2010/10/17
-_ **subject**: [OT] Voto Electrónico
+**From:** Juan Perez<br>
+**to:** Grupo Ing Computación<br>
+**date:** 2010/10/17<br>
+**subject:** [OT] Voto Electrónico
 
 Hoy en una charla Relámpago de la [Pycon](http://ar.pycon.org/2010), Federico Heinz, presidente de la [Fundación Via Libre](http://www.vialibre.org) nos invita a colaborar generando software con malas intensiones, que tenga todo tipo de engaños, fraudes, maldades de cualquier tipo y factor
 
@@ -119,14 +119,14 @@ Para quienes no tengan ganas de leer, acá va un video reportaje con un ejemplo.
 
 Muchísima info en:
 
-[->http://www.vialibre.org.ar/category/activismo/voto-electronico/]
+[http://www.vialibre.org.ar/category/activismo/voto-electronico/](http://www.vialibre.org.ar/category/activismo/voto-electronico/)
 
 Saludos, Juan!
 
 ----------
 
-**From**: Ing. Pedro Sanchez 
-_ **Date**: 2010/10/17
+**From**: Ing. Pedro Sanchez<br>
+**Date:** 2010/10/17
 
 <span id="ps1"></span>
 
@@ -147,8 +147,8 @@ El voto electrónico se utilizará por los beneficios que representa, por ejempl
 
 ----------
 
-**From:** Mario Martinez 
-_ **Date**: 2010/10/17
+**From:** Mario Martinez<br>
+**Date:** 2010/10/17
 
 <span id="Martinez1"></span>
 
@@ -171,8 +171,8 @@ Ing. Mario Martinez
 
 ----------
 
-**From**: Guido Lobo 
-_ **Date**: 2010/10/17
+**From**: Guido Lobo<br>
+**Date:** 2010/10/17
 
 yo desconozco el tema pero quiero hacer una pregunta:
 mejor que el voto electronico, no seria mejor el conteo electronico? 
@@ -185,8 +185,8 @@ saludos
 
 ----------
 
-**From**: Juan Perez
-_ **Date**: 2010/10/17
+**From**: Juan Perez<br>
+**Date:** 2010/10/17
 
 <span id="juan2"></span>
 
@@ -225,8 +225,8 @@ aparece en la boleta.
 
 ----------
 
-**From**: Martín Gaitán <gaitan@gmail.com>
-_ **Date**: 2010/10/18
+**From**: Martín Gaitán <gaitan@gmail.com><br>
+**Date:** 2010/10/18
 
 > Asi es Pedro.
 >  aqui va una punta del negocio que nadie quiere perder.
@@ -247,12 +247,12 @@ no se la piense sólo en terminos de dinero .
 
 ----------
 
-**From**: Lucas Ramirez
-_ **Date**: 2010/10/18
+**From**: Lucas Ramirez<br>
+**Date:** 2010/10/18
 
 Hola,
 
-Yo estoy en contra del [?voto electrónico]
+Yo estoy en contra del voto electrónico.
 
 Fraude, vamos a tener en cualquier sistema.
 
@@ -265,7 +265,7 @@ conocimientos. Para realizar fraude en papeles, se necesita mucha
 mayor cantidad de gente e influencias.
 
 Otro punto importante es el secreto de voto (yo a las computadoras no
-les confiaria eso: [->http://en.wikipedia.org/wiki/Van_Eck_phreaking] )
+les confiaria eso: [http://en.wikipedia.org/wiki/Van_Eck_phreaking](http://en.wikipedia.org/wiki/Van_Eck_phreaking) )
 
 Si tenemos todo en papel, entonces cualquiera que sepa sumar puede
 auditar. Si tenemos un sistema informático complejo, ni siquiera la mayoria de
@@ -283,8 +283,8 @@ L.
 
 ----------
 
-**From:** Martín Gaitán 
-_ **Date:** 2010/10/18
+**From:** Martín Gaitán<br>
+**Date:** 2010/10/18
 
 <span id="ps2"></span>
 
@@ -307,7 +307,7 @@ De hecho, los sistemas bancarios, porque el botín es concretamente
 plata, son los targets más atacados. Como es una actividad muy
 riesgosa (la dificultad para los hackers quizas no es tan grande, pero
 la condena si los atrapan sí) no es lo más frecuente, pero que existen
-existen. En particular, la técnica conocida como "[?phishing]" está a la
+existen. En particular, la técnica conocida como "phishing" está a la
 orden del día.  Para muestra de vulnerabilidad, es ridículo que una tarjeta de débito como
 la mia (visa electrón) no exija clave alguna para comprar en un negocio.
 
@@ -327,7 +327,7 @@ destino político de un país, le inspira seguridad?
 
 Vea Pedro, hacen aportes:
 
-[->http://www.vialibre.org.ar/2010/09/20/el-diario-dia-a-dia-sobre-nuestra-propuesta-de-auditoria-del-escrutinio/]
+[http://www.vialibre.org.ar/2010/09/20/el-diario-dia-a-dia-sobre-nuestra-propuesta-de-auditoria-del-escrutinio/](http://www.vialibre.org.ar/2010/09/20/el-diario-dia-a-dia-sobre-nuestra-propuesta-de-auditoria-del-escrutinio/)
 
 Esta gente propone desarrollar gratuitamente y como software libre
 (que cualquiera puede auditar) un sistema informático para que el escrutinio
@@ -338,12 +338,12 @@ hecha) al escrutinio sí puede ayudar.
 
 Más info:
 
-[->http://www.diaadia.com.ar/?q=content/proponen-auditar-el-voto-electronico-0]
+[http://www.diaadia.com.ar/?q=content/proponen-auditar-el-voto-electronico-0](http://www.diaadia.com.ar/?q=content/proponen-auditar-el-voto-electronico-0)
 
 ----------
 
-**From**: Pedro Sanchez
-_ **Date**: 2010/10/18
+**From**: Pedro Sanchez<br>
+**Date:** 2010/10/18
 
 <span id="ps3"></span>
 
@@ -401,8 +401,8 @@ Dejémonos de darle vuelta al asunto..!!
 
 ----------
 
-**From:** juanse
-_ **Date**: 2010/10/18
+**From:** juanse<br>
+**Date:** 2010/10/18
 
 Lo que [dice Juan](#juan2) me recuerda a un documental que vi hace unos
 meses en el canal Infinito llamado *"HACKING
@@ -418,8 +418,8 @@ type=\"application/x-shockwave-flash\">") }}
 
 ----------
 
-**From**: Martín Gaitán
-_ **Date**: 2010/10/18
+**From**: Martín Gaitán<br>
+**Date:** 2010/10/18
 
 > 2010/10/18 [Pedro Sanchez escribió](#ps3):
 >
@@ -468,12 +468,12 @@ mail](#ps1bis):
 > GENERAR TEMOR...?? "
 
 saludos.
-_ Martín
+Martín
 
 ----------
 
-**From**: Cristian Mujica
-_ **Date**: 2010/10/18
+**From**: Cristian Mujica<br>
+**Date:** 2010/10/18
 
 <span id="cristian1"></span>
 
@@ -566,8 +566,8 @@ cristian
 
 ----------
 
-**From**: Martín Gaitán
-_ **Date**: 2010/10/18
+**From**: Martín Gaitán<br>
+**Date:** 2010/10/18
 
 > 2010/10/18 [Cristian Mujica  escribió](#cristian1):
 >
@@ -666,8 +666,8 @@ PD: que grosa es esta lista, por dios! (pero como me saca tiempo, jajaja)
 
 ----------
 
-**From**: Amalia Alarcón
-_ **Date**: 2010/10/18
+**From**: Amalia Alarcón<br>
+**Date:** 2010/10/18
 
 > Antes que nada Martín, yo creo que nadie pone el negocio ni los pesos por encima de la democracia, lo que me parece es que estas pecando de ingenuo con algunas cosas. NADIE PUEDE DESARROLLAR UN SISTEMA A COSTO CERO  [(...)](#cristian1)
 
@@ -747,8 +747,8 @@ Ara
 
 <span id="ps4"></span>
 
-**From**: Pedro Sanchez
-_ **Date**: 2010/10/18
+**From**: Pedro Sanchez<br>
+**Date:** 2010/10/18
 
 Gente,
 
@@ -799,8 +799,8 @@ Ing. Pedro Sanchez
 
 ----------
 
-**From**: Martín Gaitán 
-_ **Date**: 2010/10/18
+**From**: Martín Gaitán<br>
+**Date:** 2010/10/18
 
 > Gente
 > Me molesta que tiren alegremente este tipo de fraces "..me ofrezco a trabajar gratis en este proyecto.." [(...)](#ps4)
@@ -841,8 +841,8 @@ Por último: *non calentarum, largum vivirum*.
 
 ----------
 
-**From**: Mario Martinez 
-_ **Date**: 2010/10/19
+**From**: Mario Martinez<br>
+**Date:** 2010/10/19
 
 Martin, Pedro y otros.
 
@@ -865,8 +865,8 @@ Mario.
 
 ----------
 
-**From**: Martín Gaitán 
-_ **Date**: 2010/10/19
+**From**: Martín Gaitán<br>
+**Date:** 2010/10/19
 
 > Con Martin recordando otras conversaciones tenemos visiones opuestas en cuanto a la politica [(...)](#Martinez2)
 
