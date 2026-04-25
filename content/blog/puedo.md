@@ -11,7 +11,9 @@ authors = [
 categories = [
     "Blog",
 ]
-tags = []
+tags = [
+    "Poesía",
+]
 
 [extra]
 legacy_id = 379
@@ -30,7 +32,9 @@ deck = ""
 author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
-tag_links = []
+tag_links = [
+    { name = "Poesía", path = "/etiquetas/poesia/" },
+]
 
 [[extra.comments]]
 id = 52780
