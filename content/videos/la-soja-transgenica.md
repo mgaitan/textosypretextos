@@ -34,14 +34,11 @@ tag_links = []
 comments = []
 +++
 
-{{ external_embed(provider="googlevideo", url="<embed id=\"VideoPlayback\" src=\"http://video.google.com/googleplayer.swf?docid=8332912430010735372&hl=es&fs=true\" style=\"width:500px;height:407px\" allowFullScreen=\"true\" allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\">") }}
+{{ external_embed(provider="youtube", id="u6H-4iomX_U") }}
 
- </embed>
+La liga fue un programa de investigación periodística de la televisión argentina, producido por Cuatro Cabezas y puesto en el aire por primera vez en 2005 en el canal Telefé. El programa solía abordar temas de contenido social, ecológico, político, económico e investigativo, a través de una mirada joven, ágil y sin censura.
 
-Parafraseando a [NA](http://www.nacionapache.com.ar/archives/2350):
+
+Parafraseando a [Nación Apache](https://web.archive.org/web/20160412185234/http://www.nacionapache.com.ar/archives/2350):
 
 > Desde aquí nunca se remitió a la televisión, tal vez porque ella en nada representa los intereses de este sitio. Pero se ha dado un testimonio que, fuera del contexto del medio difusor, representa una visión crítica del saqueo agroexportador que tanto se disputan el Estado como los latifundistas, pools de siembra, medianos y pequeños productores. La riqueza que circula entre esos sectores tiene destino de tragedia.
-
-### Galería
-
-{{ external_embed(provider="googlevideo", url="http://video.google.com/googleplayer.swf?docid=8332912430010735372", title="googleplayer.swf") }}
