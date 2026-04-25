@@ -67,6 +67,23 @@
       <a href="#comment-form" class="more-link" data-comment-focus>Dejá un comentario</a>
     </div>
 
+    {% if config.extra.github_repo and page.relative_path %}
+      {% set edit_url = "https://github.com/" ~ config.extra.github_repo ~ "/edit/" ~ config.extra.github_branch ~ "/content/" ~ page.relative_path %}
+      {% set issue_title = "Problema en: " ~ page.title | urlencode %}
+      {% set issue_body_raw = "URL: " ~ page.permalink ~ "
+Fuente: content/" ~ page.relative_path ~ "
+
+Descripción:
+" %}
+      {% set issue_body = issue_body_raw | urlencode %}
+      {% set issue_url = "https://github.com/" ~ config.extra.github_repo ~ "/issues/new?title=" ~ issue_title ~ "&body=" ~ issue_body %}
+      <div class="article-contribute reveal">
+        <a href="{{ edit_url }}" class="article-contribute-link" rel="noopener" target="_blank">Editar en GitHub</a>
+        <span class="article-contribute-sep" aria-hidden="true">·</span>
+        <a href="{{ issue_url }}" class="article-contribute-link" rel="noopener" target="_blank">Reportar un problema</a>
+      </div>
+    {% endif %}
+
     {% if page.lower or page.higher %}
       <nav class="article-nav reveal" aria-label="Navegación entre artículos">
         <div class="article-nav-prev">

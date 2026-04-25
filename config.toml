@@ -18,3 +18,5 @@ render_emoji = false
 [extra]
 site_owner = "Martín Gaitán"
 site_description = "Un cuaderno abierto de lecturas, canciones y hallazgos."
+github_repo = "mgaitan/textosypretextos"
+github_branch = "main"

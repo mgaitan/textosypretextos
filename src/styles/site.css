@@ -364,6 +364,19 @@
     @apply mt-10;
   }
 
+  .article-contribute {
+    font-family: var(--font-ui);
+    @apply mt-6 flex flex-wrap items-center gap-2 text-[10px] uppercase tracking-[0.22em] text-neutral-500;
+  }
+
+  .article-contribute-link {
+    @apply text-neutral-600 underline decoration-neutral-300 underline-offset-4 hover:text-black hover:decoration-black;
+  }
+
+  .article-contribute-sep {
+    @apply text-neutral-400;
+  }
+
   .image-modal {
     position: fixed;
     inset: 0;
