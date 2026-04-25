@@ -13,7 +13,7 @@ categories = [
 ]
 tags = [
     "Familia",
-    "Política",
+    "Cuento breve",
 ]
 
 [extra]
@@ -82,7 +82,7 @@ Pero algo sucede: una señora desde otro pasillo me ve y luego fija la mirada en
 
 Apuro el paso. Fui muy burdo, pienso. Llegué, lo dejé y me quedé mirándolo como un terrorista newbie que duda de su acto en el último instante. Podría haber simulado un minúsculo rezo y luego olvidarme, oh que descuidado, mi termo (por pocos minutos, pero mio al fin) en el piso. Pero ya estoy jugado para nuevos lamentos, debo escapar, es urgente. Los escalones están deliberadamente calculados para ser molestos en una escapatoria: son bajos y anchos, no se pueden saltar de dos en dos pero tampoco alcanza para dar otro paso sobre el mismo escalón y lograr así un humilde trotecito. Bajar rápido implica una especie de cojera obligada (un pie baja, el otro se arrastra) que me sindica desde la altitud omnisciente del pórtico como el sospechoso de siempre. Imposible pasar desapercibido, llevo todas las *red flags* de que algo hice. Y ahí voy, sin termo, sin suerte, con la certeza de ser perseguido. {En moi, la morte se réveille] (En mí la muerte despierta). El vesre frío, implacable: morte, termo.
 
-— *Where did you go, Martin, did you go back to pray?*\
+— *Where did you go, Martin, did you go back to pray?*<br>
 — *More or less, yeah. You know, everybody must to expiate their sins.*
 
 Pero ahora vayámonos, rumana, que esto puede explotar en cualquier momento.
