@@ -6,8 +6,14 @@
   {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
   {% if use_subcat %}
     {% set kicker_text = page.extra.tag_links[0].name %}
+    {% if page.extra.section_slug == "blog" %}
+      {% set kicker_link = page.extra.tag_links[0].path | replace(from="/etiquetas/", to="/blog/subsecciones/") %}
+    {% else %}
+      {% set kicker_link = page.extra.tag_links[0].path %}
+    {% endif %}
   {% else %}
     {% set kicker_text = page.extra.section_title %}
+    {% set kicker_link = "/" ~ page.extra.section_slug ~ "/" %}
   {% endif %}
   <article class="{% if is_list %}listing-card{% elif is_home_list %}home-listing-card{% elif is_compact %}feed-item{% else %}grid gap-5{% endif %}{% if not page.extra.hero_image %} no-media{% endif %}">
     {% if page.extra.hero_image %}
@@ -20,7 +26,11 @@
       </a>
     {% endif %}
     <div class="reveal">
-      {% if not is_compact %}<p class="story-kicker">{{ kicker_text }}</p>{% endif %}
+      {% if not is_compact %}
+        <p class="story-kicker">
+          {% if kicker_link %}<a href="{{ kicker_link }}">{{ kicker_text }}</a>{% else %}{{ kicker_text }}{% endif %}
+        </p>
+      {% endif %}
       <h2 class="{% if is_feature %}story-title{% elif is_compact %}story-title-xs{% elif is_list %}story-title-sm{% else %}story-title-sm{% endif %}">
         <a href="{{ page.permalink }}">{{ page.title }}</a>
       </h2>
