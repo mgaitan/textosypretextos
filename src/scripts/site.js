@@ -27,6 +27,12 @@ document.querySelectorAll("[data-comment-focus]").forEach((link) => {
 });
 
 // ── Image modals ──────────────────────────────────────────────────────────────
+// Modals must live directly on <body> so that `position:fixed` is not trapped
+// inside a transformed ancestor (.reveal uses transform, creating a new
+// stacking context that breaks fixed positioning).
+document.querySelectorAll("[data-image-modal]").forEach((modal) => {
+  document.body.appendChild(modal);
+});
 
 let activeImageModal = null;
 let activeImageTrigger = null;
