@@ -69,7 +69,7 @@ La mayoría de estos textos fueron escritos en clase, un martes a la tarde entre
 
 Acá va el primero. 
 
-*Texto breve de observación-descripción. Describir un ambiente: la puerta, el piso, el techo, las paredes. Hay un solo mueble. La narración debe ser en primera persona y dirigida a alguien en particular. *
+*Texto breve de observación-descripción. Describir un ambiente: la puerta, el piso, el techo, las paredes. Hay un solo mueble. La narración debe ser en primera persona y dirigida a alguien en particular.*
 
 ### La habitación
 
