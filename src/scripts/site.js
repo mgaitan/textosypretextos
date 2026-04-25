@@ -106,6 +106,7 @@ async function loadDynamicComments(container, slug) {
     const data = await res.json();
     const list = (data && data.comments) || [];
     if (!list.length) return;
+    document.getElementById("no-comments-placeholder")?.remove();
     const html = list.map((c) => `
       <article class="comment-card" data-depth="0">
         <div class="meta-row">
