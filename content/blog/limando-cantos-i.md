@@ -297,7 +297,7 @@ Y esto, no sólo es grave en el sentido de que se pierde la gratuidad
 (segregando aún más a la inmesa mayoría de hombres y mujeres que no pueden acceder a la educación superior) sino que pierde,
 simultáneamente, su sentido de bien común, concretando la buscada ausencia del estado.
 
-— *Tin, para cambiar así la universidad tenés que cambiar el mundo!* —
+— *Tin, para cambiar así la universidad tenés que cambiar el mundo!* —\
 me dijo alguien una vez.
 — *¿Y no venimos a la universidad a aprender eso?* — bromeé.
 

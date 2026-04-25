@@ -933,6 +933,27 @@ def normalize_spip_dialogue(text: str) -> str:
     return "\n".join(normalized_lines)
 
 
+def preserve_dialogue_linebreaks(text: str) -> str:
+    def is_dialogue_line(line: str) -> bool:
+        stripped = line.strip()
+        if not stripped:
+            return False
+        if stripped.startswith((">", "<", "{{", "{%", "###", "## ", "# ")):
+            return False
+        if stripped.startswith("— "):
+            return True
+        return bool(re.match(r"^\*\*[^*\n]+\*\*\s+—\s+", stripped))
+
+    lines = text.splitlines()
+    for index, line in enumerate(lines[:-1]):
+        if not is_dialogue_line(line):
+            continue
+        if not lines[index + 1].strip():
+            continue
+        lines[index] = line.rstrip() + "\\"
+    return "\n".join(lines)
+
+
 def label_for_spip_target(context: ExportContext, target: str) -> str:
     target = html.unescape(target.strip()).replace("&amp;", "&")
     lower = target.lower()
@@ -1116,6 +1137,7 @@ def convert_spip_body(context: ExportContext, raw_text: str, article_doc_ids: li
     text = re.sub(r"</?(?:html)>", "", text, flags=re.IGNORECASE)
 
     text = convert_inline_markup(context, text)
+    text = preserve_dialogue_linebreaks(text)
     text = text.replace("<ul>", "\n<ul>\n").replace("</ul>", "\n</ul>\n")
     text = text.replace("<ol>", "\n<ol>\n").replace("</ol>", "\n</ol>\n")
     text = text.replace("</li>", "</li>\n")

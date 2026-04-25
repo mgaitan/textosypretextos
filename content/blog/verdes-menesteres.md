@@ -54,33 +54,33 @@ body = "me encantó. Muy bueno Martin.\nun abrazo\nMarina"
 
 Pepe teme que se le fermente el semen. ¡Qué mequetrefe! Trece meses que el "treque-treque" le repele. Pretende que Teté, ex ente del Jet-set, le reste peste. 
 
-**Teté** — Pepe, es el tercer mes que me ves ¿Qué tenés pebete? ¿es estrés? ¿es Menem? ¿temés que el frente CCC-CGT le deje de pertenecer?
-**Pepe** — Ehhhh...estemmmmmm...
-**Teté** — ¡Teneme fe che! ¿Querés que te enseñe el zen que sé? Let'me see, es este: "Mentes terrestres que ven el este en New Jersey ¡Elévense! Dejen de meterse en él. Respeten, es gente... ¿Qué pretenden? ¿que se rebele?".
-**Pepe** — ¡Me'que Zen, Teté! ¡Es el sex che! Desde meses, "never" ¿Te creés que me es leve?
+**Teté** — Pepe, es el tercer mes que me ves ¿Qué tenés pebete? ¿es estrés? ¿es Menem? ¿temés que el frente CCC-CGT le deje de pertenecer?\
+**Pepe** — Ehhhh...estemmmmmm...\
+**Teté** — ¡Teneme fe che! ¿Querés que te enseñe el zen que sé? Let'me see, es este: "Mentes terrestres que ven el este en New Jersey ¡Elévense! Dejen de meterse en él. Respeten, es gente... ¿Qué pretenden? ¿que se rebele?".\
+**Pepe** — ¡Me'que Zen, Teté! ¡Es el sex che! Desde meses, "never" ¿Te creés que me es leve?\
 **Teté** — Échese, espéreme tres seg. (...) Pepe, este es el cel. de Celeste. ¡Fetem fetem eh!
 
 En el dept. de Pepe: 
 
 (*Trengggggg....Treng...Trengggggggggggggggg!!!*)
 
-**Pepe** — Debe ser Celeste, qué efervescente que es! (...) Entre Celeste... ¿Qué bebe?
-**(Celeste)** — ¿Qué tenés men? ¿Ferné? — Celeste se desprende del sweter.
-**Pepe** — Fernet, jerez, té... ¿qué querés?
-**Celeste** — ¡Leche!
-**Pepe** — ¿Leche? ¿Leche Nestlé? ¿Qué? ¿Tenés sed?
+**Pepe** — Debe ser Celeste, qué efervescente que es! (...) Entre Celeste... ¿Qué bebe?\
+**(Celeste)** — ¿Qué tenés men? ¿Ferné? — Celeste se desprende del sweter.\
+**Pepe** — Fernet, jerez, té... ¿qué querés?\
+**Celeste** — ¡Leche!\
+**Pepe** — ¿Leche? ¿Leche Nestlé? ¿Qué? ¿Tenés sed?\
 **Celeste** — Jejejejeje...
 	
 Celeste se le prende, dele que dele, dele que dele. ¡Que pete! ¡¡¡Pe pé pepepepe!!! Él cree que es ET: le crece...le crece... 
 
-**Pepe** — Celeste, ¿querés que te releve?
-**Celeste** — mmhssff...mmhfss...depffsh depende.
-**Pepe** — ¿Depende de qué?
+**Pepe** — Celeste, ¿querés que te releve?\
+**Celeste** — mmhssff...mmhfss...depffsh depende.\
+**Pepe** — ¿Depende de qué?\
 **Celeste** — Espere que llegue el gel.
 
 *(NdeR: ¡Regresen che! ¡Que éste es el eje!)*
 
-**Celeste** — ¿Querés meterme el pene en el (beep)jete?
+**Celeste** — ¿Querés meterme el pene en el (beep)jete?\
 **Pepe** — Yes..!! Yes!! Yeesssss!!!
 
 Qué leche, el bebé le cede. Pepe bebe el ferné, ve TV de revés, prende el FM, relee Engels.   
@@ -89,8 +89,8 @@ Qué leche, el bebé le cede. Pepe bebe el ferné, ve TV de revés, prende el FM
 
 Celeste se enternece. 
 
-**Celeste** — Deje Pepe, ¿Qué me debe? Ese es el pre-sex. Che... ¿Querés que me quede?
-**Pepe** — Pensé que...
+**Celeste** — Deje Pepe, ¿Qué me debe? Ese es el pre-sex. Che... ¿Querés que me quede?\
+**Pepe** — Pensé que...\
 **Celeste** — Béseme Pepe, béseme!!!
 
 Remember: *"Tener cheques, verdes, 'Express', etc. es quererme"*. Celeste. 
