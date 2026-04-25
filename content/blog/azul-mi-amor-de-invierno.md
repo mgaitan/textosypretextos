@@ -186,10 +186,16 @@ Extraño mis sábanas calientes, impregnadas de tu fulgor. Extraño despertarme 
 
 El invierno se fue y vos con él. No sé dónde, Azul, no sé dónde y eso me angustia. Me dijo alguien, hace poco, que a la noche, entre sueños, te llamo. Entonces tuve que contarle, le conté de vos, de cómo apareciste en mi vida y cómo te fuiste. Le conté que cada noche te busco, que a veces creo que es un chiste, que estás escondida en el placard o bajo la cama. Pero no, te has ido. Quizas en el próximo invierno, me vengas a visitar.
 
-En dónde sea que estes, quería que tuvieras esta carta. Algo mío, más allá del olor de mi piel que hiciste tuyo. A mí me queda este recuerdo hermoso, <a href="/IMG/jpg/Azul.jpg" class="thickbox" title="Azul, mi amor de invierno">y esta foto que te saqué una tarde, mientras dormías</a>.
+En dónde sea que estes, quería que tuvieras esta carta. Algo mío, más allá del olor de mi piel que hiciste tuyo. A mí me queda este recuerdo hermoso, <a href="/media/jpg/Azul.jpg" data-image-modal-trigger="azul" aria-controls="image-modal-azul">y esta foto que te saqué una tarde, mientras dormías</a>.
 
-### Galería
-
-{{ media_image(src="/media/jpg/Azul.jpg", alt="", caption="", align="center") }}
+<div class="image-modal" id="image-modal-azul" data-image-modal hidden aria-hidden="true">
+  <div class="image-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="image-modal-azul-title">
+    <button type="button" class="image-modal-close" data-image-modal-close aria-label="Cerrar imagen">Cerrar</button>
+    <figure class="image-modal-figure">
+      <img src="/media/jpg/Azul.jpg" alt="Azul, mi amor de invierno" loading="lazy">
+      <figcaption id="image-modal-azul-title" class="sr-only">Azul, mi amor de invierno</figcaption>
+    </figure>
+  </div>
+</div>
 
 <span id="comments"></span>

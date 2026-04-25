@@ -26,6 +26,59 @@ document.querySelectorAll("[data-comment-focus]").forEach((link) => {
   });
 });
 
+// ── Image modals ──────────────────────────────────────────────────────────────
+
+let activeImageModal = null;
+let activeImageTrigger = null;
+
+function closeImageModal(modal) {
+  if (!modal) return;
+  modal.hidden = true;
+  modal.setAttribute("aria-hidden", "true");
+  body.classList.remove("has-modal-open");
+  activeImageModal = null;
+  activeImageTrigger?.focus();
+  activeImageTrigger = null;
+}
+
+function openImageModal(modal, trigger) {
+  if (!modal) return;
+  activeImageModal = modal;
+  activeImageTrigger = trigger || null;
+  modal.hidden = false;
+  modal.setAttribute("aria-hidden", "false");
+  body.classList.add("has-modal-open");
+  modal.querySelector("[data-image-modal-close]")?.focus();
+}
+
+document.querySelectorAll("[data-image-modal-trigger]").forEach((trigger) => {
+  trigger.addEventListener("click", (event) => {
+    const modalId = trigger.getAttribute("data-image-modal-trigger");
+    const modal = modalId ? document.getElementById(`image-modal-${modalId}`) : null;
+    if (!modal) return;
+    event.preventDefault();
+    openImageModal(modal, trigger);
+  });
+});
+
+document.querySelectorAll("[data-image-modal]").forEach((modal) => {
+  modal.addEventListener("click", (event) => {
+    if (event.target === modal) {
+      closeImageModal(modal);
+    }
+  });
+
+  modal.querySelectorAll("[data-image-modal-close]").forEach((button) => {
+    button.addEventListener("click", () => closeImageModal(modal));
+  });
+});
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && activeImageModal) {
+    closeImageModal(activeImageModal);
+  }
+});
+
 // ── Dynamic comments (D1-backed) ─────────────────────────────────────────────
 
 const escapeHtml = (s) =>
