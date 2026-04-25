@@ -42,7 +42,7 @@ tag_links = [
 comments = []
 +++
 
-{% video_embed(provider="youtube", id="8Xl5ZaInIc8", title="A través de tus ojos - La Portuaria") %}{% end %}
+{% video_embed(provider="youtube", id="8Xl5ZaInIc8", title="A través de tus ojos - La Portuaria") %}
 
 <div class="poetry">Yo puedo ver el mundo<br>
 y comprender el paso de los días.<br>
