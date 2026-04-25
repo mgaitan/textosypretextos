@@ -43,5 +43,5 @@ Y al cabo de los ochocientos años quizá se empezase a saber cómo habría que 
 Un programa honesto requiere ocho mil años... Etcétera.
 
 {% postscript() %}
-Fragmento de *Uno y el Universo*, de 1945. Fué el primer libro publicado de [Sabato](http://es.wikipedia.org/wiki/Ernesto_Sabato), teniendo él 34 años.
+Fragmento de *Uno y el Universo*, de 1945. Fue el primer libro publicado de [Sabato](http://es.wikipedia.org/wiki/Ernesto_Sabato), teniendo él 34 años.
 {% end %}

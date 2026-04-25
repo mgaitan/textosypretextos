@@ -91,7 +91,7 @@ La *rockola*, algo ecléctica y siempre a todo volúmen, abarcaba desde Herméti
 
 Yo no compraba por austero y no bebía por púber, pero mis repitentes y conocedores amigos afirmaban que la cerveza, salvo que se la comprara en plena madrugada de invierno y se la dejara un ratito junto a la escarcha de la vereda, estaba siempre caliente. Casi tanto como el travesti narigón con el Pibe del Pool, decían.
 
-El Green era uno más de los comercios que dependía de la manada de adolescentes de overol y tableros de dibujo que en tres turnos escapaban de la técnica "más grande de la patagonia", igual que el kioskito de la plaza, el menú barato de Andrecito y los empleados de seguridad de la Casa Tia. Esto quiere decir, por supuesto, que en el bar Green había muchos pibes. Pero en ese pool habia sólo uno que era El Pibe.
+El Green era uno más de los comercios que dependía de la manada de adolescentes de overol y tableros de dibujo que en tres turnos escapaban de la técnica "más grande de la patagonia", igual que el kioskito de la plaza, el menú barato de Andrecito y los empleados de seguridad de la Casa Tia. Esto quiere decir, por supuesto, que en el bar Green había muchos pibes. Pero en ese pool había sólo uno que era El Pibe.
 
 Era más petiso que yo, o sea, muy petiso. Usaba una campera gris oscuro con capucha, bastante sucia, siempre la misma, que cuando jugaba la ajustaba a la altura de los ojos, bien apretada, como preparandose para enfrentar las altas cumbres. Siempre usaba el taco negro que estaba igual de chueco que los otros pero aún tenía la punta sana. El taco no era de él, pero nadie osaba a usarlo en su presencia. Lo que sí era de él era la tiza: roja. El Pibe jugaba a ganar, y los demás pagabamos fichas para que lo hiciera. No se las regalábamos, las perdíamos contra él, disfrutando, como nunca más, la derrota.
 
@@ -103,9 +103,9 @@ Pic.
 
 -- Ahí la tenés.
 
-Era sublime: la satisfacción de saber que había al menos un ser capáz de volver realidad sus deseos con un movimiento.   
+Era sublime: la satisfacción de saber que había al menos un ser capaz de volver realidad sus deseos con un movimiento.   
 
-Mirá lo que te vengo a contar, que ridículo. Me acordé del pibe del pool, y ya sé que te vas reir. Mejor. Es que hace justo cinco meses que nos acariciamos para siempre por primera vez y quería regalarte unas palabritas que siento muy adento, pero  me salen torcidas y pifiadas, y de tan cursis corro peligro de romper el paño. 
+Mirá lo que te vengo a contar, que ridículo. Me acordé del pibe del pool, y ya sé que te vas reír. Mejor. Es que hace justo cinco meses que nos acariciamos para siempre por primera vez y quería regalarte unas palabritas que siento muy adento, pero  me salen torcidas y pifiadas, y de tan cursis corro peligro de romper el paño. 
 
 Con su habilidad todo sería más fácil. Haría un 'pic' sutil, bien suave, y las palabras más maravillosas, las más dulces, esas que aún nadie inventó, susurrarían cuanto te amo.
 

@@ -107,7 +107,7 @@ resultan aburridos. ¿Ya dejaste de buscar en el mar de las autoconfesiones para
 Seré un obseso y no me di cuenta. O quizás el sexo sea metáfora o puente hacia otra cosa. O será que me divierte patear algunos tabúes, pero no creo. ¿Ves? Está claro que no lo tengo resuelto...
 
 -- **¿Creés que ser un escritor gay (o un gay que escribe, si te
-pesa lo de "escritor") y que muchas de tus historias giren en torno a tu sexualidad, funciona como gancho para los lectores? Y en algun punto, ¿no son tus textos confesiones que resultan ficción para la
+pesa lo de "escritor") y que muchas de tus historias giren en torno a tu sexualidad, funciona como gancho para los lectores? Y en algún punto, ¿no son tus textos confesiones que resultan ficción para la
 mayoría?**
 
 No lo sé eso. Supongo que sí. Igual me parece que si fuera heterosexual y agarrase todos los "José" por "María" la cosa no cambiaría mucho. Creo que quizás al ser gay, estoy fuera del circo romano de la lucha hombre - mujer. O sea, si una mina pone que se cogió a 15, es puta o porn star. Si lo escribe un pibe, es un banana o un grasa. Yo debo ser el puto promiscuo con pretensiones poéticas, pero igual la etiqueta me parece un poquito menos pesada, creo.

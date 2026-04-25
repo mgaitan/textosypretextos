@@ -115,7 +115,7 @@ Bart, querido, ya te investigué y te leí. Quiero ser tu amigo. El hombre radio
 
 ### ¡Gaitanes del mundo, uníos!
 
-Lo mejor que tiene Facebook es ese link chiquitito que dice "Ignorar todo". Es como encogerse de hombros, esconder el labio inferior atras del superior y exclamar ante la multitud  "mmh, que hammmbre", y todo con un sólo click. 
+Lo mejor que tiene Facebook es ese link chiquitito que dice "Ignorar todo". Es como encogerse de hombros, esconder el labio inferior atrás del superior y exclamar ante la multitud  "mmh, que hammmbre", y todo con un sólo click. 
 
 Qué placer es escaparle tan sencillamente a la idiotez de un "¿qué personaje de TV eres?", a la absurda invitación a una fiesta en Barcelona y a la agresión ficticia de una mafia ficticia de un amigo ficticio. A veces dejo que se acumulen esas porquerias en mi perfil sólo para sentir la alegría profunda de pensar toda la mala sangre que me ahorro, la misma que disfrutaba Cortázar cuando [imaginaba recuperar su pelo fácilmente](@/de-otros/perdida-y-recuperacion-del-pelo.md). 
 

@@ -112,7 +112,7 @@ era.
 
 Claro, las fibras de poder a las que esta revolución se enfrenta no
 son pocas, en los términos en que este sistema concibe el poder:  en
-poquísimas manos está la tierra más rica del pais, los recursos
+poquísimas manos está la tierra más rica del país, los recursos
 tecnológicos estratégicos (como las refinerias de hidrocarburos y
 minerales) son extranjeros, y, por supuesto, el fuego mediático está en manos del enemigo. .
 
@@ -166,14 +166,14 @@ mismos después de este viaje. Algo se encendió y es difícil que se
 apague. La fe en nuestros pueblos, siempre vigente y altiva,  ahora
 sabe que no es sólo idealismo. En nuestros puestos de lucha, desde
 nuestro privilegio de poder formarnos intelectualmente y poder comer
-cada dia, con la fuerza y la alegría de nuestra historia y nuestros
+cada día, con la fuerza y la alegría de nuestra historia y nuestros
 sueños, vamos a entregar nuestro sudor y nuestra sangre por la
 Pachamama y sus seres, que merecen vivir en plenitud e igualdad.
 
 ¡Viva Bolivia y su revolución!
 
 {% postscript() %}
-Este texto fué un email a muchos destinatarios que envié el 4 de ferebro de 2008 bajo el título «Waliki (estoy bien)». Unos dias después el Fer [lo publicó](http://www.efectotabano.com.ar/ARURAPIWI-Q-UCHU-MASI) en Efecto Tábano. 
+Este texto fue un email a muchos destinatarios que envié el 4 de ferebro de 2008 bajo el título «Waliki (estoy bien)». Unos días después el Fer [lo publicó](http://www.efectotabano.com.ar/ARURAPIWI-Q-UCHU-MASI) en Efecto Tábano. 
 
 Lo publico aquí, por varios motivos: primero porque siento que este debería ser su *habitat natural*;en febrero este weblog seguía cerrado por melancolía y recién tiempo después encontré las llaves de su alegría. Segundo porque es una forma, torpe y pasiva pero llena de sentimiento, de solidarizarme con el Pueblo Boliviano, en [esta lucha](http://todosconbolivia.org/) que se sigue agudizando. Y tercero, porque hay una continuación que pronto publicaré.
 {% end %}

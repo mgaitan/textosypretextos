@@ -109,7 +109,7 @@ Ahora, mientas escribo esto, un gringo muy gringo baja fotos de su celular-camar
 
 Cuando por fin me cree me dice que ya está, como queriendo decir que soy un gil. Percibo su burla en la frialdad de esa letra arial tamaño 12 colorada con la que escribe y esa insistencia absurda en preguntar si puede ayudarme en algo más. 
 
-Un guagua gatea entre mis piernas mientras su mamá habla por telefono en la cabina. Ella habla en quechua. Él me sonrié desde el suelo, enredado entre los cables.
+Un guagua gatea entre mis piernas mientras su mamá habla por teléfono en la cabina. Ella habla en quechua. Él me sonrié desde el suelo, enredado entre los cables.
 
 Ahora lo entiendo: la paz está en mi.
 

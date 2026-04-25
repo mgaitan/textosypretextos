@@ -41,9 +41,9 @@ comments = []
 <div class="poetry">Ay niña no queda nada<br>
 de todo lo que soñamos<br>
 nuestro amor son estas llamas<br>
-que estan quemando mis manos<br>
+que están quemando mis manos<br>
 nuestro amor son estas llamas<br>
-que estan quemando mis manos<br>
+que están quemando mis manos<br>
 <br>
 Son como una ala de luto<br>
 volando papel quemado<br>
@@ -55,20 +55,20 @@ este pecho enamorado<br>
 Flor del olvido<br>
 cartas de amor<br>
 el que las quema no sabe<br>
-que enluta su corazon<br>
+que enluta su corazón<br>
 el que las quema no sabe<br>
-que enluta su corazon<br>
+que enluta su corazón<br>
 <br>
 Yo no se porque la pena<br>
 por tus ojos se va lejos<br>
-y no se porque los mios<br>
+y no se porque los míos<br>
 se van dolidos con ellos<br>
-y no se porque los mios<br>
+y no se porque los míos<br>
 se van dolidos con ellos<br>
 <br>
 Cartas de amor que se queman<br>
 flores negras en el viento<br>
 le dejan al que ha querido<br>
-el corazon ceniciento<br>
+el corazón ceniciento<br>
 le dejan al que ha querido<br>
-el corazon ceniciento</div>
+el corazón ceniciento</div>

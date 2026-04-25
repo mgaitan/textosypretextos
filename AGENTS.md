@@ -11,6 +11,8 @@ Esta guía documenta el flujo editorial, el theme y la operación del sitio para
 - `zola`
 - `node` / `npm`
 - `uv`
+- `hunspell` + diccionario `es_AR` (para el checker ortográfico)
+- `prek` o `pre-commit` (opcional, para correr el hook antes de cada commit)
 
 ### Comandos de trabajo
 
@@ -103,6 +105,38 @@ Videos:
 Audio/archivos:
 
 - Reusar los shortcodes de `templates/shortcodes/`.
+
+### Ortografía
+
+```bash
+# revisar el corpus completo
+uv run scripts/check_spelling.py
+
+# revisar archivos puntuales
+uv run scripts/check_spelling.py content/blog/foo.md
+
+# listar las palabras desconocidas más frecuentes (útil para sembrar la allow-list)
+uv run scripts/check_spelling.py --list-unknown --top 100
+```
+
+El script usa `hunspell -d es_AR` y descarta frontmatter, code blocks, URLs,
+emails, shortcodes y HTML antes de tokenizar. Las palabras válidas que el
+diccionario no reconoce (nombres propios, marcas, voseo, extranjerismos,
+lunfardo) viven en `scripts/spell_allow.txt`.
+
+### Pre-commit hook
+
+`.pre-commit-config.yaml` registra el hook `spell-check-es`. Para activarlo
+una vez:
+
+```bash
+prek install         # o `pre-commit install`
+```
+
+A partir de ahí, cada `git commit` revisa los `.md` modificados bajo
+`content/`. Si aparecen palabras desconocidas legítimas, agregalas a
+`scripts/spell_allow.txt` (una por línea, sin acento ni mayúscula obligatoria
+porque la comparación es case-insensitive).
 
 ### Reexportar contenido desde SPIP
 

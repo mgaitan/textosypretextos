@@ -86,7 +86,7 @@ body = "Me gustó la discusión entre estos dos Titanes del Mundo Ñoño, don Es
 +++
 
 Con mucho éxito de participación, un grupo de correo se ha abierto para 
-estudiantes y profesores de mi carrera, Ingeniería en Computación de la Facultad de Ciencias Exáctas, Físicas y Naturales de la Universidad Nacional de Córdoba. 
+estudiantes y profesores de mi carrera, Ingeniería en Computación de la Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad Nacional de Córdoba. 
 Es un espacio autogenerado de opinión y de colaboración en muchos 
 sentidos: se comparte información sobre las materias, eventos, recursos, etc. 
 
@@ -126,9 +126,9 @@ Fecha: 3 de mayo de 2007 16:27
 Elias, 
 Es una muy buena idea y hoy ya se están usando herramientas en algunas 
 materias de los cursos avanzados de la carrera. Sería bueno que definan 
-quizas un grupo de aplicaciones/herramientas a las que quisieran tener 
+quizás un grupo de aplicaciones/herramientas a las que quisieran tener 
 acceso para que la Escuela pueda gestionar su obtención o información sobre 
-el estado en que se encuentra su disponibilidad a traves del sitio de la 
+el estado en que se encuentra su disponibilidad a través del sitio de la 
 carrera o en este grupo. 
 
 Ing.Miguel Sanchez.-
@@ -152,9 +152,9 @@ pública.
 
 Esta concepción de profesional que deseo ser tiene que ver con mi 
 convicción de que todos los que estudiamos una carrera universitaria 
-tenemos un compromiso irrenunciable con este pais y todos los que dia 
-a dia permiten que nosotros estemos hoy discutiendo esto. Nosotros, 
-nuestra familia, los buenos profesores,- pero tambien miles de 
+tenemos un compromiso irrenunciable con este país y todos los que día 
+a día permiten que nosotros estemos hoy discutiendo esto. Nosotros, 
+nuestra familia, los buenos profesores,- pero también miles de 
 personas más, muchos que seguramente nunca pisaron ni pisaran una 
 universidad. Con ellos tenemos el compromiso. 
 
@@ -201,7 +201,7 @@ El tema de las licencias es simple, si vos podes tener acceso de uso al
 software libre por ser libre, porque a fines educacionales el software 
 propietario no puede volverse libre de uso? al no dar permisos para aprender 
 el software propietario nos están restringiendo el abanico de posibilidades. 
-Yo quiero aprender ambos mundos para tener la capacidad de tomar desiciones. 
+Yo quiero aprender ambos mundos para tener la capacidad de tomar decisiones. 
 ¿Por qué la universidad me va a empujar a utilizar software libre para que 
 después salga al mundo y me encuentre que hay mucho más? 
 
@@ -234,7 +234,7 @@ como ser de excelencia, investigar, hacer ciencia, resolver problemas
 concretos de la sociedad, etc. 
 
 Remarco que no lo pongo como items excluyentes: la jerarquización  
-económica de los profesionales debe ser tambien un objetivo.  
+económica de los profesionales debe ser también un objetivo.  
 
 De hecho, sería un gran tópico de discusión la viabilidad económica  
 del software libre y los distintos modelos de negocio que surgen de 
@@ -264,12 +264,12 @@ Lo mismo que planteas vos en tu primera oración, pero a la inversa: ¿la
 universidad no te da permiso de aprender un software privativo? ¡Muy 
 mal! Vos tenés toda la libertad de aprenderlo. 
 
-Pero no estamos hablando de vos ni de mi, sino de la Universidad como herramienta fundamental para el creciemiento y la indepencia del pais.
+Pero no estamos hablando de vos ni de mi, sino de la Universidad como herramienta fundamental para el creciemiento y la indepencia del país.
 
 Debe ser la Universidad (¡todos nosotros!) y la sociedad en su conjunto, y no aquel "señor" , quienes determinen que es lo que aprendemos en ella. 
 
 > Yo quiero aprender ambos mundos para tener la capacidad de tomar
->  desiciones.
+>  decisiones.
 >  ¿Por qué la universidad me va a empujar a utilizar software libre para que
 >  después salga al mundo y me encuentre que hay mucho más?
 
@@ -311,7 +311,7 @@ que promueven el movimiento del software libre](http://www.clarin.com/diario/200
 
 El proyecto [Tuquito](www.tuquito.com.ar) nació desde la Universidad de Tucumán, con la idea
 de desarrollar/empaquetar una plataforma que brinde todas las
-herramientas libres necesarias para la carrera de ingenieria. Hoy es
+herramientas libres necesarias para la carrera de ingeniería. Hoy es
 mucho más que eso.
 
 > nos capacitan para tomar las mejores
@@ -324,13 +324,13 @@ definamos *"menores costos y mejores resultados"* ¿Para quién?. ¿que son cost
 
 Cuento una breve historia.
 
-En mi ultimo año de secundario, en Neuquén, hice una pasantía en el
+En mi último año de secundario, en Neuquén, hice una pasantía en el
 Departamento de Sistemas del Consejo Provincial de Educación. El
 trabajo no difería mucho de lo que cualquiera de nosotros, presos de
 saber "un poco más", hacemos o hicimos ante un desperfecto en la PC de
 un amigo: backupear, formatear, reinstalar windows.
 
-Tan poco difería que usábamos unos cds de instalación copiados y recopiados por enésima vez. Una vez se me ocurrió preguntar sobre la  situacion legal y me dieron una llavecita de candado: *"Abrí aquel armario, me dijeron". * El armario rebalsaba de cajas sin abrir de Office 97. (para que no crean que soy tan viejo, ya habia salido el office 2000).
+Tan poco difería que usábamos unos cds de instalación copiados y recopiados por enésima vez. Una vez se me ocurrió preguntar sobre la  situación legal y me dieron una llavecita de candado: *"Abrí aquel armario, me dijeron". * El armario rebalsaba de cajas sin abrir de Office 97. (para que no crean que soy tan viejo, ya había salido el office 2000).
 
 El costo de todas las licencias compradas, ¿no se podría haber
 invertido en la formación tecnológica del personal (no sólo nosotros,
@@ -374,7 +374,7 @@ una pistola en la cabeza, sino que te paga. Si te paga el software libre,
 entonces el mercado no te esta obligando a nada. Ahora, si te pagan los
 otros, porque no aprender? o vamos a vivir de nada?
 No estoy tomando partido del software propietario, sino que considero la
-discusion desde un punto mas arriba, tener la capacidad de disernir entre
+discusión desde un punto mas arriba, tener la capacidad de disernir entre
 las dos cosas.
 
 > El tema es decidir si la universidad trabaja para ese señor, y sólo
@@ -387,21 +387,21 @@ modelo de negocio distinto. La Universidad te tiene que capacitar y formar,
 no meterte ideas de uno u otro bando, si se diera todo con software libre,
 yo me quejaria de que no me dan opciones que si hay en el mercado.
 Finalmente cuando salga a la calle me voy a encontrar que la universidad se
-equivoco con lo que me dio, porque no es lo unico que hay.
+equivoco con lo que me dio, porque no es lo único que hay.
 La Universidad tiene la responsabilidad de formarte para que seas un
 profesional, y los profesionales cobramos para poder vivir, y el mercado es
 quien nos paga, por lo tanto la Universidad tiene que enseñarte lo que hay
 en el mercado. Si vos podes crear tu mercado y vivir gracias a software
-libre, esta perfecto, me encantaria a mi tambien, pero la universidad no te
+libre, esta perfecto, me encantaria a mi también, pero la universidad no te
 tiene que obligar a ello.
 
 > Remarco que no lo pongo como items excluyentes: la jerarquización
->  economica de los profesionales debe ser tambien un objetivo.
+>  economica de los profesionales debe ser también un objetivo.
 >  De hecho, sería un gran tópico de discusión la viabilidad economica
 >  del software libre y los distintos modelos de negocio que surgen de
 >  él.
 
-Como decia, hay que saber elegir en cada caso. No siempre aplica la misma
+Como decía, hay que saber elegir en cada caso. No siempre aplica la misma
 cosa.
 
 > <quote>
@@ -409,7 +409,7 @@ cosa.
 >  software libre por ser libre, porque a fines educacionales el software
 >  propietario no puede volverse libre de uso?
 
- Primero, porque no es asi. El hecho de obterner licencias para la
+ Primero, porque no es así. El hecho de obterner licencias para la
  universidad no implica que yo pueda usarlo en mi casa y aprender de
  él. Que clase de libertad de uso es esa?
 </quote>
@@ -418,13 +418,13 @@ Se llaman licencias educacionales, la UTN las ha usado hace años y varias
 empresas tienen contratos con las Universidades donde te permiten el uso de estas licencias en tu casa siempre y cuando sea con fines educacionales. La Universidad nuestra posee este tipo de licencias y no son promocionadas para su uso.
 
 Te dejo el link del la [UTN de Cordoba](http://www.investigacion.frc.utn.edu.ar/mslabs/index.asp?ver=CDs) donde te explica como sacarlas a las
-de MS, me dijeron que tambien podes sacar las de IBM (Rational, WebSphere, etc)
+de MS, me dijeron que también podes sacar las de IBM (Rational, WebSphere, etc)
 
 > Segundo, porque es, de alguna manera, una trampa. Te suena "el primero
 >  te lo regalan, el segundo te lo venden" ?
 
 Si a vos te capacitan solamente con software libre, de nuevo te meten en un termo, las licencias educacionales son para que aprendas, no para que
-despues compres ese producto. Me parece excelente que te den la oportunidad de aprender sus herramientas. El software libre se promociona a si mismo permitiendo que la gente aprenda de forma gratuita, esta dentro de su modelo de negocio, porque el resto no puede hacer lo mismo?
+después compres ese producto. Me parece excelente que te den la oportunidad de aprender sus herramientas. El software libre se promociona a si mismo permitiendo que la gente aprenda de forma gratuita, esta dentro de su modelo de negocio, porque el resto no puede hacer lo mismo?
 
 > La lógica planteada implica que la posibilidad que tenemos como
 >  profesionales es la de trabajar para una gran empresa que puede
@@ -434,7 +434,7 @@ despues compres ese producto. Me parece excelente que te den la oportunidad de a
 >  la presión impositiva.
 
 Vos has visto lo que sale una licencia? y cuanto te reduce los tiempos de
-desarrollo y TTM (time to market). Las pequeñas y medianas empresas tambien utilizan software propietario y de nuevo, tenes que analizar cual es tu mejor opcion. Si crees que el software libre es la mejor opcion para todos los casos estas equivocado, si crees que el software propietario es solo para las grandes empresas tambien estas equivocado. Hay casos donde pequeñas empresas solo usan software propietario y hay casos donde el software libre es usado por grandes empresas. Es mas, las empresas hacen mixes, y es ahi donde tenes que estar, comprendiendo ambos mundos para saber decidir el mejor caso.
+desarrollo y TTM (time to market). Las pequeñas y medianas empresas también utilizan software propietario y de nuevo, tenes que analizar cual es tu mejor opción. Si crees que el software libre es la mejor opción para todos los casos estas equivocado, si crees que el software propietario es solo para las grandes empresas también estas equivocado. Hay casos donde pequeñas empresas solo usan software propietario y hay casos donde el software libre es usado por grandes empresas. Es mas, las empresas hacen mixes, y es ahí donde tenes que estar, comprendiendo ambos mundos para saber decidir el mejor caso.
 
 > Lo mismo que planteas vos en tu primera oración, pero a la inversa: la
 >  universidad no te da permiso de aprender un software privativo? Muy
@@ -456,7 +456,7 @@ Independencia, justamente, de quien? solamente del software que nos cobra? y vol
  Vos cuando trabajes, donde vas a trabajar? fuera del mercado?
 
  Yo quiero aprender ambos mundos para tener la capacidad de tomar
- desiciones.
+ decisiones.
 
 > A que mundo dentro del Mundo te referis? El mundo de las grandes
 >  empresas, en su mayoría multinacionales?? Porque, tenés razon, hay
@@ -484,9 +484,9 @@ el pago o no del software.
 > serlo!
 
  Estas equivocado, el Ingeniero no es idealista. Imaginate que vayas a
- implementar una solucion a un gobierno y que solo le des herramientas y  soft free. Ahora, nunca vas a analizar cuanto saldria utilizar  herramietnas 
+ implementar una solución a un gobierno y que solo le des herramientas y  soft free. Ahora, nunca vas a analizar cuanto saldria utilizar  herramietnas 
 propietarias, no solamente en el costo de compra, sino costo de 
-mantenimiento, tiempo de uptime, disponibilidad, soporte, etc, eso no es  ser ingeniero, es como poner un quiosco y no vender nada que haga mal a  los dientes. No hay que meterse a un termo. Vos como ingeniero no buscas la solucion ideal, buscas la mejor solucion para la situacion. tal vez la solucion ideal sea demasiado cara de pagar. haces un trade off (creo que la traduccion es balance) entre beneficios y costos. 
+mantenimiento, tiempo de uptime, disponibilidad, soporte, etc, eso no es  ser ingeniero, es como poner un quiosco y no vender nada que haga mal a  los dientes. No hay que meterse a un termo. Vos como ingeniero no buscas la solución ideal, buscas la mejor solución para la situación. tal vez la solución ideal sea demasiado cara de pagar. haces un trade off (creo que la traduccion es balance) entre beneficios y costos. 
 
 > Acaso los mayores pensadores, los que de verdad hicieron las cosas
 > grosas de la historia, no fueron idealistas?
@@ -499,7 +499,7 @@ mantenimiento, tiempo de uptime, disponibilidad, soporte, etc, eso no es  ser in
 >  sobran como dos metros de brazo. ;-)
 
 Si me podes citar la parte dentro del Alcance de la carrera que dice esto,
-te creo. Si vos queres promover un movimiento, es TU desicion no de la carrera ni de
+te creo. Si vos querés promover un movimiento, es TU desicion no de la carrera ni de
 la Universidad.
 
 > Sin irnos demasiado lejos, la universidad de rosario tiene proyectos
@@ -515,18 +515,18 @@ la Universidad.
 
 > Cuento una breve historia. (...)
 
-Hay licencias por sitio y licencias flotantes tambien, que no son para una
+Hay licencias por sitio y licencias flotantes también, que no son para una
 sola maquina. Inclusive hay licencias por empresa. Yo tengo una licencia
 personal MSDN que me permite bajar todo el soft que quiera de MS y usar todo
-lo que quiera siempre y cuando sea para desarrollo. Ademas esa licencia me
-da acceso directo a soporte tecnico (gente en el telefono) con 0800, salas
+lo que quiera siempre y cuando sea para desarrollo. Además esa licencia me
+da acceso directo a soporte tecnico (gente en el teléfono) con 0800, salas
 de chat las 24hs, etc.
 
 > Ernesto, respeto mucho tu posición (...)
 
  Igualmente Martin, por eso te respondo, sino, ni siquiera hubiera mandado
  una respuesta, pero justamente, la Universidad no tiene que tener puesta la
- camiseta de nadie. Vos le queres poner la camiseta de Software libre y es
+ camiseta de nadie. Vos le querés poner la camiseta de Software libre y es
  por eso que a veces tenemos estos "roces", que no lo tomo personal ni para
  nada.
 
@@ -536,27 +536,27 @@ de chat las 24hs, etc.
 
  El mercado, las empresas, el mundo es caotico en el software, he estado en
  varias situaciones donde la empresa que te contrataba para hacer el soft te
- exigia una tecnologia y no podias elegir. Y que le vas a decir? que no?
+ exigia una tecnología y no podias elegir. Y que le vas a decir? que no?
  cuando es una empresa que te va a pagar el sueldo de 30 empleados por un
  año?
 
- Ahora estoy en una empresa grande, y no es como vos decis, en las empresas
+ Ahora estoy en una empresa grande, y no es como vos decís, en las empresas
  grandes, tenes de todo, desde Windows en las workstations, Solaris en los
  servers, he visto RedHats (la version free free), ubuntus, RTLinux (la
  version no libre), etc. Es cierto que tiene mucho mas software/herramietnas
  propietarias que otra cosa, pero vos entendes porque es esto? sabes lo que
- pasa cuando a un producto le inyectas codigo libre? sabes como impacta a una
+ pasa cuando a un producto le inyectas código libre? sabes como impacta a una
  empresa revelar teconologias propietarias? analizaste legalmente lo que
  sucede? Sabes los juicios que existen de empresas que sin querer han
- inyectado codigo libre en sus productos? Sabes las responsabilidad que tenes
+ inyectado código libre en sus productos? Sabes las responsabilidad que tenes
  hacia tus clientes? Sabes los juicios y acciones legales que te pueden
  iniciar?
 
- Sinceramente, voy a cortar la discusion aca, porque es la discusion eterna
+ Sinceramente, voy a cortar la discusión acá, porque es la discusión eterna
  sin sentido, no entiendo porque la gente quiere tomar partido por una cosa.
  Yo no te estoy diciendo que dejes de usar software libre, solamente que no
  te encierres y que no quieras encerrar a la facultad. Seras mejor
- profesional si conoces ambos mundos y justificas tus desiciones
+ profesional si conoces ambos mundos y justificas tus decisiones
  acertadamente.
 
 Saludos
@@ -574,13 +574,13 @@ Primero que nada, yo voy a escribir en verde, menos venal.
 
  Por suerte, desde hace varios años mucha gente viene discutiendo estas ideas
  y, de a poco, cada vez más, las cosas van cambiando. Si nadie hubiese
- compartido sus ideas, otro las mejorara, y asi, hoy vos no estarias leyendo
+ compartido sus ideas, otro las mejorara, y así, hoy vos no estarias leyendo
  este email, simplemente porque no existiria. Claro que a muchos les
  interesa el silencio: Los fabricantes de velas jamás hubiesen inventado los
  foquitos.
 
  No pensar, no discutir ideas, no conversar con el compañero, aprender a
- repetir de memoria, es lo que dia a dia mamamos, y si no me creen prendan
+ repetir de memoria, es lo que día a día mamamos, y si no me creen prendan
  la tele que deben estar dando Tinelli. 
 
 > Vos en tu primer mail citaste lo siguiente:
@@ -590,7 +590,7 @@ Primero que nada, yo voy a escribir en verde, menos venal.
 
 Si lo hice, en el sentido de hacer un llamamiento a la reflexión. Es una
  interpelación en forma de preguntas. La universidad es responsable de
- repensarse dia a dia, de trabajar por el bien comun y el mejoramiento
+ repensarse día a día, de trabajar por el bien comun y el mejoramiento
  constante de la calidad de vida de nuestra sociedad, que es la que nos
  otorga el privilegio de estudiar una carrera universitaria. La universidad
  debe ser responsable.
@@ -598,18 +598,18 @@ Si lo hice, en el sentido de hacer un llamamiento a la reflexión. Es una
 > Si el mercado te obliga por algo es, no creo que el mercado te ponga
 >  una pistola en la cabeza, sino que te paga.
 
-Repito acá otra pregunta para la reflexion: ¿la universidad sólo es
+Repito acá otra pregunta para la reflexión: ¿la universidad sólo es
 responsable de que los profesionales que forma reciban una buena paga? ¿O de
 eso y mucho más?
 
  Por las condiciones que se han dado, tanto económicas, politicas y sociales,
- nuestro sector profesional tiene muchisimo auge. Y, obviamente eso es muy
+ nuestro sector profesional tiene muchísimo auge. Y, obviamente eso es muy
  bueno para nosotros como futuros profesionales.
 
- Pero pensar que como los profesionales de la tecnologia de este pais sólo
+ Pero pensar que como los profesionales de la tecnología de este país sólo
  somos responsables por nosotros mismos, es una vision egoista, o al menos
- muy estrecha. Ahi somos nosotros los que le ponemos la pistola en la cabeza
- a los muchísimo que tambien necesitan ingenieros para solucionar problemas
+ muy estrecha. Ahí somos nosotros los que le ponemos la pistola en la cabeza
+ a los muchísimo que también necesitan ingenieros para solucionar problemas
 
  De paso, quiero aclarar algo: aunque a veces me exprese mal, no tengo una
  cruzada contra el "Mercado", cual anarquista de la patagonia rebelde. Mi
@@ -638,7 +638,7 @@ eso y mucho más?
  Software (y hardware) Libre, publicó un artículo interesante: *"[De qué vive el
  Software Libre?](http://spanish.martinvarsavsky.net/tecnologaa-e-internet/ade-qua-vive-el-software-libre.html)"*
 
-Transcribo sólo el ultimo parrafo y los invito a leer la nota completa, y
+Transcribo sólo el último parrafo y los invito a leer la nota completa, y
 los comentarios que son muy buenos.
 
 > Resumiendo, quizás la mejor
@@ -656,7 +656,7 @@ los comentarios que son muy buenos.
 > cómo hacerlo.
 
 Otro material muy recomendable para leer es "[Software Libre: técnicamente
-viable, económicamente sostenible y socialmente justo](http://www.softcatala.org/~jmas/swl/llibrejmas.pdf)" de Jordi Mas. Tambien
+viable, económicamente sostenible y socialmente justo](http://www.softcatala.org/~jmas/swl/llibrejmas.pdf)" de Jordi Mas. También
 se hace una revisión de los muchos modelos de negocio en torno al software
 libre y muchos casos de éxito. 
 
@@ -665,7 +665,7 @@ libre y muchos casos de éxito.
  universidad si debería otorgar herramientas.
 
 > No estoy tomando partido del software propietario, sino que considero la
->  discusion desde un punto mas arriba, tener la capacidad de disernir entre
+>  discusión desde un punto mas arriba, tener la capacidad de disernir entre
 >  las dos cosas.
 
  ¡Muy de acuerdo! Hay que discernir: pensar qué tipo de país queremos, qué
@@ -676,7 +676,7 @@ libre y muchos casos de éxito.
 >  no meterte ideas de uno u otro bando, si se diera todo con software libre,
 >  yo me quejaria de que no me dan opciones que si hay en el mercado.
 >  Finalmente cuando salga a la calle me voy a encontrar que la universidad se
->  equivoco con lo que me dio, porque no es lo unico que hay.
+>  equivoco con lo que me dio, porque no es lo único que hay.
 
 Las películas donde hay buenos y malos me aburren mucho.
 
@@ -688,7 +688,7 @@ Las películas donde hay buenos y malos me aburren mucho.
 >  profesional, y los profesionales cobramos para poder vivir, y el mercado es
 >  quien nos paga, por lo tanto la Universidad tiene que enseñarte lo que hay
 >  en el mercado. Si vos podes crear tu mercado y vivir gracias a software
->  libre, esta perfecto, me encantaria a mi tambien, pero la universidad no te
+>  libre, esta perfecto, me encantaria a mi también, pero la universidad no te
 >  tiene que obligar a ello.
 
  No estoy diciendo que nos obligue. Estoy diciendo que nos dé las
@@ -725,14 +725,14 @@ Bien, parece que meti la pata, ¡si estos muchachos son re buena gente ! ;-)
  los Consejos de Educacion como el de Neuquen para recuperar la "inversión".
 
  Un último punto que me parece fundamental y olvidé en el mail anterior, es
- que la libertad de uso tambien es una libertad parcial. Sobre todo nosotros,
+ que la libertad de uso también es una libertad parcial. Sobre todo nosotros,
  profesionales del software y la tecnología, necesitamos saber el "cómo" se
  hace. Esa posiblidad no existe con sólo dejarnos usar un programa, sin tener
  a disposición el código.
 
 > Si a vos te capacitan solamente con software libre, de nuevo te meten en
 >  un termo, las licencias educacionales son para que aprendas, no para que
->  despues compres ese producto. Me parece excelente que te den la oportunidad
+>  después compres ese producto. Me parece excelente que te den la oportunidad
 >  de aprender sus herramientas. El software libre se promociona a si mismo
 >  permitiendo que la gente aprenda de forma gratuita, esta dentro de su modelo
 >  de negocio, porque el resto no puede hacer lo mismo?
@@ -744,20 +744,20 @@ Bien, parece que meti la pata, ¡si estos muchachos son re buena gente ! ;-)
  mutua comparten el conocimiento. No todo se trata de un "modelo de negocio".
 
 > Vos has visto lo que sale una licencia? y cuanto te reduce los tiempos de
->  desarrollo y TTM (time to market). Las pequeñas y medianas empresas tambien
+>  desarrollo y TTM (time to market). Las pequeñas y medianas empresas también
 >  utilizan software propietario y de nuevo, tenes que analizar cual es tu
->  mejor opcion. Si crees que el software libre es la mejor opcion para todos
+>  mejor opción. Si crees que el software libre es la mejor opción para todos
 >  los casos estas equivocado
 
  La gran mayoría de las pequeñas y medianas empresas utilizan el software que
  les venden, no el mejor (que es el que mejor satisfaga sus necesidades)
  Porque en toda la sociedad, y el mundo empresarial y la industria no están
  excentos, hay un gran analfabetismo tecnológico, especialmente vinculado al
- area de informática.
+ área de informática.
 
  Nosotros somos muy responsables de cambiar eso.
 
- No sé si el Software Libre es la mejor opcion para todos los casos. Supongo
+ No sé si el Software Libre es la mejor opción para todos los casos. Supongo
  que para las empresas que basan su lucro en vender un contrato de uso no lo
  debe ser.
 
@@ -768,7 +768,7 @@ Bien, parece que meti la pata, ¡si estos muchachos son re buena gente ! ;-)
 > Justamente, vos estas planteando usar siempre software libre, con la cita
 >  que hiciste. Yo planteo conocer los dos lados.
 
-¡Totalmente de acuerdo! El tema es que la gran mayoria de los que llegan a
+¡Totalmente de acuerdo! El tema es que la gran mayoría de los que llegan a
  la universidad, incluyendo muchos profesores, no saben absolutamente nada de
  "uno de los lados". La mayoría llegamos con un conocimiento sesgado al
  software privativo. Para que eso cambie, se tiene que enseñar Software
@@ -778,12 +778,12 @@ Bien, parece que meti la pata, ¡si estos muchachos son re buena gente ! ;-)
 >  y volvernos hijos del software libre? porque? para que? porque suena bonito
 >  software libre?
 
-No se trata de una cuestion cacofónica, aunque, tenés razón, suena bonito.
+No se trata de una cuestión cacofónica, aunque, tenés razón, suena bonito.
 =)
 
 Me referia a la independencia tecnológica.
 
- Imaginate que un dia todo el oxígeno que respiramos pasa a ser de una
+ Imaginate que un día todo el oxígeno que respiramos pasa a ser de una
  empresa. Suena exagerado, pero no lo es tanto che. A un grupito, que encima
  les paga bien, los deja respirar gratis. Pero a todos los demás les exige
  pagar para respirar.
@@ -791,8 +791,8 @@ Me referia a la independencia tecnológica.
  El año siguiente dice que va a comprar una maquina para filtrar el aire, y
  cobra de nuevo. Pero si no lo limpia, cobra igual. 
 
- Exagerado, pero algo así podria pasar con el software. Cada vez más, todo lo
- que usamos lleva software, y vos lo sabés mucho mejor que la mayoria de este
+ Exagerado, pero algo así podría pasar con el software. Cada vez más, todo lo
+ que usamos lleva software, y vos lo sabés mucho mejor que la mayoría de este
  grupo.
 
  Depender tan simbióticamente de tecnologias propietarias es encadenarse. Les
@@ -818,7 +818,7 @@ Me referia a la independencia tecnológica.
  para el beneficiario.
 
  Y el negocio no acaba allí, sino que se abre un abanico de servicios:
- capacitacion, soporte técnico, implementación, administración de sistemas, etc.
+ capacitación, soporte técnico, implementación, administración de sistemas, etc.
 
 > No entendi que tiene que ver que la universidad sea publica y gratuita con
 >  el pago o no del software.
@@ -828,7 +828,7 @@ Me referia a la independencia tecnológica.
  esa forma que "paga" soluciones, mejoras, de la calidad de vida.
 
 > Estas equivocado, el Ingeniero no es idealista. Imaginate que vayas a
->  implementar una solucion a un gobierno y que solo le des herramientas y soft
+>  implementar una solución a un gobierno y que solo le des herramientas y soft
 >  free. Ahora, nunca vas a analizar cuanto saldria utilizar herramietnas
 >  propietarias, no solamente en el costo de compra, sino costo de
 >  mantenimiento, tiempo de uptime, disponibilidad, soporte, etc, eso no es ser
@@ -836,7 +836,7 @@ Me referia a la independencia tecnológica.
 >  dientes.
 
  Que sea un idealista no implica que deba ser un mal profesional. ¿Por qué no
- habré de analizar costos y beneficios? Pero tambien, como profesional
+ habré de analizar costos y beneficios? Pero también, como profesional
  íntegro, analizaria el impacto social y económico, dónde se generan más y
  mejores puestos de trabajo, la dependencia tecnológica, requerimientos de
  equipamiento (hardware), condiciones de lincencia, etc.
@@ -849,13 +849,13 @@ Me referia a la independencia tecnológica.
  buenas ideas? ¿Dónde está la contradicción?
 
  Y sí, siempre me acuerdo que vivo en un mundo capitalista. Es en ese
- contexto que tenemos que pensar nuestra polticia tencológica como pais,
+ contexto que tenemos que pensar nuestra polticia tencológica como país,
  partiendo de la universidad.-
 
 > Si me podes citar la parte dentro del Alcance de la carrera que dice
 >  esto, te creo.
 >
->  Si vos queres promover un movimiento, es TU desicion no de la carrera ni
+>  Si vos querés promover un movimiento, es TU desicion no de la carrera ni
 >  de la Universidad.
 
  Que no lo diga, no quiere decir que no deba estar. Por lo menos, no hay que
@@ -878,11 +878,11 @@ Me referia a la independencia tecnológica.
 ¡Encerrarse en el Software Libre es una paradoja! ¿Cómo te encerrás donde no
 hay paredes?
 
- Hay licencias por sitio y licencias flotantes tambien, que no son para una
+ Hay licencias por sitio y licencias flotantes también, que no son para una
  sola maquina. Inclusive hay licencias por empresa. Yo tengo una licencia
  personal MSDN que me permite bajar todo el soft que quiera de MS y usar todo
- lo que quiera siempre y cuando sea para desarrollo. Ademas esa licencia me
- da acceso directo a soporte tecnico (gente en el telefono) con 0800, salas
+ lo que quiera siempre y cuando sea para desarrollo. Además esa licencia me
+ da acceso directo a soporte tecnico (gente en el teléfono) con 0800, salas
  de chat las 24hs, etc.
 
  ¡Suena buenísimo!  ¿Es [este que vale u$s2299](http://www.amazon.com/Microsoft-Visual-Studio-Professional-Premium/dp/B000WM1Z64/ref=sr_1_4?ie=UTF8&s=software&qid=1225816970&sr=1-4)? 
@@ -908,7 +908,7 @@ hay paredes?
 
 > El mercado, las empresas, el mundo es caotico en el software, he estado en
 >  varias situaciones donde la empresa que te contrataba para hacer el soft te
->  exigia una tecnologia y no podias elegir. Y que le vas a decir? que no?
+>  exigia una tecnología y no podias elegir. Y que le vas a decir? que no?
 >  cuando es una empresa que te va a pagar el sueldo de 30 empleados por un
 >  año?
 
@@ -916,7 +916,7 @@ Esos son condicionamientos que imponen las empresas, muchas veces por
  intereses comerciales elegidos o adquiridos, y muchas otras veces por
  desconocimiento. Hay mucho por hacer.
 
-> Ahora estoy en una empresa grande, y no es como vos decis, en las empresas
+> Ahora estoy en una empresa grande, y no es como vos decís, en las empresas
 >  grandes, tenes de todo, desde Windows en las workstations...
 
 Son interesantes tu preguntas, y aunque a algunas no las entiendo del todo,
@@ -924,11 +924,11 @@ Son interesantes tu preguntas, y aunque a algunas no las entiendo del todo,
  Estabamos discutiendo qué tipo de tecnología se deberia enseñar en la
  universidad, no en las empresas.
 
-> Sinceramente, voy a cortar la discusion aca, porque es la discusion
+> Sinceramente, voy a cortar la discusión acá, porque es la discusión
 >  eterna sin sentido, no entiendo porque la gente quiere tomar partido por una
 >  cosa. Yo no te estoy diciendo que dejes de usar software libre, solamente
 >  que no te encierres y que no quieras encerrar a la facultad. Seras mejor
->  profesional si conoces ambos mundos y justificas tus desiciones
+>  profesional si conoces ambos mundos y justificas tus decisiones
 >  acertadamente.
 
  Si la discusión es larga pero avanzando, entonces es bueno. Lo malo es

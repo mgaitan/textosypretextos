@@ -109,7 +109,7 @@ body = "hola"
 
 ### UNO
 <span id="1"></span>
--- No te puedo creer que tengas esa edad -- le dice el tipo barbudo a Jazmín, una de las chicas que atiende en este 24hs que desde hace algunas semanas es mi sala de estudios. Ella sonrie, siguiendo el juego, y le dice que sí, que tiene 18, y que no es verdad que se tiñe el pelo.
+-- No te puedo creer que tengas esa edad -- le dice el tipo barbudo a Jazmín, una de las chicas que atiende en este 24hs que desde hace algunas semanas es mi sala de estudios. Ella sonríe, siguiendo el juego, y le dice que sí, que tiene 18, y que no es verdad que se tiñe el pelo.
 
 -- Mínimo 25, decime la verdad -- continúa suspicaz el barbudo, mientras abre con inevitable gran despliegue el suplemento cultural de La Voz del Interior. El televisor está encendido en un canal de videoclips latinos, y justo en ese instante aparece en pantalla Cristian Castro y sus alaridos.
 

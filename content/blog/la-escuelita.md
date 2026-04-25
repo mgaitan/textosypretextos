@@ -54,6 +54,6 @@ si es la humanidad la que se encoge de hombros.
 
 **Mario Benedetti***</div>
 
-Paola tiene ocho años y trae de la mano a su hermanito de cinco. Lionel viene atras de ellos, se limpia un moco con su remera y me extiende los brazos para entregarme un beso. Natalia tiene siete, y mientras se abraza a mí como una garrapata, me pregunta si trajimos los colores y si hay facturas hoy. Ricardo, de 12, me muestra su nueva adquisición: una gomera con doble elástico. Por todos lados hay niñas y niños. 
+Paola tiene ocho años y trae de la mano a su hermanito de cinco. Lionel viene atrás de ellos, se limpia un moco con su remera y me extiende los brazos para entregarme un beso. Natalia tiene siete, y mientras se abraza a mí como una garrapata, me pregunta si trajimos los colores y si hay facturas hoy. Ricardo, de 12, me muestra su nueva adquisición: una gomera con doble elástico. Por todos lados hay niñas y niños. 
 
 La villa Campos de la Ribera queda

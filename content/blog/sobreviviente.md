@@ -80,7 +80,7 @@ El tiempo pasaba y mi mano (autarquicamente) seguía haciendo dibujitos en el ma
 
 En el pizarrón de dos paños que se deslizan verticalmente (que cheto)  había un cartel: *"Teoría de Redes, 13hs"*.  El mismo cartel seguía ahí a las 14, y los profesores nunca llegaron. Cuando el primer valiente se animó a emprender la retirada yo lo secundé, como su fiel     Sancho Panza.  Sospecho que el faltazo de la cátedra tiene una explicación: no querían hacerme sentir tan distinto a la Universidad del Comahue, no fuera yo a pensar que la cosa iba mejor acá. 
 
-Casi contento, emprendí rumbo a una siestita que me predispusiera bien para volver a las 5:15hs, cuando creía que empezaba Economía.  Asi es que llegué, rozando la (im)puntualidad, para verme sorprendido que el aula ya estaba llena, todos copiaban atentos y habia un tipo al frente dictando cosas raras. Encontré un hueco y me senté, pero fué en vano, no pude pasar desapercibido. 
+Casi contento, emprendí rumbo a una siestita que me predispusiera bien para volver a las 5:15hs, cuando creía que empezaba Economía.  Así es que llegué, rozando la (im)puntualidad, para verme sorprendido que el aula ya estaba llena, todos copiaban atentos y había un tipo al frente dictando cosas raras. Encontré un hueco y me senté, pero fue en vano, no pude pasar desapercibido. 
 
 - *Disculpe, esta clase ya está terminando* - me avisó el profesor, justo cuando leía en el apunte del que estaba al lado mio  "Materia: Hormigón II". 
 
@@ -88,7 +88,7 @@ Casi contento, emprendí rumbo a una siestita que me predispusiera bien para vol
 
 Las ventajas de ser negro como yo son varias, y este es un claro ejemplo: casi ni se notó la vergüenza con la que me levanté y salí del aula, no sin antes tropezarme. 
 
-Mis comienzos de clases siempre son accidentados. El primer dia de secundario, en la primer hora de la primer materia (Dibujo Técnico era),  el profesor llamó a uno mediante el famoso método de la dedocracia,  y obviamente fuí yo el señalado. 
+Mis comienzos de clases siempre son accidentados. El primer día de secundario, en la primer hora de la primer materia (Dibujo Técnico era),  el profesor llamó a uno mediante el famoso método de la dedocracia,  y obviamente fui yo el señalado. 
 
 * -- A ver, ¿señor Gaitán cierto?...bueno, a ver.... ¿Está nervioso señor Gaitán? ¿Sólo un poco? Bueno, tranquilicesé.  Lo que quiero es que dibuje un punto. Sí, un punto, en el pizarrón. Ajá, está bien, pero hágalo más grande.  Si,  ¿puede hacerlo más grande?. Más, señor Gaitán, más grande. Ahora todo lo grande que pueda ¿A ver? *
 
@@ -100,6 +100,6 @@ La sanata introductoria habitual tuvo el toque de color cuando el Ingeniero (con
 
 -- *Quedaría mal si les exijo este libro simplemente porque lo escribí yo* -- se atajó, pero sin poder contenerse opinó -- *pero el que lo tenga sabrá que le puede servir mucho, porque está todo lo que vemos en la materia*.  Y por supuesto, resulta que la clase se dicta copiándo todo de su libro. 
 
-Cansado por la falta de costumbre (que nunca tuve, no crean)  terminé mi primer día académico bastante tarde. Volví entonces a mi hogar, sobreviviente de un nuevo primer dia.
+Cansado por la falta de costumbre (que nunca tuve, no crean)  terminé mi primer día académico bastante tarde. Volví entonces a mi hogar, sobreviviente de un nuevo primer día.
 
 <span id="comments"></span>

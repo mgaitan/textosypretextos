@@ -1,0 +1,10 @@
+repos:
+  - repo: local
+    hooks:
+      - id: spell-check-es
+        name: Spell-check ES (hunspell)
+        description: Revisa ortografía castellana en content/**/*.md.
+        entry: uv run scripts/check_spelling.py
+        language: system
+        files: ^content/.*\.md$
+        require_serial: true

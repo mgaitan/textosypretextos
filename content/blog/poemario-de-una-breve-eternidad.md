@@ -34,11 +34,11 @@ tag_links = []
 comments = []
 +++
 
-<div class="poetry">Busco tu voz, tu hola, tu estás ahi,<br>
+<div class="poetry">Busco tu voz, tu hola, tu estás ahí,<br>
 una seña, un estoy bien<br>
 un seremos fuertes,<br>
     siéndolo.<br>
-Quiero que llegue, minutos dias siglos<br>
+Quiero que llegue, minutos días siglos<br>
 el momento de extenderte mis brazos<br>
 mis almitas en ellos<br>
 y que dejes caer tu piel<br>
@@ -136,6 +136,6 @@ Por embellercerte a mi lado<br>
 y hacerme más bello<br>
 como dijo Juan el poeta<br>
 es que quiero con vos<br>
-como el primer dia, compañera<br>
+como el primer día, compañera<br>
   o más<br>
 mi lugar en la tierra</div>

@@ -94,7 +94,7 @@ title = ""
 body = "Ma si yo lo pongo acá, la verdad es que entre a laburar a eso de las 8 y pico de la mañana y revolviendo diarios me parecio verte en el 8300, bueno si colgado, desubicado, desinformado, perdido o lo que quieras pero no lo sabía es mas debo decir que casi nada sabía pero no importa, igual son  mas de las 11  y todavía no puedo salir de la pag. revoviendo relatos, historias, anecdotas, ocurrencias etc. yo no sé si es que la cosa está buena o porque te conozco me parece excelente eso de los juicios es una mierda que se yo a mi me gusta y punto. no me gusta solo la de este comentario me gustó toda la pagina, supongo que con el tiempo te podre decir mas objetivamente esta nota me pareció una mierda esta no me gusto tanto como aquella, que se yo, la verdad es que hoy solo puedo decir que me toco en la emoción leerte saber que en algún lado estasa y que en distinto nivel de realización, seguis siendo el mismo. Te mando un abrazo y mis mas sinceros deceos de exitos permanentes en el balance de la vida."
 +++
 
-Hubo un dia que fue comun a todos, pero muy especial para Juan González, el contador. Fue el dia que le llegó por correo la caja que cambiaría su vida. 
+Hubo un día que fue comun a todos, pero muy especial para Juan González, el contador. Fue el día que le llegó por correo la caja que cambiaría su vida. 
 Dos semanas antes, en su oficina donde todo goza de aburrida perfección, recibió un llamado.
 
 -- Contador, llaman de una empresa de electrodomésticos y sólo desean hablar con usted.-- avisó por el interno la secretaria, fingiendo ese respecto que no le tenía. 
@@ -107,7 +107,7 @@ Dos semanas antes, en su oficina donde todo goza de aburrida perfección, recibi
 
 El entrenado televendedor logró convencerlo y González aceptó probar durante algunas semanas el casco (o algo así) que, según prometían, cambiaría su vida. 
 
-Aquel dia, uno más tarde de la fecha esperada, la caja con el Telendro estaba en sus manos. Presuroso la abrio y no pudo contener su genio: lo primero que hizo, incluso antes que mirar el aparato, fue leer el manual. 
+Aquel día, uno más tarde de la fecha esperada, la caja con el Telendro estaba en sus manos. Presuroso la abrio y no pudo contener su genio: lo primero que hizo, incluso antes que mirar el aparato, fue leer el manual. 
 
 La forma de uso parecía sencilla, sólo debía colocar el casco sobre la cabeza mojada. González se detuvo en el apartado del manual que explicaba, no con demasiada precisión, cómo funcionaba el Telendro. Decía que una fina capa de Luniendro, un material sintetizado con minerales de la superficie lunar, reaccionaba químicamente con el cuero cabelludo y producía la estimulación del hemisferio menos desarrollado del cerebro. 
 

@@ -98,7 +98,7 @@ body = "Pero que chico que es el mundo!! serás de casualidad el martín gaitán
 
 Era un goce extraño para mi,  un premio especial y efímero, tomar alguna calle neuquina en bajada a la velocidad que conducía mi mamá y con alguna maniobra audaz de por medio. Una sensación en el pecho que me asustaba un poquito, pero que era a la vez muy placentera. 
 
-Duraba sólo un instante  porque en general ibamos rápido y las pendientes neuquinas, al menos las interesantes, son cortas. Tal fugacidad me motivó a desarrollar una técnica para extender la duración del placer, que básicamente consistía en cerrar los ojos, contener la respiración y quedarme lo más quietito que pudiera hasta que ya no aguantáse más, o hasta que el rojo de un semáforo nos detuviera. 
+Duraba sólo un instante  porque en general íbamos rápido y las pendientes neuquinas, al menos las interesantes, son cortas. Tal fugacidad me motivó a desarrollar una técnica para extender la duración del placer, que básicamente consistía en cerrar los ojos, contener la respiración y quedarme lo más quietito que pudiera hasta que ya no aguantáse más, o hasta que el rojo de un semáforo nos detuviera. 
 
 Una versión libre de mi técnica infantil estoy intentando en este momento. Me corre adrenalina por las venas, y no quiero que se vaya más. 
 
@@ -118,7 +118,7 @@ _ *Falta y Resto*
 <div class="poetry">Florecen en el viento fresco de primavera<br>
 Anidan en los montes a orillas del amor<br>
 Son gotas de rocío que empapan la esperanza<br>
-Son luz de un arcoiris de infinito color<br>
+Son luz de un arcoíris de infinito color<br>
 <br>
 Viven en la memoria de todas las esquinas<br>
 Rugen entre las olas tormentosas del sur<br>

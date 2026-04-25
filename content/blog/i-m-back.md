@@ -56,7 +56,7 @@ Con ese espíritu choco, una y otra vez, con un sistema universitario que camina
 
 Y hay algo importante, que a veces me cuesta ver: a los sistemas los forman personas, seres humanos. Con los seres humanos, en general, me llevo bien. Todo se trata, entonces, de cuanto aumento tengan los anteojos que me pongo.  
  
-A esas personas, a esos seres humanos que siendo así de bicho raro igual me quieren y me consideran un par, les escribi este email. 
+A esas personas, a esos seres humanos que siendo así de bicho raro igual me quieren y me consideran un par, les escribí este email. 
 
 ### Querida gente:
 

@@ -52,7 +52,7 @@ y estirar la sábana sobre el colchón<br>
 puedo combatir la ingravidez de mi pelo<br>
 dejar el baño como un sahara<br>
 regar y no regar según corresponda<br>
-y hacer la abodominal dia por medio<br>
+y hacer la abodominal día por medio<br>
 <br>
 puedo aprender a lavar mi cara<br>
 a escuchar más música y menos noticias<br>
@@ -61,9 +61,9 @@ y terminar los libros que te empiezo a leer<br>
 puedo dormir en horario occidental<br>
 hacer el amor hasta que el amor nos haga<br>
 comer la ensalada también cuando no estás<br>
-y no olvidarme de los dias siete<br>
+y no olvidarme de los días siete<br>
 <br>
 pero sé que no son estas las razones<br>
-porque no queres enamorarte de otro</div>
+porque no querés enamorarte de otro</div>
 
 <span id="comments"></span>

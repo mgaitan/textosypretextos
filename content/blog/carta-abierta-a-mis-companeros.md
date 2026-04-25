@@ -208,7 +208,7 @@ body = "Sabes porque todos critican de afuera? porque si vas al stand de mierda 
 
 Franja Morada, retorciéndose como una lombriz bisecada que se resiste a morir, se presenta una vez más a elecciones. Y es de la única manera que saben: con mentiras y aparateo.
 
-Otra opción, aún menos tentadora, es el *Frente de Estudiantes de Ciencias Exáctas, Físicas y Naturales (FRECEFyN)*. La receta es fácil: conseguir un grupito de pibes que den bien con el perfil de "ingenieros", un par de chicas lindas que repartan cualquier cosa que se sospeche útil para un estudiante de ingenieria (una tabla de derivadas, por ejemplo), conseguir que algún papi que trabaje de Repsol o Microsoft dé una charla sobre "Los ingenieros que las Empresas de Hoy necesitan" (sic) y poner unos cuantos billetes más para gastos extras. Así pretende el Menemismo (si, aún existe) ganar las elecciones estudiantiles en mi facultad.
+Otra opción, aún menos tentadora, es el *Frente de Estudiantes de Ciencias Exactas, Físicas y Naturales (FRECEFyN)*. La receta es fácil: conseguir un grupito de pibes que den bien con el perfil de "ingenieros", un par de chicas lindas que repartan cualquier cosa que se sospeche útil para un estudiante de ingeniería (una tabla de derivadas, por ejemplo), conseguir que algún papi que trabaje de Repsol o Microsoft dé una charla sobre "Los ingenieros que las Empresas de Hoy necesitan" (sic) y poner unos cuantos billetes más para gastos extras. Así pretende el Menemismo (si, aún existe) ganar las elecciones estudiantiles en mi facultad.
 
 A decir verdad, el Centro de Estudiantes poco les importa. El interés real es sumar votos del claustro estudiantil para el Consejo Superior, ya que pronto hay elección de Rector y la derecha tiene sus intereses puestos ahí, en el Pabellón Argentina.
 
@@ -232,11 +232,11 @@ Sé que tiene matices e ironías muy autóctonas del universo universitario, per
 
 Difícil es que no sepan que el próximo jueves hay elecciones en la facu. Para pesar de algunos que gustan de las paredes mudas, la facu está empapelada con afiches de las distintas agrupaciones.
 
-Les escribo ante todo para invitarlos a votar: es muy pero muy importante que participe la mayor cantidad de gente posible para que los resultados sean representativos y no perdamos la oportunidad de fortalecer así nuestro órgano gremial. El Centro de Estudiantes y los Consejeros deben responder siempre a lo que quiera la mayoría, pero para eso la mayoria debe participar, opinar, construir y aportar todos los granitos que la componen. Hoy el aporte, nada menor por cierto, es votar.
+Les escribo ante todo para invitarlos a votar: es muy pero muy importante que participe la mayor cantidad de gente posible para que los resultados sean representativos y no perdamos la oportunidad de fortalecer así nuestro órgano gremial. El Centro de Estudiantes y los Consejeros deben responder siempre a lo que quiera la mayoría, pero para eso la mayoría debe participar, opinar, construir y aportar todos los granitos que la componen. Hoy el aporte, nada menor por cierto, es votar.
 
 El segundo motivo es invitarlos a meditar su voto y compartir, de paso, mi opinión personal.
 
-Parece que esta vez hay más interés que otros años de parte de algunas agrupaciones en las elecciones. Una que tiene "kioskito de Milka" en la facu, como todos los años sólo aparece la semana previa a las elecciones, hace una fiesta en un boliche cheto, dice un par de mentiras (negando, por ejemplo, el esfuerzo que han hecho muchos de mis compañeros de Ingeniería en Computacion para que el LInCE reabriera) y recicla alguna "propuesta parrillera" bastante repetida como hace La Voz del Interior con el horóscopo.
+Parece que esta vez hay más interés que otros años de parte de algunas agrupaciones en las elecciones. Una que tiene "kioskito de Milka" en la facu, como todos los años sólo aparece la semana previa a las elecciones, hace una fiesta en un boliche cheto, dice un par de mentiras (negando, por ejemplo, el esfuerzo que han hecho muchos de mis compañeros de Ingeniería en Computación para que el LInCE reabriera) y recicla alguna "propuesta parrillera" bastante repetida como hace La Voz del Interior con el horóscopo.
 
 La otra, la pícara del "69", hay que reconocer que ha estado bastante presente. La cuestión es cómo. Para mi, para la universidad que yo quiero, me sirve de muy poco una calco verde y una tabla de integrales fotocopiada. Menos me sirve una camiseta "oficial" de argentina. El cholulaje, el pan y el circo, no me representa.
 

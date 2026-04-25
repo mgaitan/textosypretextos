@@ -76,7 +76,7 @@ body = "Precioso, conciso y somero; me recuerda a la Zenaida (cuatrocientos kil�
 de ciudad me cachetea. Miro hacia el sur, calle abajo, estirando el
 cuello todo lo que puedo, anhelando que la física no exista para que
 estos trescientos metros que nos separan se hagan un centímetro, donde
-el mundo es mucho más lindo, para poder verte sonreir y abrazarnos un
+el mundo es mucho más lindo, para poder verte sonreír y abrazarnos un
 instante eterno.
 
 Voy por la calle, ojos tras lentes oscuros sobre zurcos salados,
@@ -125,7 +125,7 @@ Pienso entonces en tu familia. En tus viejos, en tus abuelos. Cuánto
 los quiero, cuánto los admiro. Me pregunto si estarán ya en Ushuaia,
 esperándote con un abrazo y un matecocido con pan de madre en la
 montaña. O estarán aún viajando, rodando ruta tres, masticando
-sorpresa, quizas, sintiendo que les raspa la noticia en el asfalto.
+sorpresa, quizás, sintiendo que les raspa la noticia en el asfalto.
 Pero siempre pensando en vos, anhelando que se convierta en plenitud
 la libertad que te enseñaron a amar, a construir y cuidar. Quisiera
 hablarles, decirles que me lamento no haberles dicho de otra manera
@@ -135,7 +135,7 @@ familia, y darles las gracias por vos.
 Boca campeón, alegría a destiempo, bocinas de azul y oro que yo no
 alcanzo a sentir ni disfrutar, aunque imagino los ecos del pueblo
 contento y me hace bien a la distancia. Mi vieja me cuenta -- "tres a
-cero"-- y me muestra fotos embanderada de bostera. Me hace reir. Quise
+cero"-- y me muestra fotos embanderada de bostera. Me hace reír. Quise
 contarte del finde pasado, de ir a la cancha, de ver a la gente saltar
 y abrazar a sus hijos en la tribuna, de tener ganas de que estuvieras
 allí, para darte un beso y que te sintieras feliz aunque no supieras

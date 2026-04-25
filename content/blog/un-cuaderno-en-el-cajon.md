@@ -84,14 +84,14 @@ es muy mona y se hace peinados que nadie se sabe hacer.
 Un niño llamado Ramón era tan curioso que se metió adentro de la casa
 de ella y encontró un peine con un polvo raro. Se lo pasó por el pelo
 y le creció un jopo grande, y una colita con un chuflin y se asustó y
-no sabia que hacer. Entonces se lo pasó de nuevo y le crecieron muchos
+no sabía que hacer. Entonces se lo pasó de nuevo y le crecieron muchos
 rulos. Se lo pasó por tercera vez y entonces el pelo se le volvió a la
 normalidad. Ramón miró hacia ambos lados y se metió el peine en el
 bolsillo.
 
 El padre de Ramón era científico y lo examinó. Le sacó todo el polvo e
 inventó un líquido con muchas cosas y el polvo, y le dijo a Ramón:
-"andá a reunir a todo el barrio y les decis que la bruja tiene que
+"andá a reunir a todo el barrio y les decís que la bruja tiene que
 pagar por todo lo que hizo con su peine mágico". Entonces Ramón reunió
 a todo el barrio y les contó lo que le había dicho el padre y entonces
 la gente empezó a reunirse en la calle y cantaban todos a la vez:
@@ -103,7 +103,7 @@ mala". Al rato salió la señora y dijo
 
 Entonces Ramón se subió a una piedra y dijo
 
--- Yo fuí, bruja mala 
+-- Yo fui, bruja mala 
 
 -- Y por qué lo hiciste ? 
 
@@ -141,7 +141,7 @@ mi papá dice que hay que hacer algo con Neuquén.
 
 Lengua
 
-Escriba sobre el "Dia de la primavera"
+Escriba sobre el "Día de la primavera"
 
 Llegó septiembre y la primavera está que explota.
 Crecen las flores y el sol se agiganta pero sobre todo yo me siento
@@ -185,7 +185,7 @@ Serafin se fue a su cuarto llorando sin sentido porque una pelota no
 está mal. A la media hora abrió la puerta y djo "mamá, acepto la
 pelota".
 
-El dia del cumpleaños Serafín estaba triste porque tenia todo menos
+El día del cumpleaños Serafín estaba triste porque tenia todo menos
 amigos y cuando llegó el momento de regalarle la pelota dijo "hola
 nueva amiga". Serafín le puso el nombre "Cloti" y con Cloti y con ella
 jugaba, saltaba y hasta la abrazaba. Cloti fue una pelota histórica.

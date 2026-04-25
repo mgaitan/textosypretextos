@@ -48,7 +48,7 @@ esta zamba llegar a usted,<br>
 bajo los luceros va por la noche<br>
 buscando el pueblito donde la dejé<br>
 <br>
-Por oir<br>
+Por oír<br>
 otra vez<br>
 la tonadita de su voz,<br>
 niña de los ojos color de olivo<br>

@@ -143,7 +143,7 @@ Miré hacia adentro de la tienda de deportes, como buscando ayuda con los ojos. 
 
 El tipo empezó a caminar rápido y a la pasada le dijo algo al que vendía fundas para celular a 5 pesos. Rió de nuevo y me miró, hacia atrás, porque ya me había sacado dos pasos de distancia. La incertidumbre me invadió: ¿por qué estaba siguiendo a ese tipo?
 
--- *Las nike total 90 son buenísimas loco. Encima te hago un 40% de descuento. Estan como a 180 en vidriera, pero para vos te las dejo a 110. Bueno, a 100 te las puedo dejar. Esas zapas tienen tres funciones, las podés usar para fulbol cinco, para fulbol once y como zapatillas comunes. Son espetaculares. Ahí en la galería, dónde está el cartel, ahí es el local.*
+-- *Las nike total 90 son buenísimas loco. Encima te hago un 40% de descuento. Están como a 180 en vidriera, pero para vos te las dejo a 110. Bueno, a 100 te las puedo dejar. Esas zapas tienen tres funciones, las podés usar para fulbol cinco, para fulbol once y como zapatillas comunes. Son espetaculares. Ahí en la galería, dónde está el cartel, ahí es el local.*
 
 Cuando cruzamos la calle Cólon todo cambió: los peatones, las vidrieras, el color de la vereda. Hasta se hizo de noche. El vendedor seguía caminando y yo detrás de él.
 
@@ -154,10 +154,10 @@ A medida que avanzabamos la galería se curvaba, y pronto la entrada se dejó de
 -- *Cuidado con la cabeza* -- me dijo el vendedor mientras hacia un gesto con su brazo, cediendome el paso y señalando que me agachara. Pude haber corrido, pero sin botines . Ya estaba jugado.
 Una mujer desde la caja, un tipo gordo poniendo cordones desde atrás de un mostrador, y una chica que le mostraba unas rebooks a un flaco peinado con mucho gel nos miraron cuando entramos. El lugar era muy chico, y había zapatillas sueltas por todos lados, sin clasificación ni cajas a la vista.
 
-El vendedor me invitó a sentarme y manoteó un botín del par gris que estaba sobre una mesita de vidrio. Antes de que alcance a soltarlo en mis manos, la chica que atendía al flaco le advirtió que ese par ya estaba vendido, o algo asi.
+El vendedor me invitó a sentarme y manoteó un botín del par gris que estaba sobre una mesita de vidrio. Antes de que alcance a soltarlo en mis manos, la chica que atendía al flaco le advirtió que ese par ya estaba vendido, o algo así.
 
 -- *Bueno, pero estos son, ¿ves? Los nike total 90. Te consigo tu número, ¿querés?*
--- *Bueno, 41 calzo. ¿Tenés algun otro modelo?*
+-- *Bueno, 41 calzo. ¿Tenés algún otro modelo?*
 -- *Si, ahora te busco, pero son buenísimos ¿viste? Estos cumplen tres funciones. Los podes usar para fulbol 5, para fulbol 11 o como zapatillas...¿y de ropa cómo andas?¿No querés probarte un pantalón? Rosi, me alcanzás un pantalón...*
 -- *No gracias, está bien* -- alcancé a interrumpir - *sólo mostrame otros botines.*
 

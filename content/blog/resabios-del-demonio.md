@@ -131,7 +131,7 @@ Dentro de algunas horas, uno de los más sanguinarios genocidas de la historia a
 
 En el medio de ese maremagnum de opiniones ideológicas disfrazadas de noticias del "<a href="http://mundo-perverso.blogspot.com/2008/07/anlisis-de-los-medios.html?KeepThis=true&TB_iframe=true&height=400&width=600" class="thickbox">periodismo independiente</a>", en la lista de ingeniería en computación (el grupo de correo del que participamos estudiantes y profesores de mi carrera, y del que alguna vez les <a href="http://www.grulic.org.ar/lurker/message/20070505.110928.e78debd0.es.html" class="thickbox">he contado</a>) se instaló, con razonablemente polarizadas opiniones, la discusión sobre el conflicto de las retenciones y su desenlace "no positivo" desde el corazón de Cobos.  
 
-Con mucha dedicación para aportar al debate, un compañero (querido compañero, aclaro) dió su opinión, repitiendo en su argumento la muletilla que el aparato mediático ha logrado instalar: que este es un gobierno dictatorial. 
+Con mucha dedicación para aportar al debate, un compañero (querido compañero, aclaro) dio su opinión, repitiendo en su argumento la muletilla que el aparato mediático ha logrado instalar: que este es un gobierno dictatorial. 
 
 > ¿Por qué me pareció bien (...el voto de Cobos)? Más allá del tema del campo,
 > esta votación era por un SI o NO, no se estaba buscando resolver
@@ -141,7 +141,7 @@ Con mucha dedicación para aportar al debate, un compañero (querido compañero,
 Me sentí en la obligación de responder. 
 
 <div id="mascita1" style="display:none;">
-<blockquote>Con respecto al revés sobre la ley de retenciones, por supuesto que lo lamento. Además del fortalecimiento de la más recalcitrante clase politica que tanto mal le hizo a nuestro pais (Duhaldes, Menems, and so on) y cachivaches oportunistas (leáse Elisa Carrió, y sectores de la izquierda veleta), creo que es un gol del neoliberalismo: el no a las retenciones ha sido el NO a la intervención del estado en la economía, precepto fundacional del neoliberalismo que deja este pais (y todos) con ricos cada vez ricos y pobres cada vez más pobres.
+<blockquote>Con respecto al revés sobre la ley de retenciones, por supuesto que lo lamento. Además del fortalecimiento de la más recalcitrante clase política que tanto mal le hizo a nuestro país (Duhaldes, Menems, and so on) y cachivaches oportunistas (leáse Elisa Carrió, y sectores de la izquierda veleta), creo que es un gol del neoliberalismo: el no a las retenciones ha sido el NO a la intervención del estado en la economía, precepto fundacional del neoliberalismo que deja este país (y todos) con ricos cada vez ricos y pobres cada vez más pobres.
 
 ¿Con que fuerza avanzaremos ahora para recuperar el petroleo? ¿Y los medios de comunicacion en manos monopolicas? 
 
@@ -154,7 +154,7 @@ Martin .</blockquote> </div>
 
 > ...No puedo negar (...) que me preocupa sobremanera las graves acusaciones que se hacen y se reproducen, muchas veces sin suficiente reflexión, por bastos sectores del pueblo. Es el mensaje que constantemente se baja desde los medios masivos de comunicación, esos patéticos formadores de opinión que se autodefinen como 'periodismo independiente'. El mensaje al que me refiero es que "este es un gobierno dictatorial".
 >
-> ¿Sabemos realmente que decimos cuando decimos eso? ¿Tan poca memoria tenemos como pueblo, con más de 30mil desaparecidos y los responsables recien siendo juzgados ahora? Podemos, acordar o no en las políticas que este gobierno impulse, pero debemos ser respetuosos (y defensores) de nuestro sistema democrático.
+> ¿Sabemos realmente que decimos cuando decimos eso? ¿Tan poca memoria tenemos como pueblo, con más de 30mil desaparecidos y los responsables recién siendo juzgados ahora? Podemos, acordar o no en las políticas que este gobierno impulse, pero debemos ser respetuosos (y defensores) de nuestro sistema democrático.
 >
 > La paradoja de esta historia es que son los mismos sectores, oligarcas y grupos economicos que apoyaron activamente la dictadura porque servía a sus intereses, quienes ahora acusan a este gobierno de dictatorial.
 >
@@ -198,7 +198,7 @@ está lejos de ser sólo el kirchnerismo."</blockquote>
 </div>
 
 <div id="mascita3"  style="display:none;">
-Eso que decis es lo que se conoce como "Teoría de los dos demonios",
+Eso que decís es lo que se conoce como "Teoría de los dos demonios",
 que institucionalizó Ernesto Sábato en la primera versión del Nunca
 Más.
 
@@ -240,7 +240,7 @@ Me dejó pensando Luis. No porque su remozada teoría del "demonio y medio" me h
 
 Pensé también sobre qué importancia tiene invertir tiempo en responder. Concluí que mucha. Son los silencios los que convierten mentiras en verdades.  Y  más relevante se hace en un ámbito dónde los cerebros acostumbran a resolver algoritmos y a hablar de velocidades de microprocesadores más que a discutir de la política o de historia, que tanto más nos condicionan como individuos y futuros profesionales.
 
-Con la ayuda de mi amigo Pablo, que me ordenó las ideas y me dió algunos elementos, contesté lo siguiente. 
+Con la ayuda de mi amigo Pablo, que me ordenó las ideas y me dio algunos elementos, contesté lo siguiente. 
 
 ### Refutando los dos demonios
 
@@ -248,13 +248,13 @@ Con la ayuda de mi amigo Pablo, que me ordenó las ideas y me dió algunos eleme
 >
 > No sé si quiero ser imparcial. Sí quiero ser justo. Comparto
 > plenamente tu postura en cuanto a lo mal que está y lo inútil que es
-> cualquier tipo de violencia. En ese sentido, desapruebo "la via
+> cualquier tipo de violencia. En ese sentido, desapruebo "la vía
 > armada" como instrumento de lucha para mejorar la sociedad, y por lo
 > tanto creo que poner bombas está mal.
 >
 > Pero resulta que tu pregunta  *"asesinar 30 mil personas está mal, pero
 > poner una bomba está bien?"* es capciosa, porque reduce a una antinomia
-> moral  los hechos históricos (es decir politicos, económicos y
+> moral  los hechos históricos (es decir políticos, económicos y
 > sociales de ese momento) y puede ser utilizada como una justificación del  terrorismo, de estado, que es a todas voces falaz pero resulta efectiva si se la repite hasta el hartazgo, como bien enseño [Goebbels](http://es.wikipedia.org/wiki/Joseph_Goebbels).
 >
 > Nadie dice (al menos yo no lo digo) que quienes cometieron actos
@@ -278,7 +278,7 @@ Con la ayuda de mi amigo Pablo, que me ordenó las ideas y me dió algunos eleme
 > que es el Estado, cuyo fin primario es  salvaguardar la paz social y
 > el bienestar del pueblo.
 >
-> Por eso te pregunto Cuando decis «*no los victimicemos*» ¿qué queres decir? ¿que se lo
+> Por eso te pregunto Cuando decís «*no los victimicemos*» ¿qué querés decir? ¿que se lo
 > buscaron? ¿Que era necesaria la aniquilación de 30 mil
 > personas, hayan puesto o no bombas? Pues ese argumento es algo
 > maquiavelico, porque justifica medio ilegales (y vaya si lo fueron)

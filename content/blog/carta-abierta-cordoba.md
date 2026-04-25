@@ -42,7 +42,7 @@ tag_links = [
 comments = []
 +++
 
-El pasado martes, un dia antes de la [ignominia](http://argentina.indymedia.org/news/2008/07/617986.php) del gobierno de Schiaretti, se realizó el acto fundacional del espacio [Carta Abierta Córdoba](http://cartaabiertacordoba.blogspot.com/). 
+El pasado martes, un día antes de la [ignominia](http://argentina.indymedia.org/news/2008/07/617986.php) del gobierno de Schiaretti, se realizó el acto fundacional del espacio [Carta Abierta Córdoba](http://cartaabiertacordoba.blogspot.com/). 
 
 Aunque no pude participar del encuentro, consideroésta una iniciativa enriquecedora para la organización popular, en la medida que pueda articular acciones más allá de lo discursivo. 
 

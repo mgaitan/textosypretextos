@@ -261,7 +261,7 @@ title = "Los dientes del poder"
 body = "Hace tiempo que no entraba por tu página amigo, pero me reconforta mucho ver que alguien como \"pedos de colores\" ponga en orden - necesario claro - un comentario como el nº 19, de \"alguien muerto\"... y la verdad que sí, ya desde un punto de vista lógico si alguien está muerto difícilmente podrá matar a otra persona (como es su deseo), así que desde su contradictorio seudónimo esta persona se cavó la fosa en la argumentación de su comentario, lo demás ya no vale la pena leerlo, puesto que proviene de un ser que no existe... abrazo, GNL..."
 +++
 
-El guardia de la libreria refunfuña y no puede ocultar su cara de preocupación. Estará preguntandose por qué mierda no habrá aceptado aquel trabajo en el country, donde estas cosas seguro no pasaban nunca. Qué negros de mierda, pensará.
+El guardia de la librería refunfuña y no puede ocultar su cara de preocupación. Estará preguntandose por qué mierda no habrá aceptado aquel trabajo en el country, donde estas cosas seguro no pasaban nunca. Qué negros de mierda, pensará.
 
 -- *Vamos caballero, que debemos cerrar las instalaciones* -- apremia el guardia, con nerviosa cordialidad, al viejito que con esfuerzo sale por la diminuta puerta abierta al pie del enrejado. 
 
@@ -275,7 +275,7 @@ Pero qué suerte la mía: en media hora tengo que encontrarme con alguien justo 
 
 Hay imágenes del noticiero en la pantalla y todos se agolpan sobre las ventanas del café que, por supuesto, ya cerró. La conjugación en tiempo condicional del titular no esclarece nada: estarían, habrían, llegarían. La noticia es el rumor mismo, y no la verdad que lo apacigüe. 
 
-Un niño en bicicleta se para delante de todos los que aguardan, desesperados, el transporte que nunca llega. El niño sonrie con gozo, como saboreando el poder de la información. 
+Un niño en bicicleta se para delante de todos los que aguardan, desesperados, el transporte que nunca llega. El niño sonríe con gozo, como saboreando el poder de la información. 
 
 -- *Allá dicen que son más de 100 y vienen quemando los autos* -- vaticina impertérrito, y calza el pie derecho en pedal. En contramano, cruza la calle Velez Sarfield desierta de automóviles como pocos domingos, y se acerca a otra muchedumbre para repetir su misión. 
 
@@ -285,9 +285,9 @@ No puedo evitar mi perplejidad. La situación me causa gracia, rabia, absoluta i
 
 Reacciono. Me doy cuenta que ese momento no hay ironía que descomprima el pavor, y no hay razones que la entiendan. Siento que soy capaz de comprender ahí, en esa esquina que es la misma donde cayó muerto Santiago Pampillón, lo que sintió Orson Welles cuando inventó aquello de la invasión alienígena y el chiste se le fue de las manos. 
 
-Debe ser verdad que ante la sensación de peligro, prima el instinto por sobre la razón. Y el instinto generalizado parece que es seguir a la manada, que evidentemente no tiene la más puta idea lo que debe hacer. Nadie se lo indica, tampoco. No hay patrulleros, no hay policias, no hay noticias, no hay nada. Sólo miedo. Una fulminante pandemia de miedo. 
+Debe ser verdad que ante la sensación de peligro, prima el instinto por sobre la razón. Y el instinto generalizado parece que es seguir a la manada, que evidentemente no tiene la más puta idea lo que debe hacer. Nadie se lo indica, tampoco. No hay patrulleros, no hay policías, no hay noticias, no hay nada. Sólo miedo. Una fulminante pandemia de miedo. 
 
-Lo mio tambien es un instinto. Despues de todo, tampoco tengo ni puta idea sobre qué mierda está pasando, pero no puedo olvidarme de aquel diciembre donde todo estalló, cuando con mi hermano baleado en la cama, llegaban vecinos a pedir nuestra ayuda para la guardia nocturna. La postal photoshopeada era casi igual: los negros, los que vivian más al oeste de nuestro oeste barrio, venian arrasando con todo a su paso. Era inminente. Una turba iracunda de pobres malolientes y rencorosos que se quedaron con las ganas de saquear más supermercados, ahora iban por nosotros, otros casi tan pobres como ellos. 
+Lo mio también es un instinto. Después de todo, tampoco tengo ni puta idea sobre qué mierda está pasando, pero no puedo olvidarme de aquel diciembre donde todo estalló, cuando con mi hermano baleado en la cama, llegaban vecinos a pedir nuestra ayuda para la guardia nocturna. La postal photoshopeada era casi igual: los negros, los que vivian más al oeste de nuestro oeste barrio, venian arrasando con todo a su paso. Era inminente. Una turba iracunda de pobres malolientes y rencorosos que se quedaron con las ganas de saquear más supermercados, ahora iban por nosotros, otros casi tan pobres como ellos. 
 
 Cuando cruzo La Cañada pasa algo extraño. La gente sigue histérica pero es menos, y los negocios recién parecen percatarse del peligro que, según las versiones del centro, ya los había incendiado. Me acerco a un flaco que tiene auriculares y le pregunto si está escuchando las noticias. Se saca el de la oreja izquierda y con un gesto casi inmovil me pide que le repita. 
 
@@ -298,7 +298,7 @@ Miro a la calle. Junto a la rueda trasera de la la única 4x4 estacionada de la 
 Casi les doy el gusto.
 
 {% postscript() %}
-Este relato está basado en hechos reales del 31 de marzo de 2008 . Podés leer la [noticia de La Voz del Interior](http://www2.lavoz.com.ar/08/04/01/secciones/economia/nota.asp?nota_id=176625)  y escuchar las [declaraciones del jefe de policia](http://www.cadena3.com/post_ampliado.asp?post=2477). Tambien <a href="http://www2.lavoz.com.ar/anexos/imagen/08/75938.JPG" class="thickbox"  rel="fot">algunas</a> <a href="http://www2.lavoz.com.ar/anexos/imagen/08/75939.JPG" class="thickbox" rel="fot">fotos</a>.
+Este relato está basado en hechos reales del 31 de marzo de 2008 . Podés leer la [noticia de La Voz del Interior](http://www2.lavoz.com.ar/08/04/01/secciones/economia/nota.asp?nota_id=176625)  y escuchar las [declaraciones del jefe de policía](http://www.cadena3.com/post_ampliado.asp?post=2477). También <a href="http://www2.lavoz.com.ar/anexos/imagen/08/75938.JPG" class="thickbox"  rel="fot">algunas</a> <a href="http://www2.lavoz.com.ar/anexos/imagen/08/75939.JPG" class="thickbox" rel="fot">fotos</a>.
 {% end %}
 
 <span id="comments"></span>

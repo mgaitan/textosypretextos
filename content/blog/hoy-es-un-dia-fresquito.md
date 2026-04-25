@@ -74,7 +74,7 @@ title = "Hoy es un dia fresquito"
 body = "Como dijo alguien cotmeco se ha convertido en la nueva fabrica de ricos de Cochabamba y Bolivia toda esa cafila de ladrones a la cabeza del todologo de Mauricio mendez no hacen nada por mejorar los servicios, estuvimos dos semanas sin poder recibir ni enviar correos y nadie dice nada, de una ves los socios deben dar un golpe a todos estos ladrones y quitarles la mamadera."
 +++
 
-Ayer hacia mucho calor en esta cordoba que desborda de cordobeses nativos y por opción. A pesar de que la gota de tranpiracion me caia, todos intentaban convencerme de que 'hoy es un dia frequito'. No sé la que me espera. 
+Ayer hacia mucho calor en esta cordoba que desborda de cordobeses nativos y por opción. A pesar de que la gota de tranpiracion me caia, todos intentaban convencerme de que 'hoy es un día frequito'. No sé la que me espera. 
 
 Estoy ahora en un ciber medio under con luces rojas y azules. En el equipo
 suena una musica re bala y me da miedo que en cualquier momento salgan

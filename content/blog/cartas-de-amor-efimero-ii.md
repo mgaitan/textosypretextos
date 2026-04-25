@@ -98,12 +98,12 @@ body = "Che, sabes que tambien es lo flashero... que posteaste esto justo dos di
 
 Bella Ailín:
 
-Vengo ideando este email desde hace unos dias, recordándome que tengo que escribirte y mandarte las fotos, y ahora que tengo el coraje y las ganas me doy cuenta que no tengo las ideas. Qué problema.
+Vengo ideando este email desde hace unos días, recordándome que tengo que escribirte y mandarte las fotos, y ahora que tengo el coraje y las ganas me doy cuenta que no tengo las ideas. Qué problema.
 
 ¿Por dónde debería empezar? Supongo que por el principio: soy Martín,
 el fotógrafo golpeador de Las Grutas. ¿Te acordás de mi?
 
-*"Fue en un pueblo con mar,  una noche, despues de un concierto..."* canturreaba mi amigo en su guitarra. Vos estabas ahí, con las
+*"Fue en un pueblo con mar,  una noche, después de un concierto..."* canturreaba mi amigo en su guitarra. Vos estabas ahí, con las
 sonrisa perfecta y la luz necesaria para una fotografía. Casualidad:
 la noche anterior ya te había visto, sobre la misma arena, a escasos
 metros de ese mar que amo tanto. 
@@ -125,7 +125,7 @@ el olor a gas de tu casa alquilada.
 
 Me permito un par de indiscreciones: horas después, caminando por la
 playa, con los ojos trizados y el almita llena, elucubré una teoría
-conspiratoria digna de mi paranoia freak. La cuestion era ¿cómo
+conspiratoria digna de mi paranoia freak. La cuestión era ¿cómo
 pudiste recibir un llamado tan inoportuno (para mi/nos)? ¿qué hubiese
 pasado si no te sonaba el teléfono en ese momento? Mi teoría paranoica indica que alguna de tus amigas, presurosas en cuidar tu integridad física y, sobre todo, moral, envió un sms al teléfono taurino.
 
@@ -140,18 +140,18 @@ Esa introducción o una parecida hice para decirte que en ese momento
 soñaba con que mi poder desconocido adopte la forma de saber las
 palabras para conquistarte rotundamente. Como si fuese una contraseña, un conjuro mágico que me abriera la compuerta de tu alma, o al menos, que destruyera tu celular que seguía sonando. 
 
-Igual salió bien porque como no sabia esas palabras me di cuenta que no estaba soñando, que eras de verdad, que estábamos ahí los dos, y entonces te besé de nuevo y fue una sensacion de verdad y placer que lo valió todo.
+Igual salió bien porque como no sabía esas palabras me di cuenta que no estaba soñando, que eras de verdad, que estábamos ahí los dos, y entonces te besé de nuevo y fue una sensación de verdad y placer que lo valió todo.
 
 Y aunque fue en otro tramo de la charla (¡cuando me hablabas de  drogras desconocidas!) parafraseo palabras que 
 que salieron de tu boca: estuve, por un ratito, flotando en amor.
 
 Como te dije en el mensaje de voz que dejé en tu teléfono, me hubiese gustado un abrazo y un chau, y debo confesar que reprimí el impulso de aparecer en la terminal a las 5am, hora de tu partida. 
 
-Sé, porque me estoy volviendo viejo y sensato, que es dificil que te
+Sé, porque me estoy volviendo viejo y sensato, que es difícil que te
 vuelva a ver. Pero en los restos de soñador que me quedan guardo la
 ilusión de que alguna vez pase, de que con otro almanaque
 en la pared pero una noche igual de hermosa yo repase los escalones
-de la cuarta bajada y vos estes ahí, sentada en el mismo lugar de esas
+de la cuarta bajada y vos estés ahí, sentada en el mismo lugar de esas
 dos noches. «Hola, te puedo sacar una foto», te voy a decir.
 
 Hasta que eso pase,  que estas palabras acompañen la espera.

@@ -164,7 +164,7 @@ body = "complises al rescate me parese un programa muy chebre que e visto en tod
 
 Debe ser la cuarta vez que inicio este texto: estoy media hora frente al monitor y me voy a dormir sin nada escrito. Las oraciones se niegan a convivir, hay cruentos forcejeos entre los verbos y sus objetos directos, los adjetivos se empastan en la lengua como una manzana arenosa y terminan asesinados por la tecla "<--" que todo lo ajusticia.  No es que no sepa qué les quiero contar, es el destino el que actua: el quiere escribir sobre Celeste, que le cueste. 
 
-Nuestra amistad nació en el chat aunque ella seguro disentirá conmigo.  Antes nos conocíamos pero no éramos amigos. Cuando abandonamos el chat nuestra amistad ya sabia cruzar la calle sola. 
+Nuestra amistad nació en el chat aunque ella seguro disentirá conmigo.  Antes nos conocíamos pero no éramos amigos. Cuando abandonamos el chat nuestra amistad ya sabía cruzar la calle sola. 
 
 En muchas de mis andanzas por la ciudad tuve a Celeste de compañera.  Estudia arte y comprar material para sus esculturas fue uno de los pretextos que más usufructuamos para caminar juntos y charlar largos ratos. 
 
@@ -176,19 +176,19 @@ Una tarde nuestro objetivo era un vidrio de un metro cuadrado o algo parecido qu
 
 Celeste entró al bar a preguntar y yo me quedé en la vereda con el viejo, que me agarraba del brazo y hablaba casi sin dejarme meter bocado. 
 
--- ¿Vos no sos de acá, no es cierto?. Sí, me di cuenta enseguida. ¿Sos de Buenos Aires? Ahh, de Neuquén, lindo Neuquén, yo conocí, fui cuando se inaurguró El Chocón, en el año 73 creo, que obra esa eh, ¿Conocés?. En Neuquén estuvimos unos dias en el Hotel Cristal ¿puede ser? Ahh, así que está todavia ese hotel, mirá vos. Claro, en esa época no había casi nada, no sé si había algún otro hotel. 
+-- ¿Vos no sos de acá, no es cierto?. Sí, me di cuenta enseguida. ¿Sos de Buenos Aires? Ahh, de Neuquén, lindo Neuquén, yo conocí, fui cuando se inaurguró El Chocón, en el año 73 creo, que obra esa eh, ¿Conocés?. En Neuquén estuvimos unos días en el Hotel Cristal ¿puede ser? Ahh, así que está todavía ese hotel, mirá vos. Claro, en esa época no había casi nada, no sé si había algún otro hotel. 
 
 Como se dio cuenta que me sentía incómodo porque me sostenía del brazo y Celeste tardaba en volver, me explicó: 
 
--- ¿Sabés por qué te agarro así querido? Esto lo hago por sordo, así me aseguro poder oirte. Yo no soy sordo desde siempre y no es que no escuche nada de nada, pero así en la calle es dificil oir a la gente. Vivo acá hace casi 20 años,  soy de la provincia de Buenos Aires, pero dónde no he vivido yo.  Vos tenés que conocer, no sabés todo lo lindo hay en todo el pais, de punta a punta mirá, ¿A qué te dedicabas? Ahh, cierto, me habias dicho, la verdad es que sí, yo no entiendo nada de esas cosas pero es lo de ahora, estas en buen camino. 
+-- ¿Sabés por qué te agarro así querido? Esto lo hago por sordo, así me aseguro poder oirte. Yo no soy sordo desde siempre y no es que no escuche nada de nada, pero así en la calle es difícil oír a la gente. Vivo acá hace casi 20 años,  soy de la provincia de Buenos Aires, pero dónde no he vivido yo.  Vos tenés que conocer, no sabés todo lo lindo hay en todo el país, de punta a punta mirá, ¿A qué te dedicabas? Ahh, cierto, me habias dicho, la verdad es que sí, yo no entiendo nada de esas cosas pero es lo de ahora, estas en buen camino. 
 
-Por fin Celeste regresó a mi rescate y se sorprendió al verme apresado por el hablador compulsivo.  Luego de un par de preguntas bastante bien eludidas, y apurados porque se hacía tarde y cerraban los comercios, pudimos hacerle entender que nos debíamos ir. No me acuerdo exactamente como se llamaba, ni dónde vivía, pero la despedida fué (supongamos) así: 
+Por fin Celeste regresó a mi rescate y se sorprendió al verme apresado por el hablador compulsivo.  Luego de un par de preguntas bastante bien eludidas, y apurados porque se hacía tarde y cerraban los comercios, pudimos hacerle entender que nos debíamos ir. No me acuerdo exactamente como se llamaba, ni dónde vivía, pero la despedida fue (supongamos) así: 
 
 -- Muy bien jóvenes, ha sido un gusto. Cuando deseen conversar un poco, puedo invitarles mates ¿toman mates?. Mi nombre es Juan Dominguez y vivo en el 2A de ese edificio, siempre pueden encontrarme por acá y si no toquen el portero, que seguro me encuentran. 
 
-Cruzamos la calle saboreando una mezcla de simpatía, ganas de volver algún dia en busca de esos mates y un buen poco de satisfacción por haber recobrado la libertad.  
+Cruzamos la calle saboreando una mezcla de simpatía, ganas de volver algún día en busca de esos mates y un buen poco de satisfacción por haber recobrado la libertad.  
 
-En esas recorridas por las calles de Córdoba habia momentos, sin embargo, en que durante cuadras ninguno de los dos emitía palabra, ni se preocupaba por esa ausencia de diálogo que suele ser fatal con otras personas. En esos momentos éramos cómplices de nuestros mundos propios, los que tantas veces nos alejan del "mundo real", pero nos acercan a nosotros mismos.
+En esas recorridas por las calles de Córdoba había momentos, sin embargo, en que durante cuadras ninguno de los dos emitía palabra, ni se preocupaba por esa ausencia de diálogo que suele ser fatal con otras personas. En esos momentos éramos cómplices de nuestros mundos propios, los que tantas veces nos alejan del "mundo real", pero nos acercan a nosotros mismos.
 
 En la presentación del <a href="http://elblogdesandra.blogspot.com/">blog de Sandra</a>, la primer desconocida que visitó este sitio, se lee: 
 

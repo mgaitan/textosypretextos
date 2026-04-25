@@ -135,4 +135,4 @@ pelotudo que mi novia me mata.
 
 Bueno, el deseo es bajar todo este vuelo. Fijate,  él está laburando, yo también, y los demás igual. Por ahí decir bueno, ahora se puede. Sonará frívolo pero lo que queremos es poder dedicarnos a full a esto, porque ahora no se puede, estamos laburando 12 horas por día para poder hacer lo que nos gusta. En este momento esa es la única forma, pero yo tengo una frase filosofal que dice "despacito y con saliva, el elefante se cogió a la hormiga". 
 
-*NOTA: Esta entrevista la hice para la revista Wayra del CEICiN, proyecto que cajoneamos por unos dias, pero pronto resucitará. Porque el viento nunca deja de soplar.*
+*NOTA: Esta entrevista la hice para la revista Wayra del CEICiN, proyecto que cajoneamos por unos días, pero pronto resucitará. Porque el viento nunca deja de soplar.*

@@ -126,7 +126,7 @@ Abel, deshecho, sin su mujer y sin su hijo por nacer, logró exiliarse en Suecia
 
 Después de tantísimo dolor, el lugar de la esperanza lo había usurpado la desconfianza y la soledad, y esa era una noticia difícil de procesar. De la muerte hay pocas fuerzas que te sacan. Pero un hijo, su hijo, era suficiente para que la muerte se vaya bien lejos. Abel volvió a lo que siempre había hecho: luchar.  
 
-Viajó a España y luego a México, y por todos lados contactaba gente, enviaba cartas, recibía noticias. Por fin, a principios de 1983, pudo regresar al pais. En aquel año, Abuelas de Plaza de Mayo cumplía seis años, la misma edad que tenía, en algún lugar del mundo, Francisco. 
+Viajó a España y luego a México, y por todos lados contactaba gente, enviaba cartas, recibía noticias. Por fin, a principios de 1983, pudo regresar al país. En aquel año, Abuelas de Plaza de Mayo cumplía seis años, la misma edad que tenía, en algún lugar del mundo, Francisco. 
 
 Ese lugar del mundo era Buenos Aires. Francisco había sido apropiado por el Capitán de la Armada Víctor Gallo, que se desempeñó en Campo de Mayo durante la dictadura y fue parte activa del alzamiento carapintada años después. Gallo, hombre violento fuera y dentro del hogar, fue condenado en 1997 a 10 años de prisión por el delito de robo calificado, tenencia de arma de guerra y coacción, y hubo sospechas de su participación en un triple homicidio conocido como la  Masacre de Benavídez, que no pudieron ser comprobadas. A Francisco, al que llamaron Alejandro, nadie le dijo nunca que era adoptado. Una mentira que mantuvieron 32 años.
 
@@ -134,7 +134,7 @@ Ese lugar del mundo era Buenos Aires. Francisco había sido apropiado por el Cap
 
 Apenas puso un pie en suelo argentino, Abel se sumó a la asociación, donde ya participaban las dos abuelas de Francisco: Sara, la mamá de Abel y Tina, la mamá de Silvia. Ellas habían iniciado la búsqueda de su nieto en el país apenas se enteraron, cuando todo era cinismo, muerte y atropello. 
 
-En esos primeros años habían logrado una estructura organizativa y de investigación que les permitió encontrar a los primeros nietos y nietas. Impulsadas por el amor y la urgencia de recuperarlos, abuelas que cocinaban tortas y tejían crochet se habían convertido en abuelas que sacaban fotos como espías y se hacian pasar por vendedoras de libros para chicos con el fin de acercarse y obtener información. Con la experiencia de su militancia política a cuestas, Abel se sumó a ese círculo de mujeres, luchadoras infatigables. Era el único hombre. Y el único padre que buscaba a su hijo. 
+En esos primeros años habían logrado una estructura organizativa y de investigación que les permitió encontrar a los primeros nietos y nietas. Impulsadas por el amor y la urgencia de recuperarlos, abuelas que cocinaban tortas y tejían crochet se habían convertido en abuelas que sacaban fotos como espías y se hacían pasar por vendedoras de libros para chicos con el fin de acercarse y obtener información. Con la experiencia de su militancia política a cuestas, Abel se sumó a ese círculo de mujeres, luchadoras infatigables. Era el único hombre. Y el único padre que buscaba a su hijo. 
 
 Consiguió un trabajo en Aerolíneas Argentinas, y cuando salía, a las seis de la tarde, se iba al local y se quedaba hasta la madrugada, redactando notas, escribiendo gacetillas, armando carpetas con los casos que habían desarrollado. Así pasó los primeros años de búsqueda, en su nuevo y de por vida puesto de lucha. 
 
@@ -145,7 +145,7 @@ Si uno busca en una hemeroteca o abre cualquier libro sobre la historia de Abuel
 El 2 de febrero de 2010, tras lograr que su apropiadora --hasta ese momento quien decía ser su madre-- le confesara que Gallo lo había traído del campo de concetración, 
 Francisco se presentó en la casa de Abuelas. Al otro día se hizo el análisis de ADN en el Banco de Datos Genéticos y dos semanas despúes le confirmaron que había dado positivo. No había encontrado a su abuela sino a su papá, Abel Madariaga, el señor de bigotes canosos que le había convidado un mate aquel martes. 
 
-Abel estaba descansando en la quinta de unos amigos, en provincia. Cuando las Abuelas le contaron, el telefóno se le cayó de la mano, se sentó en el suelo del patio donde estaba y se echó a llorar y a reir. A soltar 32 años de emoción acumulada.
+Abel estaba descansando en la quinta de unos amigos, en provincia. Cuando las Abuelas le contaron, el telefóno se le cayó de la mano, se sentó en el suelo del patio donde estaba y se echó a llorar y a reír. A soltar 32 años de emoción acumulada.
 
 Se vieron, por primera vez en sus vidas sabiendo quienes eran, esa misma noche. Se dieron un abrazo interminable, luego se miraron tomándose con las dos manos del rostro y chocando sus narices parecidas, y se volvieron a abrazar. 
 

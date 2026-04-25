@@ -44,7 +44,7 @@ comments = []
 
 "Lock out" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus "demandas" a los trabajadores; baja de salarios, despidos, suspensiones o condiciones indignas de trabajo.
 
-Cuando el lock out se utiliza para imponer ese tipo de medidas contra los empleados de una empresa, en terminos jurídicos se lo califica como lock out ofensivo. Esa categoría legal, olvidada en el marco de una justicia cada vez mas comprometida con los intereses del poder, quedó enterrada en la historia de la jurisprudencia hasta hace poco más de un año, cuando los trabajadores de Cerámicas Zanon lograron demostrar frente a un juzgado laboral de Neuquen que los dueños de la fábrica estaban incurriendo en esa medida de presión extrema para lograr el despido de 200 operarios.
+Cuando el lock out se utiliza para imponer ese tipo de medidas contra los empleados de una empresa, en términos jurídicos se lo califica como lock out ofensivo. Esa categoría legal, olvidada en el marco de una justicia cada vez mas comprometida con los intereses del poder, quedó enterrada en la historia de la jurisprudencia hasta hace poco más de un año, cuando los trabajadores de Cerámicas Zanon lograron demostrar frente a un juzgado laboral de Neuquen que los dueños de la fábrica estaban incurriendo en esa medida de presión extrema para lograr el despido de 200 operarios.
 
 En un fallo histórico, la Dra Tania Rivero de Taiana dictaminó que Cerámicas Zanon S.A. tenía que volver a abrir sus puertas respetando todos los derechos de los trabajadores, tanto desde el punto de vista de mantener la fuente laboral, como desde el punto de vista del salario y las condiciones de trabajo. El Tribunal Superior de Justicia de Neuquén, y la Corte Suprema de Jusctia, a su turno, ratificaron este fallo que no se conocía en el país en los últimos 20 años. La sentencia fue recibida y presentada con todo derecho como un triunfo y un reconocimiento a la lucha de los ceramistas.
 
@@ -115,7 +115,7 @@ Luego del prensado, la pieza de cerámico recién nacida recibe el primer golpe 
 
 Las decoradoras son algo curioso; consisten en un sistema moderno de serigrafía, donde cada pieza pasa debajo de una matríz de tela que deja filtrar tan sólo un poco de pintura. Convirtiendo ese viejo método artesanal y simple en una nueva técnica industrial, la decoración de cerámicos dejo abierta una puerta para la creatividad humana, que en medio de esa maraña de máquinas, cintas transportadoras y robots sincronizados, encuentra vericuetos para expresarse en los detalles mas finos.
 
-En una de las paredes cercanas al laboratorio, donde se realizan los patrones para el decorado, una pared desborda de nuevos diseños y de afiches plasmados en cerámicos. Algunos tienen el logo del sindicato, y fueron entregados a diversas organizaciones o personas como símbolo de agradecimiento. El mismo logo que simboliza la fraternidad y la unión entre los trabajadores, adorna cada una de las camisas marrones o azules de los trabajadores. En el mismo panel encontramos placas recordatorias de momentos importantes o de agradecimientos que quedaron plasmados para siempre. La primer placa recuerda a Daniel Ferrás, el jóven trabajador que murió hace dos años por falta de atención médica durante el horario de trabajo, provocando el primer paro importante del nuevo sindicato.
+En una de las paredes cercanas al laboratorio, donde se realizan los patrones para el decorado, una pared desborda de nuevos diseños y de afiches plasmados en cerámicos. Algunos tienen el logo del sindicato, y fueron entregados a diversas organizaciones o personas como símbolo de agradecimiento. El mismo logo que simboliza la fraternidad y la unión entre los trabajadores, adorna cada una de las camisas marrones o azules de los trabajadores. En el mismo panel encontramos placas recordatorias de momentos importantes o de agradecimientos que quedaron plasmados para siempre. La primer placa recuerda a Daniel Ferrás, el joven trabajador que murió hace dos años por falta de atención médica durante el horario de trabajo, provocando el primer paro importante del nuevo sindicato.
 
 Mas allá, placas de agradecimiento al pueblo mapuche, al Movimiento de Trabajadores Desocupados, a la banda de música Bersuit Vergarabat, se mezclan con los diseños de nuevos módelos y una placa recordatoria de los jóvenes piqueteros Dario Santillán y Maxi Kosteki, que también encontramos en varias partes de la fábrica.
 
@@ -131,7 +131,7 @@ Por eso, porque la famosa automatización no era mas que transformar y sofistica
 
 ### 3
 
-Pablo entra 7:45 y cuando se queda con su papá se levanta siete menos cuarto. Siempre llega puntual, porque a su edad es facil cumplir con esos horarios; se acuesta a las 10 de la noche a mas tardar, y se duerme mirando los dibujitos que dan en algún canal de cable.
+Pablo entra 7:45 y cuando se queda con su papá se levanta siete menos cuarto. Siempre llega puntual, porque a su edad es fácil cumplir con esos horarios; se acuesta a las 10 de la noche a mas tardar, y se duerme mirando los dibujitos que dan en algún canal de cable.
 
 El padre le hablaba de vez en cuando con esas mismas palabras simples con las que inspira a sus compañeros, sin vueltas, siempre con una sonrisa amable y sin medias tintas. Pablo entendía, y sabía por su maestra que tenía muchas razones para estar orgulloso de su papá.
 
@@ -325,7 +325,7 @@ Una caravana de 100 obreros que desoyeron cualquier amenaza llegó al lugar fija
 
 Y ahora estaba allí, Montes, dos años después de aquella asamblea, de anteojos negros, hablando por celular, a comandando un grupo de civiles contratados con el solo objetivo de entorpecer la producción y presionar para una salida judicial.
 
-¿Con quién hablaba Montes a las tres de la tarde luego de atacar a piedrazos a los obreros de Cerámicas Zanon?. Cuentan algunos testigos que tenía línea directa con la patronal, que invirtió 5000 pesos por día para financiar la nueva intentona que por via legal no habían podido lograr. Otros, que entablaba una negociación con Alicia Comelli, la secretaria de seguridad de Neuquén, con la que negociaba los próximos pasos a seguir.
+¿Con quién hablaba Montes a las tres de la tarde luego de atacar a piedrazos a los obreros de Cerámicas Zanon?. Cuentan algunos testigos que tenía línea directa con la patronal, que invirtió 5000 pesos por día para financiar la nueva intentona que por vía legal no habían podido lograr. Otros, que entablaba una negociación con Alicia Comelli, la secretaria de seguridad de Neuquén, con la que negociaba los próximos pasos a seguir.
 
 Lo único cierto es que estaba allí, que armaban carpas y prendían un fuego, que los tambores de los jóvenes contratados para la ocasión tocaban una música extraña, ritmo de una fiesta particular.
 

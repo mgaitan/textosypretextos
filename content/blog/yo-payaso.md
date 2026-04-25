@@ -318,7 +318,7 @@ body = "Hola Martín en Agosto 2010 hice la obrita con una amiga para el día de
 
 Pero entre los amigos, entre la gente que me quiere y a la que quiero desde las tripas, siempre alguien quiere jugar, de día o de noche. Y hay uno en particular, el compañero actor [Gabriel Diovisalvi](http://www.alternativateatral.com/persona82608-gabriel-diovisalvi). 
 
-Petiso, hiperquinético, buenazo y divertido, cayó hace unos dias a proponerme ser cómplice de su disparate: armar a duo un sketch de payasos , para presentar en el festival por el día de los niños y las niñas del próximo domingo. 
+Petiso, hiperquinético, buenazo y divertido, cayó hace unos días a proponerme ser cómplice de su disparate: armar a duo un sketch de payasos , para presentar en el festival por el día de los niños y las niñas del próximo domingo. 
 
 En unas hojitas de cuaderno trajo el borrador de sus ideas, con chistes que según él son bastante tradicionales, pero un entusiasmo que sólo se encuentra en su sonrisa. 
 
@@ -326,7 +326,7 @@ Así es que nos pusimos en la maquinita a darle forma a ese guión, con los apor
 
 Abajo está el guión que terminamos esta tarde, en crudo, al que falta aun pasarle una lijita fina y una manito de barniz. El personaje que haré es el del presentador, que funciona cómo contrapunto de Pochoclón, el payaso antihéroe. 
 
-A falta de dos dias para el evento y con un sábado que se viene agitadito, aun no tuvimos ensayo y la producción escenográfica todavía es un pedazo de telgopol sin pintar. Pero las ganas están, y algo viene corriendo a gritar piedra libre. 
+A falta de dos días para el evento y con un sábado que se viene agitadito, aun no tuvimos ensayo y la producción escenográfica todavía es un pedazo de telgopol sin pintar. Pero las ganas están, y algo viene corriendo a gritar piedra libre. 
 
 ### El show de Pochoclón
 
@@ -344,7 +344,7 @@ A falta de dos dias para el evento y con un sábado que se viene agitadito, aun 
 
 **Presentador**: ¡Pero qué hace, hombre!... digo, ¡perro! 
 
-*(Pochoclón lo reta la perro pero se rie. Lo acomoda al costado del escenario)*
+*(Pochoclón lo reta la perro pero se ríe. Lo acomoda al costado del escenario)*
 
 **Presentador**: Vamos a pedirle silencio al publico, porque Pochoclón va realizar una prueba muy difícil y necesita máxima concentración.
 
@@ -358,13 +358,13 @@ A falta de dos dias para el evento y con un sábado que se viene agitadito, aun 
 
 **Pochoclón**: Entonces... vayan a ver a Piñón Fijo en el Teatro San Martín, el próximo fin de semana....
 
-**Pochoclón**:  No no, mentira, mentira... Si de qué se van a reir con el payaso ése, si lo único que sabe hacer es chuchu-uá chuchu-uá (lo dice burlesco). Eso lo hace cualquiera... miren  chuchu-uá chuchu-uá  (baila como Piñón Fijo). ¿Qué tiene de gracioso, a ver?  Chuchu-uá chuchu-uá.
+**Pochoclón**:  No no, mentira, mentira... Si de qué se van a reír con el payaso ése, si lo único que sabe hacer es chuchu-uá chuchu-uá (lo dice burlesco). Eso lo hace cualquiera... miren  chuchu-uá chuchu-uá  (baila como Piñón Fijo). ¿Qué tiene de gracioso, a ver?  Chuchu-uá chuchu-uá.
 
 **Presentador**: Pochoclón, no se haga el vivo con los niños y no le falte el respeto a Piñon Fijo, que es un payaso mucho más famoso que usted. Continue por favor.   
 
 **Pochoclón**:  Bueno señor presentador, tiene razón.  Chuchu-uá chuchu-uá.  Bueno...bueno...voy a hacer la primer prueba, pero voy a necesitar un ayudante del público. ¿Quien quiere subir ?
 
-*(sube algun niño del público)*
+*(sube algún niño del público)*
 
 **Pochoclón**: *(dirigiéndose al niño)* ¿Cómo se llama usted? 
 
@@ -456,9 +456,9 @@ Dele... que se nos cae el número, tenemos todo preparado..
 
 **Presentador**: Bueno, lo escuchamos.
 
-**Pochoclón**: Ahí va: Tus ojos son como dos frutillas, tu nariz como una cereza, tu boca carnosa como un durazno, y jugosa como una sandía... ¿Por qué no te casás conmigo asi me pongo una verdulería?
+**Pochoclón**: Ahí va: Tus ojos son como dos frutillas, tu nariz como una cereza, tu boca carnosa como un durazno, y jugosa como una sandía... ¿Por qué no te casás conmigo así me pongo una verdulería?
 
-*(Vanina se rie pero hace gestos de negación con la cabeza)*
+*(Vanina se ríe pero hace gestos de negación con la cabeza)*
 
 **Presentador**: Me parece que no es un piropo muy seductor ese, Pochoclón... A la señorita no le gustó  mucho. ¿Tiene otro?  
 

@@ -46,13 +46,13 @@ debí suponer que no era el mejor plan, pero, qué cojones, se trata de
 "aventurarlse" (como dijo aquella viajera chilena). Bella y cruda. Con final feliz hubiera sido lo que necesitaba.
 
 Si en vez de creer que esta carta debe ser algo trascendente y
-simplemente te escribo, o simplemente escribo, quiza me sería más facil. Si no hubiera mezclado las flores de Wally (añejadas, mejores que las de
-Bach) y los mezcales de jalisco, quizas también. Pero, así
+simplemente te escribo, o simplemente escribo, quiza me sería más fácil. Si no hubiera mezclado las flores de Wally (añejadas, mejores que las de
+Bach) y los mezcales de jalisco, quizás también. Pero, así
 son las cosas, nada fáciles. Si una carta de amor --que no debería ser más que una carta con amor-- para enamorar es difícil, una carta para reenamorar lo es aún más.
 
 Eso me pasa: no sé bien qué debo decir para que ocurra lo que quiero
 que suceda: que te enamores de mi, de nuevo. Que sea el que se cumpla
-de esos sueños que te he contado que tengo, en los que un dia desde el
+de esos sueños que te he contado que tengo, en los que un día desde el
 banco de suplentes entro a la cancha y hago un gol magistral para
 ganar el campeonato, o que por fin sé tocar una canción en la
 guitarra y sorprendo al fogón. Que me ames. Deseo. No te lo pido. No hay delivery para estas cosas.
@@ -70,7 +70,7 @@ saberse desafiado por el pasado, de saberse mortal, perecedero,
 acechado por las cenizas de las que viene.
 
 Puedo escribirte un microcuento para disimular que no sé como seguir:
-pensatibunda, la pajarilita no alcanza a oir el piar que la
+pensatibunda, la pajarilita no alcanza a oír el piar que la
 llama.
 
 Son las seis, el sol sale algo tímido y yo querría poder grabar y

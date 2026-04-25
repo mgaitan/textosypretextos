@@ -40,7 +40,7 @@ tag_links = [
 comments = []
 +++
 
-"Taca", una travesti, era la fiscal general de De la Sota en la misma escuela donde yo fui el de Carolina Scotto, en la escuela primaria del popular barrio Coronel Olmedo. Temprano, apenas nos saludamos, se acercó y me dijo bajito "este es mi laburo, pero yo a Cristina la amo. Nos dió todo".
+"Taca", una travesti, era la fiscal general de De la Sota en la misma escuela donde yo fui el de Carolina Scotto, en la escuela primaria del popular barrio Coronel Olmedo. Temprano, apenas nos saludamos, se acercó y me dijo bajito "este es mi laburo, pero yo a Cristina la amo. Nos dio todo".
 
 --o--
 
@@ -53,6 +53,6 @@ Toda mi admiración a esas docentes-militantes, como mi vieja, como Sandra, como
 --o--
 
 "Nonita, vení, sentante acá que corre menos viento", invita Laura a la abuela que la acompaña desde las 6am. La abuela es la experimentada cocinera del merendero de Villa La Vaquita Echada, el espacio que desde hace muchos años Laura y los compañeros que están fiscalizando militan cada semana.
-La Nona apenas puede caminar y Laura también. Está exhausta porque durante todo el dia, sin parar, su teléfono ha sonado pidiendo auxilio con problemas de todo tipo. Con esa misma dulzura con la que trata a la vieja, casi inverosímil, dio respuestas a cada llamado.
+La Nona apenas puede caminar y Laura también. Está exhausta porque durante todo el día, sin parar, su teléfono ha sonado pidiendo auxilio con problemas de todo tipo. Con esa misma dulzura con la que trata a la vieja, casi inverosímil, dio respuestas a cada llamado.
 
 Cuando cerró la última mesa y yo le entregué las 13 actas me dio un abrazo fuerte y me dijo gracias. Ella a mí.

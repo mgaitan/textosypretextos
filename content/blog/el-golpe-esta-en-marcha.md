@@ -66,10 +66,10 @@ body = "### Varias respuestas de cumpas a la lista de computacion\n\n_ De: Carlo
 Acabo de volver de viaje, y con gran interés descubrí la discusión que
 se generó en el hilo sobre «cuanto gana un programador». Temas y
 opiniones muy interesantes surgieron, y como un amigo (y compañero de la carrera) me insinuó, da orgullo notar el compromiso de muchos
-futuros ingenieros con el pais. La opinión de otros, en cambio, me da
+futuros ingenieros con el país. La opinión de otros, en cambio, me da
 escalofrío. Pero a eso estoy más acostumbrado.
 
-Quise rescatar la discusión que inevitablemente se filtró en ese hilo: el conflicto del campo y la situación de crisis que actualmente atraviesa el pais.
+Quise rescatar la discusión que inevitablemente se filtró en ese hilo: el conflicto del campo y la situación de crisis que actualmente atraviesa el país.
 
 De más está decir que es nuestra responsabilidad como ciudadanos, y
 nuestra obligación como miembros de una casa de altos estudios,

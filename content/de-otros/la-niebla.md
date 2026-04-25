@@ -78,8 +78,8 @@ que puedo recordar<br>
 tus caricias,<br>
 piel de sol y terciopelo.<br>
 Perdida entre tu piel<br>
-se rie tu niñez,<br>
-se rie y vos te vas;<br>
+se ríe tu niñez,<br>
+se ríe y vos te vas;<br>
 te abrazo donde estés.<br>
 Y yo no sé,<br>
 no sé como llegar,<br>

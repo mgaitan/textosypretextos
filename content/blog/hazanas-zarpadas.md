@@ -104,7 +104,7 @@ Acampan, matan al alacrán, a las arañas. A la mañana amarran a Marta al Jacar
 
 La banda mama: Bramha, Santa Ana, champaña, casasha, Fanta Naranja, matarratas... da arcadas, ahhhsss!!! Larva lanza, mancha las patas a Pachá. 
 
-Para la casa faltaba más, allá la pasta, atras las armas. 
+Para la casa faltaba más, allá la pasta, atrás las armas. 
 
 La cana ataca: granadas, lanzallamas, fals. Gran batalla: Pank, Pank...ra...tatatatata...¡¡pafffffff!!
 
@@ -121,7 +121,7 @@ La banda vaga, va pa' la pachanga. Jarana barata. Pasan: Mala Gata, Ráfaga, Mal
 
 Bárbara, flaca tarada (ama la marca Nasa), abraza a Pachá. Samantha (más grasa, mamas más anchas) al Larva.
 
-¿Van al altar? Naaaa, las taladran nada más (ah, ¿Larva?... capáz). 
+¿Van al altar? Naaaa, las taladran nada más (ah, ¿Larva?... capaz). 
 
 A la mañana, Barbara, la rayada, manda a cagar a Pachá.
 

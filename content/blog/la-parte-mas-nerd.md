@@ -91,15 +91,15 @@ Queridísima Cronopia :
 
 Ocho de la mañana de un viernes, y el cielo sufre de esquizofrenia. Como no está seguro de ser negro de noche, y se siente perseguido por la claridad de día, se disfraza de gris con el sombrero de Natalio Ruiz.  Yo me pasé una noche más sin dormir, o sea que ya voy mejorando. Es que, vos me conocés Cronopia: a la noche, cuando el cielo es oscuro y el silencio innunda, yo respiro con los ojos y las neuronas más abiertas que nunca. Seguro que en mi anterior vida fui japonés, y algo me quedó.  Excusa vaga: como el cielo sigue esquizoide y se aclara cada vez más (o se sonroja porque lo nombro mucho)  puede que algunas neuronas vayan terminando su jornada mientras escribo esta carta.
 
-Esta noche y otras anteriores encontré una parte de mí. Atención: la parte más nerd. Volví a programar, y esta vez por casualidad (y por suerte) tenía algo que ver con la facultad. Es el trabajo final de una materia que cursé el año pasado, un software que simula el tráfico de datos por una red, como internet. Objetivamente sirve para aprobar la materia (motivación importante, si las hay) y para comprender los algoritmos y las estructuras que en otra escala son aplicados en los sistemas reales, pero si lo vieras te parecería una porqueria, porque es dificil mostrar y explicar el funcionamiento. 
+Esta noche y otras anteriores encontré una parte de mí. Atención: la parte más nerd. Volví a programar, y esta vez por casualidad (y por suerte) tenía algo que ver con la facultad. Es el trabajo final de una materia que cursé el año pasado, un software que simula el tráfico de datos por una red, como internet. Objetivamente sirve para aprobar la materia (motivación importante, si las hay) y para comprender los algoritmos y las estructuras que en otra escala son aplicados en los sistemas reales, pero si lo vieras te parecería una porqueria, porque es difícil mostrar y explicar el funcionamiento. 
 
 En eso estoy, varias horas al día puteando con el invento de un holandés que se debe haber muerto hace mucho y que se llama Dijkstra, quien ideó una forma de encontrar "el camino más corto" en un grafo (Ejemplo: un mapa carretero. en el que muchas ciudades están conectadas unas a otras, hay muchas formas de llegar desde Córdoba a Neuquén ¿cual es la forma mas corta?). Aburrida? conste que te avisé.</span>
 
 Hoy es el partido. ¿Lo podrás ver? Ojalá si, yo estoy algo ansioso, y ahora me preocupa acostarme un ratito y quedarme dormido. Mientras te escribo no tengo sueño, pero no si seré capaz de escribirte las 3 horas que faltan. Hace tanto que no escribo. 
 
-Lo he intentado, pero esa parte mia aun no la encuentro. Es que me siento bastante tonto frente a la pantalla en blanco (la parte más nerd mia hizo que hace mucho perdiera el romanticismo de la "hoja en blanco"). 
+Lo he intentado, pero esa parte mía aun no la encuentro. Es que me siento bastante tonto frente a la pantalla en blanco (la parte más nerd mía hizo que hace mucho perdiera el romanticismo de la "hoja en blanco"). 
 
-Temo que escribir no sea como andar en bicicleta, que aprendés una vez y ya no te olvidás más aunque nunca andes. O quizas sea, pero yo no aprendi a escribir. O  no me convencí del todo que lo más importante no es andar en bicicleta por andar, o para llegar al trabajo o a la facu, sino disfrutar el aire fresco y la energía de cada pedaleada.
+Temo que escribir no sea como andar en bicicleta, que aprendés una vez y ya no te olvidás más aunque nunca andes. O quizás sea, pero yo no aprendi a escribir. O  no me convencí del todo que lo más importante no es andar en bicicleta por andar, o para llegar al trabajo o a la facu, sino disfrutar el aire fresco y la energía de cada pedaleada.
 
 Yo quiero eso, el aire fresco y la energia. Escribiendote estas cartitas incoherentes lo siento un poco. El otro poco es que esta bicicleta sí me sirve para llegar a vos, o más bien... para que llegues un poco a mi.
 
@@ -111,11 +111,11 @@ De alguna insomnia anterior que ya perdió fecha, conseguí estas líneas.
 >
 > (...)Desodorizame, oprimime, contraatatacame, reclamame, eclipsame, amaneceme. Todo esto me lo digo al espejo, con la pasta de dientes chorreándome en burbujas de la boca. Burbujeame. Es a la mañana, después del pis y antes de las medias que todavía están limpias. Y no es que me sonó el despertador, es la cama que te extraña y se venga conmigo.
 
-Me gustó tu carta anterior, la del doctorado en deglución postrera videando videos. Gracias. Los ultimos que vi fueron con té y sin postre. A ver, que me acuerde y me hayan gustado: el secreto de la montaña (ya te la conté)... es la de los cowboys (no pistoleros sino cuidadores de ovejas) que se enamoran en la montaña... yo creo que si no la viste deberias, intuyo que te va a gustar mucho y te tiro un dato: es del mismo director que Sensatez y Sentimientos. He visto más pelis brasileras, todas buenisimas.
+Me gustó tu carta anterior, la del doctorado en deglución postrera videando videos. Gracias. Los últimos que vi fueron con té y sin postre. A ver, que me acuerde y me hayan gustado: el secreto de la montaña (ya te la conté)... es la de los cowboys (no pistoleros sino cuidadores de ovejas) que se enamoran en la montaña... yo creo que si no la viste deberias, intuyo que te va a gustar mucho y te tiro un dato: es del mismo director que Sensatez y Sentimientos. He visto más pelis brasileras, todas buenisimas.
 
-Asi, bastante masturbacion (,) intelectual, bastante encerrado, suficientemente solo. El otro dia me di cuenta que hacía mas de dos dias que no salía de mi casa. Ni siquiera saqué la basura y esto no es un chiste para que alguno que no me quiere diga que es una redundancia.
+Así, bastante masturbacion (,) intelectual, bastante encerrado, suficientemente solo. El otro día me di cuenta que hacía mas de dos días que no salía de mi casa. Ni siquiera saqué la basura y esto no es un chiste para que alguno que no me quiere diga que es una redundancia.
 
-Ya falta menos para el partido pero yo no voy a llegar sin dormir. Hay uno que hace dos horas, o sea desde las 7, que está con la corneta dele que dele, me hace sentir en zoológico viendo a los elefantes. Ahi de nuevo. 
+Ya falta menos para el partido pero yo no voy a llegar sin dormir. Hay uno que hace dos horas, o sea desde las 7, que está con la corneta dele que dele, me hace sentir en zoológico viendo a los elefantes. Ahí de nuevo. 
 
 Tengo ganas de que ganemos, pero jugando bien. Nada hay que temer, pues, por suerte es tan sólo un partido de futbol. Los que sí están preocupados son ellos, esos necios agentes del capital que inundan las pantallas con su creatividad gritona y patriotera.
 

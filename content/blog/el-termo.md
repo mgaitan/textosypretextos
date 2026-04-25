@@ -56,7 +56,7 @@ Pero supe entonces que no podría perpetuar el disimulo y tuve que enfrentar la 
 
 — Mirá lo que me encontré, pa. Estaba abajo de un banco. Al final estos canadienses se hacen, pero compran y tiran igual que los yanquis.
 
-Hizo su sonrisa nerviosa como toda respuesta a mi chascarrillo, pero era claro que no tendría su venia. Quizás los yoguis acepten aviones privados, Alfa Romeos, "asistentes" personales cama adentro o hectáreas de bosque privado, pero una botella es mera ilusión, una trampa de Maya, no habrá realización en ella ni en sus 24 horas de frío-calor.
+Hizo su sonrisa nerviosa como toda respuesta a mi chascarrillo, pero era claro que no tendría su venía. Quizás los yoguis acepten aviones privados, Alfa Romeos, "asistentes" personales cama adentro o hectáreas de bosque privado, pero una botella es mera ilusión, una trampa de Maya, no habrá realización en ella ni en sus 24 horas de frío-calor.
 
 Más y más fotos. Me cago en el Mount-Royal de Montreal y su gran vista. Mi papá rumia, bruxa. Lo he puesto en un aprieto que los vedantas no explicaron ni en metáforas, agravado por el hecho de que ahora es él quien tiene el termo en las manos.
 

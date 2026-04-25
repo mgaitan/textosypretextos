@@ -60,7 +60,7 @@ Muchas de estas fotos logré sacarlar gracias al descubrimiento de mi amigo y co
 
 Fácil. Ja. 
 
-La credencial que obtuve fue objeto de confusión y discordia el resto de los dias, porque se trataba de una que daba el Movimiento de Solidaridad con Cuba y nada tenía de oficial. Sin embargo, con un poco de insistencia y otro poco de actuación (paso 1: convéncete a tí mismo de que estás trabajando) logré ingresar a todos los actos y al recital. 
+La credencial que obtuve fue objeto de confusión y discordia el resto de los días, porque se trataba de una que daba el Movimiento de Solidaridad con Cuba y nada tenía de oficial. Sin embargo, con un poco de insistencia y otro poco de actuación (paso 1: convéncete a tí mismo de que estás trabajando) logré ingresar a todos los actos y al recital. 
 
 En cada lugar, además de no contar con la credencial que todo trabajador de prensa debía exhibir, el contraste con los super equipos de todos los fotógrafos denotaba mi amateurismo. Para decirlo en criollo: mi cámara no tiene zoom, y por lo tanto, tengo que acercarme todo lo que pueda si quiero un encuadre cerrado. Igual, mal que mal, funcionó. 
 

@@ -72,7 +72,7 @@ Es tan duro elegir una dirección<br>
 cuando tu futuro es desconocido<br>
 <br>
 ¿Es una especie de broma?<br>
-¿Alguien me desperterá pronto<br>
+¿Alguien me despertará pronto<br>
 y me dirá que es es sólo un juego<br>
 llamado vida ?<br>
 <br>
@@ -83,7 +83,7 @@ todos nosotros esclavos?<br>
 ¿ Entonces por qué me siento tan perdido?<br>
 <br>
 ¿Es una especie de broma?<br>
-¿Alguien me desperterá pronto<br>
+¿Alguien me despertará pronto<br>
 y me dirá que es es sólo un juego<br>
 llamado vida ?<br>
 <br>
@@ -93,6 +93,6 @@ hay alguien esperando?<br>
 por sobrevivir a tanto ?<br>
 <br>
 ¿Es una especie de broma?<br>
-¿Alguien me desperterá pronto<br>
+¿Alguien me despertará pronto<br>
 y me dirá que es es sólo un juego<br>
 llamado vida ?</div>
