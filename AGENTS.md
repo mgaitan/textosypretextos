@@ -73,7 +73,18 @@ Y en `[extra]`:
 - `hero_image`
 - `hero_alt`
 - `subtitle`
-- `deck`
+- `deck`  — epígrafe del artículo; soporta markdown. Un blockquote
+  dentro del deck se muestra como epígrafe alineado a la derecha.
+  El último párrafo del blockquote se interpreta como atribución:
+
+  ```toml
+  deck = """
+  > La línea del poema o cita.
+  >
+  > — Nombre del autor o fuente
+  """
+  ```
+
 - `author_links`
 - `tag_links`
 

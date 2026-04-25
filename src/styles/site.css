@@ -343,6 +343,15 @@
     @apply my-2;
   }
 
+  .article-deck blockquote {
+    @apply border-l-0 pl-0 not-italic text-right;
+  }
+
+  .article-deck blockquote p:last-child {
+    @apply mt-3 text-[0.95rem] not-italic text-neutral-500;
+    font-family: var(--font-ui);
+  }
+
   .story-content .article-postscript {
     @apply mt-12 border-t border-black pt-6 text-[0.98rem] leading-7 text-neutral-700;
   }
