@@ -29,7 +29,7 @@ comment_count = 3
 legacy_url = "/de-otros/historia-de-una-mujer-bomba/"
 surtitle = ""
 subtitle = "Josefina Licitra"
-deck = "San Miguel de Tucumán, la capital de Tucumán, una provincia ubicada en el Norte de la Argentina, tiene sus calles repletas de naranjos. Están dispuestos en hilera en casi todas las aceras y eso hace que la ciudad entera destile una euforia boba, a veces insoportable. Frente a la casa de Susana Trimarco de Verón hay uno de esos árboles. Conserva todos sus frutos –nadie los ha llevado- y es fácil detenerse en ese mínimo paisaje y tener un acceso de tranquilidad: en Tucumán la gente es buena, parece, y no arranca nada que no le pertenezca.\n\n—¿Qué decís? –interrumpe Trimarco y frunce la nariz con asco-. A estas naranjas no se las roban porque son amargas, son feas. No sirven para nada.\n\nTrimarco tiene 53 años y un pasado optimista. Cinco años atrás tenía también un marido, una casa, dos trabajos, dos autos y dos hijos: Horacio, que se fue a vivir al Sur de la Argentina, y María de los Ángeles –Marita-, una chica de sonrisa panorámica que una mañana salió de su casa para ir al médico y nunca más volvió. La desaparición ocurrió el 3 de abril de 2002. Ese mismo día, Trimarco dejó de ser lo que era –un alma en orden- para transformarse en esto: una persona de labios duros que se para en la acera, mira un naranjo, hace una mueca de desprecio y dice que acá, en Tucumán, nada es lo que parece."
+deck = ""
 author_links = [
     { name = "Josefina Licitra", path = "/autores/josefina-licitra/" },
 ]
@@ -71,6 +71,10 @@ url_site = ""
 title = "Historia de una mujer bomba"
 body = "Aahh las mujeres.... Complicadas pero sin mujer, el hombre no es nada. Maria de la web de [casques audio & headphones](http://casquesaudio.net/)"
 +++
+
+San Miguel de Tucumán, la capital de Tucumán, una provincia ubicada en el Norte de la Argentina, tiene sus calles repletas de naranjos. Están dispuestos en hilera en casi todas las aceras y eso hace que la ciudad entera destile una euforia boba, a veces insoportable. Frente a la casa de Susana Trimarco de Verón hay uno de esos árboles. Conserva todos sus frutos –nadie los ha llevado- y es fácil detenerse en ese mínimo paisaje y tener un acceso de tranquilidad: en Tucumán la gente es buena, parece, y no arranca nada que no le pertenezca.\n\n—¿Qué decís? –interrumpe Trimarco y frunce la nariz con asco-. A estas naranjas no se las roban porque son amargas, son feas. No sirven para nada.
+
+Trimarco tiene 53 años y un pasado optimista. Cinco años atrás tenía también un marido, una casa, dos trabajos, dos autos y dos hijos: Horacio, que se fue a vivir al Sur de la Argentina, y María de los Ángeles —Marita—, una chica de sonrisa panorámica que una mañana salió de su casa para ir al médico y nunca más volvió. La desaparición ocurrió el 3 de abril de 2002. Ese mismo día, Trimarco dejó de ser lo que era —un alma en orden— para transformarse en esto: una persona de labios duros que se para en la acera, mira un naranjo, hace una mueca de desprecio y dice que acá, en Tucumán, nada es lo que parece.
 
 —Esta ciudad, linda como la ves, está llena de mafiosos –se queja. Y entra a su casa de un portazo.
 
@@ -293,7 +297,7 @@ Son las doce del mediodía y la casa, al fin, queda hundida en un silencio de pr
 Ella acepta y la peina con la boca apretada; quizás intenta contener el llanto. La nariz de Trimarco tiene orificios grandes y oscuros. Dos cuevas que se achican y se ensanchan de un modo casi rítmico, como si marcaran el paso de una danza dolorosa y extraña.
 
 {% postscript() %}
-Crónica publicada originalmente en la revista Gatopardo, México, 2007 y luego  en "Historia de una mujer bomba y otros relatos, antología de crónica de la Universidad Adolfo Ibáñez" de Chile.
+Crónica publicada originalmente en la revista Gatopardo, México, en el año 2007 y luego  en "Historia de una mujer bomba y otros relatos, antología de crónica de la Universidad Adolfo Ibáñez" de Chile.
 {% end %}
 
 <span id="comments"></span>
