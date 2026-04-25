@@ -103,10 +103,9 @@ Censurado en la prensa pública, el discurso se convirtió en una bomba viral a 
 
 Así habrán quedado, arrepentidísimos, los responsables de semajante pifie, sólo un poco más de lo que quedé yo habiéndome generado tantas expectativas con la nueva Stone. 
 
-Con la ayuda de muchos amigos [[Anna, Xtian, Jim, Renzo y David, gracias!]][[Nati, como siempre, mi F7. ¡Gracias!]] subtitulé los veintipico minutos que dura la presentación. Con ustedes, Stephen Colbert:
+Con la ayuda de muchos amigos (Anna, Xtian, Jim, Renzo y David, gracias!) subtitulé los veintipico minutos que dura la presentación. Con ustedes, Stephen Colbert:
 
-{{ external_embed(provider="googlevideo", url="<embed id=\"VideoPlayback\" src=\"http://video.google.es/googleplayer.swf?docid=4782971168291810567&hl=es&fs=true\" style=\"width:510px;height:410px\" allowFullScreen=\"true\" allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\">") }}
+{{ video_embed(provider="youtube", id="sv4xjxcNYqk") }}
 
- </embed>
 
 <span id="comments"></span>
