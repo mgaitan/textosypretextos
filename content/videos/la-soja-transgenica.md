@@ -34,7 +34,7 @@ tag_links = []
 comments = []
 +++
 
-{{ external_embed(provider="youtube", id="u6H-4iomX_U") }}
+{{ video_embed(provider="youtube", id="u6H-4iomX_U") }}
 
 La liga fue un programa de investigación periodística de la televisión argentina, producido por Cuatro Cabezas y puesto en el aire por primera vez en 2005 en el canal Telefé. El programa solía abordar temas de contenido social, ecológico, político, económico e investigativo, a través de una mirada joven, ágil y sin censura.
 
