@@ -36,6 +36,10 @@
     background-size: 100% 8px, 8px 100%, auto;
   }
 
+  body.has-modal-open {
+    overflow: hidden;
+  }
+
   body::before {
     content: "";
     position: fixed;
@@ -358,6 +362,34 @@
 
   .article-comment-cta {
     @apply mt-10;
+  }
+
+  .image-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: grid;
+    place-items: center;
+    padding: 1.5rem;
+    background: rgba(0, 0, 0, 0.88);
+  }
+
+  .image-modal-dialog {
+    @apply relative w-full max-w-[960px];
+  }
+
+  .image-modal-close {
+    font-family: var(--font-ui);
+    @apply absolute right-0 top-0 z-10 border-2 border-white bg-black px-4 py-2 text-[11px] uppercase tracking-[0.22em] text-white transition-colors hover:bg-white hover:text-black;
+    transform: translateY(calc(-100% - 0.75rem));
+  }
+
+  .image-modal-figure {
+    @apply m-0 border border-white bg-black;
+  }
+
+  .image-modal-figure img {
+    @apply block h-auto max-h-[82vh] w-full object-contain;
   }
 
   .article-nav {
