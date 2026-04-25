@@ -46,7 +46,7 @@ El lunes 3 de noviembre, Richard Stallman, el padre del movimiento de Software L
 
 Hay una versión completa de la disertación, en el sitio de GNU: 
 
-[->http://audio-video.gnu.org/video/rms-diputados.ogg]
+[http://audio-video.gnu.org/video/rms-diputados.ogg](http://audio-video.gnu.org/video/rms-diputados.ogg)
 
 ### Galería
 

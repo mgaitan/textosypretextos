@@ -2,7 +2,7 @@
 title = "Los invisibles II"
 slug = "los-invisibles-ii"
 date = 2008-05-27 11:59:21
-description = "Esta obra forma parte de la serie Los Invisibles: [->130], [->197]"
+description = "Esta obra forma parte de la serie Los Invisibles: Los invisibles I y Los invisibles III."
 draft = false
 template = "article.html"
 authors = [
@@ -17,7 +17,7 @@ tags = []
 legacy_id = 139
 section_slug = "fotos"
 section_title = "Fotos"
-summary = "Esta obra forma parte de la serie Los Invisibles: [->130], [->197]"
+summary = "Esta obra forma parte de la serie Los Invisibles: Los invisibles I y Los invisibles III."
 visits = 1783
 popularite = 0.41633359651455115
 hero_image = "/media/jpg/DSC_0130_reduc.jpg"
@@ -44,7 +44,7 @@ title = "Los invisibles II"
 body = "noooooooo, se me pianta un lagrimón!!! como olvidar esa foto, en aquellas largas tardes adentro del laboratorio compañero! que linda época. \nun beso grande\nMarina"
 +++
 
-Esta obra forma parte de la serie Los Invisibles: [->130], [->197]
+Esta obra forma parte de la serie Los Invisibles: [Los invisibles I](@/fotos/los-invisibles-i.md) y [Los invisibles III](@/fotos/los-invisibles-iii.md).
 
 ### Galería
 

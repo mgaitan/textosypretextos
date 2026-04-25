@@ -162,7 +162,7 @@ Martín.
 {{ media_image(src="/media/jpg/lasgrutas07_0001-208.jpg", alt="", caption="", align="center") }}
 
 {% postscript() %}
-Completan la trilogía  [->113] y [->116]
+Completan la trilogía [Cartas de amor efímero I](@/blog/cartas-de-amor-efimero-i.md) y [Cartas de amor efímero III](@/blog/cartas-de-amor-efimero-iii.md).
 {% end %}
 
 <span id="comments"></span>

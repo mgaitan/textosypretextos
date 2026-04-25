@@ -2,7 +2,7 @@
 title = "Padre e hija"
 slug = "padre-e-hija"
 date = 2008-04-15 14:29:00
-description = "Cortometraje de animación del holandés [?Michaël Dudok de Wit]. Este film ganó el Premio Oscar en el año 2000."
+description = "Cortometraje de animación del holandés Michaël Dudok de Wit. Este film ganó el Premio Oscar en el año 2000."
 draft = false
 template = "article.html"
 authors = [
@@ -19,7 +19,7 @@ tags = [
 legacy_id = 106
 section_slug = "videos"
 section_title = "Videos"
-summary = "Cortometraje de animación del holandés [?Michaël Dudok de Wit]. Este film ganó el Premio Oscar en el año 2000."
+summary = "Cortometraje de animación del holandés Michaël Dudok de Wit. Este film ganó el Premio Oscar en el año 2000."
 visits = 309
 popularite = 0.9061383725063412
 hero_image = ""
@@ -40,7 +40,7 @@ comments = []
 
 {{ video_embed(provider="youtube", id="RvmTsH4iHBo") }}
 
-Cortometraje de animación del holandés [?Michaël Dudok de Wit]. Este film ganó el Premio Oscar en el año 2000.
+Cortometraje de animación del holandés Michaël Dudok de Wit. Este film ganó el Premio Oscar en el año 2000.
 
 ### Galería
 

@@ -44,7 +44,7 @@ Fotografía tomada en mayo de 2002, con una cámara analógica y película B&N p
 
 El detalle de la gorra, que en esta versión no se aprecia, dice: "Copa Barrio 2001. Gobierno de la Provincia de Neuquén". 
 
-Esta serie, que expuse en la presentación del Taller de Fotografía Creativa en 2003, se compone también de *[->130]* y *[->139]*.
+Esta serie, que expuse en la presentación del Taller de Fotografía Creativa en 2003, se compone también de *[Los invisibles I](@/fotos/los-invisibles-i.md)* y *[Los invisibles II](@/fotos/los-invisibles-ii.md)*.
 
 ### Galería
 

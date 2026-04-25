@@ -99,7 +99,7 @@ una buena idea. Mi opinión al respecto generó una fructífera
 discusión con un compañero que trabaja para una gran empresa "del sector". 
 
 ### From: Elías Pérez
-_ Fecha: 3 de mayo de 2007 16:08
+Fecha: 3 de mayo de 2007 16:08
 
 Compañeros: 
 
@@ -121,7 +121,7 @@ fortaleza depende de las alianzas que tengas.
 Los invito compartir ideas. 
 
 ###  From: Miguel Sanchez
-_ Fecha: 3 de mayo de 2007 16:27 
+Fecha: 3 de mayo de 2007 16:27
 
 Elias, 
 Es una muy buena idea y hoy ya se están usando herramientas en algunas 
@@ -134,7 +134,7 @@ carrera o en este grupo.
 Ing.Miguel Sanchez.-
 
 ### From: Martín Gaitán
-_ Fecha: 3 de mayo de 2007 17:56 
+Fecha: 3 de mayo de 2007 17:56
 
 Me permito participar en este hilo, a costa de fomentar mi (bien 
 ganada) fama de talibán del Software Libre. =) 
@@ -187,10 +187,10 @@ cientos de estudiantes? ¿Estaríamos cubiertos si trabajásemos con una
 fotocopia de la licencia en nuestra casa? 
 
 Saludos.
-_ Martín.
+Martín.
 
 ###  From: Ernesto D. Kartoffel
-_ Fecha: 3 de mayo de 2007 21:21
+Fecha: 3 de mayo de 2007 21:21
 
 La universidad no te capacita para usar un software o herramienta 
 determinada así que no entiendo de donde sale la idea de que la Universidad 
@@ -217,10 +217,10 @@ Pero ponerse la camiseta por algo, es lo peor que pueden hacer porque se
 están limitando a ustedes mismos y a las herramientas que brinda el mercado. 
 
 Saludos cordiales,
-_ Ernesto
+Ernesto
 
 ### From: Martín Gaitán <gaitan@???> 
-_ Fecha: 4 de mayo de 2007 2:15
+Fecha: 4 de mayo de 2007 2:15
 
 > La universidad no te capacita para usar un software o herramienta determinada así que no entiendo de donde sale la idea de que la
 > Universidad es la que te lleva a usar software propietario y a apoyar el monopolio, o a
@@ -354,7 +354,7 @@ Un abrazo grande.
 Martin .-
 
 ### From: Ernesto D. Kartoffel*
-_ Fecha: 4 de mayo de 2007 11:46
+Fecha: 4 de mayo de 2007 11:46
 
 Respuestas/Comentarios en rojo
 
@@ -495,7 +495,7 @@ mantenimiento, tiempo de uptime, disponibilidad, soporte, etc, eso no es  ser in
  Analicemos de donde sacaron el dinero para vivir estos muchachos te parece? Acordate que vivis en un mundo capitalista.
 
 > *(no está al alcance de nuestra carrera)*
-> _ Cual es el alcance entonces? Yo creo que está a nuestro alcance, y nos
+> Cual es el alcance entonces? Yo creo que está a nuestro alcance, y nos
 >  sobran como dos metros de brazo. ;-)
 
 Si me podes citar la parte dentro del Alcance de la carrera que dice esto,
@@ -560,10 +560,10 @@ de chat las 24hs, etc.
  acertadamente.
 
 Saludos
-_ Ernesto
+Ernesto
 
 ### From: Martín Gaitán <gaitan@???> 
-_ Fecha: 4 de mayo de 2007 18:25
+Fecha: 4 de mayo de 2007 18:25
 
 Primero que nada, yo voy a escribir en verde, menos venal.
 
@@ -586,7 +586,7 @@ Primero que nada, yo voy a escribir en verde, menos venal.
 > Vos en tu primer mail citaste lo siguiente:
 > -* ¿No será que la propia universidad es parcialmente responsable del
 >  monopolio de unas pocas empresas en toda una industria tan importante? (...)
-> _ Citando eso responsabilisaste a la Universidad.
+> Citando eso responsabilisaste a la Universidad.
 
 Si lo hice, en el sentido de hacer un llamamiento a la reflexión. Es una
  interpelación en forma de preguntas. La universidad es responsable de
@@ -624,7 +624,7 @@ eso y mucho más?
 
  Hay una falacia implícita en tu pregunta: *"vamos a vivir de nada"* implica
  que aprender y/o trabajar con software libre es hacerlo gratis. Eso no sólo
- es errado, sino que muy perjudicial. En marketing se llama [?FUD] (miedo,
+ es errado, sino que muy perjudicial. En marketing se llama FUD (miedo,
  incertidumbre, duda)
 
  Como dije en el mail anterior, hay muchas formas de vivir y ganar dirnero
@@ -806,7 +806,7 @@ Me referia a la independencia tecnológica.
 >  vendia era muy parecido.
 
  Una empresa unipersonal es chica? =)
-_ No, no he trabajado.
+ No, no he trabajado.
 
  Genial si el precio de venta era parecido o aun mejor! De hecho, se
  promueve que se cobre tanto como se pueda con el Software libre.
@@ -845,7 +845,7 @@ _ No, no he trabajado.
 >  parece?
 >  Acordate que vivis en un mundo capitalista.
 
- Otra vez con [?FUD], mi estimado. ¿Quién dice que no obtuvieron dinero por tener
+ Otra vez con FUD, mi estimado. ¿Quién dice que no obtuvieron dinero por tener
  buenas ideas? ¿Dónde está la contradicción?
 
  Y sí, siempre me acuerdo que vivo en un mundo capitalista. Es en ese
@@ -937,10 +937,10 @@ Son interesantes tu preguntas, y aunque a algunas no las entiendo del todo,
  Y no me encierro, mas al contrario, quiero ser libre. =)
 
  Renovado abrazo.
-_ Martin
+ Martin
 
 {% postscript() %}
-Hay otra discusión en la lista de computación publicada en el blog: [->188]
+Hay otra discusión en la lista de computación publicada en el blog: [Limando cantos I](@/blog/limando-cantos-i.md).
 {% end %}
 
 <span id="comments"></span>

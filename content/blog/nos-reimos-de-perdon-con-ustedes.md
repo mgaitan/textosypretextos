@@ -52,7 +52,7 @@ Con **Borat: Cultural Learnings of America for Make Benefit Glorious Nation of K
 
 Borat! es una hilarante película basada en el personaje homónimo de una serie británica, interpretado por el actor (y principal guionista) Sacha Baron Cohen.
 
-Con estilo de falso documental ([?mockumentary] le dicen los ingleses), la peli empieza con Borat mostrando su aldea en Kazajistán, un pueblo quedado en el tiempo, muy pobre, con costumbres muy peculiares como la "corrida del judío" y cuya mujer más vieja tiene 43 años. *"Este es Orkin, el violador del pueblo"*, señala a uno mientras camina cámara en mano.
+Con estilo de falso documental (*mockumentary* le dicen los ingleses), la peli empieza con Borat mostrando su aldea en Kazajistán, un pueblo quedado en el tiempo, muy pobre, con costumbres muy peculiares como la "corrida del judío" y cuya mujer más vieja tiene 43 años. *"Este es Orkin, el violador del pueblo"*, señala a uno mientras camina cámara en mano.
 
 Borat es reportero de la televisión, y cuenta: *"aunque Kazajístan es un glorioso país, también tiene problemas: económicos, sociales y los judíos. Por eso el ministro de información a decidido mandarme a US y A, el mejor país del mundo, para aprender lecciones para Kazajístan."*
 

@@ -87,7 +87,7 @@ Besos.
 Martín.
 
 {% postscript() %}
-Completan la trilogía [->115] y [->116]
+Completan la trilogía [Cartas de amor efímero II](@/blog/cartas-de-amor-efimero-ii.md) y [Cartas de amor efímero III](@/blog/cartas-de-amor-efimero-iii.md).
 {% end %}
 
 <span id="comments"></span>

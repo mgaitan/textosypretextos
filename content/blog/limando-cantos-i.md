@@ -78,11 +78,11 @@ Date: 10 de marzo de 2008 11:44</div>
 ### --------
 
 Gente me llego el siguiente mail enviado por la facu.
-_ Aqui les copio por si alguno no lo recibió.
+Aqui les copio por si alguno no lo recibió.
 
-**FACULTAD DE CIENCIAS EXACTAS, FÍSICAS Y NATURALES
-_ UNIVERSIDAD NACIONAL DE CORDOBA
-_ CONVOCATORIA A ESTUDIANTES AVANZADOS**
+**FACULTAD DE CIENCIAS EXACTAS, FÍSICAS Y NATURALES**<br>
+**UNIVERSIDAD NACIONAL DE CORDOBA**<br>
+**CONVOCATORIA A ESTUDIANTES AVANZADOS**
 
 La Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad
 Nacional de Córdoba ha realizado gestiones con la Empresa Indra de España, líder en Desarrollo Informático y Aeroespacial que han permitido el lanzamiento
@@ -101,8 +101,8 @@ sito Sede Ciudad Universitaria, en el horario de 9 a 13hs.
 
 --
 
-Difundió: Area de Comunicación Institucional
-_ Sec. de Graduados y RR. Institucionales FCEFyN UNC
+Difundió: Area de Comunicación Institucional<br>
+Sec. de Graduados y RR. Institucionales FCEFyN UNC
 
 ### --------
 
@@ -115,7 +115,7 @@ Date: 10 de marzo de 2008 18:12</div>
 
 Un pequeño aporte para leer opiniones sobre esta empresa:
 
-[->http://www.trabajobasura.com/indra]
+[http://www.trabajobasura.com/indra](http://www.trabajobasura.com/indra)
 
 Por otro lado, y haciéndome cargo de abrir la polémica (hace mucho que
 no soy el padre de una, che) me hace pensar mucho que los interesados deban buscar información en...la Secretaría de Graduados .
@@ -230,7 +230,7 @@ los estudiantes?
 Por ahí está, me parece, donde permea la injusticia.
 
 La seguimos.
-_ Emilio
+Emilio
 
 ### --------
 
@@ -246,7 +246,7 @@ Es posible que la empresa de la capacitación con la intención de captar talent
 Con respecto al plan de estudios de la carrera, el mail proviene de la secretaria de graduados, por lo que me imagino que el curso debe contener temas que agregan al conocimiento adquirido por el graduado. Por otra parte, esta dirigido a todas las carreras de ingeniería, y si el plan no cambió Ing. Electrónica no tenia nada relacionado a ing. de software. Lo que quiero decir es, ¿Es este un tema que se debería enseñar en la carrera de grado o , en realidad, es un tema de posgrado?
  
 Saludos,
-_ Pablo
+Pablo
 
 ### --------
 
@@ -297,15 +297,15 @@ Y esto, no sólo es grave en el sentido de que se pierde la gratuidad
 (segregando aún más a la inmesa mayoría de hombres y mujeres que no pueden acceder a la educación superior) sino que pierde,
 simultáneamente, su sentido de bien común, concretando la buscada ausencia del estado.
 
--- *Tin, para cambiar así la universidad tenés que cambiar el mundo!* --
+— *Tin, para cambiar así la universidad tenés que cambiar el mundo!* —
 me dijo alguien una vez.
--- *¿Y no venimos a la universidad a aprender eso?* -- bromeé.
+— *¿Y no venimos a la universidad a aprender eso?* — bromeé.
 
 Fuerte abrazo.
-_ Martin.
+Martin.
 
 {% postscript() %}
-Hay otra discusión en la lista de computación publicada en el blog: [->219]
+Hay otra discusión en la lista de computación publicada en el blog: [Limando cantos II](@/blog/limando-cantos-ii.md).
 {% end %}
 
 <span id="comments"></span>

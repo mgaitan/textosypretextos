@@ -2,7 +2,7 @@
 title = "Los invisibles I"
 slug = "los-invisibles-i"
 date = 2008-05-04 20:20:27
-description = "Esta obra forma parte de la serie Los Invisibles: [->139], [->197]"
+description = "Esta obra forma parte de la serie Los Invisibles: Los invisibles II y Los invisibles III."
 draft = false
 template = "article.html"
 authors = [
@@ -17,7 +17,7 @@ tags = []
 legacy_id = 130
 section_slug = "fotos"
 section_title = "Fotos"
-summary = "Esta obra forma parte de la serie Los Invisibles: [->139], [->197]"
+summary = "Esta obra forma parte de la serie Los Invisibles: Los invisibles II y Los invisibles III."
 visits = 651
 popularite = 0.9803059453995531
 hero_image = "/media/jpg/DSC_0141.jpg"
@@ -66,7 +66,7 @@ title = "Los invisibles I"
 body = "listo, ya estan los 5 relojitos sigan patrncipaido que sino me los llevo a mi casa y los vendo!!!para la usuaria que le gusto mi remera y la percha, llamame al 155 987248192350283"
 +++
 
-Esta obra forma parte de la serie Los Invisibles: [->139], [->197]
+Esta obra forma parte de la serie Los Invisibles: [Los invisibles II](@/fotos/los-invisibles-ii.md) y [Los invisibles III](@/fotos/los-invisibles-iii.md).
 
 ### Galería
 

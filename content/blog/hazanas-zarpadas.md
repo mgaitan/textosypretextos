@@ -137,7 +137,7 @@ Este texto lo escribí en el año 2000, en viaje a un congreso estudiantil en Ro
 
 Apareció originalmente en la revista Eppur Si Muove, publicación del Centro de Estudiantes de la Facultad de Ingeniería de la Universidad Nacional del Comahue. 
 
-Luego escribí [->166] para la revista El Cascotazo y más adelante, uno que tiene ausencia deliberada de la vocal "e": [->art40].
+Luego escribí [Verdes menesteres](@/blog/verdes-menesteres.md) para la revista El Cascotazo y, más adelante, uno que tiene ausencia deliberada de la vocal "e": [Los mimos y las masas](@/blog/los-mimos-y-las-masas.md).
 {% end %}
 
 <span id="comments"></span>
