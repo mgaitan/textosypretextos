@@ -69,9 +69,7 @@ body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que est
 **subject:** Información sobre la Ley de Medios.
 	
 
-> [http://www.megaupload.com/?d=JBM07UT5](http://www.megaupload.com/?d=JBM07UT5)
->
-> <div style="width:425px;text-align:left" id="__ss_2105997"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/guest28c83ee7/ley-de-medios-2105997" title="Ley De Medios">Ley De Medios</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=leydemedios-091001141719-phpapp01&stripped_title=ley-de-medios-2105997" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=leydemedios-091001141719-phpapp01&stripped_title=ley-de-medios-2105997" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object>
+> [Ley De Medios — presentación en Slideshare](http://www.slideshare.net/guest28c83ee7/ley-de-medios-2105997)
 
 **from** Mario Martinez <sergiochalave@gmail.com><br>
 **to:** ing_computacion@googlegroups.com<br>
@@ -119,7 +117,7 @@ body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que est
 > Dijo usted:
 >
 >
-> <quote>    Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo publico N° 1. Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
+>     Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo publico N° 1. Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
 
 En primer lugar no cita usted fuente alguna de las declaraciones del secretario de Cispren  (Circulo Sindical de trabajadores de prensa de Córdoba), aunque problablemente no esté faltando a la verdad, porque somos muchos los que intuímos que este enfrentamiento entre el gobierno y el Grupo Clarín fue un factor detonante que decidió llevar esto adelante.  Pero, ¿Es ese el eje principal? ¿Cuales son los beneficios o perjuicios que traería la ley más allá de la causa que activó el envío del proyecto? ¿Se lo preguntó?
 
@@ -161,7 +159,7 @@ Dejo acá, obviando comentar sobre su posdata fuera de tema, que sólo enfatiza 
 
 Saludos a ud. atte.
 Emilio Gallego
-</quote>
+
 
 <span id="actualizacion"></span> ### Actualización
 
@@ -189,7 +187,7 @@ Emilio Gallego
 >
 > Disculpe por la confusión sobre su asignatura, pero con más razón aplica mi observación: su experiencia profesional, cargo docente y rol como educador implica una responsabilidad grande en la opinión sobre este tema, y no debe realizarse a la ligera, repitiendo clichés infundados que no aportan claridad
 >
-> <quote>La preocupacion es grande no por una Ley nueva, que hace falta, sino en las entrelineas, relacionadas con el manejo de poder por parte del gobierno, por ejemplo que el único que puede tener cadenas de Radio y TV sea el Gobierno,
+> La preocupacion es grande no por una Ley nueva, que hace falta, sino en las entrelineas, relacionadas con el manejo de poder por parte del gobierno, por ejemplo que el único que puede tener cadenas de Radio y TV sea el Gobierno,
 
 Cuando usted habla de las entrelíneas sería deseable que las explicitara ¿Cuales son? ¿En qué artículos?
 
@@ -223,7 +221,7 @@ menos que menos si no apunto que el Poder no pasa únicamente por el Gobierno."*
 
 Así lo haremos, y ojalá podamos en ese momento seguir reflexinando al respecto. Pero no pretenda que los cambios se vean tan a corto plazo (un año es muy poco tiempo). Una ley no es más que una herramienta, por lo que hay que tener voluntad de usarla y eso será otra lucha que habrá que dar.
 
-Saludos</quote>
+Saludos
 
 **from** Mario Martinez<br>
 **to:** ing_computacion@googlegroups.com<br>
@@ -251,7 +249,7 @@ Saludos</quote>
 **subject:** Re: Información sobre la Ley de Medios.
 	
 
-> <quote>    Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
+>     Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
 
 Optar: justamente, no hay posibilidad de optar cuando se permite que quienes tienen más poder (dinero) acaparan todo el espectro con el mismo mensaje.  ¿Revisó alguna de las infografías sobre el "mapa de medios" ?
 Le <a href="http://www.textosypretextos.com.ar/sites/www.textosypretextos.com.ar/IMG/gif/2h3z9l5.gif" class="thickbox"> facilito una</a>.
@@ -284,7 +282,7 @@ Me quedo con la última oración de esa cita:
 *"A algunos no les entra en la cabeza (o no les conviene aceptar) que esta movida supera los límites del kirchnerismo"*
 
 Saludos y buen fin de semana.
-Emilio</quote>
+Emilio
 
 {% postscript() %}
 Hay más limaduras de cantos en los archivos. Sólo [tenés que buscarlas](/spip.php?page=recherche&recherche=limando+cantos)
