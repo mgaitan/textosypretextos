@@ -6,6 +6,9 @@
 
 {% block content %}
   <main class="pt-8">
+    {% if section.extra.section_slug == "blog" %}
+      {% set blog_subsections = get_section(path="blog/subsecciones/_index.md") %}
+    {% endif %}
     <section class="editorial-rule">
       <div class="mt-5 max-w-[52rem]">
         <h1 class="story-title">{{ section.title }}</h1>
@@ -16,6 +19,20 @@
         {% endif %}
       </div>
     </section>
+
+    {% if section.extra.section_slug == "blog" and blog_subsections.pages | length > 0 %}
+      <section class="editorial-rule mt-8">
+        <div class="flex items-center justify-between gap-4">
+          <h2 class="module-title mb-0">Subsecciones</h2>
+          <a class="more-link" href="{{ blog_subsections.permalink }}">Ver todas</a>
+        </div>
+        <div class="subsection-strip mt-6">
+          {% for subsection in blog_subsections.pages | sort(attribute="title") %}
+            <a href="{{ subsection.permalink }}" class="subsection-chip">{{ subsection.title }}</a>
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
 
     <section class="listing mt-10">
       {% for page in section.pages %}

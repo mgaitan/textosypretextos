@@ -559,6 +559,19 @@
     border-color: var(--color-link);
   }
 
+  .subsection-strip {
+    @apply flex flex-wrap gap-3;
+  }
+
+  .subsection-chip {
+    font-family: var(--font-ui);
+    @apply border border-black px-3 py-2 text-[11px] uppercase tracking-[0.18em] text-black transition-colors hover:bg-black hover:text-white;
+  }
+
+  .subsection-chip.is-active {
+    @apply bg-black text-white;
+  }
+
   .page-footer {
     @apply mt-16 border-t border-black pt-5 text-[11px] uppercase tracking-[0.22em] text-neutral-500;
     font-family: var(--font-mono);

@@ -8,7 +8,11 @@
   {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
   {% if use_subcat %}
     {% set kicker_text = page.extra.tag_links[0].name %}
-    {% set kicker_link = page.extra.tag_links[0].path %}
+    {% if page.extra.section_slug == "blog" %}
+      {% set kicker_link = page.extra.tag_links[0].path | replace(from="/etiquetas/", to="/blog/subsecciones/") %}
+    {% else %}
+      {% set kicker_link = page.extra.tag_links[0].path %}
+    {% endif %}
   {% else %}
     {% set kicker_text = page.extra.section_title %}
     {% set kicker_link = "/" ~ page.extra.section_slug ~ "/" %}
