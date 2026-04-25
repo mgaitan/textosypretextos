@@ -210,6 +210,34 @@ async function loadRecentComments(container) {
   }
 }
 
+async function loadPopularReads(container) {
+  try {
+    const response = await fetch("/api/views?limit=5", {
+      headers: { accept: "application/json" },
+    });
+    if (!response.ok) return;
+    const payload = await response.json();
+    const items = (payload && payload.items) || [];
+    if (!items.length) return;
+
+    const html = items
+      .map((item, index) => `
+        <article class="index-row">
+          <div class="feed-index">${index + 1 < 10 ? "0" : ""}${index + 1}</div>
+          <div>
+            <p class="story-kicker">${escapeHtml(item.section_title || item.section_slug || "")}</p>
+            <h3 class="story-title-xs"><a href="${escapeHtml(item.article_url || "/")}">${escapeHtml(item.article_title || item.article_slug || "")}</a></h3>
+          </div>
+        </article>
+      `)
+      .join("");
+
+    container.innerHTML = html;
+  } catch (_e) {
+    // Keep the static fallback if dynamic loading fails.
+  }
+}
+
 function bindCommentForm(form, dynamicContainer, slug) {
   const status = form.querySelector("[data-status]");
   form.addEventListener("submit", async (e) => {
@@ -247,6 +275,39 @@ function bindCommentForm(form, dynamicContainer, slug) {
   });
 }
 
+function trackArticleView(node) {
+  const payload = {
+    slug: node.dataset.articleSlug || "",
+    url: node.dataset.articleUrl || "",
+    title: node.dataset.articleTitle || "",
+    sectionSlug: node.dataset.sectionSlug || "",
+    sectionTitle: node.dataset.sectionTitle || "",
+  };
+
+  if (!payload.slug || !payload.url) return;
+
+  const body = JSON.stringify(payload);
+
+  try {
+    if (navigator.sendBeacon) {
+      const blob = new Blob([body], { type: "application/json" });
+      navigator.sendBeacon("/api/views", blob);
+      return;
+    }
+  } catch (_e) {
+    // Fallback to fetch below.
+  }
+
+  fetch("/api/views", {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body,
+    keepalive: true,
+  }).catch(() => {
+    // Ignore analytics failures.
+  });
+}
+
 const dynamicContainer = document.getElementById("dynamic-comments");
 const commentForm = document.getElementById("comment-form");
 if (dynamicContainer && commentForm) {
@@ -260,4 +321,14 @@ if (dynamicContainer && commentForm) {
 const recentCommentsContainer = document.querySelector("[data-recent-comments]");
 if (recentCommentsContainer) {
   loadRecentComments(recentCommentsContainer);
+}
+
+const popularReadsContainer = document.querySelector("[data-popular-reads]");
+if (popularReadsContainer) {
+  loadPopularReads(popularReadsContainer);
+}
+
+const articleTracker = document.querySelector("[data-track-article-view]");
+if (articleTracker) {
+  trackArticleView(articleTracker);
 }
