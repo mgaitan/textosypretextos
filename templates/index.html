@@ -5,7 +5,8 @@
 
 {% block content %}
   {% set blog = get_section(path="blog/_index.md") %}
-  {% set featured_photo = get_page(path=section.extra.featured_photo_path) %}
+  {% set fotos_section = get_section(path="fotos/_index.md") %}
+  {% set featured_photo = fotos_section.pages | first %}
   {% set latest_video = get_page(path=section.extra.latest_video_path) %}
   {% set latest_other = get_page(path=section.extra.latest_other_path) %}
   {% set blog_pages = blog.pages | slice(end=5) %}

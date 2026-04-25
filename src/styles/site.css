@@ -646,7 +646,7 @@
   }
 
   .home-sidebar .media-frame {
-    @apply border-2;
+    @apply border-t-2 border-black;
   }
 
   .comment-stack {
