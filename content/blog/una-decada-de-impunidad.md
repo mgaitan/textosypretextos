@@ -67,9 +67,9 @@ Cuando Camila cumplió 10 años hace algunas semanas, Mariano  y yo cumplímos u
 
 Me acuerdo patente y patético de mis rezos ateos para que el *"pan bajo el brazo"* fuese el mundial, el de Francia, que se empezó a jugar un mes después de que Camila nació.  No sé si por la falacia de mi religiosidad o porque Cami ya era suficiente regalo, se sabe, el panadero del cielo bajo el brazo no mandó ni una miguita y en cambio, me quizo conformar con un [cabezazo bajo la mandíbula](http://www.youtube.com/watch?v=xdHtsSIM7HM). 
 
-Diez años de tio. Joaquín se sumó en el camino y en el descuido se colaron 1200 kilometros muy putos, que me hacen perder la mejor parte: la de la risa y el descubrimiento cotidiano. Pero igual la emoción se la ingenia para invadir, aprovechándose de cualquier comentario (una actuación en la escuela, una nueva palabra aprendida, una canción en el piano o los nuevos datos sobre el planeta marte), que siempre se amplifica en las babas de los abuelos. 
+Diez años de tío. Joaquín se sumó en el camino y en el descuido se colaron 1200 kilometros muy putos, que me hacen perder la mejor parte: la de la risa y el descubrimiento cotidiano. Pero igual la emoción se la ingenia para invadir, aprovechándose de cualquier comentario (una actuación en la escuela, una nueva palabra aprendida, una canción en el piano o los nuevos datos sobre el planeta marte), que siempre se amplifica en las babas de los abuelos. 
 
-En las breves escapadas de invierno y en los veranos, cuando los kilómetos se anulan y el corazón se agita en un abrazo, comienza la diversión de verdad. Soy tio. Soy impunemente niño. 
+En las breves escapadas de invierno y en los veranos, cuando los kilómetos se anulan y el corazón se agita en un abrazo, comienza la diversión de verdad. Soy tío. Soy impunemente niño. 
 
 Lo que sigue es el guión de de títeres que escribimos con Camila,  para una obra pensada para la navidad pero estrenada al final luego la cena de año nuevo del 2006 ante el público familiar presente. Joaquín tenía 2 años y formó parte del elenco, en el rol estelar del Gigante Panzachina. Ripolito era mi títere, y Floripondia y la Gata Machata los de Camila, que tuvo memoria suficiente para recordar los parlamentos de dos personajes. 
 
@@ -118,7 +118,7 @@ enfatizar que caminan. En la mitad de una pasada Ripolito se dirige hacia el pú
 
 **Ripolito**: Che, ¿Ustedes entedieron algo al mago?
 
-**Gata Machata**: Ay, sí... yo tambien estoy que me cago.
+**Gata Machata**: Ay, sí... yo también estoy que me cago.
 
 **Floripondia**: ¡Momento! El gigante no es un mago, es un sabio.
 

@@ -60,7 +60,7 @@ y de sueño el amor mío.<br>
 Y una amapola me lo dijo ayer,<br>
 que te voy a ver,<br>
 que te voy a ver.<br>
-Y un arcoiris me pintó la piel<br>
+Y un arcoíris me pintó la piel<br>
 para amanecer contigo.<br>
 <br>
 Cierra la noche y el día, mi vida,<br>
@@ -73,13 +73,13 @@ te digan cuanto te quiero.<br>
 Y una amapola me lo dijo ayer<br>
 que te voy a ver,<br>
 que te voy a ver.<br>
-Y un arcoiris me pintó la piel<br>
+Y un arcoíris me pintó la piel<br>
 para amanecer contigo.<br>
 <br>
 Y una amapola me lo dijo ayer<br>
 que te voy a ver,<br>
 que te voy a ver.<br>
-Y un arcoiris me pintó la piel<br>
+Y un arcoíris me pintó la piel<br>
 para amanecer contigo…</div>
 
 {% postscript() %}

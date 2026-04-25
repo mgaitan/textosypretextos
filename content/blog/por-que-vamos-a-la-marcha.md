@@ -78,7 +78,7 @@ body = "Buenas! adhiero totalmente a la carta abierta transcripta arriba, y al c
 
 Vuelvo a adherir plenamente a una carta abierta, esta vez firmada por múltiples hombres y mujeres de la política, intelectuales, artistas y sindicalistas de la Argentina. Sumo mi opinión a modo de prólogo. 
 
-Se dice, con mucha picardía, que los pesimistas son los optimistas que están bien informados. A veces me considero uno de esos, y en particular con este gobierno. Para decirlo claramente: no es el de este gobierno, el proyecto de pais que yo quiero. 
+Se dice, con mucha picardía, que los pesimistas son los optimistas que están bien informados. A veces me considero uno de esos, y en particular con este gobierno. Para decirlo claramente: no es el de este gobierno, el proyecto de país que yo quiero. 
 
 Encuentro grandes motivos que me alejan (ya no digo "que me hacen dudar") del kirchnerismo. Algunos de ellos se mencionan en la carta abierta. Otros tienen que ver con la acumulación del poder,  la falaz redistribución de la riqueza planteada y la ausencia de intenciones de construir una democracacia participativa, que considero evidenciada en no fomentar el trabajo autárquico de las muchas organizaciones sociales de base, y en el aprovechamiento (en vez del desmantelamiento) de las redes de clientelismo. 
 

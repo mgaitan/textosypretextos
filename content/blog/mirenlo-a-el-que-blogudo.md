@@ -183,7 +183,7 @@ Una vez le [conté a mi vieja](http://efectotabano.nqnwebs.com/spip.php?article1
 
 Era un [blog](http://mujergorda.bitacoras.com) de [Hernán Casciari](http://orsai.es), uno de los tipos que me inició en la literatura. Observen bien, hay un punto ahí. No dice blogs literarios ni literatura virtual. Dice literatura, a secas, como una trompada en el hígado. Yo aprendí a leer mitad en la pantalla, mitad de los [libros que compraba mi vieja por catálogo](@/blog/dulce-y-tenaz.md)  y aprendí a escribir mitad en el teclado... y ahí quedé, porque la otra mitad la voy aprendiendo sobre la marcha, intentando, y este blog es el pretexto para eso. 
 
-Así que le debo mucho a Hernán Casciari, que fue uno de los que ayer me dió un premio. 
+Así que le debo mucho a Hernán Casciari, que fue uno de los que ayer me dio un premio. 
 
 {{ media_image(src="/media/jpg/13331_202572766371_710721371_3594075_3756739_n.jpg", alt="", caption="", align="center") }}
 
@@ -219,7 +219,7 @@ Cuando salimos del España-Córdoba no me podía sacar la espina.
 
 -- Decime la verdad, Nati -- la increpé -- ¿vos no te acostaste con Playo para que dieran esta mención, cierto?
 
--- Che, tan poco no valgo-- me dijo, y me dió un beso de esos que son siempre un primer premio.
+-- Che, tan poco no valgo-- me dijo, y me dio un beso de esos que son siempre un primer premio.
 
 {% postscript() %}
 Por supuesto, en estos momentos donde las mieles de la fama golpean a mi puerta, dejan todo el picaporte pegoteado y salen corriendo, no puedo menos que agradecer a la familia y a todos los amigos y amigas que siempre estuvieron allí, leyendo,

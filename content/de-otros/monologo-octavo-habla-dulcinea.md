@@ -81,7 +81,7 @@ mis desconocidos encantos. La cosa parecía, como puede verse, burla y aun algo
 pesada, tanto más cuanto que el dicho caballero no parecía incluir entre sus
 planes inmediatos proponerme honesto matrimonio, cosa que yo, desde luego,
 no hubiera tenido prisa alguna en aceptar. Por lo que Sancho decía, mi
-enamorado esperaba a las afueras del pueblo que yo le diese venia para besarme
+enamorado esperaba a las afueras del pueblo que yo le diese venía para besarme
 los pies. Repuse muy gentilmente que la hija de mi madre no era princesa ni
 arzobispo para que nadie hubiera de besarle los pies, ni tampoco tan boba para
 no saber que no es bueno mezclar lo que Dios ha separado ni una aldeana puede
@@ -105,7 +105,7 @@ casado y leal por naturaleza, tampoco estaba en vena de hacer remilgos a la
 ocasión que se le ofrecía. Jugamos largo rato, con gran contento por ambas
 partes. Cuando acabamos, él volvió a acordarse de su amo y del encargo que
 traía; yo, que me sentía generosa y con ganas de seguir enredada en la misma
-madeja que acababa de ceñirme, le dije que podía traer a su caballero si queria,
+madeja que acababa de ceñirme, le dije que podía traer a su caballero si quería,
 pues estaba dispuesta a darle a él también el mismo regalo con que había
 obsequiado al escudero. Pero Sancho no quiso ni oír hablar de ello: hasta me dijo
 algo secamente que bien se veía que yo no entendía nada de caballerías y que no

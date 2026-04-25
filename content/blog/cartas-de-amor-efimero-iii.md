@@ -67,13 +67,13 @@ Compañera poetisa:
 
 Probablemente no te pase, pero para mi no hay nada más amedrentador
 que una cajita de texto en blanco cuando quiero escribirle algo 
-especial a alguien especial. Bueno, sí, quizas un papel en blanco,
+especial a alguien especial. Bueno, sí, quizás un papel en blanco,
 pero este posmodernismo me tecnificó hasta los miedos.
 
 Es que aunque de vez en cuando me gusta escribir y otras veces tengo
 infrecuentes impulsos de audacia --como salir semidesnudo de un rio
 logrando una versión libre del  monstruo del lago Ness con bajo
-presupuesto--, en realidad se vuelve dificil hilvanar palabras que me
+presupuesto--, en realidad se vuelve difícil hilvanar palabras que me
 dejen acercarme, sin saber bien a qué, sin saber bien por dónde. 
 
 Lo que sé es que fue un gran amanecer, un bello inicio de año, con la
@@ -101,13 +101,13 @@ Tengo una seria tendencia a la cursilería, que a veces se camufla en la sensibi
 De vez en cuando me gusta salir del rio semidesnudo y sentarme al lado de alguna chica que me gusta. Me asusto muchísimo cuando en vez de insultarme, ignorarme, o llamar a su novio matón, la chica me sonríe, me da conversación y me lee un poema.  
 
 Me gusta la música, aunque no soy erudito («eructito, hijo, se dice eructito»  -- amo Los Simpsons- ). En  el cine, en cambio, me inventé algo así como un criterio personal que consiste en decir «me gustó» si la peli me gustó y «no me gustó» si sucede lo contrario. Además llevo una especie de obsesión por recordar los nombres de
-los actores de reparto de peliculas desconocidas que nunca vi. 
+los actores de reparto de películas desconocidas que nunca vi. 
 
 Estoy convencido de que el pomo de la pasta de dientes nunca se acaba: siempre se puede sacar un poco más, siempre. Y también que lo que se siente por una mujer sólo se define cuando la ves durmiendo al lado tuyo. 
 
 Escribo y leo. Séptimo grado completo. También saco fotos: hay que apretar un botón,  el aparato hace click, y el tiempo se congela.
 
-Cuando era chico y feliz -- que no fue el único tiempo en el que fui feliz, ni todo el tiempo en el que fui chico-- supe algunas poesias de memoria, pero luego tuve que ocupar esas neuronas en recordar formulas de integrales. Tuve un blog que abandoné y alguna vez resucitaré desde las cenizas del spam y el olvido. Será igual de aburrido y tendrá la misma dirección: [http://www.textosypretextos.com.ar](http://www.textosypretextos.com.ar).
+Cuando era chico y feliz -- que no fue el único tiempo en el que fui feliz, ni todo el tiempo en el que fui chico-- supe algunas poesías de memoria, pero luego tuve que ocupar esas neuronas en recordar formulas de integrales. Tuve un blog que abandoné y alguna vez resucitaré desde las cenizas del spam y el olvido. Será igual de aburrido y tendrá la misma dirección: [http://www.textosypretextos.com.ar](http://www.textosypretextos.com.ar).
 
 Aunque lo disimulo, soy un nerd. Estudio y trabajo a través de computadoras. Creo en esas cosas y en
 internet. Son herramientas revolucionarias, e intento luchar por su

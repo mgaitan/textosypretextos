@@ -44,7 +44,7 @@ sacudiste las más sólidas tristezas, que respondiste cada vez que te
 he llamado, aunque yo no supiera que lo hacía. Quiero una noche llegar
 a donde estés, con helado de dulce de leche granizado y poder
 abrazarte un rato largo, sin miedo al momento en que te vayas de
-nuevo. Y que esté el cielo despejado, dormir ahi afuera, donde
+nuevo. Y que esté el cielo despejado, dormir ahí afuera, donde
 estemos, y que el helado se derrita a mi lado porque tu boca es más
 dulce.
 
@@ -55,7 +55,7 @@ estás? ¿Por qué no venis? ¿Por qué te vas de nuevo?
 
 Voy a despertar antes de que amanezca, el cielo estará rojo como una
 raspadura en mi talón o tu piel azotada por el sol. Voy beber brevajes
-que me hagan sentir tu piel como el viento siente la mia y voy a bajar
+que me hagan sentir tu piel como el viento siente la mía y voy a bajar
 al lago a buscarte, una y mil veces más, hasta que te encuentre. Te
 voy a leer un cuento que habla de un día perfecto, uno en el que
-alguien dice mi nombre y sonrie complice del sol.
+alguien dice mi nombre y sonríe complice del sol.

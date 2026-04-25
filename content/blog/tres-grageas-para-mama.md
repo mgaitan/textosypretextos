@@ -111,7 +111,7 @@ body = "las tías también pueden robarlo? me encantó Martín, UN ABRAZO GIGANT
 
 En pleno microcentro, entre bancos y casas de cambio, hay una tienda de artículos para el hogar en cuya entrada hay un televisor de plasma de muchas pulgadas. Siempre que paso por ahí me llaman la atención dos cosas: lo mal que se ven los teles de plasma si no estás lejos, y cómo todo tipo de gente se detiene para ver, sea lo que sea que estén dando. Tipos de traje y corbata, mujeres con niños de la mano, canillitas y jubilados forman una medialuna inmóvil, sólo concentrada en la pantalla.
 
-La última vez que fui al banco volví a hacer mi experimento. Me pongo cerca de la vidriera de ese local, y en vez de mirar la tele miro a los espectadores. Daban una publicidad del día de la madre, qué otra cosa estos dias. Esa del nenito con edipo a flor de piel que abandona la casa porque su mamá lo "engaña" con una planta. Justo cuando comienza, una mina con pinta de secretaria y una señora que vende flores se detienen a mirar. A medida que la publicidad avanza, va apareciendo una sonrisa en los rostros de esas mujeres. Me emocionaron tanto que tuve ganas de comprarme un celular en ese instante.
+La última vez que fui al banco volví a hacer mi experimento. Me pongo cerca de la vidriera de ese local, y en vez de mirar la tele miro a los espectadores. Daban una publicidad del día de la madre, qué otra cosa estos días. Esa del nenito con edipo a flor de piel que abandona la casa porque su mamá lo "engaña" con una planta. Justo cuando comienza, una mina con pinta de secretaria y una señora que vende flores se detienen a mirar. A medida que la publicidad avanza, va apareciendo una sonrisa en los rostros de esas mujeres. Me emocionaron tanto que tuve ganas de comprarme un celular en ese instante.
 
 ### DOS
 
@@ -128,7 +128,7 @@ Dany puso un disco que le grabaron. Quería que escuchara una versión de *"Down
 <div class="poetry">**A través de tus ojos - La Portuaria**<br>
 <br>
 Yo puedo ver el mundo<br>
-y comprender el paso de los dias.<br>
+y comprender el paso de los días.<br>
 Y entendemos sin palabras,<br>
 abrazando nuestro cómplice silencio<br>
 <br>
@@ -146,7 +146,7 @@ Y atravesando el muro de viejas armaduras<br>
 las fórmulas no tienen más sentido.<br>
 <br>
 Tus ojos me despiertan si me quedo dormido.<br>
-yo sueño tu futuro y lo vivo cada dia,<br>
+yo sueño tu futuro y lo vivo cada día,<br>
 y en cada cosa que hago<br>
 vos siempre estás conmigo.<br>
 <br>

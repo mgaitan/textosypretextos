@@ -72,7 +72,7 @@ Asado en Anisacate,
 
 {{ media_image(src="/media/distant/jpg/DSC_5184JPG-f68a.jpg", alt="Lu (foto de Carlitos)", caption="Lu (foto de Carlitos)", align="center") }}
 
-{{ media_image(src="/media/distant/jpg/DSC_5189JPG-1bc5.jpg", alt="Reir", caption="Reir", align="center") }}
+{{ media_image(src="/media/distant/jpg/DSC_5189JPG-1bc5.jpg", alt="Reír", caption="Reír", align="center") }}
 
 {{ media_image(src="/media/distant/jpg/DSC_5194JPG-4025.jpg", alt="", caption="", align="center") }}
 

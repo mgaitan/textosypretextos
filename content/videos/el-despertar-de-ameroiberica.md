@@ -46,7 +46,7 @@ Gran trabajo documental de los jóvenes cineastas cordobeses José Haidar, Pablo
 
 *"El Despertar de Ameroibérica"*, de 41 minutos, retrata el proceso político y social que llevó a la presidencia a Evo Morales, visto como un punto de inflexión en la historia latinoamericana. 
 
-El documental completo puede bajarse en formato XviD desde [este enlace](ftp://st9es:st9es@store2.arcoiris.tv/telesur/despertardeameroiberica.avi)
+El documental completo puede bajarse en formato XviD desde [este enlace](ftp://st9es:st9es@store2.arcoíris.tv/telesur/despertardeameroiberica.avi)
 
 ### Galería
 

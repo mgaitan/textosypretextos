@@ -85,9 +85,9 @@ _
 
 Me acordé y es para vos, Dolores. Lo hizo otro, para otra, pero también yo lo hice y es para vos. Lo hizo otro, porque yo no sé decir las cosas que siento, pero reconozco cuando alguno es capaz de decirlas por mi. Y es también un modo de decirlas. 
 
-A lo mejor, Vargas ya no se acuerda de esto que escribió. Yo me acuerdo, y es un modo de hacerlo mio. *Porque eres mía, porque no eres mía*. Nadie podría decirlo mejor ¿Verdad? *Corazón Coraza*. Es para vos, Dolores. Ya no sé quién lo hizo. Acaso Vargas fué un robot que pensó por mi? Acaso yo soy Vargas, o Vargas soy yo. 
+A lo mejor, Vargas ya no se acuerda de esto que escribió. Yo me acuerdo, y es un modo de hacerlo mio. *Porque eres mía, porque no eres mía*. Nadie podría decirlo mejor ¿Verdad? *Corazón Coraza*. Es para vos, Dolores. Ya no sé quién lo hizo. Acaso Vargas fue un robot que pensó por mi? Acaso yo soy Vargas, o Vargas soy yo. 
 
-Lo único seguro es que estás exisitiendo, Dolores, en algún rincón de este dia, en algun lugar del mundo, sola o con alguien, pero sin mi. Lo único seguro es que sos mejor que todas tus imágenes, que todas las imágenes que yo tengo de vos. ¿Quise esperar este instante a solas, sin prisa exterior y sin testigos, para decirme con todas las letras, que estoy enamorado? Quizá sólo semienamorado. Porque ella dice que no, que no me quiere. Y para estar total, completa, absolutamente enamorado, hay que tener plena consciencia de que uno también es querido, que uno también inspira amor (...).
+Lo único seguro es que estás exisitiendo, Dolores, en algún rincón de este día, en algún lugar del mundo, sola o con alguien, pero sin mi. Lo único seguro es que sos mejor que todas tus imágenes, que todas las imágenes que yo tengo de vos. ¿Quise esperar este instante a solas, sin prisa exterior y sin testigos, para decirme con todas las letras, que estoy enamorado? Quizá sólo semienamorado. Porque ella dice que no, que no me quiere. Y para estar total, completa, absolutamente enamorado, hay que tener plena consciencia de que uno también es querido, que uno también inspira amor (...).
 
 {% postscript() %}
 *De la novela «Gracias por el fuego», de Mario Benedetti. El poema que encabeza el fragmento es, por supuesto, de la autoría de Benedetti y se titula «Corazón Coraza».*

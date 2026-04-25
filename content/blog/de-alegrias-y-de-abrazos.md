@@ -91,19 +91,19 @@ body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus agu
 >
 > Que lindo leer tu mensaje, me llena de emoción, siento en mi corazón  tu misma emoción, me estremece tu sensibilidad, tu amor por la justicia, por la dignidad de la gente y también tu compromiso. Negrito, ¡te quiero tanto!
 >
-> Así como me emociona y me alegra todo lo que has aprendido y sentido en este viaje, no deja de preocuparme, (lo siento, soy tu padre), leo y me parece leer algun "documento" que yo escribiera cuando tenía 20 años. Siento en tus escritos la angustia y la necesidad de hacer algo que sentía yo en esa época.
+> Así como me emociona y me alegra todo lo que has aprendido y sentido en este viaje, no deja de preocuparme, (lo siento, soy tu padre), leo y me parece leer algún "documento" que yo escribiera cuando tenía 20 años. Siento en tus escritos la angustia y la necesidad de hacer algo que sentía yo en esa época.
 >
 > Mientras escribo me pregunto si ya no lo siento, la verdad es que sí, también me duele hasta las lagrimas las injusticias, el hambre la marginación y todas las putas injusticias que existen. Lo que pasa que ya he vivido unos cuantos años y he recorrido algunos caminos, muchos de los cuales fueron equivocados. De todos uno aprende algo y me gustaría,  (es más, es mi compromiso) que Uds puedan aprovechar algo de ese aprendizaje.
 >
-> Por eso, todo este tiempo en el que yo no "milito" en la forma tradicional, trato de hacerlo en la vida de todos los dias, tratando de ser mejor,  de encontrar algun camino que ayude a ese cambio, por ahora solo lo hago desde buscar mi propio cambio que de alguna manera pueda irradiar a los mas cercanos.
+> Por eso, todo este tiempo en el que yo no "milito" en la forma tradicional, trato de hacerlo en la vida de todos los días, tratando de ser mejor,  de encontrar algún camino que ayude a ese cambio, por ahora solo lo hago desde buscar mi propio cambio que de alguna manera pueda irradiar a los mas cercanos.
 >
-> Bueno parece que me fui. En realidad me gusta mucho todo lo que pensás y tengo la esperanza de que de todas las charlas, de la historia de tu madre, mia y de tantos otros, sabrás aprender, sabrás encontrar la manera de aportar mejor a este cambio tan necesario en toda América como en todos lados. Por eso es tan importante el propio cambio.
+> Bueno parece que me fui. En realidad me gusta mucho todo lo que pensás y tengo la esperanza de que de todas las charlas, de la historia de tu madre, mía y de tantos otros, sabrás aprender, sabrás encontrar la manera de aportar mejor a este cambio tan necesario en toda América como en todos lados. Por eso es tan importante el propio cambio.
 >
 > Sé que con tu juventud es difícil aceptar consejos de "viejos", pero también sé de tu madurez, de tu capacidad de reflexión y sé que todo eso aportará a encontrar la manera. El servicio a nuestro pueblo debe ser también el servicio a vos mismo, debe ser alegría, debe ser paz interior. Tanto vos como tus hermanos han recorrido un camino muy importante, que no muchas personas han podido hacer: crecer escuchando de necesidad de cambios, de justicia, de lucha y de amor.
 >
-> También han podido acceder a una formacion intelectual con una conciencia distinta. Ustedes son portadores de muchas cosas que servirán a ese nuevo mundo. Eso hay que valorarlo y cuidarlo, para que pueda desarrollarse y algun día fructifiquen en una nueva sociedad.
+> También han podido acceder a una formacion intelectual con una conciencia distinta. Ustedes son portadores de muchas cosas que servirán a ese nuevo mundo. Eso hay que valorarlo y cuidarlo, para que pueda desarrollarse y algún día fructifiquen en una nueva sociedad.
 >
-> Pequeño, no se si me enredé mucho. La verdad es que al leer lo que escribís me salen tantas cosas que quisiera decirte que no puedo transmitir escribiendo, quizas si te tuviera al lado podría abrazarte fuerte y vos me entenderías mejor.
+> Pequeño, no se si me enredé mucho. La verdad es que al leer lo que escribís me salen tantas cosas que quisiera decirte que no puedo transmitir escribiendo, quizás si te tuviera al lado podría abrazarte fuerte y vos me entenderías mejor.
 >
 > Bueno negrito, mañana tal vez te escriba para darte "todos los consejos " que tenia pensados para este año de facu que empieza (no te enojes).
 >
@@ -115,7 +115,7 @@ body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus agu
 
 Hola Pa.
 
-*"(...)quizas si te tuviera al lado podria abrazarte fuerte y vos me
+*"(...)quizás si te tuviera al lado podría abrazarte fuerte y vos me
 entenderias mejor"*. Abrazarse fuerte para entenderse mejor. Qué bonito es eso, cierto?
 
 Te debía esta respuesta y voy a intentarla así, cortita, antes de que
@@ -148,7 +148,7 @@ Hay un textito de Claudia Korol, que es una escritora argentina muy comprometida
 > hacer de cada instante, un tiempo de lucha, un presente nuestro. Una
 > victoria cotidiana, siempre."
 
-Mi victoria cotiana, la que triunfo todos los dias, es saber de
+Mi victoria cotiana, la que triunfo todos los días, es saber de
 quiénes vengo y hacia dónde quiero ir.
 
 Un abrazo para que entiendas mejor.

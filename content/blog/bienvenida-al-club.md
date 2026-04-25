@@ -70,7 +70,7 @@ Estoy en la poco existencial duda sobre si debí leer, y mas aún, responder a s
 
 Obviando tal insignificante omisión, deseo brindarle mi menos sentida lástima por la perdida de su aparatito* y mi más sentida bienvenida al Club.
 
-Vaya la aclaracion: el Club no sólo acepta miembros que hayan extraviado accidentalmente su móvil como es su caso. También acepta a quienes se lo revolearon a la pareja emulando al cenicero de Susana, a quienes tuvieron hasta 3 simultaneamente y estallaron en un ataque de stress por el que hoy estan internados en un nosocomio, tambien a los que por problemas económicos lo dejaron de lado pa'poder comprar fideos y hasta a algunos pocos (los menos) que lo abandonaron por convicciones político-libertarias. Condición necesaria y suficiente para la admisión ha sido contundentemente superada por Ud., y notamos (yo, en nombre de la comision directiva del Club) la evidencia en la siguiente frase:
+Vaya la aclaracion: el Club no sólo acepta miembros que hayan extraviado accidentalmente su móvil como es su caso. También acepta a quienes se lo revolearon a la pareja emulando al cenicero de Susana, a quienes tuvieron hasta 3 simultaneamente y estallaron en un ataque de stress por el que hoy están internados en un nosocomio, también a los que por problemas económicos lo dejaron de lado pa'poder comprar fideos y hasta a algunos pocos (los menos) que lo abandonaron por convicciones político-libertarias. Condición necesaria y suficiente para la admisión ha sido contundentemente superada por Ud., y notamos (yo, en nombre de la comision directiva del Club) la evidencia en la siguiente frase:
 
 > <span lang="ES-TRAD"><font size="3"><font face="Times New Roman" /></font></span>"Liberación fue el único sentimiento que me invadió".
 
@@ -84,7 +84,7 @@ Para consolidar su sensación de libertad, quisiera compartir la experiencia de 
 \
 Queremos destacar que nuestra cofradía no hace militancia activa contra\
 las empresas como "Molestar" o similares, y tampoco eleva juicios\
-globales contra los cada vez más consumidores de esta tecnologia ya que\
+globales contra los cada vez más consumidores de esta tecnología ya que\
 como afirma un estudio que hemos realizado
 \
 
@@ -197,7 +197,7 @@ ni la clase social,
 \
 Ministro o barrendero
 \
-"lo usan para trabajar".",1] );  //--></script>    Queremos destacar que nuestra cofradía no hace militancia activa contra las empresas como "Molestar" o similares, y tampoco eleva juicios globales contra los cada vez más consumidores de esta tecnologia ya que como afirma un estudio que hemos realizado:
+"lo usan para trabajar".",1] );  //--></script>    Queremos destacar que nuestra cofradía no hace militancia activa contra las empresas como "Molestar" o similares, y tampoco eleva juicios globales contra los cada vez más consumidores de esta tecnología ya que como afirma un estudio que hemos realizado:
 
 > " En los primeros tiempos se pensaba que eran juguetes para nenes de mamá y nenas de papá (que quiere tenerla bien controladita, iluso…)...pero sería cosa de nunca acabar la enumeración de las personas que han caído en el vicio de la telefonía móvil, y todas ellas responden a las más variadas especies. Eso es desalentador, en cuanto no me permite afirmar que sólo es cosa de bobos."
 

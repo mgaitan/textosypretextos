@@ -1211,7 +1211,7 @@ aunque el miedo muerda,<br>
 aunque el sol se esconda y se calle el viento,<br>
 aun hay fuego en tu alma,<br>
 aun hay vida en tus sueños,<br>
-porque la vida es tuya y tuyo tambien el deseo,<br>
+porque la vida es tuya y tuyo también el deseo,<br>
 porque lo has querido y porque te quiero.<br>
 <br>
 Porque existe el vino y el amor, es cierto,<br>
@@ -1231,7 +1231,7 @@ aunque el miedo muerda,<br>
 aunque el sol se ponga y se calle el viento,<br>
 aun hay fuego en tu alma,<br>
 aun hay vida en tus sueños,<br>
-porque cada dia es un comienzo,<br>
+porque cada día es un comienzo,<br>
 porque esta es la hora y el mejor momento,<br>
 porque no estas sola,<br>
 porque yo te quiero.</div>

@@ -45,7 +45,7 @@ puedo ponerme triste y decir<br>
 que me basta con ser tu enemigo, tu todo,<br>
 tu esclavo, tu fiebre, tu dueño.<br>
 <br>
-Y si quieres tambien<br>
+Y si quieres también<br>
 puedo ser tu estacion y tu tren,<br>
 tu mal y tu bien,<br>
 tu pan y tu vino,<br>
@@ -63,7 +63,7 @@ puedo ponerme digno y decir<br>
 "toma mi direccion cuando te hartes de amores<br>
 baratos de un rato… me llamas".<br>
 <br>
-Y si quieres tambien<br>
+Y si quieres también<br>
 puedo ser tu trapecio y tu red,<br>
 tu adios y tu "ven",<br>
 tu manta y tu frio,<br>
@@ -74,10 +74,10 @@ que te arranca del aburrimiento<br>
 y te deja abrazada a una duda,<br>
 en mitad de la calle y desnuda.<br>
 <br>
-Y si quieres tambien<br>
+Y si quieres también<br>
 puedo ser tu abogado y tu juez,<br>
 tu miedo y tu fe<br>
-tu noche y tu dia.<br>
+tu noche y tu día.<br>
 <br>
 Tu rencor, tu por que, tu agonia…<br>
 o tal vez esa sombra<br>

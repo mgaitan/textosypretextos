@@ -54,7 +54,7 @@ body = "Sí, somos muchos los que te queremos bien Juli!!!!\nte quiero mucho che
 Mario, el cartero de la novela "Ardiente Paciencia" de Antonio Skármeta, regalaba poemas de Neruda a su enamorada sin decirle que no eran propios. Cuando el poeta se enteró le preguntó los motivos, y Mario intentó una justificación: "La poesía no es de quien la escribe, sino de quien la necesita".
 
 Te quiero muchísimo.
-Somos muchos los que queremos que estes bien.
+Somos muchos los que queremos que estés bien.
 {% end %}
 
 <span id="comments"></span>

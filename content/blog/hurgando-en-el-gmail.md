@@ -86,11 +86,11 @@ iba a escribir un mensaje en la bitácora y todavía estoy esperando.
 
 Bueno contate algo. Che y de nuestros padres, hermano y sobrinos, ¿tenés noticias?
 
-Yo por aca todo re bien. ahora estamos en la casa de Andrea y esta
+Yo por acá todo re bien. ahora estamos en la casa de Andrea y esta
 tarde salimos para Barcelona. Después la idea es ir a Roma. Estoy
-pensando la posibilidad de quedarme algunos dias más en Locarno. Tal
-vez dos semanas, pero todavia no le he decidido. Tengo que ver si
-puedo por la visa. Supongo que cuando vuelva me quedare en Baires. Ya estuve pensando algunas cosas interesantes que puedo hacer. y tendré que tirar alguna materia libre. Por ahí me voy unos dias para Córdoba también.
+pensando la posibilidad de quedarme algunos días más en Locarno. Tal
+vez dos semanas, pero todavía no le he decidido. Tengo que ver si
+puedo por la visa. Supongo que cuando vuelva me quedare en Baires. Ya estuve pensando algunas cosas interesantes que puedo hacer. y tendré que tirar alguna materia libre. Por ahí me voy unos días para Córdoba también.
 
 Bueno che te mando un abrazo, Nos vemos
 
@@ -106,7 +106,7 @@ _ **Fecha**: 2005/9/13
 
 A mí me pasan cosas más geniales que a vos, sólo que no las ando contando así tan egrupidamente y en vez de los Canales de Venecia tengo La Cañada, que es el zanjón que atraviesa la ciudad.
 
-Por ejemplo, el otro dia iba caminando y me pararon dos mafiosos en la calle. Me preguntaron si quería pertenecer a la mafia. Les dije que sí, obviamente, pero les aclaré que teníamos mucho trabajo por delante, especialmente por haberme preguntado en lugar de obligarme.
+Por ejemplo, el otro día iba caminando y me pararon dos mafiosos en la calle. Me preguntaron si quería pertenecer a la mafia. Les dije que sí, obviamente, pero les aclaré que teníamos mucho trabajo por delante, especialmente por haberme preguntado en lugar de obligarme.
 
 Y ayer me crucé con unos señores que hacen sillas de madera y me ofrecieron dinero para que ponga publicidad en mis sitios web y  entonces les propuse un canje. Yo ponía publicidad si ellos me dejaban escribir mi nombre en cada silla, usando una navaja. 
 --Va a quedar artesanal-- argumenté. Me miraron raro y se fueron -- ¡Esperen sentados!-- les grité.
@@ -120,27 +120,27 @@ Por ejemplo en las últimas marchas, que ya no son como hace un mes,  caminando 
 
 Andrea (la Hermana de Dany, como la bautizó el papi) se asusta porque nos escucha muy venales en la discusión y entonces se va a habitación y cierra la puerta. Ese es el indicio que tenemos para atemperar un poco los ánimos y bajar los decibeles.
 
-La discusión, cualquiera sea el tema, nace desde algun comentario mio. Hoy empezó porque vimos la noticia de un cana que le disparó a un jugador de futbol en Mendoza, cuando este intentaba impedir que reprimieran a la hinchada. Dije que la policia está podrida, pero institucionalmente podrida y que eso es algo planificado, necesario para que los que necesitan conservar el poder puedan hacerlo. Intentaba explicarle que para mi no son errores, no es "se le escapó un tiro" al infeliz que ahora seguramente echarán y sumariarán, y quizás también a su jefe... y a alguno más. A los tipos esos, que también son victimas del sistema, se los forma para que sean así, perros asesinos. 
+La discusión, cualquiera sea el tema, nace desde algún comentario mio. Hoy empezó porque vimos la noticia de un cana que le disparó a un jugador de futbol en Mendoza, cuando este intentaba impedir que reprimieran a la hinchada. Dije que la policía está podrida, pero institucionalmente podrida y que eso es algo planificado, necesario para que los que necesitan conservar el poder puedan hacerlo. Intentaba explicarle que para mi no son errores, no es "se le escapó un tiro" al infeliz que ahora seguramente echarán y sumariarán, y quizás también a su jefe... y a alguno más. A los tipos esos, que también son victimas del sistema, se los forma para que sean así, perros asesinos. 
 
 -- Y si no -- le decía -- ¿Cómo me explicás que con sólo un año de formación un milico sale con un chumbo a la calle? ¿Y cómo me explicás que en esa formación está totalmente instaurado eso de que el de segundo tiene permiso de fajar al de primero? Eso es planificación. Perversa planificacion.
 
-Entiendo que para él es un tema doloroso, y entonces me pide que "no generalice". Su tío fue jefe de la policia de Neuquén. Yo no alcancé a conocerlo mucho, porque el tipo se murió de cancer al poco tiempo de que yo me hice amigo de Dany.
+Entiendo que para él es un tema doloroso, y entonces me pide que "no generalice". Su tío fue jefe de la policía de Neuquén. Yo no alcancé a conocerlo mucho, porque el tipo se murió de cancer al poco tiempo de que yo me hice amigo de Dany.
 
-Dany salió entonces con un pedido sensato, diciendome que tengo razón, que hay que cambiar, pero que dé una solución. Y ahí yo me carburo, no se porqué mierda me siento en el compromiso de responder, si no tengo las soluciones. Ojalá las tuviera. Pero le digo igual que si no se cambia el problema de raiz, que si no se empieza a formar distinto a esas bestias, esto va a seguir sucediendo, como sucede todos los dias en los barrios. Acá en Córdoba es impresionante.
+Dany salió entonces con un pedido sensato, diciendome que tengo razón, que hay que cambiar, pero que dé una solución. Y ahí yo me carburo, no se porqué mierda me siento en el compromiso de responder, si no tengo las soluciones. Ojalá las tuviera. Pero le digo igual que si no se cambia el problema de raiz, que si no se empieza a formar distinto a esas bestias, esto va a seguir sucediendo, como sucede todos los días en los barrios. Acá en Córdoba es impresionante.
 
-Y que es una parche, una alharaca para la television echar al milico que disparó.  Él me responde que eso es imposible y me explica que los que forman han sido formados así y los jefes también y que su tio se murió de cancer justamente por luchar contra toda esa mierda.
+Y que es una parche, una alharaca para la television echar al milico que disparó.  Él me responde que eso es imposible y me explica que los que forman han sido formados así y los jefes también y que su tío se murió de cancer justamente por luchar contra toda esa mierda.
 
-Así, en poco tiempo, llegamos al meollo de siempre, ese que nos enfrenta entre mi utopía y su conformismo. Él me dice que hay que construir con lo que hay, con la gente burócrata y los policias corruptos,  y ese concepto lo lleva al extremo de instarme a "llegar al gobierno a traves de algunos de los partidos tradicionales y asi tener el poder necesario para aplicar esas ideas que tenés". 
+Así, en poco tiempo, llegamos al meollo de siempre, ese que nos enfrenta entre mi utopía y su conformismo. Él me dice que hay que construir con lo que hay, con la gente burócrata y los policías corruptos,  y ese concepto lo lleva al extremo de instarme a "llegar al gobierno a través de algunos de los partidos tradicionales y así tener el poder necesario para aplicar esas ideas que tenés". 
 
 -- Porque la gente vota así, y la gente ve videomatch, y a la gente le importa un carajo  y si no lo hacés así no vas a cambiar nada -- termina. 
 
-Yo intento callar, pero no me sale y le digo... "¿Y vos que hacés?". Me contesta que no quiere cagar a la gente, que estudia, y que paga sus impuestos como nuestro viejo y su vieja. Que compra, que hace mover una tarjeta, que hace fucionar al pais y vota cada cuatro años. Y que esa es la clase de gente que hace falta al pais. 
+Yo intento callar, pero no me sale y le digo... "¿Y vos que hacés?". Me contesta que no quiere cagar a la gente, que estudia, y que paga sus impuestos como nuestro viejo y su vieja. Que compra, que hace mover una tarjeta, que hace fucionar al país y vota cada cuatro años. Y que esa es la clase de gente que hace falta al país. 
 
--- Y no me juzgues, a mi me parece loable lo que vos haces -- me dice -- pero creo que por haciendo lo que haces no vas a lograr nada y te vas frustrar. Yendo todo lo que quieras a la villa y multiplicando todo lo que decis que hay que multiplicar no vas a lograr que esos pibes puedan llegar a la universidad en 10 años, por ejemplo.
+-- Y no me juzgues, a mi me parece loable lo que vos haces -- me dice -- pero creo que por haciendo lo que haces no vas a lograr nada y te vas frustrar. Yendo todo lo que quieras a la villa y multiplicando todo lo que decís que hay que multiplicar no vas a lograr que esos pibes puedan llegar a la universidad en 10 años, por ejemplo.
 
-Ahí coincidimos en algo, porque yo tambien pienso eso. Pero lo pienso no porque no crea necesario hacer lo que hago, sino porque pienso que no alcanza con eso. Si gente que está de este lado, como Dany que es un gran tipo, piensa que él hace su parte porque paga sus impuestos (o los pagará) y lo que le preocupa es encontrar la forma de comprarse un auto, entonces si estamos jodidos.
+Ahí coincidimos en algo, porque yo también pienso eso. Pero lo pienso no porque no crea necesario hacer lo que hago, sino porque pienso que no alcanza con eso. Si gente que está de este lado, como Dany que es un gran tipo, piensa que él hace su parte porque paga sus impuestos (o los pagará) y lo que le preocupa es encontrar la forma de comprarse un auto, entonces si estamos jodidos.
 
-Porque sé que a la gente que no tiene laburo y no lo tuvo en los ultimos 15 años, y a los hijos de esa gente, que tienen preocupaciones como saber qué van a comer, con qué se van a vestir, o como juntar 200 mangos para hacerse el aborto con una comadrona del barrio, a esos, poco les puedo pedir. Pero a los que sí pueden pensar, los que todavía no están en el fondo del pozo, sí les pido. O necesito hacerlo.
+Porque sé que a la gente que no tiene laburo y no lo tuvo en los últimos 15 años, y a los hijos de esa gente, que tienen preocupaciones como saber qué van a comer, con qué se van a vestir, o como juntar 200 mangos para hacerse el aborto con una comadrona del barrio, a esos, poco les puedo pedir. Pero a los que sí pueden pensar, los que todavía no están en el fondo del pozo, sí les pido. O necesito hacerlo.
 
 Siempre terminamos discutiendo en macro, con ejemplos tan abstractos y ajenos como Suiza (de paso, ¿hay pobres en Suiza?) y mi más intuitivo que teórico argumento de que para que haya paises ricos tiene que haber paises pobres porque así es el sistema y bla bla... Entonces nos volamos y quedamos  a años luz de lo que disparó el tema. Claro que siempre me dice que lo que pienso es "muy puro"  y "ojala se pudiera", pero que no se puede.
 
@@ -152,27 +152,27 @@ Con Aitana mejor. Es complicado, en serio. Pero la quiero muchísimo, me gusta, 
 
 A veces pienso que me metí mucho y yo que me hago el duro, el superficial, el toco y me voy,  al final soy un gil y me invento historias de amor en tres meses que andá saber qué son.
 
-Ahora estoy más tranquilo, en poco tiempo pasaron muchas cosas, cosas bastante raras y egoístamente dolorosas. El rebuscado adverbio --egoístamente-- es fruto de mi reflexion cuya conclusion es un poco falaz, pero que me ha servido para no sufrir al pedo: hay gente que tiene verdaderos problemas porque no tienen la solucion en sus manos. Este no es el caso. 
+Ahora estoy más tranquilo, en poco tiempo pasaron muchas cosas, cosas bastante raras y egoístamente dolorosas. El rebuscado adverbio --egoístamente-- es fruto de mi reflexión cuya conclusion es un poco falaz, pero que me ha servido para no sufrir al pedo: hay gente que tiene verdaderos problemas porque no tienen la solución en sus manos. Este no es el caso. 
 
-En fin. Es raro, porque en el mismo hubo dias que la pasamos genial, reimos muchismo  y despues terminamos llorando. ¿Te suena conocido? Mmmmm...
+En fin. Es raro, porque en el mismo hubo días que la pasamos genial, reimos muchismo  y después terminamos llorando. ¿Te suena conocido? Mmmmm...
 
 La ultima novedad es que está enamorada de mi. Antes no lo estaba (sic). Así que me preguntó si quería que ella fuese mi novia. Y le dije que me lo dejara pensar y se enculó, entonces me sonreí y le di un beso con mucho gusto a sí.
 
 Sí, lo reconozco. Está muy loca. Pero estoy enamorado, qué se le va a hacer.
 
-Quizas en otro momento pueda contarte otras cosas de lo que sucedió, aunque más que mirar para atras (o para adelante) tengo ganas de disfrutar el ahora, que se está poniendo bueno.
+Quizás en otro momento pueda contarte otras cosas de lo que sucedió, aunque más que mirar para atrás (o para adelante) tengo ganas de disfrutar el ahora, que se está poniendo bueno.
 
-Ahora está la feria del libro acá, que es bastante pobre en cuanto a novedades y bastante cara en cuanto a precios. Pero igual está bueno para revolver cosas y si uno tuviese mas coraje, seria facil robarse algunos libros. ¡Maldicion!
+Ahora está la feria del libro acá, que es bastante pobre en cuanto a novedades y bastante cara en cuanto a precios. Pero igual está bueno para revolver cosas y si uno tuviese mas coraje, seria fácil robarse algunos libros. ¡Maldicion!
 
 Me compré un par de libros y algunas láminas. Te mando una fotos mal sacadas. Sólo puedo regalarte una, así que elegí. La minita pelada no está entre la opciones, tamos!?
 
 De la flia sé algo. El papi bien, en la suya, leáse laburando y enyoguizándose. El domingo me contó que se compró una camioneta nueva. Vendió la roja y se compró otra S10 (igual a esa) pero doble cabina y 0km. Yo digo que está bien. Es su herramienta de laburo y se lo hace más feliz bienvenido.
 
-Con la mami hablé ayer porque tuvo el telefono cortado por no sé que problema con un cable durante todo el fin de semana. Espero la hayas saludado por el dia del maestro. La noté un poco cansada y bajoneada; 
+Con la mami hablé ayer porque tuvo el teléfono cortado por no sé que problema con un cable durante todo el fin de semana. Espero la hayas saludado por el día del maestro. La noté un poco cansada y bajoneada; 
 ahora va a pedir una licencia por una semana porque se va a quedar con los chicos ya que Juan y Juli van a Rosario, a exponer un trabajo que hicieron. 
 Dice que quiere venir el mes que viene. Ojalá pueda. 
 
-La facu, con poco presupuesto y menos movilizacion que otrora. Igual me gusta. Estoy haciendo cosas interesantes, sobre todo pegué onda con un profesor copado y estamos armando una cátedra abierta sobre "tecnologia y politica - un espacio de reflexion sobre el rol del ingeniero". Tomá mate.
+La facu, con poco presupuesto y menos movilizacion que otrora. Igual me gusta. Estoy haciendo cosas interesantes, sobre todo pegué onda con un profesor copado y estamos armando una cátedra abierta sobre "tecnología y política - un espacio de reflexión sobre el rol del ingeniero". Tomá mate.
 
 Te mando un abrazo.
 _ Tu bro.
@@ -206,8 +206,8 @@ enamorado! y claro que es complicado pero.. leritbí bro.
 
 Según la Rae discutir viene del verbo latino *discutere* que significa
 disipar, resolver. Discutir es necesario. Discutiendo se disipa lo que
-esta nublado y se resuelven los problemas. Asi que la discusion no
-termina cuando uno propone una solucion o no tiene una solucion para
+esta nublado y se resuelven los problemas. Así que la discusión no
+termina cuando uno propone una solución o no tiene una solución para
 proponer, sino que las soluciones nacen de la discusión.
 
 En cuanto a si sirve o no de algo lo que vos haces, yo digo que sí: sirve para construir un mundo más justo. Yo creo (sobre que indicios
@@ -216,7 +216,7 @@ problema parece surgir de la sospecha de que nosotros no lo vamos a
 ver y por eso nunca sabremos si nuestros esfuerzos por construir ese
 mundo más justo sirvieron de algo. Y no me caben dudas que sirve, más concretamente y en esta vida para hacer sentir un poco mejor o un poco menos peor a esos pibes de la villa.
 
-Pero lo que vos haces tambien te sirve a vos. Te sirve para sanar un
+Pero lo que vos haces también te sirve a vos. Te sirve para sanar un
 poco la terrible herida que te produce este mundo de mierda, para
 conciliar un poco esa contradicción de vivir en un mundo injusto
 soñando con un mundo justo. Desde el momento que creés que un mundo

@@ -113,12 +113,12 @@ Desde sus mesitas con maní y risas miran intrigados el flujo repentino de gente
 Saben que se murió Kirchner, pero probablemente no sepan que hubo acto y que a muchos y muchas la noticia les genera dolor. Y miedo. 
 
 El pueblo que no llora se sigue riendo en facebook del videito del bebé que baila, del perrito que se para en dos patas, del rostro plástico de 
-Ricardo Fort. Quizas se cruza, exogamia dos punto cero, con algun comentario a favor o en contra en su timeline. Pero el pueblo que no llora no se mete "en política" y se mantiene impertérrito, abúlico, enojado porque en la tele siguen con lo mismo. 
+Ricardo Fort. Quizás se cruza, exogamia dos punto cero, con algún comentario a favor o en contra en su timeline. Pero el pueblo que no llora no se mete "en política" y se mantiene impertérrito, abúlico, enojado porque en la tele siguen con lo mismo. 
 
 El pueblo que no llora pregunta si mañana hay clases, si el duelo es también asueto o hay que ir igual a laburar, pucha, qué cagada.  El pueblo que no llora prende la tele una vez más y se pregunta cuanta gente habrá ido a despedir al muerto.  Aunque lo disimula, aunque le surja desde el cholulismo íntimo o el sentimiento de manada, le conmueve saber, la tele no miente, que al final eran muchos. 
 
 Seguro hay otros, que no son pueblo sino gente, que habrán comprado un 
-champán (uno barato, los que abrieron uno caro ya lo tenían) y tocado algun bocinazo tímido, 
+champán (uno barato, los que abrieron uno caro ya lo tenían) y tocado algún bocinazo tímido, 
 por miedo a que algún cabeza les abolle la pickup. Se cuidan, algunos, esperando algunas horas para mostrar los dientes. Son pocos. Canallas. Peligrosos. 
 
 El pueblo que no llora también vota. 
@@ -158,7 +158,7 @@ Envié sólo este mensaje:
 > computación, ¡aguanten!): si no se hace es porque se roban la plata, si se hace es porque es demagogia. ¿No es un poco gatoflorismo eso?  No me
 > extrañaría que si el gobierno de algún otro país propusiera hacer un
 > tendido de fibra óptica estatal algunos dijeran "nosotros
-> siempre el ultimo orejón del tarro, siempre atrasados, etc, etc."
+> siempre el último orejón del tarro, siempre atrasados, etc, etc."
 >
 > ¿Que hay intereses políticos detrás? ¡Más vale! ¿Que los K quieren ganar
 > en el 2011? ¿A quien le cabe duda?.

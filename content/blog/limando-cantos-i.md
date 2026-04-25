@@ -78,7 +78,7 @@ Date: 10 de marzo de 2008 11:44</div>
 ### --------
 
 Gente me llego el siguiente mail enviado por la facu.
-Aqui les copio por si alguno no lo recibió.
+Aquí les copio por si alguno no lo recibió.
 
 **FACULTAD DE CIENCIAS EXACTAS, FÍSICAS Y NATURALES**<br>
 **UNIVERSIDAD NACIONAL DE CORDOBA**<br>
@@ -101,7 +101,7 @@ sito Sede Ciudad Universitaria, en el horario de 9 a 13hs.
 
 --
 
-Difundió: Area de Comunicación Institucional<br>
+Difundió: Área de Comunicación Institucional<br>
 Sec. de Graduados y RR. Institucionales FCEFyN UNC
 
 ### --------
@@ -143,7 +143,7 @@ profesionales? ¿Hay un compromiso con el conjunto de la sociedad
 desde la Universidad? ¿Se intenta responder, por ejemplo, a la enorme
 demanda de soluciones tecnológicas que se precisan, muchas veces
 sepultadas por su poco lucro? ¿La Universidad es una fábrica de
-empleados, o de hombres y mujeres responsables del progreso del pais?
+empleados, o de hombres y mujeres responsables del progreso del país?
 
 Perdón, se me atravesó un signo de pregunta en la garganta.
 
@@ -208,7 +208,7 @@ pasantías, bien puede extenderse a este caso en el sentido de que
 apunta a captar (iba a poner capturar, je!) "futuros talentos".
 
 Como dice claramente la invitación de la Secretaria de graduados, los
-estudiantes deben postular para esta capacitacion, por lo que
+estudiantes deben postular para esta capacitación, por lo que
 evidentemente se busca un determinado perfil de alumno (probablemente más o menos laxo en función de la cantidad de aspirantes). Eso implica, infiero, que la empresa capacitará con la
 intención de conseguir futuros empleados, y no por una cuestión
 caritativa.
@@ -270,10 +270,10 @@ brinde capacitación a sus potenciales empleados no me incumbe, pero sí que una
 Lo que está mal, entonces, es que primen intereses particulares (los
 de una empresa por conseguir talentos, y -aunque sea totalmente
 asimétrico porque se trata de una necesidad mas que interés- de un
-alumno que acepta capacitarse según lo que demanda/ofrece la empresa y obtener un potencial empleo ) por sobre la función primaria de la universidad pública, que es brindar la  "materia gris" para construir un proyecto de pais en beneficio de **toda** la sociedad.
+alumno que acepta capacitarse según lo que demanda/ofrece la empresa y obtener un potencial empleo ) por sobre la función primaria de la universidad pública, que es brindar la  "materia gris" para construir un proyecto de país en beneficio de **toda** la sociedad.
 
 Lo que está bien, es que con estos ejemplos, queda claro cual es
-actualmente la universidad que tenemos, los profesionales que creamos, y el pais que construimos. Lo que no está bien es la tristeza que eso me produce.
+actualmente la universidad que tenemos, los profesionales que creamos, y el país que construimos. Lo que no está bien es la tristeza que eso me produce.
 
 Parece entonces que se ha trastocado la función de beneficio colectivo
 de la universidad pública por uno que está basado en el beneficio

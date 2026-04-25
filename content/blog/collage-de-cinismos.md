@@ -162,7 +162,7 @@ Si le conmueve semejante acto de solidaridad y agradecimiento, <a href="https://
 
 Me pasaron un número viejo de la revista *El Ancla*, que edita  y distribuye gratuitamente el Centro de Estudiantes de la Facultad de Ciencias de la Información de la Universidad de Córdoba. Data del año 2001, meses antes  de que Fernando De la Rua huyera por los techos de la Casa Rosada mientras se regaba con sangre el suelo de todo el país. 
 
-Por esos dias se reglamentaba en la UNC la "Contribución Estudiantil Obligatoria", que aún sigue vigente y, parece, con buena salud.  Un fragmento de los considerandos del proyecto más tarde aprobado aparece citado en un artículo que recalca (y enfrenta) las complicidades de entonces: 
+Por esos días se reglamentaba en la UNC la "Contribución Estudiantil Obligatoria", que aún sigue vigente y, parece, con buena salud.  Un fragmento de los considerandos del proyecto más tarde aprobado aparece citado en un artículo que recalca (y enfrenta) las complicidades de entonces: 
 
 > *"(...) exiguos son los resultados de la movilización de parte de la comunidad universitaria que continúa insistiendo en un aumento del presupuesto imposible de conseguir. (...) Si rápidamente no se implementa algún sistema que permita ingresos genuinos se pone en juego no sólo la 'jerarquización' de la Universidad sino también su permanencia en el tiempo". *
 

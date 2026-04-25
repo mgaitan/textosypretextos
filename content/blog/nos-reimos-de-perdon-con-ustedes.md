@@ -58,7 +58,7 @@ Borat es reportero de la televisión, y cuenta: *"aunque Kazajístan es un glori
 
 Así emprende su viaje a Estados Unidos, junto con su productor, una gallina y una botella de lágrimas de gitana.
 
-Obviamente, el pais del norte lo maravilla de inmediato. Caga en la puerta del edificio Turner, se masturba en la vidriera de Victoria's Secret y agradece las comodidades de su habitación en el hotel cuando en realidad sólo es el ascensor. Y en cuanto la ve en televisión, se enamora de Pamela Anderson.
+Obviamente, el país del norte lo maravilla de inmediato. Caga en la puerta del edificio Turner, se masturba en la vidriera de Victoria's Secret y agradece las comodidades de su habitación en el hotel cuando en realidad sólo es el ascensor. Y en cuanto la ve en televisión, se enamora de Pamela Anderson.
 
 *"No es como ninguna mujer kazak que haya visto. Ella tiene el cabello de oro, dientes blancos como perlas, y el culo como de una niña de 7 años"* dice.
 
@@ -68,6 +68,6 @@ En el camino se va demostrando que semejante cavernícola, proveniente de un pa�
 
 Buena película, Borat!. Para verla y pasar un buen rato. Por lo menos hasta que el reportero de Kazajístan venga a buscar lecciones a nuestro país, ¿cierto?.
 
-Un chiste fuera de guión: fue prohibida en Rusia y varios países de la ex URSS, obviamente Kazajistán incluído.
+Un chiste fuera de guión: fue prohibida en Rusia y varios países de la ex URSS, obviamente Kazajistán incluido.
 
 Los yankis, en cambio, tienen una mejor forma defenderse: la convierten en un gran negocio, y ya.

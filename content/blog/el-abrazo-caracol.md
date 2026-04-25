@@ -59,7 +59,7 @@ title = "El abrazo caracol"
 body = "Comparto ese arranque que tira vani, y me sumo a sr cursi en todas y cada una de las situaciones que amerita ser cursi sin miedo a reírnos luego. hermoso lo qeu compartis, hermoso haber disfrutado de varios abrazos caracol, con sus cargas particulares que los hicieron especiales. que siga rodando la bochapara que esta, que es nuestra única e irrepetible vida siga brillando a pesar de los intentos por apagarnos"
 +++
 
-Nacho se fue de viaje, y en su despedida nos dejó un abrazo caracol. Fué vertiginosa su decisión. Con valentía, audacia y unos sueños así grandotes, mirá. Lleva suficiente alegría consigo para que todo le salga bien. 
+Nacho se fue de viaje, y en su despedida nos dejó un abrazo caracol. Fue vertiginosa su decisión. Con valentía, audacia y unos sueños así grandotes, mirá. Lleva suficiente alegría consigo para que todo le salga bien. 
 
 Se sumó a la agrupación, como suele suceder, invitado por otro cumpa y motivado por las ganas propias de hacer con otros. La energía que ese pibe regalaba cada sábado era increíble, con una entrega y una pasión que semana a semana se hacía tangible y reconocida. 
 

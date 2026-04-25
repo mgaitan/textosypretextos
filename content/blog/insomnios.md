@@ -101,8 +101,8 @@ Una vez, hace mucho, supe que Graciela Alfano es ingeniera. Palabra. Pienso si a
 
 No consigo dormir, y mi cuerpo jura que es la última vez que me deja cursar seis materias en un cuatrimestre. Porque desde hace un tiempo mi cuerpo me habla, se burla de mí, me dice por ejemplo que dentro de poco se va a morfar mi calzoncillo a través del ombligo, y que sólo falta que la gravedad le ayude un poquito más. Y encima, pedazo de cínico, dice que en realidad lo que quiere es hacerme cosquillitas para que me ria un poco, y que por eso deja caer mechones de pelo por la espalda.
 
-En estos últimos días me cerraron un sitio de internet (que era mi única mejor idea), mis clientes de España ya amenazaron con la interpol, estalló una ventana de mi departamento y casi mato al verdulero de planta baja, se quemó el modem y me quedé sin adsl, la última chica que me gustó me dijo basta y todavía no puedo olvidarme de la última que amé. Para disimularla un poco, el destino canceló la nube indivual sobre mi cabeza, y hace tres dias que llueve en todo el país.
+En estos últimos días me cerraron un sitio de internet (que era mi única mejor idea), mis clientes de España ya amenazaron con la interpol, estalló una ventana de mi departamento y casi mato al verdulero de planta baja, se quemó el modem y me quedé sin adsl, la última chica que me gustó me dijo basta y todavía no puedo olvidarme de la última que amé. Para disimularla un poco, el destino canceló la nube indivual sobre mi cabeza, y hace tres días que llueve en todo el país.
 
-Ya me dió sueño. Pero acaba de sonar el despertador.
+Ya me dio sueño. Pero acaba de sonar el despertador.
 
 <span id="comments"></span>

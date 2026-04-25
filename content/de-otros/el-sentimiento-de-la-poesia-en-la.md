@@ -43,7 +43,7 @@ comments = []
 El sentimiento de la poesía en la infancia: me gustaría
 saber más, pero temo caer en las extrapolaciones a la
 inversa, recordar obligadamente desde el *hic et nunc* que
-deforma casi siempre el pasado (Proust incluído, mal que les
+deforma casi siempre el pasado (Proust incluido, mal que les
 pese a los ingenuos).
 
 Hay cosas que vuelven a ráfagas, que alcanzan a

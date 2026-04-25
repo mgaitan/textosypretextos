@@ -61,19 +61,19 @@ body = "Qué joda sería que esas hamburguesas \"hechas con nosostros\" se las r
 
 El canal TN titula "Regresó la normalidad" la noticia sobre el fin (temporal) del conflicto de los ferroviarios en Buenos Aires.  La elipsis se entiende si se presta atención, pero no deja de ser una suspicacia para los que quieren escucharla. 
 
-El informe de UNICEF Argentina publicado esta semana dice que 6 de cada 10 niños de nuestro pais viven en la pobreza.  Tres de ellos deben trabajar, y otros tres son indigentes, que sería algo así como un pozo dentro dentro del pozo.  Según estadísticas de los hospitales provinciales, casi el  20% presenta cuadros de desnutrición.  
+El informe de UNICEF Argentina publicado esta semana dice que 6 de cada 10 niños de nuestro país viven en la pobreza.  Tres de ellos deben trabajar, y otros tres son indigentes, que sería algo así como un pozo dentro dentro del pozo.  Según estadísticas de los hospitales provinciales, casi el  20% presenta cuadros de desnutrición.  
 
 En el *Dipló* de este mes hay un artículo, firmado por Norma Giarracca y Miguel Teubal, que aporta algunos datos tristemente esclarecedores de la paradoja argentina: *"(...) si la producción actual de leche, huevos, frutas de carozo, frutas secas, carne, cereales y legumbres fueran repartidas equitativamente, cada argentino recibiría varias veces sus necesidades nutricionales"*.  No existe hambre porque falten alimentos, sino porque vastos sectores no pueden acceder a ellos. 
 
 El Jefe de Servicio de Toxicologia del Hospital Rivadavia de Buenos aires relataba en una entrevista que escuché tiempo atrás por Radio Mitre, lo común que es para ellos tratar a chicos y jóvenes que se inyectan vino en la sangre. *"El poxirrán ya le es inaccesible, pero por el precio que tiene"*, decía. 
 
-Hace unas semanas se allanó una casa en medio de un barrio de Zárate . Resultó una dependencia del Servicio de Inteligencia del Ejército, que recababa información, como dice Osvaldo Bayer, de los sospechosos de siempre: obreros de actividad sindical, periodistas independientes, intelectuales que persiguen las huellas de los asesinos de nuestro pais.  Se encontró hasta una picana eléctrica. 
+Hace unas semanas se allanó una casa en medio de un barrio de Zárate . Resultó una dependencia del Servicio de Inteligencia del Ejército, que recababa información, como dice Osvaldo Bayer, de los sospechosos de siempre: obreros de actividad sindical, periodistas independientes, intelectuales que persiguen las huellas de los asesinos de nuestro país.  Se encontró hasta una picana eléctrica. 
 
 El próximo jueves 16, León Gieco y otros músicos, tocarán en la fábrica Zanón bajo control obrero 
 demostrando una vez más de que lado está. Maldición, ¡de nuevo me lo voy a perder!.  
 
 Según el balance de los obreros ceramistas, la producción ascendió a más de 300 mil metros cuadrados con un 90 por ciento en ventas. Eso permitió garantizar más de 450 puestos de trabajo genuino, frente a los 260 iniciales. Carlos Guerra, obrero de Zanon cerró la idea:* "este ha sido un buen año, y esperamos que el que viene sea mejor. Sabemos que vamos a tener mucha presión pero quedó el compromiso de todos de pelear hasta las últimas consecuencias."*
 
-A los señores de TN: La normalidad no regresó; nunca se fué.
+A los señores de TN: La normalidad no regresó; nunca se fue.
 
 <span id="comments"></span>

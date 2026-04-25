@@ -110,7 +110,7 @@ Generalmente es alguno de los miembros históricos, como el Ingeniero Cacaci, qu
 
 -- El proyecto está casi concluido -- informó en cierta oportunidad a sus compañeros, desplegando sobre la mesa los planos del almohodón para inodoro que estaba desarrollando. El ingeniero, como muchos otros miembros del club, pasa largas horas en el baño, más por necesidad espiritual que fisiológica, intentando lo imposible. Fue una de esas tardes, ya sin circulación en las piernas, cuando la idea del almohadón se le ocurrió.
 
-La abogada Ana Re, muy expeditiva, también informó ese domingo que se había presentado el proyecto de ley para que todas las etiquetas de productos de tocador como champúes, cremas o lubricantes dediquen su etiqueta posterior a obras literarias, noticias de interés general y cuentos verdes. El considerando del proyecto argumenta que los estreñidos ya estan hartos de leer sobre los componentes naturales para un pelo sedoso.
+La abogada Ana Re, muy expeditiva, también informó ese domingo que se había presentado el proyecto de ley para que todas las etiquetas de productos de tocador como champúes, cremas o lubricantes dediquen su etiqueta posterior a obras literarias, noticias de interés general y cuentos verdes. El considerando del proyecto argumenta que los estreñidos ya están hartos de leer sobre los componentes naturales para un pelo sedoso.
 
 Al finalizar la reunión, el grupo interpreta una proclama, un ritual que interpela a intentarlo siempre, a no sucumbir:
 
@@ -133,7 +133,7 @@ El pasado lunes, en un importante hotel de la ciudad, el Club de Esteñidos pres
 
 Cuando un periodista consultó sobre el motivo de las 50 páginas en blanco del capítulo 3, los panelistas respondieron que el papel con el que está confeccionado el libro contiene más fibras que 4 kilos de cereales seleccionados y su ingesta resulta más efectiva en un día que las dos semanas del Desafío Activia.
 
-El texto que da nombre al libro es un conmovedor cuento que versa sobre las aventuras de un grupo de amigos en búsqueda de una ciruela mágica, escondida en algun recóndito lugar del mundo. Una ciruela mágica, que con sólo saborear un bocado evacuará las penas de todos. Entre otras cosas.
+El texto que da nombre al libro es un conmovedor cuento que versa sobre las aventuras de un grupo de amigos en búsqueda de una ciruela mágica, escondida en algún recóndito lugar del mundo. Una ciruela mágica, que con sólo saborear un bocado evacuará las penas de todos. Entre otras cosas.
 
 {% postscript() %}
 Texto publicado originalmente el 19 de septiembre de 2006 con esta introducción: 

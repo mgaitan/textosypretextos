@@ -81,6 +81,6 @@ Acá va el primero.
 >
 > Mientras yo intentaba destrabar la ventana para que entre algo de luz, él se acercó al escritorio. Cuantas veces habremos visto a tu viejo sentado allí, rodeado de esa interminable biblioteca de la que hoy sólo quedan huellas en la pared descascarada.
 >
-> Tu hermano me dió esta carta para vos, es de tu viejo. Estaba en el segundo cajón.
+> Tu hermano me dio esta carta para vos, es de tu viejo. Estaba en el segundo cajón.
 
 <span id="comments"></span>

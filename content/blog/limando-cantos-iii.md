@@ -66,7 +66,7 @@ body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que est
 **From:** Luis Roberto Ramallo<br>
 **to:** ing_computacion@googlegroups.com<br>
 **date:** Mon, Sep 28, 2009 at 1:52 PM<br>
-**subject:** Informacion sobre la Ley de Medios.
+**subject:** Información sobre la Ley de Medios.
 	
 
 > [http://www.megaupload.com/?d=JBM07UT5](http://www.megaupload.com/?d=JBM07UT5)
@@ -76,38 +76,38 @@ body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que est
 **from** Mario Martinez <sergiochalave@gmail.com><br>
 **to:** ing_computacion@googlegroups.com<br>
 **date:** Mon, Sep 28, 2009 at 3:10 PM<br>
-**subject:** Re: Informacion sobre la Ley de Medios.
+**subject:** Re: Información sobre la Ley de Medios.
 	
 
 > Señores.
 >
 > No se si es el medio dado el tema de este foro, pero habiendo visto lo enviado en el link , creo necesario responder:
-> Que el Gobierno nos ha involucrado en una mas de las peleas personales y economicas contra el Grupo Clarin, hasta ayer aliado politico, hoy enemigo publico N° 1.
+> Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo publico N° 1.
 >
 > Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
 >
-> No tiene el gobierno de turno mas que su mezquino interes politico.
+> No tiene el gobierno de turno mas que su mezquino interés político.
 >
-> por otro lado defiendo la libertad de expresión, no me importa si es comercial, social o la que sea, no acepto que nos quieran imponer cupos de ningun tipo, es como si uds. fueran a una libreria y les obligen a comprar un porcentaje de libros de determinado origen,
+> por otro lado defiendo la libertad de expresión, no me importa si es comercial, social o la que sea, no acepto que nos quieran imponer cupos de ningún tipo, es como si uds. fueran a una librería y les obligen a comprar un porcentaje de libros de determinado origen,
 >
-> El imponer a canales oficiales como Canal 7, u otros canales del mismo origen es inaceptable, dentro de poco nos van a obligar a ver LA RAZON DE MI VIDA ($$$$)  por Kristina K. (escrito en las soleadas tardes del Calafate)  por el canal Encuentro si esto sigue asi.
+> El imponer a canales oficiales como Canal 7, u otros canales del mismo origen es inaceptable, dentro de poco nos van a obligar a ver LA RAZON DE MI VIDA ($$$$)  por Kristina K. (escrito en las soleadas tardes del Calafate)  por el canal Encuentro si esto sigue así.
 >
 > Disculpen el off topic.
 >
 > Ing. Martinez
 >
-> PD. no se olviden que esta en Diputados el proyecto para el  aumento del 30 % de productos de Informatica y celulares.... que disfruten de la tarde.
+> PD. no se olviden que esta en Diputados el proyecto para el  aumento del 30 % de productos de Informática y celulares.... que disfruten de la tarde.
 
 **from** Emilio Gallego <gaitan@gmail.com><br>
 **to:** ing_computacion@googlegroups.com<br>
 **date:** Fri, Oct 2, 2009 at 2:18 AM<br>
-**subject:** Re: Informacion sobre la Ley de Medios.
+**subject:** Re: Información sobre la Ley de Medios.
 
 > Ingeniero Martinez:
 >
-> Dada su opinión, con la que disiento plenamente, me veo en la obligación de responder.  Lamento haber  visto este hilo recién ahora, 4 días después de su primer mail y pido disculpas a todos por no leer íntegramente el hilo. Me pone muy contento, sin embargo, notar que la gran participación que ha habido y la cantidad de argumentos vertidos, como dice Julian Margara en uno de los ultimos mails.
+> Dada su opinión, con la que disiento plenamente, me veo en la obligación de responder.  Lamento haber  visto este hilo recién ahora, 4 días después de su primer mail y pido disculpas a todos por no leer íntegramente el hilo. Me pone muy contento, sin embargo, notar que la gran participación que ha habido y la cantidad de argumentos vertidos, como dice Julian Margara en uno de los últimos mails.
 >
-> Es usted docente de una catedra que mucho tiene que ver con el tema (Comunicaciones de Datos, de 4to año), por lo tanto su opinión no sólo tiene relevancia sino ascendencia en este tópico. Me sorprende sobremanera entonces la liviandad de su comentario, reduciendo la discusión de un tema tan relevante sin exponer argumentos sólidos, limitandonse a denotar su rechazo al gobierno.
+> Es usted docente de una cátedra que mucho tiene que ver con el tema (Comunicaciones de Datos, de 4to año), por lo tanto su opinión no sólo tiene relevancia sino ascendencia en este tópico. Me sorprende sobremanera entonces la liviandad de su comentario, reduciendo la discusión de un tema tan relevante sin exponer argumentos sólidos, limitandonse a denotar su rechazo al gobierno.
 >
 > Ante todo, quiero preguntarle ¿ Se tomó la molestia de leer el material que Luis Ramallo envió para iniciar este hilo? ¿Y el proyecto de ley, lo leyó?
 >
@@ -119,15 +119,15 @@ body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que est
 > Dijo usted:
 >
 >
-> <quote>    Que el Gobierno nos ha involucrado en una mas de las peleas personales y economicas contra el Grupo Clarin, hasta ayer aliado politico, hoy enemigo publico N° 1. Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
+> <quote>    Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo publico N° 1. Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
 
 En primer lugar no cita usted fuente alguna de las declaraciones del secretario de Cispren  (Circulo Sindical de trabajadores de prensa de Córdoba), aunque problablemente no esté faltando a la verdad, porque somos muchos los que intuímos que este enfrentamiento entre el gobierno y el Grupo Clarín fue un factor detonante que decidió llevar esto adelante.  Pero, ¿Es ese el eje principal? ¿Cuales son los beneficios o perjuicios que traería la ley más allá de la causa que activó el envío del proyecto? ¿Se lo preguntó?
 
-En segundo lugar, más grave, intentar utilizar la voz gremial de los trabajadores de prensa para reforzar el sentido negativo que usted quiere darle a la idea, sí es faltar a la verdad (o al menos confundirla), porque estos trabajadores estan decida y públicamente a favor de este proyecto de ley, como puede leerse en cada uno de los [articulos que publican en su web](http://www.prensared.com.ar/indexmain.php?lnk=1&mnu=117). 
+En segundo lugar, más grave, intentar utilizar la voz gremial de los trabajadores de prensa para reforzar el sentido negativo que usted quiere darle a la idea, sí es faltar a la verdad (o al menos confundirla), porque estos trabajadores están decida y públicamente a favor de este proyecto de ley, como puede leerse en cada uno de los [articulos que publican en su web](http://www.prensared.com.ar/indexmain.php?lnk=1&mnu=117). 
 
 Prosigue su email:
 
-> por otro lado defiendo la libertad de expresión, no me importa si es comercial, social o la que sea, no acepto que nos quieran imponer cupos de ningun tipo, es como si uds. fueran a una libreria y les obligen a comprar un porcentaje de libros de determinado origen,
+> por otro lado defiendo la libertad de expresión, no me importa si es comercial, social o la que sea, no acepto que nos quieran imponer cupos de ningún tipo, es como si uds. fueran a una librería y les obligen a comprar un porcentaje de libros de determinado origen,
 
 Acá sí, demuestra que no está bien informado y lamentablemente, como muchos argentinos, la repulsión que le genera todo lo "K" le enceguece el juicio crítico.
 
@@ -145,7 +145,7 @@ Si no puede competir una señal comercial como C5N, ¿Cómo entonces podrían ex
 
 Aquí cabe un ejemplo que me atañe directamente: En la [organización](http://www.agrupacionmazamorra.com.ar) social que participo tenemos un [taller de Comunicación popular con jovenes y niños de Campos de La Ribera, Barrio Müller y Barrio Maldonado](http://www.agrupacionmazamorra.com.ar/article/taller-de-comunicacion-y-expresion).
 
-Trabajamos distintos ejes (contaminación, sexualidad, violencia) produciendo micros de radio y videos. Pero más allá de los contactos que conseguimos en algunos medios, la posibilidad de difundir la producción está absolutamente limitada, sobre todo para que llegue a los propios vecinos de la villa, los verdaderos interesados y el público en el que queremos que incida nuestro mensaje. Por supuestos, estos vecinos que no tienen agua potable, lejos estan de poder acceder a internet. 
+Trabajamos distintos ejes (contaminación, sexualidad, violencia) produciendo micros de radio y videos. Pero más allá de los contactos que conseguimos en algunos medios, la posibilidad de difundir la producción está absolutamente limitada, sobre todo para que llegue a los propios vecinos de la villa, los verdaderos interesados y el público en el que queremos que incida nuestro mensaje. Por supuestos, estos vecinos que no tienen agua potable, lejos están de poder acceder a internet. 
 
 ¿Tendría cabida nuestra producción con fines comunitarios, educativos y sociales con la actual distribución de medios?
  
@@ -153,7 +153,7 @@ Ahí está, entonces la obligación de la ley. Lo resumió Raúl Scalabrini Orti
 
 Su último párrafo
 
-> El imponer a canales oficiales como Canal 7, u otros canales del mismo origen es inaceptable, dentro de poco nos van a obligar a ver LA RAZON DE MI VIDA ($$$$)  por Kristina K. (escrito en las soleadas tardes del Calafate)  por el canal Encuentro si esto sigue asi.
+> El imponer a canales oficiales como Canal 7, u otros canales del mismo origen es inaceptable, dentro de poco nos van a obligar a ver LA RAZON DE MI VIDA ($$$$)  por Kristina K. (escrito en las soleadas tardes del Calafate)  por el canal Encuentro si esto sigue así.
 
 Me deja sin palabras, porque sólo destila odio y ninguna fundamentación.  Realmente cuando dice "nos van a obligar" ¿a que se refiere? ¿Piensa que vendrá un morocho de temer a obligarlo a mirar canal 7 frente al televisor, como insinuó subliminalmente con la foto de [tapa el diario clarin el 28 de agosto](http://www.clarin.com/diario/2009/08/28/tapapapel.htm)?
 
@@ -168,12 +168,12 @@ Emilio Gallego
 **from** Mario Martinez <sergiochalave@gmail.com><br>
 **to:** ing_computacion@googlegroups.com<br>
 **date:** Fri, Oct 2, 2009 at 1:18 PM<br>
-**subject:** Re: Informacion sobre la Ley de Medios.
+**subject:** Re: Información sobre la Ley de Medios.
 	
 
 > Hola Martin y a Todos.
-> Primero no soy Docente de la Catedra comunicaciones de Datos, son Docente en Sistemas de Radiocomunicación, lei el Proyecto de Ley, estube en una Audiencia Pública, y trabajo en los medios desde 1990, a la fecha, por lo tanto tengo contacto directo con gente de Radio y Television y tambien empresas de Cable.
-> La preocupacion es grande no por una Ley nueva, que hace falta, sino en las entrelineas, relacionadas con el manejo de poder por parte del gobierno, por ejemplo que el unico que puede tener cadenas de Radio y TV sea el Gobierno, por supuesto que hay cosas positivas en el proyecto pero que son tapadas por el unico objetivo oficial que es dominar los medios con vista a las proximas elecciones y con un congreso opositor.
+> Primero no soy Docente de la Cátedra comunicaciones de Datos, son Docente en Sistemas de Radiocomunicación, lei el Proyecto de Ley, estube en una Audiencia Pública, y trabajo en los medios desde 1990, a la fecha, por lo tanto tengo contacto directo con gente de Radio y Television y también empresas de Cable.
+> La preocupacion es grande no por una Ley nueva, que hace falta, sino en las entrelineas, relacionadas con el manejo de poder por parte del gobierno, por ejemplo que el único que puede tener cadenas de Radio y TV sea el Gobierno, por supuesto que hay cosas positivas en el proyecto pero que son tapadas por el único objetivo oficial que es dominar los medios con vista a las proximas elecciones y con un congreso opositor.
 > Por supuesto que este es un punto de vista, desde ya que son aceptados todos. veremos que pasa el proximo año, por las dudas guarden estas notas.
 >
 > Atentamente
@@ -183,13 +183,13 @@ Emilio Gallego
 **from** Emilio Gallego <gaitan@gmail.com><br>
 **to:** ing_computacion@googlegroups.com<br>
 **date:** Fri, Oct 2, 2009 at 7:04 PM<br>
-**subject:** Re: Informacion sobre la Ley de Medios.
+**subject:** Re: Información sobre la Ley de Medios.
 
 > Ingeniero
 >
 > Disculpe por la confusión sobre su asignatura, pero con más razón aplica mi observación: su experiencia profesional, cargo docente y rol como educador implica una responsabilidad grande en la opinión sobre este tema, y no debe realizarse a la ligera, repitiendo clichés infundados que no aportan claridad
 >
-> <quote>La preocupacion es grande no por una Ley nueva, que hace falta, sino en las entrelineas, relacionadas con el manejo de poder por parte del gobierno, por ejemplo que el unico que puede tener cadenas de Radio y TV sea el Gobierno,
+> <quote>La preocupacion es grande no por una Ley nueva, que hace falta, sino en las entrelineas, relacionadas con el manejo de poder por parte del gobierno, por ejemplo que el único que puede tener cadenas de Radio y TV sea el Gobierno,
 
 Cuando usted habla de las entrelíneas sería deseable que las explicitara ¿Cuales son? ¿En qué artículos?
 
@@ -209,7 +209,7 @@ Billetera mata libertad de expresión, podría parafrasearse.
 
 Se cae así en la falacia que justifica "la gente elige a los monopolios", como [repiten constante los periodistas de TN](http://www.youtube.com/watch?v=bFDD2-8LewA). Hay un [muy buen artículo](http://mundo-perverso.blogspot.com/2008/04/la-gente-elige-los-monopolios.html) de un muy buen blog que refuta este razonamiento de manera contundente.
 
-> por supuesto que hay cosas positivas en el proyecto pero que son tapadas por el unico objetivo oficial que es dominar los medios con vista a las proximas elecciones y con un congreso opositor.
+> por supuesto que hay cosas positivas en el proyecto pero que son tapadas por el único objetivo oficial que es dominar los medios con vista a las proximas elecciones y con un congreso opositor.
 
 Es un análisis muy corto y mezquino, que ya ha sido refutado en este hilo por varios participantes. Acotar los objetivos de este proyecto al gobierno y a sus intereses electorales es negar la lucha de inumerables personas y organizaciones que vienen bregando incansablemente, desde el llano y desde hace mucho tiempo, por esta ley.
 Más aún, es minimizar las implicancias profundas que traerá en  democratización de la palabra, herramienta fundamental para la construcción de una democracia más sana y plural,  que va mucho, mucho más alla de este gobierno o los que vengan.
@@ -228,19 +228,19 @@ Saludos</quote>
 **from** Mario Martinez<br>
 **to:** ing_computacion@googlegroups.com<br>
 **date:** Fri, Oct 2, 2009 at 8:12 PM<br>
-**subject:** Re: Informacion sobre la Ley de Medios.
+**subject:** Re: Información sobre la Ley de Medios.
 		
 
 > Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
 >
-> Lo del monopilio, no es asi es una concentracion de medios, porque si no quiero ver TN veo Canal 8 o Canal 10, si bien no es un buen ejemplo pero monopolio (natural) es EPEC, no hay otra alternativa.
+> Lo del monopilio, no es así es una concentración de medios, porque si no quiero ver TN veo Canal 8 o Canal 10, si bien no es un buen ejemplo pero monopolio (natural) es EPEC, no hay otra alternativa.
 >
-> pero veamos el lado positivo, la desconcentracion traera mas trabajo para los Ingenieros (nosotros). ya que la concentracion llevo a que por ejemplo el area de ingenieria de Cordoba u otras ciudades se maneje directamente de Bs. As. con un unico equipo de ingenieria.
+> pero veamos el lado positivo, la desconcentracion traera mas trabajo para los Ingenieros (nosotros). ya que la concentración llevo a que por ejemplo el área de ingeniería de Cordoba u otras ciudades se maneje directamente de Bs. As. con un único equipo de ingeniería.
 >
 > Si estoy de acuerdo con las cadenas tanto de Radio como de TV, y con las emisoras locales, para mi tienen que existir ambas, por ejemplo el exito de las FM fue porque se ocupaba de la problematica local, cuantos escuchan continental o radio del plata en Cordoba. son pocos.
 >
 > o cuantos escuchan cadena 3 en buenos aires, no figura ni en la cola del rating.
-> este proyecto para mi como profesional es muy favorable, pero desde el punto de vista politico no. por todo lo que se dijo respecto de las intensiones del gobierno.
+> este proyecto para mi como profesional es muy favorable, pero desde el punto de vista político no. por todo lo que se dijo respecto de las intensiones del gobierno.
 > seria bueno que podamos hacer un panel sobre este tema e invitar a la gente de los medios. dejenme hablar con las autoridades a ver si logramos convocar un panel representativo (pros, contras, y no sabe no contesta).
 >
 > buen fin de semana.
@@ -248,7 +248,7 @@ Saludos</quote>
 **from** Emilio Gallego<br>
 **to:** ing_computacion@googlegroups.com<br>
 **date:** Fri, Oct 2, 2009 at 10:14 PM<br>
-**subject:** Re: Informacion sobre la Ley de Medios.
+**subject:** Re: Información sobre la Ley de Medios.
 	
 
 > <quote>    Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
@@ -256,7 +256,7 @@ Saludos</quote>
 Optar: justamente, no hay posibilidad de optar cuando se permite que quienes tienen más poder (dinero) acaparan todo el espectro con el mismo mensaje.  ¿Revisó alguna de las infografías sobre el "mapa de medios" ?
 Le <a href="http://www.textosypretextos.com.ar/sites/www.textosypretextos.com.ar/IMG/gif/2h3z9l5.gif" class="thickbox"> facilito una</a>.
 
-> Lo del monopilio, no es asi es una concentracion de medios, porque si no quiero ver TN veo Canal 8 o Canal 10, si bien no es un buen ejemplo pero monopolio (natural) es EPEC, no hay otra alternativa.
+> Lo del monopilio, no es así es una concentración de medios, porque si no quiero ver TN veo Canal 8 o Canal 10, si bien no es un buen ejemplo pero monopolio (natural) es EPEC, no hay otra alternativa.
 
 Decir "concentración de medios" en vez de monopolio es tratar de colar un eufemismo para no ver la realidad. Podemos acordar que es un oligopolio, pero con notorios actores preponderantes.
 
@@ -264,7 +264,7 @@ Decir "concentración de medios" en vez de monopolio es tratar de colar un eufem
 
 [Lealo, por favor](http://mundo-perverso.blogspot.com/2008/04/la-gente-elige-los-monopolios.html) (Carlitos Murua, también estás invitado a leerlo)
 
-> pero veamos el lado positivo, la desconcentracion traera mas trabajo para los Ingenieros (nosotros). ya que la concentracion llevo a que por ejemplo el area de ingenieria de Cordoba u otras ciudades se maneje directamente de Bs. As. con un unico equipo de ingenieria.
+> pero veamos el lado positivo, la desconcentracion traera mas trabajo para los Ingenieros (nosotros). ya que la concentración llevo a que por ejemplo el área de ingeniería de Cordoba u otras ciudades se maneje directamente de Bs. As. con un único equipo de ingeniería.
 
 Bien, ¡al fin estamos de acuerdo en algo! Y vale enfatizar que no sólo será para el área técnica, sino (sobre todo) para los comunicadores y todos los generadores y generadoras de contenidos culturales, que hoy tienen absolutamente limitadas las posibilidades laborales, que el abanico de oportunidades se abrirá.
 

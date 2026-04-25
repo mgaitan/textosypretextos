@@ -96,11 +96,11 @@ title = "Evolución"
 body = "Querido Primo, que bueno es leer esto, la verdad es que me pone muy feliz,te deseo todo el bien y el amor para vos y para ella. la verdad es que tenes buena punteria primito, espero tener el gusto de conocerla promto, el amor nos transforma en seres casi desconocidos para nosotros y sobre todo, ilumina todo aquello que pensamos que siempre iba a estar oscuro.\nun fuerte abrazo atraves de esta pagina"
 +++
 
-Hasta los dieciseis, cuando había fideos en la mesa, mi mamá me ponía un repasador como babero y me picaba los spaghettis en trocitos pequeños, de manera que se pudieran comer con cuchara y el trayecto plato-boca de la comida fuese menos interrumpido por la gravedad.
+Hasta los dieciséis, cuando había fideos en la mesa, mi mamá me ponía un repasador como babero y me picaba los spaghettis en trocitos pequeños, de manera que se pudieran comer con cuchara y el trayecto plato-boca de la comida fuese menos interrumpido por la gravedad.
 
 A los diecisiete, fruto del esfuerzo didáctico de toda mi familia, aprendí a  usar el tenedor. Significó el logro destacado por el que se brindó en la noche de año nuevo de 1999. 
 
-Pero esto no siempre fue así. Me refiero a la didáctica de mi familia, porque sí fué siempre así mi dificultad en la ingesta. Todos y cada uno, exceptuando quizás a mi papá, arguyeron una amenaza en forma de vaticinio. Decían que alguna vez, cuando tuviese novia, mis futuros suegros organizarían un almuerzo de presentación muy protocolar, y por justicia del destino me servirían spaghettis. Allí pagaría las consecuencias de mis malos hábitos. 
+Pero esto no siempre fue así. Me refiero a la didáctica de mi familia, porque sí fue siempre así mi dificultad en la ingesta. Todos y cada uno, exceptuando quizás a mi papá, arguyeron una amenaza en forma de vaticinio. Decían que alguna vez, cuando tuviese novia, mis futuros suegros organizarían un almuerzo de presentación muy protocolar, y por justicia del destino me servirían spaghettis. Allí pagaría las consecuencias de mis malos hábitos. 
 
 Con la boca un poco llena, y limpiándome con el babero la frente, yo me defendía diciendo que la mujer que me amara sabría distinguir las cosas que verdaderamente importan... y además de decirme cuáles son, me enseñaría a comer bien. 
 

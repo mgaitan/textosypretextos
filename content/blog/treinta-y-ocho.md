@@ -48,6 +48,6 @@ Fue mi primer maestro de computación: si algo sé hoy de esta cosa, se debe a s
 
 Me hizo escuchar a Dolina por vez primera, como quien comparte un legado de vida. Me entablilló el brazo cuando me quebré, me prestó y regaló libros, me abrazó fuerte cuando lo necesité.
 
-Y nos regaló, a mi y al mundo, las dos personitas más bellas que me hicieron [impunemente tio](@/blog/una-decada-de-impunidad.md) para siempre.
+Y nos regaló, a mi y al mundo, las dos personitas más bellas que me hicieron [impunemente tío](@/blog/una-decada-de-impunidad.md) para siempre.
 
 Feliz cumpleaños Juan, hermano querido.

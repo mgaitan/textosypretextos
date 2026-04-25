@@ -40,7 +40,7 @@ Cuando quieras al fin seguir tu instinto<br>
 ven a verme y abandona tu laberinto<br>
 <br>
 Si no entiendes lo que vives, si no crees lo que dicen,<br>
-Quizas sea porque no puedes sentir tu propio rumbo<br>
+Quizás sea porque no puedes sentir tu propio rumbo<br>
 atrapada por el molde que te hicieron que no logras destruir.<br>
 <br>
 Cuando quieras saber quien soy realmente<br>

@@ -89,10 +89,10 @@ pero aún me guía.</div>
 En esa pista, la del Don Bosco, corrí los 100 metros más rapidos de mi
 vida. Tenía 9 años y dos piernas fuertes para mi cuerpo pequeño.
 Tenías ganas de que la profe de gimnasia, que tenía --creo-- piernas
-más fuertes que las mias, me sonriera como todo premio.
+más fuertes que las mías, me sonriera como todo premio.
 
 La Sirena, mi barrio, mirá. De acá son mis amigos por eso, aunque viva
-en cuaquier otro lado por 70 años, este será mi barrio. Era un gran
+en cualquier otro lado por 70 años, este será mi barrio. Era un gran
 vivero, toda esta zona, por eso los eucaliptus tan grandes y viejos.
 La Sirena, la sirenita. no por mujer con cola de pez sino por bocina
 de bomberos voluntarios.
@@ -115,7 +115,7 @@ sus ritos de riítos improvisados y eternos. La espero, mirando este
 colectivo que dobla y a nosotros, lagañosos y con el gorro de lana a
 medio poner, corriendolo de atrás para ir a la escuela. La espero,
 viendo este jardín que triunfa verde pese al viento, el agua a
-cuentagotas y las bolsitas de nylon. La espero, sabiendo que quizas
+cuentagotas y las bolsitas de nylon. La espero, sabiendo que quizás
 sea la última vez que esta esquina me pertenece.
 
 ### TRES
@@ -130,19 +130,19 @@ madrugada, por favor te lo pido.
 -- Pero yo no prendo ni una luz, cómo será
 -- ¡Mami! cada vez que voy arriba hay tres luces prendidas. ¿Cómo me
 entero que te bañas a la madrugada, a ver?
--- Al otro dia, te darás cuenta mirando alguna cosa en el baño
+-- Al otro día, te darás cuenta mirando alguna cosa en el baño
 -- Yo no quiero pelear, mami, ya está.
--- Pero lo único que te digo es que vos decis que me tomo dos
-pastillas y eso no es asi
+-- Pero lo único que te digo es que vos decís que me tomo dos
+pastillas y eso no es así
 -- ¡Mami! vos misma dijiste "me tuve que tomar dos pastillas para dormir"
 -- Bueno vos pensas eso, a mi se me ha olvidado, pero yo no tengo
-intención de mentirte. Quizas me tomé una y media. Sí, una y media me
+intención de mentirte. Quizás me tomé una y media. Sí, una y media me
 tomé.
 -- Es más me dijiste "la Elsa me dijo que tome alplax" y yo les dije
 "cortenlá con empastillarse" . Yo puedo ser mala, tener mala onda, pero
 mentirosa no soy.
 -- Yo lo único que me doy cuenta con todo esto es que uno tiene que
-dejarse de joder en algun lado y no sé donde mierda meterme, ya estoy
+dejarse de joder en algún lado y no sé donde mierda meterme, ya estoy
 vieja y en ningún lado encajo. No les doy la contra en nada, no las
 jodo en nada. Me va a dar una convulsión de la presión, mirá.
 -- Así es la vida, mami, así es la vida.
@@ -156,7 +156,7 @@ luciendo sus pelos rojos desteñidos por el cloro de la pileta. Mi
 hermano, qué haces negrito, extiende su abrazo tan tosco como
 cariñoso.  Hola querido, dice Juli, cómo estás.
 
-Minutos despues la danza de heladera, horno y tuppers comienza.
+Minutos después la danza de heladera, horno y tuppers comienza.
 Cervecita a la una, cervecita a la dos. Brindemos: 13 años de casados.
 ¿Trece años ya? Se acabó la cerveza. Mañana hay que trabajar.  Salud.
 Chaucito.

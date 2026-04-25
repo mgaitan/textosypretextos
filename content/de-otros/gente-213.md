@@ -44,7 +44,7 @@ comments = []
 
 <div class="poetry">Hay gente que con sólo decir una palabra<br>
 enciende la ilusión y los rosales,<br>
-que con sólo sonreir entre los ojos<br>
+que con sólo sonreír entre los ojos<br>
 nos invita a viajar por otras zonas<br>
 y nos hace recorrer toda la mágia.<br>
 <br>

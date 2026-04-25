@@ -81,7 +81,7 @@ Hay silencio durante unos segundos, pero veo por el retrovisor que él quiere se
 -- ¿Es complicado manejar acá en Córdoba?
 -- ¡No! ¿Vos sabés manejar? ¿Querés manejar? En serio, tomá, manejá, yo estoy repodrido de manejar -- me dicé mirándome nuevamente y soltando el volante, a la vez que frena un poco. 
 -- No, está bien. Sé manejar, pero no. Mirá si pasa algo. 
--- Qué va a pasar si acá son todos unos giles -- se ríe -- Con lo único que tenés que tener cuidado es con los taxis y con los colectivos porque a ninguno le calienta si raya el coche, porque no son suyos los coches ¿entendés?. Por ejemplo este que va acá adelante, por ahí te para de golpe sin baliza ni nada y te lo comés de atrás. Y tampoco le vayás a tocar bocina, porque son capáz de bajarse con un fierro y agarrete el capó negro. Las demás normas de tránsito son las de todos lados, o sea las que vos quieras. 
+-- Qué va a pasar si acá son todos unos giles -- se ríe -- Con lo único que tenés que tener cuidado es con los taxis y con los colectivos porque a ninguno le calienta si raya el coche, porque no son suyos los coches ¿entendés?. Por ejemplo este que va acá adelante, por ahí te para de golpe sin baliza ni nada y te lo comés de atrás. Y tampoco le vayás a tocar bocina, porque son capaz de bajarse con un fierro y agarrete el capó negro. Las demás normas de tránsito son las de todos lados, o sea las que vos quieras. 
 -- ¿Son bravos los tacheros? -- digo, un poco socarronamente
 -- Y si papá, acá porque es re facha, está lleno de estudiantes y de minitas,  pero mandate para los barrios. Hay que tener para meterse para allá.
 

@@ -93,7 +93,7 @@ _ **Asunto**:	sobre tu mensaje en textos y pretextos *
 	
 Daniel:
 
-Hace un par de dias que vengo elucubrando este email. Desde [tu mensaje en mi blog](/blog/los-dientes-del-poder/#comment-6827), me ha pasado algo bastante raro. Una casualidad de esas que de tan extrañas, te resucitan la duda sobre si al final existen o
+Hace un par de días que vengo elucubrando este email. Desde [tu mensaje en mi blog](/blog/los-dientes-del-poder/#comment-6827), me ha pasado algo bastante raro. Una casualidad de esas que de tan extrañas, te resucitan la duda sobre si al final existen o
 no.
 
 La cosa fue así:
@@ -113,10 +113,10 @@ comprender (parafraseando a Cortázar) hiciste click y te hiciste amigo.
 La cuestión es que tu mensaje sonaba más bien a que te había pedido especialmente que opinaras sobre mi texto,  y yo no sólo no tenía el recuerdo de haberlo hecho sino que no estaba seguro de quien eras.
 
 Así las cosas, el alcohol del jueves por la noche (Córdoba es jodido
-en el rubro joda: hay suficiente todos los dias, y los jueves hay excendente) hizo que me olvidara del tema por unas horas. Pero, la puta, el destino es perseverante cuando se lo propone.
+en el rubro joda: hay suficiente todos los días, y los jueves hay excendente) hizo que me olvidara del tema por unas horas. Pero, la puta, el destino es perseverante cuando se lo propone.
 
 El viernes, bancándome la resaca tuve que levantarme igual por culpa
-de unas fucking cuentas vencidas a pagar. Luego de la odiosa cola, me saqué la leche y quemé el ultimo billete que quedaba en un libro al que le tenía ganas desde hacía rato: "[La Argentina Crónica](http://www.lsf.com.ar/libros/47/ARGENTINA-CRONICA/)". Lo compré a las 11hs,
+de unas fucking cuentas vencidas a pagar. Luego de la odiosa cola, me saqué la leche y quemé el último billete que quedaba en un libro al que le tenía ganas desde hacía rato: "[La Argentina Crónica](http://www.lsf.com.ar/libros/47/ARGENTINA-CRONICA/)". Lo compré a las 11hs,
 lo abrí a las 15hs. Y, perplejo, leí tu nombre en la lista de
 autores.
 
@@ -126,13 +126,13 @@ formó parte de Rolling Stones y Txt, actualmente es uno de los
 editores de Barcelona, y estrechó su diestra con García Marquez. Qué lo parió.
 
 En mi libro, al final de esa minibiografía, le escribí con lápiz: "y un
-dia, dejó un comentario en Textos y Pretextos".
+día, dejó un comentario en Textos y Pretextos".
 
 Me acordé entonces que alguna vez algo tuyo había leído, y googlee tu
 nombre hasta la séptima O. Estaba anonadado, tanto por el mensaje (que creí cierto) como por la putísima casualidad de haber comprado justo un libro en el que participás.
 
-A la tarde, tratando de encontrar algun hilito que me permita saber si
-era posta o algun chiste ingenioso de alguno que conoce de mi curiosidad, lo comenté con un amigo por chat. Como también es bastante internauta, mi amigo llegó a tu minibiografia en un par de clicks, y más rápido y gracioso que ninguno, dejó otro comentario firmado por Gabriel García Marquez y con el email soyelverdaderogabo@gmail.com. Ja! Hete [aquí el chascarrillo](/blog/los-dientes-del-poder/#comment-6830).
+A la tarde, tratando de encontrar algún hilito que me permita saber si
+era posta o algún chiste ingenioso de alguno que conoce de mi curiosidad, lo comenté con un amigo por chat. Como también es bastante internauta, mi amigo llegó a tu minibiografia en un par de clicks, y más rápido y gracioso que ninguno, dejó otro comentario firmado por Gabriel García Marquez y con el email soyelverdaderogabo@gmail.com. Ja! Hete [aquí el chascarrillo](/blog/los-dientes-del-poder/#comment-6830).
 
 Fue. Linda anécdota. A otra cosa mariposa. Pero ahora que ya es madrugada de domingo, volví de una nueva joda pero con más autocontrol, y la rubita tarda en llamar, me pinchó la espinita de nuevo y decidi escribirte, a vos o al falso vos, para develar este misterio.
 

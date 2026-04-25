@@ -106,7 +106,7 @@ Algo pasó de pronto y la tecnología bajó la guardia. Tengo alguna [sospecha a
 
 El resultado, como notarán por la calidad de la mezcla, no tiene mucho que ver conmigo. Lo hice con un [servicio online](http://animoto.com), en el cual sólo se tienen que ordenar las fotos, elegir la musiquita (que también fue a pedido, no crean) y, opcionalmente, ponerle textitos. Esos sí los inventé yo, pero es tan automática la cosa que al programa no le gustó el final y lo eliminó. En la secuencia final un mensaje dice  «Por eso te queremos decir...», luego vienen un par de fotos y termina sin conclusión. O peor: aparece un cartel gigante que dice "ANIMOTO.COM". ¡Imaginen a la abuela brindando esa congratulación a la agasajada!
 
--- Dalmita, te quería desear muchas felicidades y aca te queremos decir, entre todos los que te queremos, animoto punto com para tus quince mi vida.
+-- Dalmita, te quería desear muchas felicidades y acá te queremos decir, entre todos los que te queremos, animoto punto com para tus quince mi vida.
 
 A esa hora la tragedia era completa; ya no había tiempo para rehacer nada. En mi idea original venía otro cartelito que decía algo muy ingenioso y original como "Felices quince años Dalma" y una fotito final del pasacalles que la familia había colgado a la entrada de la casa. Pero a Don Animoto se le antojó que no. 
 

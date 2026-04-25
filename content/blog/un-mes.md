@@ -63,32 +63,32 @@ title = ""
 body = "Bueno gato, que puedo decir... escribís tantas verdades, por ejemplo \"La sociedad del miedo\" en la que hoy vivimos, cuando en realidad no hay más robos ni secuestros que hace un tiempo atrás... los medios han intensificado, y multimplicado el temor valla a saber uno amparados por cual o tal grupo de poder (de adentro o de afuera...), para resumir, objetivamente la delincuencia no es tan alta como subjetivamente lo siente la gente gracias a los medios... y lo que es peor, nuestros legisladores nacionales, sancionan leyes penales con agraventes genéricas, o incrementando las escalas penales de los delitos en particular,(del sistema de control formal más duro de nuestra sociedad - el Derecho Penal -, y que debería ser utilizado como 'ultima ratio' en un sistema penal liberal de un estado de derecho) basados en lo que publicó Página 12, o Clarín... bueno esa es la objetividad en las leyes, que de científicas tienen poco, y que en ves de preocuparse por los problemas de base que llevan a la delincuencia (corrupción, pobreza, analfabetismo, impunidad, etc. etc.) sancionan leyes que esperan sean mágicas??? ...\nLo de la Facu... ahora lo vivo de afuera, pero mi hermano me ha tenido al tanto sobre lo que iba pasando (y el también es un estudiante en serio, lo admiro por eso).\nADHIERO A SUS PALABRAS TIN...!!! abrazos y éxitos por allá... º_º"
 +++
 
-Hace unos dias se cumplió un mes de mi llegada a Córdoba; qué loco, cómo pasa el tiempo.  Pero pasaron muchas cosas importantes como para andar escribiendo sobre tan insignificante acontecimiento; por ejemplo: 
+Hace unos días se cumplió un mes de mi llegada a Córdoba; qué loco, cómo pasa el tiempo.  Pero pasaron muchas cosas importantes como para andar escribiendo sobre tan insignificante acontecimiento; por ejemplo: 
 
 -* los yankees confirmaron las sospechas sobre su estupidez y su egoismo
 -*  los uruguayos, por el contrario, al fin se jugaron por un cambio votando a Tabaré;
 -* los índices de delitos disminuyeron en Buenos Aires, pero en la tele sigue la realidad del miedo--reja--palo--negros--chorros--secuestro--sangre--seguridad--blumberg--meentiende?
--*  murió Yasser Arafat, y se fué sin ver a su pueblo libre y en paz
+-*  murió Yasser Arafat, y se fue sin ver a su pueblo libre y en paz
 -*  están dele que dele con un cuento chino, y nadie sabe si tiene final feliz, si tiene final, o si es el final
 -*  Lavagna sigue, silencioso, su lucha contra los 'acreedores'
--*  se nos fué el canoso, el gran Adolfo Castelo
+-*  se nos fue el canoso, el gran Adolfo Castelo
 -*  y hay mucha gente en este momento que tiene sed, hambre, y balas de soldados norteamericanos (y de otras nacionalidades) esperando por ellos. 
 
 Hoy se cumplió *otro* mes, y es de ése del que quiero hablar: **un mes de toma en la Universidad Nacional del Comahue**. 
 
 -- *Que difícil Tin, ¿por qué no hacés como la mayoría y te evitás meterte en un tema tan delicado?* -- intenta persuadirme mi subconsciente, justo antes de que mi inconsciente le encaje un piña bien puesta. 
 
-Atento, preocupado, orgulloso, intrigado, dudoso, nostalgico, furioso, desconectado, convencido. Son muchos estados teniendo en cuenta que estoy a cientos de kilometros de 'la verdad'.Pero ¿Cuál verdad? ¿La que escribió el Rio Negro todo este tiempo? ¿O la que me llegaba por emails de mis compañeros y amigos? En mi búsqueda diaria de alguna novedad logré una revelacion (que ingenuo era antes): los medios tienen poder y lo ejercen  tergiversando, ocultando, omitiendo, confundiendo, y (como último recurso) ignorando los hechos.  <a href="http://www.8300.com.ar">(8300)</a> es el único medio que dió voz a los estudiantes; un capo el que hizo ese sitio, felicitenló de mi parte.  
+Atento, preocupado, orgulloso, intrigado, dudoso, nostalgico, furioso, desconectado, convencido. Son muchos estados teniendo en cuenta que estoy a cientos de kilometros de 'la verdad'.Pero ¿Cuál verdad? ¿La que escribió el Rio Negro todo este tiempo? ¿O la que me llegaba por emails de mis compañeros y amigos? En mi búsqueda diaria de alguna novedad logré una revelacion (que ingenuo era antes): los medios tienen poder y lo ejercen  tergiversando, ocultando, omitiendo, confundiendo, y (como último recurso) ignorando los hechos.  <a href="http://www.8300.com.ar">(8300)</a> es el único medio que dio voz a los estudiantes; un capo el que hizo ese sitio, felicitenló de mi parte.  
 
 Me cuenta David: 
 
 > En este último mes aprendi sobre los manejos de la universidad más que en
 > los 4 años que llevo aquí adentro. Nunca pensé que fueran santos pero creí que al menos tenian convicciones firmes, ahora me di cuenta que el único criterio que los gobierna es patear para donde sopla el viento.
-> Desde nuestro decano Boccanera (que se dió vuelta como un panqueque) hasta la rectora
-> que ofrecio un dudoso "aumento de sueldo por 6 meses" a los No Docentes (eso que vulgarmente se conoce como coima), que por supuesto despues fue desmentido.
+> Desde nuestro decano Boccanera (que se dio vuelta como un panqueque) hasta la rectora
+> que ofrecio un dudoso "aumento de sueldo por 6 meses" a los No Docentes (eso que vulgarmente se conoce como coima), que por supuesto después fue desmentido.
 > Los únicos que mantuvieron una posición coherente fueron (fuimos y en caso de que hoy termine) los estudiantes, la verdad que fue muy bien organizado todo. Hoy puede ser un gran día.
 
-Pienso, con la tranquilidad de estar frente al monitor tomando un café y con un montón de huecos de información,  que yo no hubiese acordado con una medida como la toma.  No porque esté en contra de la lucha, claro, fui de los que estuvo en el inicio. No hubiese acordado porque la considero una mala estrategia: si tenemos argumentos sólidos debemos sacarlos, hacerlos oir, ser inteligentes y saltearnos los obstaculos,   llegar a la comunidad y hacerles entender que es la Universidad es de todos y entre todos debemos defenderla. Además me asusta el desgaste que se produce, la pérdida de valiosísimas clases  y que le abre la puerta al manijeo de los que están todo el dia, convencidos de que está naciendo "la revolución". 
+Pienso, con la tranquilidad de estar frente al monitor tomando un café y con un montón de huecos de información,  que yo no hubiese acordado con una medida como la toma.  No porque esté en contra de la lucha, claro, fui de los que estuvo en el inicio. No hubiese acordado porque la considero una mala estrategia: si tenemos argumentos sólidos debemos sacarlos, hacerlos oír, ser inteligentes y saltearnos los obstaculos,   llegar a la comunidad y hacerles entender que es la Universidad es de todos y entre todos debemos defenderla. Además me asusta el desgaste que se produce, la pérdida de valiosísimas clases  y que le abre la puerta al manijeo de los que están todo el día, convencidos de que está naciendo "la revolución". 
 
 Pero *"Ganó la postura de los estudiantes"*, dice el diario del sábado que estoy leyendo. Y como un ching y chang, dentro de la gran felicidad que me invade me entristece saber que "la postura de los estudiantes" no es la postura de mi país, que no estamos convencidos que la educación pública, gratuita y de excelencia es la soga que va a sacar al país de este pozo tan profundo. 
 
