@@ -1,13 +1,13 @@
 {% extends "base.html" %}
 
-{% block title %}Autores · {{ config.title }}{% endblock title %}
+{% block title %}Autoras y autores · {{ config.title }}{% endblock title %}
 
 {% block content %}
   <main class="pt-8">
     <section class="editorial-rule">
-      <span class="section-ribbon">Autores</span>
+      <span class="section-ribbon">Autoras y autores</span>
       <div class="mt-5 max-w-[48rem]">
-        <h2 class="story-title">Autores</h2>
+        <h2 class="story-title">Autoras y autores</h2>
       </div>
     </section>
 
@@ -20,7 +20,7 @@
                 <img src="{{ page.extra.image }}" alt="{{ page.title }}" loading="lazy">
               </a>
             {% endif %}
-            <p class="story-kicker">Autor</p>
+            <p class="story-kicker">Autora / Autor</p>
             <h2 class="story-title-xs"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
             <p class="mt-4 text-base leading-7 text-neutral-700">{{ page.extra.article_paths | length }} {% if page.extra.article_paths | length == 1 %}texto{% else %}textos{% endif %}</p>
           </article>
