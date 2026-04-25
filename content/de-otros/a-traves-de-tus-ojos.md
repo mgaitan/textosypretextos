@@ -9,7 +9,7 @@ authors = [
     "La Portuaria",
 ]
 categories = [
-    "Blog",
+    "De otros",
 ]
 tags = [
     "El resto",
@@ -19,8 +19,8 @@ tags = [
 
 [extra]
 legacy_id = 78
-section_slug = "blog"
-section_title = "Blog"
+section_slug = "de-otros"
+section_title = "De otros"
 summary = "A través de tus ojos. Una canción de La Portuaria sobre el tiempo compartido, la intimidad y la mirada amorosa."
 visits = 0
 popularite = 0.0
@@ -41,6 +41,8 @@ tag_links = [
 ]
 comments = []
 +++
+
+{% video_embed(provider="youtube", id="8Xl5ZaInIc8", title="A través de tus ojos - La Portuaria") %}{% end %}
 
 <div class="poetry">Yo puedo ver el mundo<br>
 y comprender el paso de los días.<br>
