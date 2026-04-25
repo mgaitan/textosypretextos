@@ -2,15 +2,16 @@
   {% set is_feature = variant == "feature" %}
   {% set is_compact = variant == "compact" %}
   {% set is_list = variant == "list" %}
+  {% set is_home_list = variant == "home-list" %}
   {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
   {% if use_subcat %}
     {% set kicker_text = page.extra.tag_links[0].name %}
   {% else %}
     {% set kicker_text = page.extra.section_title %}
   {% endif %}
-  <article class="{% if is_list %}listing-card{% elif is_compact %}feed-item{% else %}grid gap-5{% endif %}{% if not page.extra.hero_image %} no-media{% endif %}">
+  <article class="{% if is_list %}listing-card{% elif is_home_list %}home-listing-card{% elif is_compact %}feed-item{% else %}grid gap-5{% endif %}{% if not page.extra.hero_image %} no-media{% endif %}">
     {% if page.extra.hero_image %}
-      <a href="{{ page.permalink }}" class="media-frame {% if page.extra.section_slug == 'videos' %}video{% endif %} reveal {% if is_feature %}aspect-[16/10]{% elif is_list %}aspect-[4/3]{% else %}aspect-[16/9]{% endif %}">
+      <a href="{{ page.permalink }}" class="media-frame {% if page.extra.section_slug == 'videos' %}video{% endif %} reveal {% if is_feature %}aspect-[16/10]{% elif is_list or is_home_list %}aspect-[4/3]{% else %}aspect-[16/9]{% endif %}">
         <img src="{{ page.extra.hero_image }}" alt="{{ page.extra.hero_alt | default(value=page.title) }}">
       </a>
     {% elif page.extra.section_slug == "videos" %}
@@ -27,7 +28,7 @@
         <p class="mt-2 text-base text-neutral-600">{{ page.extra.subtitle }}</p>
       {% endif %}
       {% if page.extra.summary %}
-        <p class="story-deck {% if is_compact %}text-base leading-7{% endif %}">
+        <p class="story-deck {% if is_compact or is_home_list %}text-base leading-7{% endif %}{% if is_home_list %} home-listing-summary{% endif %}">
           {{ page.extra.summary }}
         </p>
       {% endif %}
@@ -48,7 +49,7 @@
           <span>{{ page.extra.comment_count }} comentarios</span>
         {% endif %}
       </div>
-      {% if page.extra.tag_links and not is_compact %}
+      {% if page.extra.tag_links and not is_compact and not is_home_list %}
         {% if use_subcat %}{% set tag_start = 1 %}{% else %}{% set tag_start = 0 %}{% endif %}
         {% if page.extra.tag_links | length > tag_start %}
           <div class="mt-4 flex flex-wrap gap-2">

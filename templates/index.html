@@ -27,7 +27,7 @@
             <div class="home-blog-rest">
               {% for page in blog_pages %}
                 {% if not loop.first %}
-                  {{ macros::story_card(page=page, variant="compact") }}
+                  {{ macros::story_card(page=page, variant="home-list") }}
                 {% endif %}
               {% endfor %}
             </div>

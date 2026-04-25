@@ -7,9 +7,8 @@
 {% block content %}
   <main class="pt-8">
     <section class="editorial-rule">
-      <span class="section-ribbon">{{ section.title }}</span>
       <div class="mt-5 max-w-[52rem]">
-        <h2 class="story-title">{{ section.title }}</h2>
+        <h1 class="story-title">{{ section.title }}</h1>
         {% if section.content %}
           <div class="story-deck story-content">{{ section.content | safe }}</div>
         {% elif section.extra.summary %}

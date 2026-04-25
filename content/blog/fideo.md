@@ -14,6 +14,8 @@ categories = [
 tags = [
     "La pelota no se mancha",
     "Memoria",
+    "Personas",
+    "Deporte",
 ]
 
 [extra]
@@ -36,6 +38,8 @@ author_links = [
 tag_links = [
     { name = "La pelota no se mancha", path = "/etiquetas/la-pelota-no-se-mancha/" },
     { name = "Memoria", path = "/etiquetas/memoria/" },
+    { name = "Personas", path = "/etiquetas/personas/" },
+    { name = "Deporte", path = "/etiquetas/deporte/" },
 ]
 comments = []
 +++

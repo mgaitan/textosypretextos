@@ -2,24 +2,26 @@
 title = "A través de tus ojos"
 slug = "a-traves-de-tus-ojos"
 date = 2025-06-23 18:08:57
-description = "A través de tus ojos - La Portuaria Yo puedo ver el mundo y comprender el paso de los días. Entendernos sin palabras, abrazando nuestro cómplice silencio. Tu risa…"
-draft = true
+description = "A través de tus ojos. Una canción de La Portuaria."
+draft = false
 template = "article.html"
 authors = [
-    "Martín Gaitán",
+    "La Portuaria",
 ]
 categories = [
     "Blog",
 ]
 tags = [
     "El resto",
+    "Música",
+    "Canción",
 ]
 
 [extra]
 legacy_id = 78
 section_slug = "blog"
 section_title = "Blog"
-summary = "A través de tus ojos - La Portuaria Yo puedo ver el mundo y comprender el paso de los días. Entendernos sin palabras, abrazando nuestro cómplice silencio. Tu risa vuelve el tiempo mas liviano y vulnerable, y pierden…"
+summary = "A través de tus ojos. Una canción de La Portuaria sobre el tiempo compartido, la intimidad y la mirada amorosa."
 visits = 0
 popularite = 0.0
 hero_image = ""
@@ -30,41 +32,47 @@ surtitle = ""
 subtitle = ""
 deck = ""
 author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
+    { name = "La Portuaria", path = "" },
 ]
 tag_links = [
     { name = "El resto", path = "/etiquetas/el-resto/" },
+    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Canción", path = "/etiquetas/cancion/" },
 ]
 comments = []
 +++
 
-<span style="font-weight: bold">A través de tus ojos - La Portuaria</span>
+<div class="poetry">Yo puedo ver el mundo<br>
+y comprender el paso de los días.<br>
+Entendernos sin palabras,<br>
+abrazando nuestro cómplice silencio.<br>
+<br>
+Tu risa vuelve el tiempo más liviano y vulnerable,<br>
+y pierden peso las cosas del mundo.<br>
+Son mejores a través de tu mirada.<br>
+<br>
+Donde corre el agua,<br>
+donde sopla el viento,<br>
+puedo ver a través de tus ojos.<br>
+<br>
+Ya nada se detiene,<br>
+las cosas son distintas.<br>
+Atravesando el muro de viejas armaduras<br>
+las fórmulas no tienen más sentido.<br>
+<br>
+Tus ojos me despiertan si me quedo dormido.<br>
+Yo sueño tu futuro y lo vivo cada día,<br>
+y en cada cosa que hago vos siempre estás conmigo.<br>
+<br>
+Donde corre el agua,<br>
+donde sopla el viento,<br>
+puedo ver a través de tus ojos.<br>
+Donde corre el agua,<br>
+donde duerme el tiempo,<br>
+puedo ver a través de tus ojos.</div>
 
-Yo puedo ver el mundo
-y comprender el paso de los días.
-Entendernos sin palabras,
-abrazando nuestro cómplice silencio.
+{% postscript() %}
+Autores: Frenkel / Schachtel / Belmonte.
 
-Tu risa vuelve el tiempo mas liviano y vulnerable,
-y pierden peso las cosas del mundo.
-Son mejores a traves de tu mirada.
-
-Donde corre el agua,
-donde sopla el viento
-puedo ver a traves de tus ojos.
-
-Ya nada se detiene,
-las cosas son distintas.
-Atravesando el muro de viejas armaduras
-las formulas no tienen mas sentido.
-
-Tus ojos me despierten si me quedo dormido.
-Yo sueño tu futuro y lo vivo cada dia,
-y en cada cosa que hago vos siempre estas conmigo
-
-Donde corre el agua,
-donde sopla el viento,
-puedo ver a través de tus ojos.
-Donde corre el agua,
-donde duerme el tiempo,
-puedo ver a través de tus ojos
+Disco: Río (2005).
+{% end %}
