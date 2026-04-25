@@ -230,26 +230,12 @@ Excepción:
 
 ### Uso correcto de `gh issue create` con body multilínea
 
-El flag `--body` acepta texto plano pero **el shell puede interpolar backticks
-y otras expansiones**, corrompiendo el contenido. Para evitarlo, siempre pasar
-el cuerpo desde un archivo:
+Usar siempre `--body-file` para evitar que el shell interpole backticks u otras
+expansiones en el cuerpo del issue:
 
 ```bash
-# escribir el body en un archivo temporal
 cat > /tmp/issue_body.md << 'EOF'
-Descripción del issue.
-
-Puede incluir `backticks`, listas, etc. sin problema.
+Descripción con `backticks` sin problema.
 EOF
-
-gh issue create --title "Título del issue" --body-file /tmp/issue_body.md
+gh issue create --title "Título" --body-file /tmp/issue_body.md
 ```
-
-Alternativamente, con `printf` y proceso de sustitución:
-
-```bash
-gh issue create --title "Título" --body "$(printf '%s' 'Texto sin expansiones')"
-```
-
-La forma más robusta y legible sigue siendo `--body-file` con un heredoc
-delimitado por comillas (`<< 'EOF'`), que desactiva toda interpolación.
