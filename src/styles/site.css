@@ -426,6 +426,10 @@
     @apply border-b border-black py-5;
   }
 
+  .no-comments-placeholder {
+    @apply py-6 text-neutral-500 text-sm italic;
+  }
+
   .comments-existing .comment-card:last-child,
   #dynamic-comments .comment-card:last-child {
     @apply border-b-0;

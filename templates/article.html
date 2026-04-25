@@ -118,6 +118,8 @@ Descripción:
             </article>
           {% endfor %}
         </div>
+      {% else %}
+        <p id="no-comments-placeholder" class="no-comments-placeholder">Aún no hay comentarios. ¡Dejá el primero!</p>
       {% endif %}
 
       <div id="dynamic-comments" data-article-slug="{{ page.slug }}"></div>
