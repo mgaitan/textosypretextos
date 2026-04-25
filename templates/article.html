@@ -30,18 +30,18 @@
         <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
         {% for author in page.extra.author_links %}
           {% if author.path %}
-            <a href="{{ author.path }}">{{ author.name }}</a>
+            <a href="{{ author.path }}" class="meta-link">{{ author.name }}</a>
           {% else %}
             <span>{{ author.name }}</span>
           {% endif %}
         {% endfor %}
         {% if page.extra.comment_count > 0 %}
-          <a href="#comments">{{ page.extra.comment_count }} comentarios</a>
+          <a href="#comments" class="meta-link">{{ page.extra.comment_count }} comentarios</a>
         {% endif %}
       </div>
     </header>
 
-    <article class="story-content reveal">
+    <article class="article-body story-content reveal">
       {{ page.content | safe }}
     </article>
 
@@ -62,6 +62,10 @@
         </div>
       </div>
     {% endif %}
+
+    <div class="article-comment-cta reveal">
+      <a href="#comment-form" class="more-link" data-comment-focus>Dejá un comentario</a>
+    </div>
 
     {% if page.lower or page.higher %}
       <nav class="article-nav reveal" aria-label="Navegación entre artículos">
@@ -114,7 +118,7 @@
           </label>
           <label class="comment-field">
             <span>Comentario</span>
-            <textarea name="body" required minlength="2" maxlength="4000" rows="5"></textarea>
+            <textarea id="comment-body" name="body" required minlength="2" maxlength="4000" rows="5"></textarea>
           </label>
           <label class="hp-field" aria-hidden="true">
             <span>No completar</span>

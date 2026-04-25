@@ -7,6 +7,7 @@
     "build": "npm run build:assets && zola build",
     "dev:assets": "vite build --watch --mode development",
     "dev": "npm run build:assets && zola serve --drafts --open",
+    "new:article": "uv run scripts/new_article.py",
     "preview": "npm run build && npx wrangler pages dev public --compatibility-date=2026-04-24",
     "deploy": "npm run build && npx wrangler pages deploy public --project-name textosypretextos"
   },

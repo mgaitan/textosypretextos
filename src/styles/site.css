@@ -165,6 +165,16 @@
     font-family: var(--font-mono);
   }
 
+  .meta-link {
+    color: var(--color-muted);
+    text-decoration-color: rgba(117, 117, 117, 0.55);
+  }
+
+  .meta-link:hover {
+    color: var(--color-ink);
+    text-decoration-color: var(--color-link);
+  }
+
   .media-frame {
     @apply relative overflow-hidden border border-black bg-neutral-100;
   }
@@ -245,7 +255,7 @@
   }
 
   .article-header {
-    @apply border-b border-black pb-8 pt-8;
+    @apply border-b border-black pb-6 pt-8;
   }
 
   .article-layout {
@@ -342,6 +352,14 @@
     @apply mt-10 flex flex-wrap items-center gap-3 border-t border-black pt-5;
   }
 
+  .article-body {
+    @apply pt-8;
+  }
+
+  .article-comment-cta {
+    @apply mt-10;
+  }
+
   .article-nav {
     @apply mt-10 grid gap-6 border-t border-black pt-6 sm:grid-cols-2;
   }
@@ -361,6 +379,11 @@
 
   .comment-card {
     @apply border-b border-black py-5;
+  }
+
+  .comments-existing .comment-card:last-child,
+  #dynamic-comments .comment-card:last-child {
+    @apply border-b-0;
   }
 
   .comment-card[data-depth="1"] {
@@ -409,7 +432,8 @@
 
   .comment-form button[type="submit"] {
     font-family: var(--font-ui);
-    @apply border border-black bg-black px-5 py-2 text-[12px] uppercase tracking-[0.18em] text-white hover:bg-white hover:text-black transition-colors;
+    appearance: none;
+    @apply border-2 border-black bg-white px-5 py-2 text-[12px] uppercase tracking-[0.18em] text-black hover:bg-black hover:text-white transition-colors;
   }
 
   .comment-form-status {
@@ -532,7 +556,7 @@
   }
 
   .home-sidebar {
-    @apply min-w-0 lg:border-l lg:border-black lg:pl-8;
+    @apply min-w-0 lg:border-l lg:border-black lg:pl-10;
   }
 
   .home-lead {
@@ -554,6 +578,10 @@
 
   .sidebar-block {
     @apply pb-8 mb-8 border-b border-neutral-300 last:border-b-0 last:mb-0;
+  }
+
+  .home-sidebar .media-frame {
+    @apply border-2;
   }
 
   .comment-stack {
@@ -579,7 +607,7 @@
   }
 
   .search-form button {
-    @apply text-white text-base leading-none px-1;
+    @apply border border-white text-white text-base leading-none px-2 py-0.5;
   }
 
   .search-form button:hover {

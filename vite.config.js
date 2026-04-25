@@ -3,6 +3,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [tailwindcss()],
+  publicDir: false,
   build: {
     outDir: "static/assets",
     emptyOutDir: true,

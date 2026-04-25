@@ -1,6 +1,6 @@
 base_url = "https://textosypretextos.pages.dev"
 title = "Textos y Pretextos"
-description = "Textos, fotos, videos y lecturas de Martín Gaitán."
+description = "Textos, imágenes y lecturas de Martín Gaitán."
 default_language = "es"
 compile_sass = false
 build_search_index = true
@@ -17,4 +17,4 @@ render_emoji = false
 
 [extra]
 site_owner = "Martín Gaitán"
-site_description = "Textos, fotos, videos y lecturas."
+site_description = "Un cuaderno abierto de lecturas, canciones y hallazgos."

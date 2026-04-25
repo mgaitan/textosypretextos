@@ -85,7 +85,7 @@
 
         <div class="sidebar-block">
           <h2 class="module-title">Comentarios recientes</h2>
-          <div class="comment-stack">
+          <div class="comment-stack" data-recent-comments>
             {% for item in section.extra.recent_comments | slice(end=5) %}
               {% set comment_page = get_page(path=item.article_path) %}
               <article class="comment-snippet">

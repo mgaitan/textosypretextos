@@ -37,7 +37,7 @@
           <span>
             {% for author in page.extra.author_links %}
               {% if author.path %}
-                <a href="{{ author.path }}">{{ author.name }}</a>{% if not loop.last %}, {% endif %}
+                <a href="{{ author.path }}" class="meta-link">{{ author.name }}</a>{% if not loop.last %}, {% endif %}
               {% else %}
                 {{ author.name }}{% if not loop.last %}, {% endif %}
               {% endif %}
