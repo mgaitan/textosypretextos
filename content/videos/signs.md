@@ -1,0 +1,47 @@
++++
+title = "Signs"
+slug = "signs"
+date = 2009-02-16 22:56:57
+description = "Corto escrito y dirigido por Patrick Hughes para el Schweppes Short Film Festival. O sea, es un chivo de esa gaseosa citrus tan fea. Pero bonito chivo, ¿no?"
+draft = false
+template = "article.html"
+authors = [
+    "Martín Gaitán",
+]
+categories = [
+    "Videos",
+]
+tags = [
+    "Cine",
+]
+
+[extra]
+legacy_id = 293
+section_slug = "videos"
+section_title = "Videos"
+summary = "Corto escrito y dirigido por Patrick Hughes para el Schweppes Short Film Festival. O sea, es un chivo de esa gaseosa citrus tan fea. Pero bonito chivo, ¿no?"
+visits = 862
+popularite = 0.9059108852044996
+hero_image = ""
+hero_alt = ""
+comment_count = 0
+legacy_url = "/videos/signs/"
+surtitle = ""
+subtitle = "Patrick Hughes"
+deck = ""
+author_links = [
+    { name = "Martín Gaitán", path = "/autores/martin/" },
+]
+tag_links = [
+    { name = "Cine", path = "/etiquetas/cine/" },
+]
+comments = []
++++
+
+{{ video_embed(provider="youtube", id="uy0HNWto0UY") }}
+
+Corto escrito y dirigido por Patrick Hughes para el [Schweppes Short Film Festival](http://www.schhh.eu/shortfilms/). O sea, es un chivo de esa gaseosa citrus tan fea. Pero bonito chivo, ¿no?
+
+### Galería
+
+{{ video_embed(provider="youtube", id="uy0HNWto0UY", title="uy0HNWto0UY&color1=0xb1b1b1&color2=0xcfcfcf&hl=es&feature=player_embedded&fs=1") }}
