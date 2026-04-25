@@ -117,7 +117,7 @@ body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que est
 > Dijo usted:
 >
 >
->     Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo publico N° 1. Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
+> Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo publico N° 1. Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
 
 En primer lugar no cita usted fuente alguna de las declaraciones del secretario de Cispren  (Circulo Sindical de trabajadores de prensa de Córdoba), aunque problablemente no esté faltando a la verdad, porque somos muchos los que intuímos que este enfrentamiento entre el gobierno y el Grupo Clarín fue un factor detonante que decidió llevar esto adelante.  Pero, ¿Es ese el eje principal? ¿Cuales son los beneficios o perjuicios que traería la ley más allá de la causa que activó el envío del proyecto? ¿Se lo preguntó?
 
@@ -249,7 +249,7 @@ Saludos
 **subject:** Re: Información sobre la Ley de Medios.
 	
 
->     Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
+> Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
 
 Optar: justamente, no hay posibilidad de optar cuando se permite que quienes tienen más poder (dinero) acaparan todo el espectro con el mismo mensaje.  ¿Revisó alguna de las infografías sobre el "mapa de medios" ?
 Le <a href="http://www.textosypretextos.com.ar/sites/www.textosypretextos.com.ar/IMG/gif/2h3z9l5.gif" class="thickbox"> facilito una</a>.
