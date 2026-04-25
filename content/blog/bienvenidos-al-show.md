@@ -58,7 +58,7 @@ y de alguna salvación...
 
 </div>
 
-*<a href="http://www.mapeque.com.ar">Ma'PerQué</a>, una banda de fulanos, está sonando mucho y bien por lo bares de Córdoba. Otro fulano, nuestro entrevistador, los escuchó una noche y e inmediatamente les echó la culpa de haberse enamorado de la ciudad y su cultura. Sabemos que nuestro entrevistador es un exagerado, pero afirma tener sus motivos. Luego los buscó durante algunas semanas, hasta que una tarde de sábado el pasto de una plaza fue testigo de esta charlita con Marcos y Exequiel, dos de los culpables. *
+**Ma'PerQué**, una banda de fulanos, está sonando mucho y bien por lo bares de Córdoba. Otro fulano, nuestro entrevistador, los escuchó una noche y e inmediatamente les echó la culpa de haberse enamorado de la ciudad y su cultura. Sabemos que nuestro entrevistador es un exagerado, pero afirma tener sus motivos. Luego los buscó durante algunas semanas, hasta que una tarde de sábado el pasto de una plaza fue testigo de esta charlita con Marcos y Exequiel, dos de los culpables. *
 
 **─ Marcos ¿Cómo ves a la cultura de Córdoba?**
 
@@ -80,7 +80,7 @@ Significa que el argentino culturalmente necesita volver a mirarse a si mismo, y
 
 (M) Es jodido, pero si hay voluntad hay todo, y no hay que tenerle miedo a la lucha. Hay todo un mito con respecto a eso, es eso de medir el futuro en plata, y entonces se dice "no la música no, te vas a cagar de hambre".
 
-**─ Si, y el otro mito que dice que el estudio no te deja hacer otra cosa. **
+**─ Si, y el otro mito que dice que el estudio no te deja hacer otra cosa.**
 
 (M) Si, cierto. Pero la pasión y los huevos te dejan hacer música, y otras cosas también. Esta bien, el sistema está mas armado para un abogado que para un músico, es más fácil para un empresario que para un artista, pero creo que el cambio se puede dar, y creo que se va a dar desde Córdoba. Perdí mi fe religiosa y la puse toda en el arte. Hemos sido centro cultural del país, revolucionario y cultural diría. Desde la reforma, el Cordobazo...el siglo 20 le pertenece a Córdoba revolucionariamente hablando, y entonces ¿por qué no el siglo 21?
 
@@ -135,4 +135,9 @@ pelotudo que mi novia me mata.
 
 Bueno, el deseo es bajar todo este vuelo. Fijate,  él está laburando, yo también, y los demás igual. Por ahí decir bueno, ahora se puede. Sonará frívolo pero lo que queremos es poder dedicarnos a full a esto, porque ahora no se puede, estamos laburando 12 horas por día para poder hacer lo que nos gusta. En este momento esa es la única forma, pero yo tengo una frase filosofal que dice "despacito y con saliva, el elefante se cogió a la hormiga". 
 
-*NOTA: Esta entrevista la hice para la revista Wayra del CEICiN, proyecto que cajoneamos por unos días, pero pronto resucitará. Porque el viento nunca deja de soplar.*
+
+{{ video_embed(provider="youtube", id="sTbOE0L7jLo") }}
+
+{% postscript() %}
+Esta entrevista la hice para la revista Wayra del Centro de Estudiantes de la Facultad de Ciencias Exáctas, Físicas y Naturales de la Universidad Nacional de Córdoba (CEICiN), proyecto que cajoneamos por unos días, pero pronto resucitará. Porque el viento nunca deja de soplar.*
+{% end %}
