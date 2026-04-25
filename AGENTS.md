@@ -116,7 +116,7 @@ Usar esto sólo si hace falta regenerar desde el dump original. Si el cambio es 
 
 El theme sigue un sistema editorial inspirado en WIRED. La referencia base local es:
 
-- [`/home/tin/lab/nqnwebsc/DESIGN.md`](/home/tin/lab/nqnwebsc/DESIGN.md)
+- [DESIGN.md](/home/tin/lab/nqnwebsc/sites/textosypretextos/DESIGN.md)
 
 Origen del sistema:
 
