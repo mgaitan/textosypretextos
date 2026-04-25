@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as macros %}
+
+{% block title %}{{ section.title }} · {{ config.title }}{% endblock title %}
+{% block meta_description %}{{ section.extra.summary | default(value=config.description) }}{% endblock meta_description %}
+
+{% block content %}
+  <main class="pt-8">
+    <section class="editorial-rule">
+      <span class="section-ribbon">{{ section.title }}</span>
+      <div class="mt-5 max-w-[52rem]">
+        <h2 class="story-title">{{ section.title }}</h2>
+        {% if section.content %}
+          <div class="story-deck story-content">{{ section.content | safe }}</div>
+        {% elif section.extra.summary %}
+          <p class="story-deck">{{ section.extra.summary }}</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <section class="listing mt-10">
+      {% for page in section.pages %}
+        {{ macros::story_card(page=page, variant="list") }}
+      {% endfor %}
+    </section>
+  </main>
+{% endblock content %}

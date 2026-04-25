@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}Etiquetas · {{ config.title }}{% endblock title %}
+
+{% block content %}
+  <main class="pt-8">
+    <section class="editorial-rule">
+      <span class="section-ribbon">Etiquetas</span>
+      <div class="mt-5 max-w-[48rem]">
+        <h2 class="story-title">Etiquetas</h2>
+      </div>
+    </section>
+
+    <section class="taxonomy-grid mt-10">
+      {% for page in section.pages | sort(attribute="title") %}
+        <article class="taxonomy-card reveal">
+          <p class="story-kicker">{{ page.extra.group_name }}</p>
+          <h2 class="story-title-xs"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+          <p class="mt-4 text-base leading-7 text-neutral-700">{{ page.extra.article_paths | length }} textos</p>
+        </article>
+      {% endfor %}
+    </section>
+  </main>
+{% endblock content %}

@@ -1,0 +1,10 @@
+<figure class="align-center">
+  <div class="border border-black p-4">
+    {% if title %}
+      <figcaption class="mb-3">{{ title }}</figcaption>
+    {% endif %}
+    <audio controls preload="none" class="w-full">
+      <source src="{{ src }}">
+    </audio>
+  </div>
+</figure>

@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as macros %}
+
+{% block title %}{{ config.title }}{% endblock title %}
+
+{% block content %}
+  {% set blog = get_section(path="blog/_index.md") %}
+  {% set featured_photo = get_page(path=section.extra.featured_photo_path) %}
+  {% set latest_video = get_page(path=section.extra.latest_video_path) %}
+  {% set latest_other = get_page(path=section.extra.latest_other_path) %}
+  {% set blog_pages = blog.pages | slice(end=5) %}
+
+  <main class="pt-8">
+    <div class="home-grid">
+      <section class="home-main">
+        <div class="mb-6">
+          <span class="section-ribbon">Últimos del blog</span>
+        </div>
+
+        {% if blog_pages | length > 0 %}
+          {% set lead = blog_pages[0] %}
+          <div class="home-lead editorial-rule">
+            {{ macros::story_card(page=lead, variant="feature") }}
+          </div>
+
+          {% if blog_pages | length > 1 %}
+            <div class="home-blog-rest">
+              {% for page in blog_pages %}
+                {% if not loop.first %}
+                  {{ macros::story_card(page=page, variant="compact") }}
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+        {% endif %}
+
+        <div class="mt-12">
+          <a class="more-link" href="/blog/">Ver más artículos del blog →</a>
+        </div>
+      </section>
+
+      <aside class="home-sidebar">
+        {% if featured_photo %}
+          <div class="sidebar-block">
+            <div class="mb-4">
+              <span class="section-ribbon">Foto</span>
+            </div>
+            {{ macros::story_card(page=featured_photo, variant="compact") }}
+          </div>
+        {% endif %}
+
+        {% if latest_video %}
+          <div class="sidebar-block">
+            <div class="mb-4">
+              <span class="section-ribbon">Video</span>
+            </div>
+            {{ macros::story_card(page=latest_video, variant="compact") }}
+          </div>
+        {% endif %}
+
+        {% if latest_other %}
+          <div class="sidebar-block">
+            <div class="mb-4">
+              <span class="section-ribbon">De otros</span>
+            </div>
+            {{ macros::story_card(page=latest_other, variant="compact") }}
+          </div>
+        {% endif %}
+
+        <div class="sidebar-block">
+          <h2 class="module-title">Más leídos</h2>
+          <div class="index-list">
+            {% for path in section.extra.popular_paths | slice(end=5) %}
+              {% set popular = get_page(path=path) %}
+              <article class="index-row">
+                <div class="feed-index">{% if loop.index < 10 %}0{% endif %}{{ loop.index }}</div>
+                <div>
+                  <p class="story-kicker">{{ popular.extra.section_title }}</p>
+                  <h3 class="story-title-xs"><a href="{{ popular.permalink }}">{{ popular.title }}</a></h3>
+                </div>
+              </article>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="sidebar-block">
+          <h2 class="module-title">Comentarios recientes</h2>
+          <div class="comment-stack">
+            {% for item in section.extra.recent_comments | slice(end=5) %}
+              {% set comment_page = get_page(path=item.article_path) %}
+              <article class="comment-snippet">
+                <p class="story-kicker">{{ item.author | default(value="Anónimo") }} · {{ item.date_display }}</p>
+                <h3 class="story-title-xs">
+                  <a href="{{ comment_page.permalink }}#{{ item.anchor }}">{{ comment_page.title }}</a>
+                </h3>
+                <p class="mt-2 text-sm leading-6 text-neutral-700">{{ item.excerpt }}</p>
+              </article>
+            {% endfor %}
+          </div>
+        </div>
+      </aside>
+    </div>
+  </main>
+{% endblock content %}

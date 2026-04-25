@@ -1,0 +1,131 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as macros %}
+
+{% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
+{% block meta_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock meta_description %}
+
+{% block content %}
+  {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
+  {% if use_subcat %}
+    {% set kicker_text = page.extra.tag_links[0].name %}
+    {% set kicker_link = page.extra.tag_links[0].path %}
+  {% else %}
+    {% set kicker_text = page.extra.section_title %}
+    {% set kicker_link = "/" ~ page.extra.section_slug ~ "/" %}
+  {% endif %}
+
+  <main class="article-shell">
+    <header class="article-header reveal">
+      <p class="story-kicker">
+        {% if kicker_link %}<a href="{{ kicker_link }}">{{ kicker_text }}</a>{% else %}{{ kicker_text }}{% endif %}
+      </p>
+      <h1 class="story-title">{{ page.title }}</h1>
+      {% if page.extra.subtitle %}
+        <p class="article-subtitle">{{ page.extra.subtitle }}</p>
+      {% endif %}
+      {% if page.extra.deck %}
+        <div class="article-deck">{{ page.extra.deck | markdown(inline=false) | safe }}</div>
+      {% endif %}
+      <div class="meta-row">
+        <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
+        {% for author in page.extra.author_links %}
+          {% if author.path %}
+            <a href="{{ author.path }}">{{ author.name }}</a>
+          {% else %}
+            <span>{{ author.name }}</span>
+          {% endif %}
+        {% endfor %}
+        {% if page.extra.comment_count > 0 %}
+          <a href="#comments">{{ page.extra.comment_count }} comentarios</a>
+        {% endif %}
+      </div>
+    </header>
+
+    <article class="story-content reveal">
+      {{ page.content | safe }}
+    </article>
+
+    {% if use_subcat %}{% set tag_start = 1 %}{% else %}{% set tag_start = 0 %}{% endif %}
+    {% if page.extra.tag_links and page.extra.tag_links | length > tag_start %}
+      <div class="article-tags reveal">
+        <span class="story-kicker mr-3">Etiquetas</span>
+        <div class="flex flex-wrap gap-2">
+          {% for tag in page.extra.tag_links %}
+            {% if loop.index0 >= tag_start %}
+              {% if tag.path %}
+                <a href="{{ tag.path }}" class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-700 hover:bg-black hover:text-white">{{ tag.name }}</a>
+              {% else %}
+                <span class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag.name }}</span>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+
+    {% if page.lower or page.higher %}
+      <nav class="article-nav reveal" aria-label="Navegación entre artículos">
+        <div class="article-nav-prev">
+          {% if page.lower %}
+            <span class="story-kicker">← Anterior</span>
+            <a href="{{ page.lower.permalink }}" class="story-title-xs block mt-1">{{ page.lower.title }}</a>
+          {% endif %}
+        </div>
+        <div class="article-nav-next">
+          {% if page.higher %}
+            <span class="story-kicker">Siguiente →</span>
+            <a href="{{ page.higher.permalink }}" class="story-title-xs block mt-1">{{ page.higher.title }}</a>
+          {% endif %}
+        </div>
+      </nav>
+    {% endif %}
+
+    <section id="comments" class="comment-list reveal">
+      <div class="pt-8">
+        <span class="section-ribbon">Comentarios</span>
+      </div>
+
+      {% if page.extra.comments | length > 0 %}
+        <div class="comments-existing">
+          {% for comment in page.extra.comments %}
+            <article class="comment-card" id="{{ comment.anchor }}" data-depth="{{ comment.depth }}">
+              <div class="meta-row">
+                <span>{{ comment.author | default(value="Anónimo") }}</span>
+                <span>{{ comment.date_display }}</span>
+              </div>
+              <div class="comment-body">{{ comment.body | escape | replace(from="\n", to="<br>") | safe }}</div>
+            </article>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      <div id="dynamic-comments" data-article-slug="{{ page.slug }}"></div>
+
+      <form id="comment-form" class="comment-form" data-article-slug="{{ page.slug }}">
+        <h3 class="module-title">Dejar un comentario</h3>
+        <div class="grid gap-4">
+          <label class="comment-field">
+            <span>Nombre</span>
+            <input type="text" name="author" required maxlength="80" autocomplete="name">
+          </label>
+          <label class="comment-field">
+            <span>Email (opcional, no se publica)</span>
+            <input type="email" name="email" maxlength="120" autocomplete="email">
+          </label>
+          <label class="comment-field">
+            <span>Comentario</span>
+            <textarea name="body" required minlength="2" maxlength="4000" rows="5"></textarea>
+          </label>
+          <label class="hp-field" aria-hidden="true">
+            <span>No completar</span>
+            <input type="text" name="website" tabindex="-1" autocomplete="off">
+          </label>
+          <div class="flex items-center gap-4">
+            <button type="submit">Enviar</button>
+            <p class="comment-form-status" data-status></p>
+          </div>
+        </div>
+      </form>
+    </section>
+  </main>
+{% endblock content %}

@@ -1,0 +1,76 @@
+{% macro story_card(page, variant="default") %}
+  {% set is_feature = variant == "feature" %}
+  {% set is_compact = variant == "compact" %}
+  {% set is_list = variant == "list" %}
+  {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
+  {% if use_subcat %}
+    {% set kicker_text = page.extra.tag_links[0].name %}
+  {% else %}
+    {% set kicker_text = page.extra.section_title %}
+  {% endif %}
+  <article class="{% if is_list %}listing-card{% elif is_compact %}feed-item{% else %}grid gap-5{% endif %}{% if not page.extra.hero_image %} no-media{% endif %}">
+    {% if page.extra.hero_image %}
+      <a href="{{ page.permalink }}" class="media-frame {% if page.extra.section_slug == 'videos' %}video{% endif %} reveal {% if is_feature %}aspect-[16/10]{% elif is_list %}aspect-[4/3]{% else %}aspect-[16/9]{% endif %}">
+        <img src="{{ page.extra.hero_image }}" alt="{{ page.extra.hero_alt | default(value=page.title) }}">
+      </a>
+    {% elif page.extra.section_slug == "videos" %}
+      <a href="{{ page.permalink }}" class="media-frame video reveal flex items-center justify-center text-white">
+        <span class="section-ribbon">Video</span>
+      </a>
+    {% endif %}
+    <div class="reveal">
+      <p class="story-kicker">{{ kicker_text }}</p>
+      <h2 class="{% if is_feature %}story-title{% elif is_compact %}story-title-xs{% elif is_list %}story-title-sm{% else %}story-title-sm{% endif %}">
+        <a href="{{ page.permalink }}">{{ page.title }}</a>
+      </h2>
+      {% if page.extra.subtitle %}
+        <p class="mt-2 text-base text-neutral-600">{{ page.extra.subtitle }}</p>
+      {% endif %}
+      {% if page.extra.summary %}
+        <p class="story-deck {% if is_compact %}text-base leading-7{% endif %}">
+          {{ page.extra.summary }}
+        </p>
+      {% endif %}
+      <div class="meta-row">
+        <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
+        {% if page.extra.author_links %}
+          <span>
+            {% for author in page.extra.author_links %}
+              {% if author.path %}
+                <a href="{{ author.path }}">{{ author.name }}</a>{% if not loop.last %}, {% endif %}
+              {% else %}
+                {{ author.name }}{% if not loop.last %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+          </span>
+        {% endif %}
+        {% if page.extra.comment_count > 0 %}
+          <span>{{ page.extra.comment_count }} comentarios</span>
+        {% endif %}
+      </div>
+      {% if page.extra.tag_links and not is_compact %}
+        {% if use_subcat %}{% set tag_start = 1 %}{% else %}{% set tag_start = 0 %}{% endif %}
+        {% if page.extra.tag_links | length > tag_start %}
+          <div class="mt-4 flex flex-wrap gap-2">
+            {% for tag in page.extra.tag_links %}
+              {% if loop.index0 >= tag_start %}
+                {% if tag.path %}
+                  <a href="{{ tag.path }}" class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag.name }}</a>
+                {% else %}
+                  <span class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag.name }}</span>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+      {% endif %}
+    </div>
+  </article>
+{% endmacro story_card %}
+
+{% macro linked_pages(paths, variant="default") %}
+  {% for path in paths %}
+    {% set page_ref = get_page(path=path) %}
+    {{ self::story_card(page=page_ref, variant=variant) }}
+  {% endfor %}
+{% endmacro linked_pages %}

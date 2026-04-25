@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+
+{% block title %}Buscar · {{ config.title }}{% endblock title %}
+
+{% block content %}
+  <main class="pt-8 mx-auto max-w-[980px]">
+    <section class="editorial-rule">
+      <span class="section-ribbon">Buscar</span>
+      <div class="mt-5">
+        <h1 class="story-title">Buscar en el sitio</h1>
+        <form id="search-page-form" class="mt-6" role="search">
+          <label class="sr-only" for="q">Buscar</label>
+          <input id="q" name="q" type="search" autofocus autocomplete="off"
+                 placeholder="Palabras, autores, frases…"
+                 class="w-full border border-black px-4 py-3 text-lg focus:outline-none focus:border-[var(--color-link)]">
+        </form>
+        <p id="search-status" class="mt-4 text-sm text-neutral-500" role="status"></p>
+      </div>
+    </section>
+
+    <section id="search-results" class="listing mt-10"></section>
+  </main>
+
+  <script src="/elasticlunr.min.js"></script>
+  <script>
+    // The index ships with Spanish stemming but elasticlunr.js does not
+    // bundle a Spanish pipeline. Register a lightweight stemmer that trims
+    // common suffixes so query terms match the stemmed index entries.
+    if (window.elasticlunr) {
+      const SUFFIXES = [
+        'amientos', 'imientos', 'amiento', 'imiento', 'aciones', 'iciones',
+        'amente', 'aciones', 'mente', 'logia', 'logias', 'idades', 'idad',
+        'ables', 'ibles', 'icion', 'ucion', 'aron', 'ieron', 'iendo', 'ando',
+        'ados', 'idos', 'ada', 'ida', 'ado', 'ido', 'amos', 'emos', 'imos',
+        'ais', 'eis', 'ar', 'er', 'ir', 'as', 'os', 'es', 'a', 'o', 'e',
+      ];
+      const lightStem = (token) => {
+        if (!token || token.length < 5) return token;
+        const lower = token.toLowerCase();
+        for (const sfx of SUFFIXES) {
+          if (lower.length - sfx.length >= 3 && lower.endsWith(sfx)) {
+            return lower.slice(0, lower.length - sfx.length);
+          }
+        }
+        return lower;
+      };
+      const noop = (token) => token;
+      try { elasticlunr.Pipeline.registerFunction(noop, 'trimmer-es'); } catch (_e) {}
+      try { elasticlunr.Pipeline.registerFunction(noop, 'stopWordFilter-es'); } catch (_e) {}
+      try { elasticlunr.Pipeline.registerFunction(lightStem, 'stemmer-es'); } catch (_e) {}
+    }
+  </script>
+  <script src="/search_index.es.js"></script>
+  <script defer>
+  (function(){
+    let index = null;
+    let docs = null;
+    const status = document.getElementById('search-status');
+    const results = document.getElementById('search-results');
+    const input = document.getElementById('q');
+    const form = document.getElementById('search-page-form');
+
+    function loadIndex(){
+      try {
+        if (!window.searchIndex) {
+          status.textContent = 'Error cargando el índice de búsqueda.';
+          return;
+        }
+        index = elasticlunr.Index.load(window.searchIndex);
+        docs = window.searchIndex.documentStore.docs;
+        status.textContent = '';
+      } catch (e) {
+        status.textContent = 'Error cargando el índice: ' + e.message;
+      }
+    }
+
+    function escapeHtml(s){
+      return (s || '').replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      }[c]));
+    }
+
+    function renderResults(query){
+      if (!index) { results.innerHTML = ''; return; }
+      const q = (query || '').trim();
+      if (!q) {
+        results.innerHTML = '';
+        status.textContent = '';
+        return;
+      }
+      const hits = index.search(q, { expand: true, fields: { title: { boost: 3 }, body: { boost: 1 } } });
+      if (!hits.length) {
+        status.textContent = 'Sin resultados.';
+        results.innerHTML = '';
+        return;
+      }
+      status.textContent = hits.length + ' resultado' + (hits.length === 1 ? '' : 's');
+      const html = hits.slice(0, 50).map(h => {
+        const d = docs[h.ref] || {};
+        const url = h.ref;
+        const title = escapeHtml(d.title || url);
+        const body = escapeHtml((d.body || '').slice(0, 220));
+        return `<article class="listing-card no-media reveal">
+          <div>
+            <h2 class="story-title-sm"><a href="${url}">${title}</a></h2>
+            <p class="story-deck">${body}…</p>
+          </div>
+        </article>`;
+      }).join('');
+      results.innerHTML = html;
+    }
+
+    let t;
+    input.addEventListener('input', e => {
+      clearTimeout(t);
+      t = setTimeout(() => renderResults(e.target.value), 120);
+    });
+    form.addEventListener('submit', e => {
+      e.preventDefault();
+      renderResults(input.value);
+    });
+
+    const params = new URLSearchParams(location.search);
+    const initial = params.get('q') || '';
+    if (initial) input.value = initial;
+
+    loadIndex();
+    if (initial) renderResults(initial);
+    document.body.dataset.ready = 'true';
+  })();
+  </script>
+{% endblock content %}

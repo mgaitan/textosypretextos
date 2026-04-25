@@ -1,0 +1,8 @@
+<figure class="align-{{ align | default(value="center") }}">
+  <div class="media-frame">
+    <img src="{{ src }}" alt="{{ alt | default(value="") }}" loading="lazy">
+  </div>
+  {% if caption %}
+    <figcaption>{{ caption }}</figcaption>
+  {% endif %}
+</figure>

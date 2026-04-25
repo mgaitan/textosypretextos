@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as macros %}
+
+{% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
+{% block meta_description %}{{ page.content | striptags | truncate(length=160) }}{% endblock meta_description %}
+
+{% block content %}
+  <main class="pt-8">
+    <section class="author-header editorial-rule">
+      <span class="section-ribbon">Autor</span>
+      <div class="author-header-grid mt-5">
+        {% if page.extra.image %}
+          <div class="author-portrait">
+            <img src="{{ page.extra.image }}" alt="{{ page.title }}" loading="lazy">
+          </div>
+        {% endif %}
+        <div class="min-w-0">
+          <h1 class="story-title">{{ page.title }}</h1>
+          {% if page.content %}
+            <div class="story-content mt-6">{{ page.content | safe }}</div>
+          {% endif %}
+        </div>
+      </div>
+    </section>
+
+    {% if page.extra.article_paths | length > 0 %}
+      <section class="listing mt-10">
+        {% for path in page.extra.article_paths %}
+          {% set article = get_page(path=path) %}
+          {{ macros::story_card(page=article, variant="list") }}
+        {% endfor %}
+      </section>
+    {% endif %}
+  </main>
+{% endblock content %}

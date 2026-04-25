@@ -1,0 +1,72 @@
+{% import "partials/macros.html" as macros %}
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <meta name="description" content="{% block meta_description %}{{ config.description }}{% endblock meta_description %}">
+    <link rel="stylesheet" href="/assets/site.css">
+    <script type="module" src="/assets/site.js"></script>
+    <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path='atom.xml') }}">
+  </head>
+  <body>
+    <div class="page-shell">
+      <div class="utility-bar">
+        <div class="utility-links">
+          <span>Martín Gaitán</span>
+          <a href="/autores/">Autores</a>
+          <a href="/etiquetas/">Etiquetas</a>
+        </div>
+        <form class="search-form" action="/buscar/" method="get" role="search">
+          <label class="sr-only" for="site-search">Buscar</label>
+          <input id="site-search" type="search" name="q" placeholder="Buscar…" autocomplete="off">
+          <button type="submit" aria-label="Buscar">⌕</button>
+        </form>
+      </div>
+
+      <header class="masthead">
+        <div class="masthead-grid">
+          <div>
+            <p class="brand-eyebrow">Palabras, imágenes y deriva</p>
+            <h1 class="brand-title"><a href="/">{{ config.title }}</a></h1>
+          </div>
+          <p class="brand-deck">{{ config.extra.site_description }}</p>
+        </div>
+      </header>
+
+      <nav class="main-nav">
+        <div class="flex items-center justify-between gap-4 py-4">
+          <div class="main-nav-inner">
+            <a class="nav-link" href="/">Inicio</a>
+            <a class="nav-link" href="/blog/">Blog</a>
+            <a class="nav-link" href="/fotos/">Fotos</a>
+            <a class="nav-link" href="/de-otros/">De otros</a>
+            <a class="nav-link" href="/videos/">Videos</a>
+          </div>
+          <button class="nav-toggle" type="button" aria-expanded="false" data-nav-toggle>
+            <span class="sr-only">Abrir navegación</span>
+            <span class="text-xl">+</span>
+          </button>
+        </div>
+        <div class="nav-panel" data-nav-panel data-open="false">
+          <div class="grid gap-3">
+            <a class="nav-link" href="/">Inicio</a>
+            <a class="nav-link" href="/blog/">Blog</a>
+            <a class="nav-link" href="/fotos/">Fotos</a>
+            <a class="nav-link" href="/de-otros/">De otros</a>
+            <a class="nav-link" href="/videos/">Videos</a>
+            <a class="nav-link" href="/autores/">Autores</a>
+            <a class="nav-link" href="/etiquetas/">Etiquetas</a>
+          </div>
+        </div>
+      </nav>
+
+      {% block content %}{% endblock content %}
+
+      <footer class="page-footer">
+        <p>{{ config.title }} · {{ config.extra.site_owner }}</p>
+      </footer>
+    </div>
+  </body>
+</html>
