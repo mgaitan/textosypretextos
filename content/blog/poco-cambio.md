@@ -97,13 +97,13 @@ body = "Ma si yo lo pongo acá, la verdad es que entre a laburar a eso de las 8 
 Hubo un día que fue comun a todos, pero muy especial para Juan González, el contador. Fue el día que le llegó por correo la caja que cambiaría su vida. 
 Dos semanas antes, en su oficina donde todo goza de aburrida perfección, recibió un llamado.
 
--- Contador, llaman de una empresa de electrodomésticos y sólo desean hablar con usted.-- avisó por el interno la secretaria, fingiendo ese respecto que no le tenía. 
--- Está bien, pasemeló -- aceptó González, algo molesto. 
--- Si... ¿señor González?
--- Contador González, ¿en puedo ayudarlo?
--- Soy representante de Lunatic Systems y queremos ofrecerle sin cargo ser betatester de un nuevo producto que lanzaremos al mercado, y creemos que sería ideal para personas como usted...
-─ Disculpe, estoy ocupado. 
-─ Lo comprendo, y por eso el Telendro V1 es ideal para usted. Déjeme contarle y se lo enviaremos a su domicilio sin cargo. 
+─ Contador, llaman de una empresa de electrodomésticos y sólo desean hablar con usted.-- avisó por el interno la secretaria, fingiendo ese respecto que no le tenía. <br>
+─Está bien, pasemeló -- aceptó González, algo molesto. <br>
+─ Si... ¿señor González? <br>
+─ Contador González, ¿en puedo ayudarlo?<br>
+─ Soy representante de Lunatic Systems y queremos ofrecerle sin cargo ser betatester de un nuevo producto que lanzaremos al mercado, y creemos que sería ideal para personas como usted...<br>
+─ Disculpe, estoy ocupado. <br>
+─ Lo comprendo, y por eso el Telendro V1 es ideal para usted. Déjeme contarle y se lo enviaremos a su domicilio sin cargo. <br>
 
 El entrenado televendedor logró convencerlo y González aceptó probar durante algunas semanas el casco (o algo así) que, según prometían, cambiaría su vida. 
 
