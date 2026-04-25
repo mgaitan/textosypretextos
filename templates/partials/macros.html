@@ -20,7 +20,7 @@
       </a>
     {% endif %}
     <div class="reveal">
-      <p class="story-kicker">{{ kicker_text }}</p>
+      {% if not is_compact %}<p class="story-kicker">{{ kicker_text }}</p>{% endif %}
       <h2 class="{% if is_feature %}story-title{% elif is_compact %}story-title-xs{% elif is_list %}story-title-sm{% else %}story-title-sm{% endif %}">
         <a href="{{ page.permalink }}">{{ page.title }}</a>
       </h2>
