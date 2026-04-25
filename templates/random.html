@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}Aleatorio · {{ config.title }}{% endblock title %}
+{% block meta_description %}Llevame a cualquier texto del sitio al azar.{% endblock meta_description %}
+
+{% block content %}
+  {% set blog = get_section(path="blog/_index.md") %}
+  {% set fotos = get_section(path="fotos/_index.md") %}
+  {% set deotros = get_section(path="de-otros/_index.md") %}
+  {% set videos = get_section(path="videos/_index.md") %}
+  {% set personal = get_section(path="personal/_index.md") %}
+  {% set urls = blog.pages | concat(with=fotos.pages) | concat(with=deotros.pages) | concat(with=videos.pages) | concat(with=personal.pages) | map(attribute="permalink") %}
+
+  <main class="pt-8 mx-auto max-w-[980px]" data-random-page>
+    <section class="editorial-rule">
+      <span class="section-ribbon">Aleatorio</span>
+      <div class="mt-5">
+        <h1 class="story-title">Llevame a cualquier lado</h1>
+        <p class="story-deck">Te redirigimos a un texto al azar del sitio. Si tenés JavaScript apagado, elegí desde el listado.</p>
+        <p class="meta-row" id="random-status" role="status">Eligiendo…</p>
+        <noscript>
+          <p class="mt-6 text-sm text-neutral-700">Necesitás JavaScript habilitado para el redireccionamiento automático. Mientras tanto, podés navegar las secciones desde el menú.</p>
+        </noscript>
+      </div>
+    </section>
+  </main>
+
+  <script id="random-urls" type="application/json">{{ urls | json_encode | safe }}</script>
+  <script>
+    (function () {
+      var node = document.getElementById("random-urls");
+      if (!node) return;
+      var urls;
+      try {
+        urls = JSON.parse(node.textContent || "[]");
+      } catch (e) {
+        urls = [];
+      }
+      if (!urls.length) {
+        var status = document.getElementById("random-status");
+        if (status) status.textContent = "No hay contenido para sortear.";
+        return;
+      }
+      var here = window.location.pathname.replace(/\/$/, "");
+      var pick;
+      for (var i = 0; i < 8; i++) {
+        pick = urls[Math.floor(Math.random() * urls.length)];
+        try {
+          var path = new URL(pick).pathname.replace(/\/$/, "");
+          if (path !== here) break;
+        } catch (e) {
+          break;
+        }
+      }
+      window.location.replace(pick);
+    })();
+  </script>
+{% endblock content %}
