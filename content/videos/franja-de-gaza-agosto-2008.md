@@ -52,6 +52,3 @@ Fronteras destrozadas, carreteras destruidas, fábricas y comunicaciones bombard
 
 La importancia del vídeo reside también en desmontar las mentiras que cuenta Israel sobre la población de Gaza, atrapada a vivir en un ambiente de guerra constante, que necesita ser escuchada por tod@s nosotr@s.
 
-### Galería
-
-{{ video_embed(provider="vimeo", id="2740130", title="moogaloop.swf") }}

@@ -46,6 +46,3 @@ Discurso de Hugo Chávez Frías del 11 de septiembre de 2008 anunciando el retir
 
 > No le voy a pedir a los demas gobiernos que hagan lo mismo que nosotros hacemos, no, cada quien es libre... pero, vaya, el día que nosotros los sudamericanos cantemos como un solo gallo nos respetaran. Ahí está el secreto
 
-### Galería
-
-{{ video_embed(provider="youtube", id="oASasGvWGQc", title="oASasGvWGQc") }}

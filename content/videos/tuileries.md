@@ -42,6 +42,3 @@ comments = []
 
 *Tuileries* es uno de los cortos del film *Paris, je t'aime*. Dirigido por los hermanos Coen, juega con los estereotipos que el mundo ha creado, parece que con motivos, de los parisinos.
 
-### Galería
-
-{{ video_embed(provider="dailymotion", id="k6JImCqw3E2IjbxiGo", title="k6JImCqw3E2IjbxiGo") }}

@@ -58,8 +58,5 @@ Soy hincha de la mole. Es como el Martín Palermo del boxeo, y además, entrena 
 
 (visto en el excelente blog [La runfla de rufianes](http://larunfla.blogspot.com))
 
-### Galería
-
-{{ video_embed(provider="youtube", id="R5HUQAb_vik", title="R5HUQAb_vik") }}
 
 <span id="comments"></span>

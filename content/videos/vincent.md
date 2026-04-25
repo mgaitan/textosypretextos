@@ -46,8 +46,5 @@ body = "¡Muy bueno!"
 
 {{ video_embed(provider="youtube", id="ZH3R5ntFK3c") }}
 
-### Galería
-
-{{ video_embed(provider="youtube", id="ZH3R5ntFK3c", title="ZH3R5ntFK3c") }}
 
 <span id="comments"></span>

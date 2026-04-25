@@ -42,6 +42,3 @@ comments = []
 
 [Oktapodi](http://www.oktapodi.com/) es un corto de animación francés nominado al Oscar 2008 como mejor animación. Es un trabajo realizado como proyecto de graduación de los estudiantes de la [Gobelins L'Ecole de L'Image](http://www.gobelins.fr/index-texte.htm) de París. Julien Bocabeille, , François-Xavier Chanioux, Olivier Delabarre, Thierry Marchand, Quentin Marmier  y Emud Mokhberi.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="XyuqtOuljSw", title="XyuqtOuljSw&hl=es&fs=1&rel=0") }}

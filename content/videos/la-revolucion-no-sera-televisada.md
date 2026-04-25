@@ -36,6 +36,3 @@ comments = []
 
 {{ video_embed(provider="dailymotion", id="xuwia") }}
 
-### Galería
-
-{{ video_embed(provider="dailymotion", id="xuwia", title="xuwia") }}

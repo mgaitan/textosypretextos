@@ -42,6 +42,3 @@ comments = []
 
 Atención, mirar con precaución y bajo tu propia responsabilidad. [Este es el chiste más gracioso del mundo](http://en.wikipedia.org/wiki/The_Funniest_Joke_in_the_World): tu vida está en riesgo.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="F7oTJsdLsJg", title="F7oTJsdLsJg") }}

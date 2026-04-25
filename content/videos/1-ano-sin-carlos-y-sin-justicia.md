@@ -42,6 +42,3 @@ comments = []
 
 El tema inicial es *"Permiso para hablar"* de Fernando "Rahe" Israilevich,  músico y escritor cordobés. Las imágenes y discursos son de la multitudinaria [marcha a 1 año del asesinato de Carlos](http://www.clarin.com/diario/2008/04/05/sociedad/s-05001.htm)
 
-### Galería
-
-{{ video_embed(provider="youtube", id="g91cOZkXtSo", title="g91cOZkXtSo") }}

@@ -55,8 +55,5 @@ Corto de animación mexicano del año 2001, escrito y dirigido por René Castill
 > no mames ke korto tan chingon wey!! de rompe madres!!
 > _ *Un comentario en Youtube*
 
-### Galería
-
-{{ video_embed(provider="youtube", id="aM6sP61zNx4", title="aM6sP61zNx4") }}
 
 <span id="comments"></span>
