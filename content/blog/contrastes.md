@@ -105,7 +105,7 @@ Así habrán quedado, arrepentidísimos, los responsables de semajante pifie, s�
 
 Con la ayuda de muchos amigos (Anna, Xtian, Jim, Renzo y David, gracias!) subtitulé los veintipico minutos que dura la presentación. Con ustedes, Stephen Colbert:
 
-{{ video_embed(provider="youtube", id="sv4xjxcNYqk" }}
+{{ video_embed(provider="youtube", id="sv4xjxcNYqk") }}
 
 
 <span id="comments"></span>
