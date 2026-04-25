@@ -1,0 +1,18 @@
+{
+  "name": "textosypretextos",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:assets": "vite build",
+    "build": "npm run build:assets && zola build",
+    "dev:assets": "vite build --watch --mode development",
+    "dev": "npm run build:assets && zola serve --drafts --open",
+    "preview": "npm run build && npx wrangler pages dev public --compatibility-date=2026-04-24",
+    "deploy": "npm run build && npx wrangler pages deploy public --project-name textosypretextos"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.0",
+    "tailwindcss": "^4.2.0",
+    "vite": "^7.1.0"
+  }
+}

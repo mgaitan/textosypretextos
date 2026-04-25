@@ -1,0 +1,14 @@
+name = "textosypretextos"
+compatibility_date = "2026-04-25"
+pages_build_output_dir = "public"
+
+# Variables públicas — los secretos (COMMENT_SALT) se setean con
+# `npx wrangler pages secret put COMMENT_SALT --project-name textosypretextos`
+
+# El binding D1 se completa cuando se crea la base con
+# `npx wrangler d1 create textosypretextos-comments`. Después se reemplaza
+# `DATABASE_ID_PLACEHOLDER` por el id devuelto.
+[[d1_databases]]
+binding = "DB"
+database_name = "textosypretextos-comments"
+database_id = "c400ba59-54a6-4dd9-8a55-63c39a7f5332"
