@@ -18,6 +18,14 @@ window.addEventListener("load", () => {
   root.style.scrollBehavior = "smooth";
 });
 
+document.querySelectorAll("[data-comment-focus]").forEach((link) => {
+  link.addEventListener("click", () => {
+    window.setTimeout(() => {
+      document.getElementById("comment-body")?.focus();
+    }, 40);
+  });
+});
+
 // ── Dynamic comments (D1-backed) ─────────────────────────────────────────────
 
 const escapeHtml = (s) =>
@@ -57,6 +65,88 @@ async function loadDynamicComments(container, slug) {
     container.innerHTML = html;
   } catch (_e) {
     // Silent: comment loading failure shouldn't break the page.
+  }
+}
+
+async function ensureSearchIndexDocs() {
+  if (window.searchIndex?.documentStore?.docs) {
+    return window.searchIndex.documentStore.docs;
+  }
+  await new Promise((resolve, reject) => {
+    const script = document.createElement("script");
+    script.src = "/search_index.es.js";
+    script.onload = () => resolve();
+    script.onerror = () => reject(new Error("search index unavailable"));
+    document.head.appendChild(script);
+  });
+  return window.searchIndex?.documentStore?.docs || null;
+}
+
+function slugFromUrl(value) {
+  try {
+    const url = new URL(value);
+    const parts = url.pathname.split("/").filter(Boolean);
+    return parts.at(-1) || "";
+  } catch (_e) {
+    return "";
+  }
+}
+
+function buildArticleMap(docs) {
+  const map = new Map();
+  Object.entries(docs || {}).forEach(([url, doc]) => {
+    let pathname = url;
+    try {
+      pathname = new URL(url).pathname;
+    } catch (_e) {
+      pathname = url;
+    }
+    const slug = slugFromUrl(url);
+    if (!slug || map.has(slug)) return;
+    map.set(slug, {
+      url: pathname,
+      title: doc?.title || slug,
+    });
+  });
+  return map;
+}
+
+async function loadRecentComments(container) {
+  try {
+    const [docs, response] = await Promise.all([
+      ensureSearchIndexDocs(),
+      fetch("/api/comments?recent=1&limit=5", {
+        headers: { accept: "application/json" },
+      }),
+    ]);
+    if (!response.ok || !docs) return;
+    const payload = await response.json();
+    const comments = (payload && payload.comments) || [];
+    if (!comments.length) return;
+
+    const articleMap = buildArticleMap(docs);
+    const html = comments
+      .map((comment) => {
+        const article = articleMap.get(comment.article_slug);
+        if (!article) return "";
+        const excerpt = escapeHtml(comment.body || "").slice(0, 180);
+        return `
+          <article class="comment-snippet">
+            <p class="story-kicker">${escapeHtml(comment.author || "Anónimo")} · ${formatDate(comment.created_at)}</p>
+            <h3 class="story-title-xs">
+              <a href="${article.url}">${escapeHtml(article.title)}</a>
+            </h3>
+            <p class="mt-2 text-sm leading-6 text-neutral-700">${excerpt}${excerpt.length >= 180 ? "…" : ""}</p>
+          </article>
+        `;
+      })
+      .filter(Boolean)
+      .join("");
+    if (html) {
+      container.innerHTML = html;
+    }
+  } catch (_e) {
+    // Keep the static fallback if dynamic loading fails.
   }
 }
 
@@ -105,4 +195,9 @@ if (dynamicContainer && commentForm) {
     loadDynamicComments(dynamicContainer, slug);
     bindCommentForm(commentForm, dynamicContainer, slug);
   }
+}
+
+const recentCommentsContainer = document.querySelector("[data-recent-comments]");
+if (recentCommentsContainer) {
+  loadRecentComments(recentCommentsContainer);
 }
