@@ -5,13 +5,16 @@ template = "author.html"
 [extra]
 article_paths = [
     "de-otros/el-oso.md",
+    "de-otros/gorriones.md",
 ]
-image = ""
+image = "/media/flor_lobo.jpg"
 is_owner = false
 +++
 
-Florencia Lobo (Tucumán, 1984) es una poeta argentina que se crió Tierra del Fuego. Su escritura explora la naturaleza, la resistencia y la vida interior con imágenes precisas y una sensibilidad singular. 
+Florencia Lobo (San Miguel de Tucumán, 1984) es una poeta argentina que se crió Tierra del Fuego desde niña. Su escritura explora la naturaleza, las culturas de su tierra, la emoción y el asombro ante la belleza cotidiana. 
 
-Es autora de varios libros de poesía y forma parte de la escena literaria argentina contemporánea.
+Publicó los libros de poemas El lento deambular de las tormentas (El Suri Porfiado, 2018), Los bosques bajo el agua/El lento deambular de las tormentas (Tanta Ceniza, 2024) y  Fuerzas blandas (Ediciones Lux, 2025). 
 
-Es, además, una de mis cuñadas (la hermana "que le sigue" a Nati).
+Y, además de ser una de las voces de la escena literaria argentina contemporánea, tengo el privilegio de que sea una de mis muchas cuñadas: es la hermana "que le sigue" a Nati.
+
+Pueden seguirla en [facebook](https://www.facebook.com/florencia.lobo.56).
