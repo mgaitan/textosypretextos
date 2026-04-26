@@ -82,7 +82,7 @@ date_display = "17.10.2006"
 depth = 0
 url_site = ""
 title = ""
-body = "saludos. casualmente, buscando qué significa quilombo, en uno de los vinculos proporcionados por google, te encontré. me gustó como le explicas a tu enamorada cuanto la quieres. pero deberias haber escrito algo creado por ti. la letra de j.m. serrat de \"mas que a nadie\" es muy bonita y expresa bien sus sentimientos. no los tuyos. la prosa si lo hace pero. saludos."
+body = "saludos. casualmente, buscando qué significa quilombo, en uno de los vinculos proporcionados por google, te encontré. me gustó como le explicas a tu enamorada cuanto la quieres. pero deberías haber escrito algo creado por ti. la letra de j.m. serrat de \"mas que a nadie\" es muy bonita y expresa bien sus sentimientos. no los tuyos. la prosa si lo hace pero. saludos."
 
 [[extra.comments]]
 id = 1277
@@ -119,7 +119,7 @@ contradicción.
 
 \
 Por qué te elegí a vos? No lo tengo claro (nada tengo claro!). Quizá\
-tenga que ver que cuando te conoci ya te había besado casi todo el\
+tenga que ver que cuando te conocí ya te había besado casi todo el\
 cuerpo, que empezamos distinto que lo normal. Pero no tiene nada que\
 ver con la comodidad, no. Y ya ves, te elijo ahora, así, más incomodo\
 que atado a un cactus.

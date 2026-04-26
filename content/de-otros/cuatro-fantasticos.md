@@ -1,6 +1,6 @@
 +++
 title = "Cuatro fantásticos"
-slug = "cuatro-fantasticos"
+slug = "cuatro-fantásticos"
 date = 2009-02-12 20:35:38
 description = "Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay…"
 draft = false
@@ -26,7 +26,7 @@ popularite = 0.9056547023626682
 hero_image = ""
 hero_alt = ""
 comment_count = 2
-legacy_url = "/de-otros/cuatro-fantasticos/"
+legacy_url = "/de-otros/cuatro-fantásticos/"
 surtitle = ""
 subtitle = "Fabián Casas"
 deck = "Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay tantas caras en el mundo que uno, tarde o temprano, termina siendo otro. Yo quisiera hablar acá de los que conocí. Ellos dejaron sus huellas en mi vida y pienso que una forma de retribuirles que me hayan pisado es contar quiénes eran, lo que me enseñaron. Esas cosas.\n\nPara esa época mamá trabajaba en la fábrica de corpiños Peter Pan. Un nombre glorioso. No sé si todavía sigue funcionando. Mamá, por lo que me cuentan todos, era una mujer despampanante, parecía una vedette. Piernas, culo, caderas. Vivíamos en un departamentito del barrio de Once, muy chiquito, yo pensaba que era como el caño de Hijitus: el dormitorio de mamá, el living donde yo dormía en un sofá cama y una kitchenet empotrada en la pared. Eso era todo. Mamá tenía ropa tirada por todas partes. Y cosméticos y revistas que se traía de la peluquería de su amiga. Mi madre era una gran lectora. A veces, cuando ella iba a bailar, yo me quedaba con la peluquera, una paraguaya que me hablaba de sus hijos quienes, decía, tenían casi mi misma edad y estaban con su padre en Asunción. Yo no asociaba Asunción con un lugar físico, mas bien me parecía un verbo."
@@ -111,7 +111,7 @@ Pasó casi toda mi secundaria sin que mi mamá trajera otro novio a casa.
 
 Y justo cuando me estaba preparando para entrar en la Universidad, llegó el último y quizá el más importante para mí. Se llamaba Rolando, trabajaba poniendo antenas, en las alturas, y fue clave porque él me habló por primera vez de mi padre. Porque él estaba obsesionado con el tipo que fue mi padre.
 
-Mamá lo conoció en un grupo que se reunía los domingos en el Hospital Pena. Era un grupo de ayuda psicológica para poder superar la tristeza de los domingos. No era que mi mamá se pusiera mala los domingos, fue acompañando a la peluquera paraguaya que los domingos a esos de las siete, invariablemente, se quería matar. Rolando estaba yendo porque era de un equipo de fútbol que se había ido a la B y por eso sufría los domingos sin partidos. Según mamá, fue un flechazo fulminante. Rolando tenía rulos, un corte tipo Principe Valiente y la voz ronca. Me cayó bien enseguida. Y más cuando me enteré que se la pasaba en los techos de los edificios arreglando y poniendo antenas.
+Mamá lo conoció en un grupo que se reunía los domingos en el Hospital Pena. Era un grupo de ayuda psicológica para poder superar la tristeza de los domingos. No era que mi mamá se pusiera mala los domingos, fue acompañando a la peluquera paraguaya que los domingos a esos de las siete, invariablemente, se quería matar. Rolando estaba yendo porque era de un equipo de fútbol que se había ido a la B y por eso sufría los domingos sin partidos. Según mamá, fue un flechazo fulminante. Rolando tenía rulos, un corte tipo Príncipe Valiente y la voz ronca. Me cayó bien enseguida. Y más cuando me enteré que se la pasaba en los techos de los edificios arreglando y poniendo antenas.
 
 Me encanta la gente que se cuelga de los techos, me encanta saltar por los techos de las casas.
 
@@ -119,7 +119,7 @@ Así que rápidamente --yo tenía 17 años-- me le pegué como acompañante en s
 
 Una tarde, mientras veíamos caer el sol desde los techos de un edificio altísimo, me dijo: "Vos sabés que yo ahora te quiero mucho". "Sí, lo sé", le dije y sentí que se me ponía la piel de gallina. "Pero antes no podía ni verte porque pensaba que eras un polvo de tu viejo hecho carne". No le contesté nada porque me quedé pensando en su expresión, y me acordé de cuando el padre Manuel decía que Cristo era Dios hecho carne. Rolando se bajó todas las cervezas y al rato dijo: "A esta hora en Italia la llaman el Pomeriggio ¿sabés por qué?". No dije ni mu. "Porque Pomeriggio significa tomate ¿ves el color que tiene el cielo?". Qué capo. El cielo estaba rojísimo. Agregó: "¿Ves?, desde acá podemos ver toda la ciudad ¿no es fantástico? La mayoría de la gente no sabe que estamos acá arriba, mirándolos. Somos como dioses".
 
-A veces, antes de clavar una antena contra el techo, la levantaba con una sola mano y gritaba: " ¡Ya tengo el poder!". Y nos matábamos de risa. Otras veces se ponía melancólico y me decía: "Jurame que si vuelve tu viejo vos no te vas a dejar engrupir por él". "¿De dónde va a volver, Rolando?", le preguntaba. " ¡Qué se yo, de la loma del orto!", me largaba.
+A veces, antes de clavar una antena contra el techo, la levantaba con una sola mano y gritaba: " ¡Ya tengo el poder!". Y nos matábamos de risa. Otras veces se ponía melancólico y me decía: "Júrame que si vuelve tu viejo vos no te vas a dejar engrupir por él". "¿De dónde va a volver, Rolando?", le preguntaba. " ¡Qué se yo, de la loma del orto!", me largaba.
 
 Pasó el tiempo y me sortearon para la colimba. Me tocó tierra y tuve que bajar de las cimas. Pasé un año en el infierno como asistente de un milico. En algún momento de ese año, mi mamá y Rolando rompieron. Ella me lo comunicó en una carta. Cuando volví a casa, conseguí trabajo arreglando antenas. A Rolando nunca lo volví a ver, pero supe de él por un portero de un edificio. Me dijo que le había agarrado vértigo y que por eso dejó de trabajar en las cimas. A mí eso me sonó a ciencia ficción.
 

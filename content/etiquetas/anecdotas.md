@@ -13,7 +13,7 @@ article_paths = [
     "blog/bienvenida-al-club.md",
     "blog/el-gol-no-esta-hecho.md",
     "blog/carta-a-un-daniel-riera.md",
-    "blog/cuando-el-imbecil-tiene-la-razon.md",
+    "blog/cuando-el-imbecil-tiene-la-razón.md",
     "blog/el-pibe-del-pool.md",
 ]
 +++

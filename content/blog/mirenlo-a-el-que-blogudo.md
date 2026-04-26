@@ -34,7 +34,7 @@ author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
 tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
+    { name = "Tecnología", path = "/etiquetas/tecnología/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]
 
@@ -146,7 +146,7 @@ date_display = "12.12.2009"
 depth = 0
 url_site = ""
 title = "Mirenlo a él, que blogudo"
-body = "Primo: la verdad ya era hora de que te distinguieran y te premieran,(no por nada salis primero en la pagina de goglee) siempre que te leo tengo esa mescla de emocion y alegria. un abrazo grande antes de que empiese a ponerme cursi.Felicitaciones y ahora vamos por el Libro!!!!\nPD: prometo distingirte y premiarte con un buen asado, fernet de por medio cuando andes por estos pagos. Facu"
+body = "Primo: la verdad ya era hora de que te distinguieran y te premieran,(no por nada salis primero en la pagina de goglee) siempre que te leo tengo esa mescla de emoción y alegria. un abrazo grande antes de que empiese a ponerme cursi.Felicitaciones y ahora vamos por el Libro!!!!\nPD: prometo distingirte y premiarte con un buen asado, fernet de por medio cuando andes por estos pagos. Facu"
 
 [[extra.comments]]
 id = 7998

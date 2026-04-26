@@ -57,7 +57,7 @@ body = "Hola Martín, quería saber si juntaste más compradores para un nuevo p
 
 Amigas, amigos,
 
-A través de esta página podrán reservar sus ejemplares de la Revista [Orsai Nº 3](http://orsai.es/) y/o del libro [Cuadernos Secretos](http://orsai.bitacoras.com/2011/06/adios-industria-editorial.php) de Horacio Altuna, en la **ciudad de Córdoba y alrededores**. 
+A través de esta página podrán reservar sus ejemplares de la Revista [Orsai Nº 3](http://orsai.es/) y/o del libro [Cuadernos Secretos](http://orsai.bitacoras.com/2011/06/adiós-industria-editorial.php) de Horacio Altuna, en la **ciudad de Córdoba y alrededores**. 
 
 {{ media_image(src="/media/jpg/orsai3.jpg", alt="", caption="", align="center") }}
 

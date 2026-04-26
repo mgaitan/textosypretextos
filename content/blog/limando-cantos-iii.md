@@ -49,7 +49,7 @@ date_display = "02.10.2009"
 depth = 0
 url_site = ""
 title = "Limando cantos III"
-body = "Excelente tu respuesta, prolija y contundente. Es increible tener que escuchar estas opiniones, vertidas generalmente por gente con estudios! Parece que todos esos años de educacion no sirven para nada...."
+body = "Excelente tu respuesta, prolija y contundente. Es increíble tener que escuchar estas opiniones, vertidas generalmente por gente con estudios! Parece que todos esos años de educación no sirven para nada...."
 
 [[extra.comments]]
 id = 7763
@@ -80,9 +80,9 @@ body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que est
 > Señores.
 >
 > No se si es el medio dado el tema de este foro, pero habiendo visto lo enviado en el link , creo necesario responder:
-> Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo publico N° 1.
+> Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo público N° 1.
 >
-> Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
+> Dicho aceptado por el Secretario del Cispren Local. en la audiencia pública que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
 >
 > No tiene el gobierno de turno mas que su mezquino interés político.
 >
@@ -117,11 +117,11 @@ body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que est
 > Dijo usted:
 >
 >
-> Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo publico N° 1. Dicho aceptado por el Secretario del Cispren Local. en la audiencia publica que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
+> Que el Gobierno nos ha involucrado en una mas de las peleas personales y económicas contra el Grupo Clarin, hasta ayer aliado político, hoy enemigo público N° 1. Dicho aceptado por el Secretario del Cispren Local. en la audiencia pública que se desarrollo en Cordoba, y que no les importa otra cosa mas que fundirlos.
 
 En primer lugar no cita usted fuente alguna de las declaraciones del secretario de Cispren  (Circulo Sindical de trabajadores de prensa de Córdoba), aunque problablemente no esté faltando a la verdad, porque somos muchos los que intuímos que este enfrentamiento entre el gobierno y el Grupo Clarín fue un factor detonante que decidió llevar esto adelante.  Pero, ¿Es ese el eje principal? ¿Cuales son los beneficios o perjuicios que traería la ley más allá de la causa que activó el envío del proyecto? ¿Se lo preguntó?
 
-En segundo lugar, más grave, intentar utilizar la voz gremial de los trabajadores de prensa para reforzar el sentido negativo que usted quiere darle a la idea, sí es faltar a la verdad (o al menos confundirla), porque estos trabajadores están decida y públicamente a favor de este proyecto de ley, como puede leerse en cada uno de los [articulos que publican en su web](http://www.prensared.com.ar/indexmain.php?lnk=1&mnu=117). 
+En segundo lugar, más grave, intentar utilizar la voz gremial de los trabajadores de prensa para reforzar el sentido negativo que usted quiere darle a la idea, sí es faltar a la verdad (o al menos confundirla), porque estos trabajadores están decida y públicamente a favor de este proyecto de ley, como puede leerse en cada uno de los [artículos que publican en su web](http://www.prensared.com.ar/indexmain.php?lnk=1&mnu=117). 
 
 Prosigue su email:
 
@@ -133,7 +133,7 @@ El espíritu del proyecto de ley es escencialmente antimonopólico, por lo que d
 
 Vea la paradoja: es el monopolio actual y no la futura ley (confío en que se aprobará) la que restringe la libertad de expresión que usted dice defender.
 
-En ese sentido su ejemplo, el de vernos obligados a comprar libros de determinado origen, es intrínsecamente faláz porque más bien describe la situación vigente: hoy estamos obligados a consumir determinados canales o radios ("libros" en su ejemplo) de determinado origen porque son los únicos que existen, los únicos que llegan y los que tienen sufiente poder para imponerse. Esa es una definición de monopolio y es lo que hoy existe.
+En ese sentido su ejemplo, el de vernos obligados a comprar libros de determinado origen, es intrínsecamente falaz porque más bien describe la situación vigente: hoy estamos obligados a consumir determinados canales o radios ("libros" en su ejemplo) de determinado origen porque son los únicos que existen, los únicos que llegan y los que tienen sufiente poder para imponerse. Esa es una definición de monopolio y es lo que hoy existe.
 
 Le cito un ejemplo. El canal de noticas C5N, aunque es de distribución gratuita (las distribuidoras de cable no deben pagar derechos de transmisión) no se ve en gran parte de Córdoba, porque la distribuidora más importante, Multicanal (del grupo Clarín) la considera una competencia directa a su señal de noticias (TN).
 
@@ -141,7 +141,7 @@ Comparto [la fuente](http://larunfla.blogspot.com/2009/09/victor-hugo-le-pone-la
 
 Si no puede competir una señal comercial como C5N, ¿Cómo entonces podrían expresarse las miles de voces que no llegan nunca a los medios masivos? 
 
-Aquí cabe un ejemplo que me atañe directamente: En la [organización](http://www.agrupacionmazamorra.com.ar) social que participo tenemos un [taller de Comunicación popular con jovenes y niños de Campos de La Ribera, Barrio Müller y Barrio Maldonado](http://www.agrupacionmazamorra.com.ar/article/taller-de-comunicacion-y-expresion).
+Aquí cabe un ejemplo que me atañe directamente: En la [organización](http://www.agrupacionmazamorra.com.ar) social que participo tenemos un [taller de Comunicación popular con jovenes y niños de Campos de La Ribera, Barrio Müller y Barrio Maldonado](http://www.agrupacionmazamorra.com.ar/article/taller-de-comunicación-y-expresion).
 
 Trabajamos distintos ejes (contaminación, sexualidad, violencia) produciendo micros de radio y videos. Pero más allá de los contactos que conseguimos en algunos medios, la posibilidad de difundir la producción está absolutamente limitada, sobre todo para que llegue a los propios vecinos de la villa, los verdaderos interesados y el público en el que queremos que incida nuestro mensaje. Por supuestos, estos vecinos que no tienen agua potable, lejos están de poder acceder a internet. 
 
@@ -170,7 +170,7 @@ Emilio Gallego
 	
 
 > Hola Martin y a Todos.
-> Primero no soy Docente de la Cátedra comunicaciones de Datos, son Docente en Sistemas de Radiocomunicación, lei el Proyecto de Ley, estube en una Audiencia Pública, y trabajo en los medios desde 1990, a la fecha, por lo tanto tengo contacto directo con gente de Radio y Television y también empresas de Cable.
+> Primero no soy Docente de la Cátedra comunicaciones de Datos, son Docente en Sistemas de Radiocomunicación, lei el Proyecto de Ley, estube en una Audiencia Pública, y trabajo en los medios desde 1990, a la fecha, por lo tanto tengo contacto directo con gente de Radio y Televisión y también empresas de Cable.
 > La preocupacion es grande no por una Ley nueva, que hace falta, sino en las entrelineas, relacionadas con el manejo de poder por parte del gobierno, por ejemplo que el único que puede tener cadenas de Radio y TV sea el Gobierno, por supuesto que hay cosas positivas en el proyecto pero que son tapadas por el único objetivo oficial que es dominar los medios con vista a las proximas elecciones y con un congreso opositor.
 > Por supuesto que este es un punto de vista, desde ya que son aceptados todos. veremos que pasa el proximo año, por las dudas guarden estas notas.
 >
@@ -231,11 +231,11 @@ Saludos
 
 > Yo no soy titular de una licencia, pero si hablo con ellos, con respecto al número de licencias es discutible, pero si tiene que haber un limite, yo personalmente no estoy de acuerdo con el cupo del 35 % de población, ya que el resto se pierde la posibilidad de optar.
 >
-> Lo del monopilio, no es así es una concentración de medios, porque si no quiero ver TN veo Canal 8 o Canal 10, si bien no es un buen ejemplo pero monopolio (natural) es EPEC, no hay otra alternativa.
+> Lo del monopolio, no es así es una concentración de medios, porque si no quiero ver TN veo Canal 8 o Canal 10, si bien no es un buen ejemplo pero monopolio (natural) es EPEC, no hay otra alternativa.
 >
-> pero veamos el lado positivo, la desconcentracion traera mas trabajo para los Ingenieros (nosotros). ya que la concentración llevo a que por ejemplo el área de ingeniería de Cordoba u otras ciudades se maneje directamente de Bs. As. con un único equipo de ingeniería.
+> pero veamos el lado positivo, la desconcentración traerá mas trabajo para los Ingenieros (nosotros). ya que la concentración llevo a que por ejemplo el área de ingeniería de Cordoba u otras ciudades se maneje directamente de Bs. As. con un único equipo de ingeniería.
 >
-> Si estoy de acuerdo con las cadenas tanto de Radio como de TV, y con las emisoras locales, para mi tienen que existir ambas, por ejemplo el exito de las FM fue porque se ocupaba de la problematica local, cuantos escuchan continental o radio del plata en Cordoba. son pocos.
+> Si estoy de acuerdo con las cadenas tanto de Radio como de TV, y con las emisoras locales, para mi tienen que existir ambas, por ejemplo el éxito de las FM fue porque se ocupaba de la problematica local, cuantos escuchan continental o radio del plata en Cordoba. son pocos.
 >
 > o cuantos escuchan cadena 3 en buenos aires, no figura ni en la cola del rating.
 > este proyecto para mi como profesional es muy favorable, pero desde el punto de vista político no. por todo lo que se dijo respecto de las intensiones del gobierno.
@@ -254,15 +254,15 @@ Saludos
 Optar: justamente, no hay posibilidad de optar cuando se permite que quienes tienen más poder (dinero) acaparan todo el espectro con el mismo mensaje.  ¿Revisó alguna de las infografías sobre el "mapa de medios" ?
 Le <a href="http://www.textosypretextos.com.ar/sites/www.textosypretextos.com.ar/IMG/gif/2h3z9l5.gif" class="thickbox"> facilito una</a>.
 
-> Lo del monopilio, no es así es una concentración de medios, porque si no quiero ver TN veo Canal 8 o Canal 10, si bien no es un buen ejemplo pero monopolio (natural) es EPEC, no hay otra alternativa.
+> Lo del monopolio, no es así es una concentración de medios, porque si no quiero ver TN veo Canal 8 o Canal 10, si bien no es un buen ejemplo pero monopolio (natural) es EPEC, no hay otra alternativa.
 
 Decir "concentración de medios" en vez de monopolio es tratar de colar un eufemismo para no ver la realidad. Podemos acordar que es un oligopolio, pero con notorios actores preponderantes.
 
 ¿Leyó el articulo en el que se refuta este argumento (al que me adelanté porque intuí que iba a caer) que afirma que "la gente elige libremente a los medios poderosos" ?
 
-[Lealo, por favor](http://mundo-perverso.blogspot.com/2008/04/la-gente-elige-los-monopolios.html) (Carlitos Murua, también estás invitado a leerlo)
+[Léalo, por favor](http://mundo-perverso.blogspot.com/2008/04/la-gente-elige-los-monopolios.html) (Carlitos Murua, también estás invitado a leerlo)
 
-> pero veamos el lado positivo, la desconcentracion traera mas trabajo para los Ingenieros (nosotros). ya que la concentración llevo a que por ejemplo el área de ingeniería de Cordoba u otras ciudades se maneje directamente de Bs. As. con un único equipo de ingeniería.
+> pero veamos el lado positivo, la desconcentración traerá mas trabajo para los Ingenieros (nosotros). ya que la concentración llevo a que por ejemplo el área de ingeniería de Cordoba u otras ciudades se maneje directamente de Bs. As. con un único equipo de ingeniería.
 
 Bien, ¡al fin estamos de acuerdo en algo! Y vale enfatizar que no sólo será para el área técnica, sino (sobre todo) para los comunicadores y todos los generadores y generadoras de contenidos culturales, que hoy tienen absolutamente limitadas las posibilidades laborales, que el abanico de oportunidades se abrirá.
 

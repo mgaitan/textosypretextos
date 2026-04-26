@@ -60,7 +60,7 @@ date_display = "05.05.2008"
 depth = 0
 url_site = "http://www.textosypretextos.com.ar"
 title = "Waliki"
-body = "que mayor logro podemos pedir para una declaración constitucional que expresar la dignidad? \n\nVarios han dicho que el nuevo texto constitucional esta bastante mal redactado y hasta yo me doy cuenta que a veces redunda en explicitar casos muy particulares de derechos (tiene mas de 400 articulos!). \n\nSin embargo, evito meterme en los tecnicismos: el valor de este texto no está en su precisión 'jurídica' sino en el valor de simbolo y poder que tiene para el pueblo boliviano. No es inutil, porque el pueblo lo siente como herramienta propia que ellos mismos crearon -- en ese sentido es mucho, pero mucho mas util que nuestra constitución -- ."
+body = "que mayor logro podemos pedir para una declaración constitucional que expresar la dignidad? \n\nVarios han dicho que el nuevo texto constitucional esta bastante mal redactado y hasta yo me doy cuenta que a veces redunda en explicitar casos muy particulares de derechos (tiene mas de 400 artículos!). \n\nSin embargo, evito meterme en los tecnicismos: el valor de este texto no está en su precisión 'jurídica' sino en el valor de simbolo y poder que tiene para el pueblo boliviano. No es inutil, porque el pueblo lo siente como herramienta propia que ellos mismos crearon -- en ese sentido es mucho, pero mucho mas util que nuestra constitución -- ."
 
 [[extra.comments]]
 id = 6877
@@ -175,6 +175,6 @@ Pachamama y sus seres, que merecen vivir en plenitud e igualdad.
 {% postscript() %}
 Este texto fue un email a muchos destinatarios que envié el 4 de ferebro de 2008 bajo el título «Waliki (estoy bien)». Unos días después el Fer [lo publicó](http://www.efectotabano.com.ar/ARURAPIWI-Q-UCHU-MASI) en Efecto Tábano. 
 
-Lo publico aquí, por varios motivos: primero porque siento que este debería ser su *habitat natural*;en febrero este weblog seguía cerrado por melancolía y recién tiempo después encontré las llaves de su alegría. Segundo porque es una forma, torpe y pasiva pero llena de sentimiento, de solidarizarme con el Pueblo Boliviano, en [esta lucha](http://todosconbolivia.org/) que se sigue agudizando. Y tercero, porque hay una continuación que pronto publicaré.
+Lo público aquí, por varios motivos: primero porque siento que este debería ser su *habitat natural*;en febrero este weblog seguía cerrado por melancolía y recién tiempo después encontré las llaves de su alegría. Segundo porque es una forma, torpe y pasiva pero llena de sentimiento, de solidarizarme con el Pueblo Boliviano, en [esta lucha](http://todosconbolivia.org/) que se sigue agudizando. Y tercero, porque hay una continuación que pronto publicaré.
 {% end %}
 

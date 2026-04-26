@@ -50,7 +50,7 @@ Hasta hace unos días no conocía este poema. Fue mi amigo y compañero Leandro,
 > _ **Subject:** Fijate que loco
 > _ **To:** Martín Gaitán
 >
-> Esta es la continuacion de la charla que tuvimos algún día en tu casa, cuando lo escuches vas a saber de que estoy hablando.
+> Esta es la continuación de la charla que tuvimos algún día en tu casa, cuando lo escuches vas a saber de que estoy hablando.
 > Un abrazo hermano, y admito que agradezco andar andando para conocer cumpas como vos, que están en la misma senda.
 > Otro abrazo y seguro nos vemos en un rato.
 >

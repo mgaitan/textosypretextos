@@ -35,7 +35,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
+    { name = "Tecnología", path = "/etiquetas/tecnología/" },
 ]
 comments = []
 +++

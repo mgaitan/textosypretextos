@@ -46,7 +46,7 @@ que me basta con ser tu enemigo, tu todo,<br>
 tu esclavo, tu fiebre, tu dueño.<br>
 <br>
 Y si quieres también<br>
-puedo ser tu estacion y tu tren,<br>
+puedo ser tu estación y tu tren,<br>
 tu mal y tu bien,<br>
 tu pan y tu vino,<br>
 tu pecado, tu dios, tu asesino…<br>
@@ -60,12 +60,12 @@ Puedo ponerme humilde y decir<br>
 que no soy el mejor<br>
 que me falta valor para atarte a mi cama,<br>
 puedo ponerme digno y decir<br>
-"toma mi direccion cuando te hartes de amores<br>
+"toma mi dirección cuando te hartes de amores<br>
 baratos de un rato… me llamas".<br>
 <br>
 Y si quieres también<br>
 puedo ser tu trapecio y tu red,<br>
-tu adios y tu "ven",<br>
+tu adiós y tu "ven",<br>
 tu manta y tu frio,<br>
 tu resaca, tu lunes, tu hastio…<br>
 <br>
@@ -79,7 +79,7 @@ puedo ser tu abogado y tu juez,<br>
 tu miedo y tu fe<br>
 tu noche y tu día.<br>
 <br>
-Tu rencor, tu por que, tu agonia…<br>
+Tu rencor, tu por que, tu agonía…<br>
 o tal vez esa sombra<br>
 que se tumba a tu lado en la alfombra<br>
 a la orilla de la chimenea<br>

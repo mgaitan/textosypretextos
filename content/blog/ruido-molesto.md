@@ -102,7 +102,7 @@ date_display = "05.05.2009"
 depth = 0
 url_site = ""
 title = "Ruido molesto"
-body = "hola!\nmi pregunta es, ¿como puedo saber de cuanto me llegara una multa que me han puesto por la musica alta?\nmuchas  gracias.\n\nlura"
+body = "hola!\nmi pregunta es, ¿como puedo saber de cuanto me llegara una multa que me han puesto por la música alta?\nmuchas  gracias.\n\nlura"
 +++
 
 Córdoba, 8 de septiembre 2006

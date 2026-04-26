@@ -49,7 +49,7 @@ date_display = "27.10.2004"
 depth = 0
 url_site = ""
 title = ""
-body = "Asi que don Tin de novio???.... grossa noticia para divulgar.... NO ES PUTO!!!, escuchaste \"il tincho\"???, en el asado nos haciamos esa pregunta... sera o no sera??, afortunadamente no es mariposon, salutes!"
+body = "Asi que don Tin de novio???.... grossa noticia para divulgar.... NO ES PUTO!!!, escuchaste \"il tincho\"???, en el asado nos hacíamos esa pregunta... sera o no sera??, afortunadamente no es mariposon, salutes!"
 
 [[extra.comments]]
 id = 42
@@ -98,7 +98,7 @@ body = "nadie hable mal del tin, el es todo un hombre, ademas es muy buena perso
 
 Se llama María Virginia, pero que nadie le cuente que escribí su nombre completo en esta página, porque le asusta "estar en  internet". La conocí en Junio, cuando vine a Córdoba por primera vez, a averiguar sobre trámites universitarios. Sucedió como suele suceder en este lugar: de visita en el departamento de conocidos (Tamara y Dalila), tomando mates y conversando sobre cualquier cosa. 
 
-Estudia Turismo en el Instituto Mariano Moreno y dentro de poquito se recibe de Guia, aunque va a continuar (Licenciatura, creo). S e nota que le gusta muchísimo lo que hace, y que sabe un montón. De hecho es una gran ventaja para mi, tengo guia personalizada: me cuenta la historia de los monumentos, los edificios, la catedrales, los próceres, y anécdotas un poco inverosímiles pero divertidisimas de los lugares. 
+Estudia Turismo en el Instituto Mariano Moreno y dentro de poquito se recibe de Guía, aunque va a continuar (Licenciatura, creo). S e nota que le gusta muchísimo lo que hace, y que sabe un montón. De hecho es una gran ventaja para mi, tengo guía personalizada: me cuenta la historia de los monumentos, los edificios, la catedrales, los próceres, y anécdotas un poco inverosímiles pero divertidísimas de los lugares. 
 
 Por ejemplo, desde la ventana del living de nuestro departamento se ve una panorámica de la ciudad, y perfectamente la Iglesia de los Capuchinos. Esta Iglesia (todo me lo contó Mavi) la construyeron en el siglo XVIII, y tiene un estilo neogótico (?), todo es muy vertical, puntudo y un poco tétrico. Lo llamativo  es que sólo tiene una de las dos cúpulas construidas, la del ala izquierda está muy prolijamente truncada. Es muy raro verla de frente, todo es simétrico hasta cierta altura. De ahí las teorías: los seres racionales a quienes no les gusta nada que no se pueda medir o explicar (Dolina los llama Refutadores de Leyendas, y para Cortázar serían parientes de las Famas) dicen que se debe un error de cálculo, ya que si esa cúpula estuviera, el edificio se vendría abajo. Otros, románticos a quienes les gusta más el firulete de las historias, dicen que fue una decisión planeada de "los capuchinos" como metáfora de la imperfección del hombre contrastada con la supuesta perfección del supuesto Dios. También hay versiones economicistas: los edificios que no estaban terminados no pagaban impuestos, y estos capuchinos se avivaron, dicen.  Yo digo que es todo invento de Mavi para sacarles más plata a los ponjas y chilenos de citytour. 
 

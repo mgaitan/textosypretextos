@@ -58,7 +58,7 @@ date_display = "20.06.2008"
 depth = 0
 url_site = ""
 title = "Por qué vamos a la marcha"
-body = "Siendo extranjera y con poca informacion, no voy a comentar el articulo en si (todavia necesito hacerme una opinion...)!  Pero Martin gracias por tu blog, me ayuda entender un poco mejor lo que esta pasando en tu pais.\n\nQueria reaccionar  con respecto a los 2 ultimos comentarios... que no me parecen muy constructivos!  Lo siento, pero tu aversion por Brecht no importa! Y no creo que la frase contradice el tema, solo que pone de relieve el hecho de que la informacion que se da de la crisis con el campo en la mayoria de los medios impide hacerse una opinion objetiva!  Segun lo que yo entiendo, es una lucha de poder en el gobierno y el poder argentino (o sea el campo)... con bastantes alevosias!"
+body = "Siendo extranjera y con poca información, no voy a comentar el articulo en si (todavia necesito hacerme una opinion...)!  Pero Martin gracias por tu blog, me ayuda entender un poco mejor lo que esta pasando en tu pais.\n\nQueria reaccionar  con respecto a los 2 ultimos comentarios... que no me parecen muy constructivos!  Lo siento, pero tu aversion por Brecht no importa! Y no creo que la frase contradice el tema, solo que pone de relieve el hecho de que la información que se da de la crisis con el campo en la mayoria de los medios impide hacerse una opinion objetiva!  Segun lo que yo entiendo, es una lucha de poder en el gobierno y el poder argentino (o sea el campo)... con bastantes alevosias!"
 
 [[extra.comments]]
 id = 6962

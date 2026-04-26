@@ -37,7 +37,7 @@ author_links = [
 tag_links = [
     { name = "El resto", path = "/etiquetas/el-resto/" },
     { name = "Humor", path = "/etiquetas/humor/" },
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
 ]
 
 [[extra.comments]]
@@ -49,7 +49,7 @@ date_display = "01.09.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "creo que la ciudad es un sitio con magia , que la hacen sus habitantes todos tenemos millones de pensamientos que se plasman por medio de la publicidad asi tenga una orrografia es un medio de comunicacion urbana estoy deacuerdo con este articulo"
+body = "creo que la ciudad es un sitio con magia , que la hacen sus habitantes todos tenemos millones de pensamientos que se plasman por medio de la publicidad asi tenga una orrografia es un medio de comunicación urbana estoy deacuerdo con este articulo"
 
 [[extra.comments]]
 id = 1058
@@ -93,7 +93,7 @@ date_display = "22.10.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "Me interesaria conocer informacion sobre literatura urbana"
+body = "Me interesaria conocer información sobre literatura urbana"
 
 [[extra.comments]]
 id = 1089
@@ -126,7 +126,7 @@ date_display = "23.03.2006"
 depth = 0
 url_site = "http://colombia"
 title = ""
-body = "me gustaria que ubiera mucha mas informacion de literatura o de cuentos urbano mil grasia"
+body = "me gustaría que ubiera mucha mas información de literatura o de cuentos urbano mil grasia"
 
 [[extra.comments]]
 id = 1103
@@ -148,7 +148,7 @@ date_display = "27.03.2006"
 depth = 0
 url_site = ""
 title = ""
-body = "me gustaria conocer que es la literatura urbana"
+body = "me gustaría conocer que es la literatura urbana"
 
 [[extra.comments]]
 id = 1105
@@ -258,7 +258,7 @@ date_display = "28.06.2006"
 depth = 0
 url_site = ""
 title = ""
-body = "hola me llamo Tomás, vivo en España y soy cordobes de Pura sepa (me imagino que es aquel que nace en cordoba), y es muy triste encontrarte con personas como la que escribio este texto, la verdad es que yo tampoco entiendo muy bien lo de literetura urbana, pero me imagino lo que este chaval quierre transmitirnos con este texto; pero a mi entender mas que hacer constancia de hechos o escritos encontrados en la calle, quizas escrito por gente que no ha tenido las mismas oportunidad que el pibe esté, y que a lo mejor se esta tratando de ganar la vida como puede, y no habra tenido el tiempo de cambiarlo o quizas de darce cuenta del error, por lo visto tienes mucho tiempo al pedo como para ponerte a ver tantas cosas, y por otro lado para matar un poco tu falta de formación, no me importa tu edad, pero chetito seguro, el pancho electronico por lo visto es una novedad para tus sentido, pero existe desde hace mas de 3 decadas, y ese puesto tambien, y no es una especie de panqueque, es panqueque ( el panqueque no es una especie), por otro punto la catedral cobra, para enseñarte la catedral y de su historia, no para el Padre Nuestro,  y lo de corte con navaja mi viejo me llavaba a cortar el pelo con navaja, y no con esa maquina que usan hoy que te queda el corte para el culo, y te fajan el corte de pelo que te hacen en 5 minutos, y para comentar lo del Loco de La Estrada tendrias que saber más de la vida de ese personaje de la calle de cba, para poder juzgar, pibe, y por cierto, veo que no sos cordobes o tenes verguenza de serlo, por lo que decis, que tuviste tu primer acercamiento a cordobeses de pura sepa, y como si fuera poco \"guasos Chivados\"... Que sentiste? Como te pusiste?... LITERATURA URBANA!!"
+body = "hola me llamo Tomás, vivo en España y soy cordobes de Pura sepa (me imagino que es aquel que nace en cordoba), y es muy triste encontrarte con personas como la que escribio este texto, la verdad es que yo tampoco entiendo muy bien lo de literetura urbana, pero me imagino lo que este chaval quierre transmitirnos con este texto; pero a mi entender mas que hacer constancia de hechos o escritos encontrados en la calle, quizas escrito por gente que no ha tenido las mismas oportunidad que el pibe esté, y que a lo mejor se esta tratando de ganar la vida como puede, y no habrá tenido el tiempo de cambiarlo o quizas de darce cuenta del error, por lo visto tienes mucho tiempo al pedo como para ponerte a ver tantas cosas, y por otro lado para matar un poco tu falta de formación, no me importa tu edad, pero chetito seguro, el pancho electronico por lo visto es una novedad para tus sentido, pero existe desde hace mas de 3 decadas, y ese puesto tambien, y no es una especie de panqueque, es panqueque ( el panqueque no es una especie), por otro punto la catedral cobra, para enseñarte la catedral y de su historia, no para el Padre Nuestro,  y lo de corte con navaja mi viejo me llavaba a cortar el pelo con navaja, y no con esa maquina que usan hoy que te queda el corte para el culo, y te fajan el corte de pelo que te hacen en 5 minutos, y para comentar lo del Loco de La Estrada tendrias que saber más de la vida de ese personaje de la calle de cba, para poder juzgar, pibe, y por cierto, veo que no sos cordobes o tenes verguenza de serlo, por lo que decis, que tuviste tu primer acercamiento a cordobeses de pura sepa, y como si fuera poco \"guasos Chivados\"... Que sentiste? Como te pusiste?... LITERATURA URBANA!!"
 
 [[extra.comments]]
 id = 1115
@@ -280,7 +280,7 @@ date_display = "11.09.2006"
 depth = 0
 url_site = "http://venezuela"
 title = ""
-body = "hola....... me gustaria saber mas sobre la transicon de la literatura rural hacia la literatura urbana"
+body = "hola....... me gustaría saber mas sobre la transicon de la literatura rural hacia la literatura urbana"
 
 [[extra.comments]]
 id = 1217
@@ -313,7 +313,7 @@ date_display = "20.03.2007"
 depth = 0
 url_site = ""
 title = ""
-body = "muy interesante me gusta la literautra urbana y este texto permite d fondo entender el concepto que se esta queriendo manejar pero aun asi me gustaria saber con mayor profundidad los requisitos para q un texto se vuelva literatura urbana"
+body = "muy interesante me gusta la literautra urbana y este texto permite d fondo entender el concepto que se esta queriendo manejar pero aun asi me gustaría saber con mayor profundidad los requisitos para q un texto se vuelva literatura urbana"
 
 [[extra.comments]]
 id = 2283
@@ -324,7 +324,7 @@ date_display = "21.03.2007"
 depth = 0
 url_site = ""
 title = ""
-body = "me gustaria saber cuales son las obras de literatura urbana y sus principales autores . Mi profe  me dijo que ese tipo de literatura es chevere  y me gustaria saber mas sobre el tema ok me pueden escrbir a mi correo pier_sc_9@hotmail.com  chausito cuidense"
+body = "me gustaría saber cuales son las obras de literatura urbana y sus principales autores . Mi profe  me dijo que ese tipo de literatura es chevere  y me gustaría saber mas sobre el tema ok me pueden escrbir a mi correo pier_sc_9@hotmail.com  chausito cuidense"
 
 [[extra.comments]]
 id = 6798
@@ -346,7 +346,7 @@ date_display = "24.03.2009"
 depth = 0
 url_site = ""
 title = "Literatura Urbana"
-body = "mmm ps en realida no tengo idea pero imagino sea algo de calle debe ser algo exitante mm y tal vez emocionante,a decir verdad me gustaria informarme a fondo de este tema ps se nota interesante .............bye:)"
+body = "mmm ps en realida no tengo idea pero imagino sea algo de calle debe ser algo exitante mm y tal vez emocionante,a decir verdad me gustaría informarme a fondo de este tema ps se nota interesante .............bye:)"
 
 [[extra.comments]]
 id = 7213
@@ -390,7 +390,7 @@ date_display = "14.10.2009"
 depth = 0
 url_site = ""
 title = "Literatura Urbana"
-body = "hola que tal? yo quisiera saber todo sobre la literatura urbana sus aspectos mas resaltantes, caracteristicas, todo en lo que me puedan ayudar ya que pienso trabajar con ella en la tesis. que texto ma recomiendan trabajar? algo que sea super especial que llame mucho la atencion ya que pretendo ofertala como unidad tematica para la universidad donde estudio..."
+body = "hola que tal? yo quisiera saber todo sobre la literatura urbana sus aspectos mas resaltantes, características, todo en lo que me puedan ayudar ya que pienso trabajar con ella en la tesis. que texto ma recomiendan trabajar? algo que sea super especial que llame mucho la atencion ya que pretendo ofertala como unidad tematica para la universidad donde estudio..."
 
 [[extra.comments]]
 id = 7960
@@ -401,7 +401,7 @@ date_display = "20.11.2009"
 depth = 0
 url_site = ""
 title = "Literatura Urbana"
-body = "hola que tal ? me parece algo muy bueno la literatura urbana y qeria saber cuales son las caracteristicas del contexto social de la literatura urbana si me pudieran responder(a federicoricardo@hotmail.com) se los agradeceria mucho es para un trabajo.chau"
+body = "hola que tal ? me parece algo muy bueno la literatura urbana y qeria saber cuales son las características del contexto social de la literatura urbana si me pudieran responder(a federicoricardo@hotmail.com) se los agradeceria mucho es para un trabajo.chau"
 
 [[extra.comments]]
 id = 8201
@@ -412,7 +412,7 @@ date_display = "07.04.2010"
 depth = 0
 url_site = ""
 title = "Literatura Urbana"
-body = "hola quisiera saber todo sobre la litertura urbana, las caracteristicas, abra, actores , integrantes"
+body = "hola quisiera saber todo sobre la litertura urbana, las características, abra, actores , integrantes"
 
 [[extra.comments]]
 id = 8240
@@ -423,7 +423,7 @@ date_display = "07.06.2010"
 depth = 0
 url_site = ""
 title = "Literatura Urbana"
-body = "Tantos parrafos y Ninguno decia que es literatura Urbana como Tal x)"
+body = "Tantos parrafos y Ninguno decía que es literatura Urbana como Tal x)"
 
 [[extra.comments]]
 id = 8854
@@ -467,7 +467,7 @@ date_display = "01.10.2012"
 depth = 0
 url_site = ""
 title = "Literatura Urbana"
-body = "no dice nada de autores quiero saber los autores,caracteristicas de la literatura urbana..ETC"
+body = "no dice nada de autores quiero saber los autores,características de la literatura urbana..ETC"
 
 [[extra.comments]]
 id = 54104
@@ -483,17 +483,17 @@ body = "En realidad  hay pocas evidencias con respecto a la literatura urbana, p
 
 Caminar por la calle transmite sensaciones de todos los colores y gustos, pero uno debe estar atento para percibirlos. En general sucede que vamos nerviosos, apurados, con hambre, pensando en la mala racha de Boca o en esa mujer que no nos da bola, y entonces nos perdemos todas esas historias que la calle nos regala por sólo estar ahí, mirando. 
 
-La calle no es sólo el asfalto y la vereda, entiendasé. Tampoco se completa si sumamos los cordones y las esquinas. La calle es todo lo que hay afuera: los peatones que visten celulares de mil pesos, los obreros de la constucción que piropean profesionalmente, las vidrieras con maniquies de cintura diminuta, los miles de pibitos que manguean o venden alguna chuchería en cada esquina, los policías sospechandome violador en el parque,  las minas hiperproducidas que van a comprar arroz de oferta al Disco, los artistas callejeros tantas veces mejores que los otros e igual o más postergados. Hay infinitas historias en la calle,  sólo falta contarlas. 
+La calle no es sólo el asfalto y la vereda, entiendasé. Tampoco se completa si sumamos los cordones y las esquinas. La calle es todo lo que hay afuera: los peatones que visten celulares de mil pesos, los obreros de la construcción que piropean profesionalmente, las vidrieras con maniquies de cintura diminuta, los miles de pibitos que manguean o venden alguna chuchería en cada esquina, los policías sospechandome violador en el parque,  las minas hiperproducidas que van a comprar arroz de oferta al Disco, los artistas callejeros tantas veces mejores que los otros e igual o más postergados. Hay infinitas historias en la calle,  sólo falta contarlas. 
 
 Suelo divertirme caminando, y no es que lo busque, pero a veces me sorprendo en plena risa y me tengo que sentar a agarrarme la panza. La gente a mi alrededor queda atónita y me doy cuenta que se acomodan el pelo y se levantan el pantalón por las dudas, creyendo que me rio de ellos.  
 
 Ya me pasó muchas veces.  Una fue sobre la calle Rivera Indarte, cuando descubrí un diminuto local que anuncia en su ventana "**AQUI PANCHO ELECTRONICO**".  No resistí la tentación y me acerqué a ver de qué trataba esa tecnología gastronómica, y era algo así como una maquinita (eléctrica) que envolvía las salchichas en una especie de panqueque caliente. Me duró la diversión como dos cuadras . 
 
-Ayer, caminando por Velez Sardfield antes de llegar a San Juan encontré una peluquería que prolijamente anuncia "**PELUQUERIA NEGRETTE. CORTE MODERNO A NAVAJA**". Sé que así carece de gracia, pero si Uds. vieran a los dos viejitos que atienden con la navaja en la mano menos temblorosa y un  frasco de Glostora frente al espejo, se reirian conmigo. 
+Ayer, caminando por Velez Sardfield antes de llegar a San Juan encontré una peluquería que prolijamente anuncia "**PELUQUERIA NEGRETTE. CORTE MODERNO A NAVAJA**". Sé que así carece de gracia, pero si Uds. vieran a los dos viejitos que atienden con la navaja en la mano menos temblorosa y un  frasco de Glostora frente al espejo, se reirían conmigo. 
 
 Otra de peluquería está acá cerquita, sobre la misma calle de mi edificio. No suelo burlarme de los errores ortográficos cuando provienen de gente que no es pedante, que no intenta ser más de lo que es, como la verdulería que ofrece "serezas" con tiza mojada en el pizarrón gastado de las ofertas. Pero esta "PELUQUERIA UNI**C**EX"  (así, con C) está en local de planta baja de un edificio cheto, y el error se encuentra en la pretenciosa lámina serigráfica que decora el local junto a la imagen de una modelo rubia. 
 
-La Catedral no está excenta de mis antenitas de vinil. Hoy  saqué una foto a la entrada lateral que ofrece "Ingreso a la Catedral para Turistas $3. Incluye Guia".  Yo no entiendo de estas cosas, pero creia que redimir pecados  en la catedral era gratis. O al menos se pagaba en padrenuestros y avemarias. 
+La Catedral no está excenta de mis antenitas de vinil. Hoy  saqué una foto a la entrada lateral que ofrece "Ingreso a la Catedral para Turistas $3. Incluye Guía".  Yo no entiendo de estas cosas, pero creía que redimir pecados  en la catedral era gratis. O al menos se pagaba en padrenuestros y avemarias. 
 
 No todo son carteles; también presto atención a la gente que labura. En la esquina de Estrada y Buenos Aires hay un señor que cobra a quienes estacionan sus autos en esa zona. Algunos lo conocen como *El Loco de la Estrada* y otros como *El Atleta*, y esto es porque aunque se encuentre en una punta de su territorio, si hay un auto estacionando 50 metros más allá, él llega corriendo a pasos agigantados en cuestión de segundos. Y a ponerse con la moneda. 
 
@@ -505,11 +505,11 @@ Hasta ahora no he jugado ni siquiera un partido de fútbol, y eso no es por falt
 
 El fin de semana aparecieron pegados por  la ciudad unos afiches tamaño A3 . Comparado con la cantidad de publicidad gráfica que hay, estos son chiquitos y menos vistosos por ser en blanco y negro, pero yo me quedé gratamente sorprendido. Se trata de una Revista Mural (que acusa el Nº 2) llamada **Aldea Primitiva**.  Les transcribo uno de sus texto, que copié en mi agenda parado en una esquina, mientras los transeúntes me esquivaban como a un estorbo: 
 
-> *(...)Como cuando después de bajar caminó sin sacar las manos de los bolsillos. Iba acariciando dos caramelos ácidos, los hacía jugar entre sus dedos; parecía como si el anillo que le oprimia el anular quisiera cobrarles peaje.
+> *(...)Como cuando después de bajar caminó sin sacar las manos de los bolsillos. Iba acariciando dos caramelos ácidos, los hacía jugar entre sus dedos; parecía como si el anillo que le oprimía el anular quisiera cobrarles peaje.
 > Cruzó la calle (esa que Ud. cruzó hace un momento), se detuvo y leyó hasta la última palabra. Nunca desenfundó las manos ni soltó los caramelos, que a esa altura estaban mareados o ya se habían acostumbrado a pasear de yema en yema.
 > Uno de ellos, creo que el rojo, le coqueteaba al anillo, se le insinuaba y hasta le propuso algo indecoroso en una de las pasadas.
-> Luego siguió su rumbo, que quizás sea el mismo que Ud. siga cuando termine de leer, aunque ella no hizo caso a los ojos que le miraban la nuca mientras leia.
+> Luego siguió su rumbo, que quizás sea el mismo que Ud. siga cuando termine de leer, aunque ella no hizo caso a los ojos que le miraban la nuca mientras leía.
 > Si ya sé, a Ud. no le gustan los caramelos ácidos.*
 
-Muy lindo, pero lo cierto es que cuando leia yo no tenia ojos atrás mio ni nuca adelante. Mas al contrario, justo cuando terminaba la transcripción con horrible caligrafía pasó una hermosa traficante de curvas, y ni siquiera me sonrió.  Y a mi si me gustan los caramelos ácidos.
+Muy lindo, pero lo cierto es que cuando leía yo no tenia ojos atrás mio ni nuca adelante. Mas al contrario, justo cuando terminaba la transcripción con horrible caligrafía pasó una hermosa traficante de curvas, y ni siquiera me sonrió.  Y a mi si me gustan los caramelos ácidos.
 

@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]
 comments = []
@@ -139,5 +139,5 @@ Bueno, el deseo es bajar todo este vuelo. Fijate,  él está laburando, yo tambi
 {{ video_embed(provider="youtube", id="sTbOE0L7jLo") }}
 
 {% postscript() %}
-Esta entrevista la hice para la revista Wayra del Centro de Estudiantes de la Facultad de Ciencias Exáctas, Físicas y Naturales de la Universidad Nacional de Córdoba (CEICiN), proyecto que cajoneamos por unos días, pero pronto resucitará. Porque el viento nunca deja de soplar.*
+Esta entrevista la hice para la revista Wayra del Centro de Estudiantes de la Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad Nacional de Córdoba (CEICiN), proyecto que cajoneamos por unos días, pero pronto resucitará. Porque el viento nunca deja de soplar.*
 {% end %}

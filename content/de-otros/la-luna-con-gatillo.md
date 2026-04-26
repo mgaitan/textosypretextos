@@ -45,7 +45,7 @@ date_display = "03.04.2011"
 depth = 0
 url_site = ""
 title = "La luna con gatillo"
-body = "la verdad no lo entiendo muy bien y mi profesora tampoco es capaz de explicarlo con simples palabras... tampoco es que me interese mucho pero la verdad es que me gustaria entenderlo para que no quede en la nada... nose si me explico; pero bueno era eso nomas... :)"
+body = "la verdad no lo entiendo muy bien y mi profesora tampoco es capaz de explicarlo con simples palabras... tampoco es que me interese mucho pero la verdad es que me gustaría entenderlo para que no quede en la nada... nose si me explico; pero bueno era eso nomas... :)"
 
 [[extra.comments]]
 id = 54400

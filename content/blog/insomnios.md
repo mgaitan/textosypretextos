@@ -35,7 +35,7 @@ author_links = [
 ]
 tag_links = [
     { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
+    { name = "Tecnología", path = "/etiquetas/tecnología/" },
 ]
 
 [[extra.comments]]
@@ -69,7 +69,7 @@ date_display = "30.11.2006"
 depth = 0
 url_site = ""
 title = ""
-body = "Hola amigo mío!! parece que ayer no fué un buen día para mucha gente... a mi me fué mal en un exámen... que va a ser, hay que seguir luchando, la vida tiene una sola dirección, para adelante... Le cuento que el 2 de diciembre (este sábado) bautizo a mi bebé Ignacio Gabriel L... ojalá salga todo bien, un abrazo enorme amigo, nos vemos pronto... GNL"
+body = "Hola amigo mío!! parece que ayer no fué un buen día para mucha gente... a mi me fué mal en un examen... que va a ser, hay que seguir luchando, la vida tiene una sola dirección, para adelante... Le cuento que el 2 de diciembre (este sábado) bautizo a mi bebé Ignacio Gabriel L... ojalá salga todo bien, un abrazo enorme amigo, nos vemos pronto... GNL"
 
 [[extra.comments]]
 id = 1259

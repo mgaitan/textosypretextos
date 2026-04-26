@@ -35,7 +35,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
+    { name = "Tecnología", path = "/etiquetas/tecnología/" },
 ]
 
 [[extra.comments]]
@@ -77,7 +77,7 @@ Acá va el primero.
 >
 > Nos costó pero la abrimos. Hubo que palanquear porque no sé a quien se le ocurrió tapiar la habitación por adentro.
 >
-> Apenas entramos tu hermano empezó a llorar y yo, bueno, yo también me emocioné mucho. En ese momento me di cuenta todo lo que él pertenecia a ese lugar o, mejor dicho, todo lo que se pertenecían. Sus lágrimas daban justo en el charquito de lluvia que se había formado en un desnivel del piso, aunque el techo, húmedo y enmohecido, no parecía tener agujeros.
+> Apenas entramos tu hermano empezó a llorar y yo, bueno, yo también me emocióné mucho. En ese momento me di cuenta todo lo que él pertenecía a ese lugar o, mejor dicho, todo lo que se pertenecían. Sus lágrimas daban justo en el charquito de lluvia que se había formado en un desnivel del piso, aunque el techo, húmedo y enmohecido, no parecía tener agujeros.
 >
 > Mientras yo intentaba destrabar la ventana para que entre algo de luz, él se acercó al escritorio. Cuantas veces habremos visto a tu viejo sentado allí, rodeado de esa interminable biblioteca de la que hoy sólo quedan huellas en la pared descascarada.
 >

@@ -2,7 +2,7 @@
 title = "Hoy es un dia fresquito"
 slug = "hoy-es-un-dia-fresquito"
 date = 2004-10-22 12:22:07
-description = "Ayer hacia mucho calor en esta cordoba que desborda de cordobeses nativos y por opción. A pesar de que la gota de tranpiracion me caia, todos intentaban convencerme de…"
+description = "Ayer hacia mucho calor en esta cordoba que desborda de cordobeses nativos y por opción. A pesar de que la gota de tranpiracion me caía, todos intentaban convencerme de…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 2
 section_slug = "blog"
 section_title = "Blog"
-summary = "Ayer hacia mucho calor en esta cordoba que desborda de cordobeses nativos y por opción. A pesar de que la gota de tranpiracion me caia, todos intentaban convencerme de que 'hoy es un dia frequito'. No sé la que me…"
+summary = "Ayer hacia mucho calor en esta cordoba que desborda de cordobeses nativos y por opción. A pesar de que la gota de tranpiracion me caía, todos intentaban convencerme de que 'hoy es un dia frequito'. No sé la que me…"
 visits = 650
 popularite = 0.9426852908656683
 hero_image = ""
@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]
 
@@ -74,14 +74,14 @@ title = "Hoy es un dia fresquito"
 body = "Como dijo alguien cotmeco se ha convertido en la nueva fabrica de ricos de Cochabamba y Bolivia toda esa cafila de ladrones a la cabeza del todologo de Mauricio mendez no hacen nada por mejorar los servicios, estuvimos dos semanas sin poder recibir ni enviar correos y nadie dice nada, de una ves los socios deben dar un golpe a todos estos ladrones y quitarles la mamadera."
 +++
 
-Ayer hacia mucho calor en esta cordoba que desborda de cordobeses nativos y por opción. A pesar de que la gota de tranpiracion me caia, todos intentaban convencerme de que 'hoy es un día frequito'. No sé la que me espera. 
+Ayer hacia mucho calor en esta cordoba que desborda de cordobeses nativos y por opción. A pesar de que la gota de tranpiracion me caía, todos intentaban convencerme de que 'hoy es un día frequito'. No sé la que me espera. 
 
 Estoy ahora en un ciber medio under con luces rojas y azules. En el equipo
-suena una musica re bala y me da miedo que en cualquier momento salgan
+suena una música re bala y me da miedo que en cualquier momento salgan
 unos pelados con cueros y tachas, cantando (latigo en mano) ... I..M...C
 ...Y. Por las dudas estoy apretando el culo.
 
 Bueno, me tengo que ir. 
 
-Perdon por no contarles mucho. A la tarde vuelvo.
+Perdón por no contarles mucho. A la tarde vuelvo.
 

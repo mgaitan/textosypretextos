@@ -136,7 +136,7 @@ costumbre de la risa: cuando se ríe, suelta un graznido, o una respiración lar
 Nadie sabe cómo es la risa de Papá. Debí escucharla; no la recuerdo. Con la voz es distinto: la voz
 de Papá suena como un altoparlante, como el televisor, cuando grita, en casa:
 O en el Tennis Ranch, cuando jadea:
---¡Pasala! ¡Pasamela! -- y Emilio querría estirar la red para que Papá alcance la pelota.
+--¡Pasala! ¡Pásamela! -- y Emilio querría estirar la red para que Papá alcance la pelota.
 Emilio ya tendría que estar acá, pero se está vengando: hace más de tres meses que no se enferma.
 
 Ahora estará caminando por Gorlero, de punta a punta, hasta sacarle lustre. La última vez fue

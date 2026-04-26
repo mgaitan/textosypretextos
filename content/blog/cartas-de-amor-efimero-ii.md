@@ -93,7 +93,7 @@ date_display = "02.11.2009"
 depth = 0
 url_site = ""
 title = "Cartas de amor efímero II"
-body = "Che, sabes que tambien es lo flashero... que posteaste esto justo dos dias antes del cumpleaños de ailin... yo la conozco fui su primer novio, y la verdad que tu historia me gusto mucho, es una gran persona ailin, creo que esta conviviendo hace rato con el novio, cada tanto me la cruzo por el barrio y charlamos, es una pena que haya sido un \"amor de verano\". \nSegui con tu blog, te invito a bajar musica del mio\nwww.elclubdelosmagios.wordpress.com\nAbrazo bredda\nPD: Entre porque vi tu publicacion en su face... taaaaaaantas casualidades juntas te pueden llegar a hacer mal jejejeje."
+body = "Che, sabes que tambien es lo flashero... que posteaste esto justo dos dias antes del cumpleaños de ailin... yo la conozco fui su primer novio, y la verdad que tu historia me gusto mucho, es una gran persona ailin, creo que esta conviviendo hace rato con el novio, cada tanto me la cruzo por el barrio y charlamos, es una pena que haya sido un \"amor de verano\". \nSegui con tu blog, te invito a bajar música del mio\nwww.elclubdelosmagios.wordpress.com\nAbrazo bredda\nPD: Entre porque vi tu publicación en su face... taaaaaaantas casualidades juntas te pueden llegar a hacer mal jejejeje."
 +++
 
 Bella Ailín:

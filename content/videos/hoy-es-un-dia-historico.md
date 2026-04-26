@@ -1,6 +1,6 @@
 +++
 title = "Hoy es un día histórico"
-slug = "hoy-es-un-dia-historico"
+slug = "hoy-es-un-dia-histórico"
 date = 2008-09-29 20:32:57
 description = ""
 draft = false
@@ -23,7 +23,7 @@ popularite = 0.9059766295300351
 hero_image = ""
 hero_alt = ""
 comment_count = 4
-legacy_url = "/videos/hoy-es-un-dia-historico/"
+legacy_url = "/videos/hoy-es-un-dia-histórico/"
 surtitle = ""
 subtitle = "Discurso de Rafael Correa"
 deck = ""
@@ -74,7 +74,7 @@ date_display = "06.10.2008"
 depth = 0
 url_site = ""
 title = "Hoy es un día histórico"
-body = "siempre tincho con informacion y cosas lindas, interesantes y alternativas.........\nrealmente que es muy positivo todo lo q esta pasando en ecuador, pero es una pena ver y escuchar a nuestros politicos........"
+body = "siempre tincho con información y cosas lindas, interesantes y alternativas.........\nrealmente que es muy positivo todo lo q esta pasando en ecuador, pero es una pena ver y escuchar a nuestros políticos........"
 +++
 
 {{ video_embed(provider="youtube", id="HG18kguB2zY") }}

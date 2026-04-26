@@ -34,7 +34,7 @@ author_links = [
     { name = "Agarrate Catalina", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
     { name = "Memoria", path = "/etiquetas/memoria/" },
 ]
 

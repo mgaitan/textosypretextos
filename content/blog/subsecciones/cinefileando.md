@@ -7,7 +7,7 @@ subsection_slug = "cinefileando"
 article_paths = [
     "blog/contrastes.md",
     "blog/cosas-que-dan-ganas-de-hacer-luego.md",
-    "blog/nos-reimos-de-perdon-con-ustedes.md",
+    "blog/nos-reímos-de-perdón-con-ustedes.md",
 ]
 +++
 

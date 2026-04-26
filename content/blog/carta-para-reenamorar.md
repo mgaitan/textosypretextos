@@ -35,7 +35,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
 ]
 comments = []
 +++
@@ -43,10 +43,10 @@ comments = []
 Le vengo dando vueltas desde las dos, cuando terminé de ver la peli
 que no debía ver. *Blue Valentine*, se llama. Ya sabía de qué trataba y
 debí suponer que no era el mejor plan, pero, qué cojones, se trata de
-"aventurarlse" (como dijo aquella viajera chilena). Bella y cruda. Con final feliz hubiera sido lo que necesitaba.
+"aventurarse" (como dijo aquella viajera chilena). Bella y cruda. Con final feliz hubiera sido lo que necesitaba.
 
 Si en vez de creer que esta carta debe ser algo trascendente y
-simplemente te escribo, o simplemente escribo, quiza me sería más fácil. Si no hubiera mezclado las flores de Wally (añejadas, mejores que las de
+simplemente te escribo, o simplemente escribo, quizá me sería más fácil. Si no hubiera mezclado las flores de Wally (añejadas, mejores que las de
 Bach) y los mezcales de jalisco, quizás también. Pero, así
 son las cosas, nada fáciles. Si una carta de amor --que no debería ser más que una carta con amor-- para enamorar es difícil, una carta para reenamorar lo es aún más.
 

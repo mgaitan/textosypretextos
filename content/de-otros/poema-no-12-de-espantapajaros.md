@@ -52,7 +52,7 @@ date_display = "10.02.2011"
 depth = 0
 url_site = ""
 title = "Poema Nº 12 de \\\"Espantapájaros\\\""
-body = "si yo lo lei en la primaria en el libro ceremonia secreta.. que traia actividades del libro y lo incluia...esta en la coleccion del mirador de editoria cantaro"
+body = "si yo lo lei en la primaria en el libro ceremonia secreta.. que traia actividades del libro y lo incluia...esta en la colección del mirador de editoria cantaro"
 
 [[extra.comments]]
 id = 53125

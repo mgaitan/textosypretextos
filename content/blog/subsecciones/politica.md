@@ -5,7 +5,7 @@ template = "blog_subsection.html"
 [extra]
 subsection_slug = "politica"
 article_paths = [
-    "blog/del-amor-y-otras-politicas.md",
+    "blog/del-amor-y-otras-políticas.md",
 ]
 +++
 

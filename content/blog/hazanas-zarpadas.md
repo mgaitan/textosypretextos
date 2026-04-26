@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
     { name = "Humor", path = "/etiquetas/humor/" },
 ]
 

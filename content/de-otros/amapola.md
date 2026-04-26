@@ -47,7 +47,7 @@ date_display = "22.02.2013"
 depth = 0
 url_site = ""
 title = "Amapola"
-body = "Este tema me emociona desde la primera vez que lo escuché; se ha quedado prendido en una parte de mi historia que fue bella, muy, y donde viví el amor desde muchos lugares.... ahora, la versión de Juan Quintero me traspasó el alma, me hizo revivir, me emocionó hasta las lágrimas. Quizá le deba las ganas viscerales que tengo de volver a cantar; y ojalá lo haga\nGracias! por compartir tanta luz"
+body = "Este tema me emociona desde la primera vez que lo escuché; se ha quedado prendido en una parte de mi historia que fue bella, muy, y donde viví el amor desde muchos lugares.... ahora, la versión de Juan Quintero me traspasó el alma, me hizo revivir, me emociónó hasta las lágrimas. Quizá le deba las ganas viscerales que tengo de volver a cantar; y ojalá lo haga\nGracias! por compartir tanta luz"
 +++
 
 <div class="poetry">Abre las hojas del viento, mi vida,<br>

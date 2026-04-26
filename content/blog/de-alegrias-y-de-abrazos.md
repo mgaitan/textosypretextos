@@ -101,7 +101,7 @@ body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus agu
 >
 > Sé que con tu juventud es difícil aceptar consejos de "viejos", pero también sé de tu madurez, de tu capacidad de reflexión y sé que todo eso aportará a encontrar la manera. El servicio a nuestro pueblo debe ser también el servicio a vos mismo, debe ser alegría, debe ser paz interior. Tanto vos como tus hermanos han recorrido un camino muy importante, que no muchas personas han podido hacer: crecer escuchando de necesidad de cambios, de justicia, de lucha y de amor.
 >
-> También han podido acceder a una formacion intelectual con una conciencia distinta. Ustedes son portadores de muchas cosas que servirán a ese nuevo mundo. Eso hay que valorarlo y cuidarlo, para que pueda desarrollarse y algún día fructifiquen en una nueva sociedad.
+> También han podido acceder a una formación intelectual con una conciencia distinta. Ustedes son portadores de muchas cosas que servirán a ese nuevo mundo. Eso hay que valorarlo y cuidarlo, para que pueda desarrollarse y algún día fructifiquen en una nueva sociedad.
 >
 > Pequeño, no se si me enredé mucho. La verdad es que al leer lo que escribís me salen tantas cosas que quisiera decirte que no puedo transmitir escribiendo, quizás si te tuviera al lado podría abrazarte fuerte y vos me entenderías mejor.
 >
@@ -116,7 +116,7 @@ body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus agu
 Hola Pa.
 
 *"(...)quizás si te tuviera al lado podría abrazarte fuerte y vos me
-entenderias mejor"*. Abrazarse fuerte para entenderse mejor. Qué bonito es eso, cierto?
+entenderías mejor"*. Abrazarse fuerte para entenderse mejor. Qué bonito es eso, cierto?
 
 Te debía esta respuesta y voy a intentarla así, cortita, antes de que
 se pase más tiempo.  Me gusta escribir, pero seguido me salen las
@@ -136,7 +136,7 @@ Todo eso me da alegría y no angustia. Ojo, no quiere decir que al
 comprender algunas cosas de este mundo (de las poquitas que
 comprendo), no se me erice la piel y se me cierre un poco la garganta. 
 Pero eso no me detiene, claro, al contrario, me llama a seguir
-buscando más alegría, toda la necesaria para combartir la injusticia.
+buscando más alegría, toda la necesaria para compartir la injusticia.
 
 Hay un textito de Claudia Korol, que es una escritora argentina muy comprometida que me gusta mucho, que dice en una parte así:
 

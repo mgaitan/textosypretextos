@@ -34,7 +34,7 @@ author_links = [
     { name = "Miguel Angel Pérez y Gustavo \\\"Cuchi\\\" Leguizamón", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
     { name = "Amistad", path = "/etiquetas/amistad/" },
 ]
 
@@ -58,7 +58,7 @@ date_display = "24.03.2010"
 depth = 0
 url_site = ""
 title = "Si llega a ser tucumana"
-body = "es esta zamba a mi humilde entender de las mas bonitas y melodiosas, es un placer cantarla y escucharla es uno de esos temas que te llegan al alma, que hermosa que es la musica argentina, que talento tienen nuestros autores que sus inspiraciones tracienden el tiempo y cada vez que cantas un tema asi lo descubris nuevamente gracias por la letra hasta siempre."
+body = "es esta zamba a mi humilde entender de las mas bonitas y melodiosas, es un placer cantarla y escucharla es uno de esos temas que te llegan al alma, que hermosa que es la música argentina, que talento tienen nuestros autores que sus inspiraciones tracienden el tiempo y cada vez que cantas un tema asi lo descubris nuevamente gracias por la letra hasta siempre."
 
 [[extra.comments]]
 id = 49517

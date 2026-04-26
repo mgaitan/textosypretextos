@@ -58,7 +58,7 @@ Amor sem beijinho,<br>
 Bochecha sem claudinho,<br>
 sou eu assim sem você.<br>
 Circo sem palhaço,<br>
-namoro sem amasso,<br>
+namoro sem amasó,<br>
 <br>
 sou eu assim sem você<br>
 <br>

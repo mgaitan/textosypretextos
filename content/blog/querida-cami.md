@@ -93,7 +93,7 @@ date_display = "28.05.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "revivimos un pedacito de nuestra bonita historia familiar. Nos emocionó mucho. Sos un tesoro. Mami"
+body = "revivimos un pedacito de nuestra bonita historia familiar. Nos emociónó mucho. Sos un tesoro. Mami"
 
 [[extra.comments]]
 id = 1017
@@ -104,7 +104,7 @@ date_display = "28.05.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "yo  soy   la  moustrita,  recibi tu  carta  es re  linda.   que\npena  lo  del incendio  de  la piesa  de   dai .   te amo mucho  \nchau  gua gua gua. cami"
+body = "yo  soy   la  moustrita,  recibí tu  carta  es re  linda.   que\npena  lo  del incendio  de  la piesa  de   dai .   te amo mucho  \nchau  gua gua gua. cami"
 
 [[extra.comments]]
 id = 1021
@@ -154,7 +154,7 @@ Al fin naciste y fue una emoción para todos. Yo fui a verte recién a la tarde,
 
 Anoche cuando hablé con vos, me dieron muchas ganas de estar allá para darte muchos besos, decirte feliz cumple y darte ese regalo que me pediste. Y también para que juguemos a ver cochinadas en el techo, tomar un helado, o que intentemos alejar tu miedo a andar en bicicleta. 
 
-Sabés, el miércoles, un día antes que el tuyo, fue el cumpleaños de otra nena que conozco, que se llama Daiana y es un poco más grande que vos. Vive con sus papás y sus hermanitos acá en Córdoba. A esa nena, y a otros muchos, los conoci porque los sábados voy con unos amigos a la escuelita de su barrio y les ayudamos a hacer las tareas, jugamos y le damos la leche con facturas o sanguchitos. Es re lindo ir porque me divierto mucho, y creo que a ellos también les gusta que vayamos. 
+Sabés, el miércoles, un día antes que el tuyo, fue el cumpleaños de otra nena que conozco, que se llama Daiana y es un poco más grande que vos. Vive con sus papás y sus hermanitos acá en Córdoba. A esa nena, y a otros muchos, los conocí porque los sábados voy con unos amigos a la escuelita de su barrio y les ayudamos a hacer las tareas, jugamos y le damos la leche con facturas o sanguchitos. Es re lindo ir porque me divierto mucho, y creo que a ellos también les gusta que vayamos. 
 
 A Daiana hace unas semanas le pasó algo un poco triste. Su pieza, que es un poco de ladrillo y otro poco de madera, se prendió fuego. Por suerte nadie se lastimó, pero se llevaron un susto muy grande porque estaba durmiendo su hermanita que tiene la edad de Joaco, y además perdieron toda la ropa. Daiana igual estaba contenta, porque me contó que los vecinos del barrio y sus tios los ayudaron, y entre todos juntaron ropa y zapatillas para darles. Además su tia, que vive en un lugar llamado Rio Primero, le dijo que en las vacaciones de invierno puede ir con ella y ayudarle a limpiar la casa de unos señores, y entonces ganar un poco de plata para comprarse lo que quiera. Ella dice que se va a comprar el compact de Floricienta y unos jeans nuevos. 
 
@@ -162,7 +162,7 @@ Hasta ayer, que me dijiste que querías la peli de Bob Esponja, yo te iba a rega
 
 Cami, sé que sabés leer y escribir muy bien, pero no estoy seguro si entenderás del todo esta cartita. Es que ni yo sé bien qué quiero contarte, ando un poco confundido. A veces me da miedo darme cuenta que hay muchas cosas feas que pasan, y ese miedo me confunde. Pero estoy seguro que las cosas feas se pueden cambiar por otras muy lindas, porque somos muchos los que queremos que cambien y sólo nos falta ponernos de acuerdo en qué hacer, y hacerlo. Ojo, no dije que esa tarea fuera fácil; y después de todo es mejor, a nosotros dos siempre nos aburren las tareas fáciles. 
 
-Ahora tenés siete, y aunque algunos puedan decirte (por conveniencia) que ya sos una nena grande, aún sos chiquita. Pero eso no impidió que desde hace mucho sepas cosas muy pero muy importantes como reirte mucho, ser buena con todos y regalarnos, con tus ocurrencias y tus mimos, mucha felicidad. 
+Ahora tenés siete, y aunque algunos puedan decirte (por conveniencia) que ya sos una nena grande, aún sos chiquita. Pero eso no impidió que desde hace mucho sepas cosas muy pero muy importantes como reírte mucho, ser buena con todos y regalarnos, con tus ocurrencias y tus mimos, mucha felicidad. 
 
 ¡Que lindo! Recién, como hace siete años, acaba de salir el sol. 
 

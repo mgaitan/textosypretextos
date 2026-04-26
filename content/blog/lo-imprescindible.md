@@ -49,7 +49,7 @@ date_display = "11.04.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "Agradezco mucho las palabras dirigidas tan atentamente a mi persona, rescato y pongo aun mas enfacis en el agradecimiento para con los estractos en los que uno se siente querido, cuando uno nota que la distancia no es nada y puede casi sentir ese abrazo de un hermano que esta ahi en todo momento. Tal vez en algun momento esta narracion de un fragmento de mi vida sea completada con todos los detalles y minusidades que solo puede ofrecer mi vivencia de dichas cosas, que por ahora y creo que por un tiempo considerable estaran guardadas en mi memoria. Esos detalles solo quieren ayudar a tener cierta idea del entorno y de muchos otros aspectos que le dan mayor entendimiento a todo la situacion descripta.\nLa facultad esta firme en mis metas, tal vez solo y por momentos se oculta detras de algun obstaculo el cual no dudo en sortear inmediatamente valiendome de todo sin abandonar los fuertes principios que creo tener. \nEste tipo de vivencias engrandecen al hombre y aunque por muchos momentos me senti desfalleser, se que sin todo esto no me podria haber nutrido de un monton de cosas que me engradecen y que en ciertas ocaciones me ayudan a valorar aun mas las simplisidades de la vida y del hombre comun. \nMuchas gracias nuevamente y espero seguir contando con ustedes a mi lado para continuar este largo camino a la gloria, ja."
+body = "Agradezco mucho las palabras dirigidas tan atentamente a mi persona, rescato y pongo aun mas enfacis en el agradecimiento para con los estractos en los que uno se siente querido, cuando uno nota que la distancia no es nada y puede casi sentir ese abrazo de un hermano que esta ahi en todo momento. Tal vez en algun momento esta narracion de un fragmento de mi vida sea completada con todos los detalles y minusidades que solo puede ofrecer mi vivencia de dichas cosas, que por ahora y creo que por un tiempo considerable estaran guardadas en mi memoria. Esos detalles solo quieren ayudar a tener cierta idea del entorno y de muchos otros aspectos que le dan mayor entendimiento a todo la situación descripta.\nLa facultad esta firme en mis metas, tal vez solo y por momentos se oculta detras de algun obstaculo el cual no dudo en sortear inmediatamente valiendome de todo sin abandonar los fuertes principios que creo tener. \nEste tipo de vivencias engrandecen al hombre y aunque por muchos momentos me sentí desfalleser, se que sin todo esto no me podria haber nutrido de un montón de cosas que me engradecen y que en ciertas ocaciones me ayudan a valorar aun mas las simplisidades de la vida y del hombre común. \nMuchas gracias nuevamente y espero seguir contando con ustedes a mi lado para continuar este largo camino a la gloria, ja."
 
 [[extra.comments]]
 id = 988
@@ -60,7 +60,7 @@ date_display = "11.04.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "Me disculpo por los horrores ortograficos de arriba; es increible lo que involuciona una mente osciosa, no?"
+body = "Me disculpo por los horrores ortograficos de arriba; es increíble lo que involuciona una mente osciosa, no?"
 
 [[extra.comments]]
 id = 989

@@ -33,7 +33,7 @@ author_links = [
     { name = "Enrique Santos Discépolo", path = "/autores/enrique-santos-discepolo/" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
 ]
 comments = []
 +++

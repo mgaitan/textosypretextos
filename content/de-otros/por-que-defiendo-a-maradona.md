@@ -35,7 +35,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Humor", path = "/etiquetas/humor/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
+    { name = "Tecnología", path = "/etiquetas/tecnología/" },
 ]
 
 [[extra.comments]]

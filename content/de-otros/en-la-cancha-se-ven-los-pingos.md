@@ -34,7 +34,7 @@ author_links = [
     { name = "Adriana Battu (Pedro Mairal)", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
     { name = "Memoria", path = "/etiquetas/memoria/" },
 ]
 
@@ -99,7 +99,7 @@ Es agotador. Por alguna razón tarda en acabar y en ese largo interin quiere hac
 
 ### El león
 
-Es medio sofocante. Aplastador. Mordedor de cuello. Prefiere cogerte boca abajo, mientras él se apoya con los puños sobre la cama. Para él, sexo y humor no se mezclan. Es solemne y soberano. Hace unas pausas raras: de pronto para de bombearte, te apuntala bajo su peso, y no sabés si te está cogiendo o si está esperando que des las últimas pataditas antes de devorarte. Es muy gritón cuando acaba, rugidor. Te puede traer problemas de consorcio.
+Es medio sofocante. aplastador. Mordedor de cuello. Prefiere cogerte boca abajo, mientras él se apoya con los puños sobre la cama. Para él, sexo y humor no se mezclan. Es solemne y soberano. Hace unas pausas raras: de pronto para de bombearte, te apuntala bajo su peso, y no sabés si te está cogiendo o si está esperando que des las últimas pataditas antes de devorarte. Es muy gritón cuando acaba, rugidor. Te puede traer problemas de consorcio.
 
 ### El mañanista
 

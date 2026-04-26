@@ -53,7 +53,7 @@ y los graves diagnósticos<br>
 defender la alegría como una bandera<br>
 defenderla del rayo y la melancolía<br>
 de los ingenuos y de los canallas<br>
-de la retórica y los paros cardiacos<br>
+de la retórica y los paros cardíacos<br>
 de las endemias y las academias<br>
 <br>
 defender la alegría como un destino<br>

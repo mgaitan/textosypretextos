@@ -37,7 +37,7 @@ author_links = [
 tag_links = [
     { name = "El resto", path = "/etiquetas/el-resto/" },
     { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
+    { name = "Tecnología", path = "/etiquetas/tecnología/" },
 ]
 
 [[extra.comments]]
@@ -162,7 +162,7 @@ title = "Cómplices"
 body = "complises al rescate me parese un programa muy chebre que e visto en toda mi vida y quisiera  que lo volvieran a presentarpor que es fabuloso.                                                       chao.att andrea paola.          y no te olvidesde mi porque  soy tu fanarica andrea paola y saludes a todos los de complises al rescate   los recordare."
 +++
 
-Debe ser la cuarta vez que inicio este texto: estoy media hora frente al monitor y me voy a dormir sin nada escrito. Las oraciones se niegan a convivir, hay cruentos forcejeos entre los verbos y sus objetos directos, los adjetivos se empastan en la lengua como una manzana arenosa y terminan asesinados por la tecla "<--" que todo lo ajusticia.  No es que no sepa qué les quiero contar, es el destino el que actua: el quiere escribir sobre Celeste, que le cueste. 
+Debe ser la cuarta vez que inicio este texto: estoy media hora frente al monitor y me voy a dormir sin nada escrito. Las oraciones se niegan a convivir, hay cruentos forcejeos entre los verbos y sus objetos directos, los adjetivos se empastan en la lengua como una manzana arenosa y terminan asesinados por la tecla "<--" que todo lo ajusticia.  No es que no sepa qué les quiero contar, es el destino el que actúa: el quiere escribir sobre Celeste, que le cueste. 
 
 Nuestra amistad nació en el chat aunque ella seguro disentirá conmigo.  Antes nos conocíamos pero no éramos amigos. Cuando abandonamos el chat nuestra amistad ya sabía cruzar la calle sola. 
 
@@ -196,7 +196,7 @@ En la presentación del <a href="http://elblogdesandra.blogspot.com/">blog de Sa
 
 A Sandra no la conozco, pero se debe parecer bastante a Celeste, seguro. 
 
-El domingo pasado Celeste se fue. Volvió a Neuquén y no regresará, o al menos ese es su plan vigente.  Al contrario de muchos, su regreso no fue forzado por tropiezos académicos, porque es excelente en lo que estudia y le gusta.  Pero parece que necesita afectos que acá no tiene ni podrá encontrar. 
+El domingo pasado Celeste se fue. Volvíó a Neuquén y no regresará, o al menos ese es su plan vigente.  Al contrario de muchos, su regreso no fue forzado por tropiezos académicos, porque es excelente en lo que estudia y le gusta.  Pero parece que necesita afectos que acá no tiene ni podrá encontrar. 
 
 -- Justo que yo me voy ¿vos decidís venir? Te voy a extrañar ¿sabés?
 

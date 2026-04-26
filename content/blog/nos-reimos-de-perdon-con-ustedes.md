@@ -1,6 +1,6 @@
 +++
-title = "Nos reimos de... perdón, con ustedes."
-slug = "nos-reimos-de-perdon-con-ustedes"
+title = "Nos reímos de... perdón, con ustedes."
+slug = "nos-reímos-de-perdón-con-ustedes"
 date = 2008-08-02 02:10:52
 description = "\\\"Estúpidos hombres blancos\\\", un libro de Michael Moore publicado en 2001 poco después del atentado a las Torres Gemelas, es un látigo satírico que azota las espaldas…"
 draft = false
@@ -27,7 +27,7 @@ popularite = 0.9130541072837808
 hero_image = ""
 hero_alt = ""
 comment_count = 0
-legacy_url = "/blog/nos-reimos-de-perdon-con-ustedes/"
+legacy_url = "/blog/nos-reímos-de-perdón-con-ustedes/"
 surtitle = ""
 subtitle = ""
 deck = ""

@@ -37,7 +37,7 @@ author_links = [
 tag_links = [
     { name = "Opinión o piñón", path = "/etiquetas/opinion-o-pinon/" },
     { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
+    { name = "Tecnología", path = "/etiquetas/tecnología/" },
 ]
 
 [[extra.comments]]
@@ -60,7 +60,7 @@ date_display = "01.11.2010"
 depth = 0
 url_site = ""
 title = "Cuatro fragmentos de una muerte"
-body = "Excelente post, Martín! Muy bueno, sentido, me encantó lo de \"anti-anti-K\" a mi me pasó lo mismo el miercoles pasado, pero ya no me conforma ser solo \"no-K\". Confiemos en que de una vez por todas el gobierno se plantee incentivar la participación colectiva, única garantía de que perdure ante tanto buitre suelto."
+body = "Excelente post, Martín! Muy bueno, sentido, me encantó lo de \"anti-anti-K\" a mi me pasó lo mismo el miércoles pasado, pero ya no me conforma ser solo \"no-K\". Confiemos en que de una vez por todas el gobierno se plantee incentivar la participación colectiva, única garantía de que perdure ante tanto buitre suelto."
 
 [[extra.comments]]
 id = 51921

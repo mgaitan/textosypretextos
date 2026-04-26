@@ -137,7 +137,7 @@ date_display = "01.04.2008"
 depth = 0
 url_site = ""
 title = "Los dientes del poder"
-body = "Gatito, veo tu coments de las elecciones y otras yerbas y me vino a la memoria una cosita: durante  la decada de los 80, y 90 la Franja Morada y el MNR fueron aliados politicos tan potente e indisoluble fué esta coalición que ganaron la FUA en varias oportunidades, altennandose la presidencia.El saber popular es contundente en este caso: \"no hay peor astilla que la del mismo palo\""
+body = "Gatito, veo tu coments de las elecciones y otras yerbas y me vino a la memoria una cosita: durante  la decada de los 80, y 90 la Franja Morada y el MNR fueron aliados políticos tan potente e indisoluble fué esta coalición que ganaron la FUA en varias oportunidades, altennandose la presidencia.El saber popular es contundente en este caso: \"no hay peor astilla que la del mismo palo\""
 
 [[extra.comments]]
 id = 6823
@@ -159,7 +159,7 @@ date_display = "02.04.2008"
 depth = 0
 url_site = ""
 title = "Los dientes del poder"
-body = "querido tin, que lindo que retomes esta manera de desir es muy lindo el como y tambien muy profundos los que. El titulo tan claro, porque mas alla de la  patetica, dramatica y graciosa anecdota esta eso\"LOS DIENTES DEL PODER\" que ante la menor intento de tocar alguno de sus privilegios aparesen cual colmillos de lobos, corriando babas amenasantes,pretendiendo paralizar,aterrorizar. La anecdota nos muestra claramente que saben acerlo.\nEspero, que seamos muchos los que no nos espantemos, los que sigamos caminando en nuestra direccion aun cuando sean tambien grandes las ordas que huyen presas del terror al de al lado, engañadas por quienes orquestan el \"de que hay que hablar hoy\". \nUn abrazo, y que sigas caminando"
+body = "querido tin, que lindo que retomes esta manera de desir es muy lindo el como y tambien muy profundos los que. El titulo tan claro, porque mas alla de la  patetica, dramatica y graciosa anecdota esta eso\"LOS DIENTES DEL PODER\" que ante la menor intento de tocar alguno de sus privilegios aparesen cual colmillos de lobos, corriando babas amenasantes,pretendiendo paralizar,aterrorizar. La anecdota nos muestra claramente que saben acerlo.\nEspero, que seamos muchos los que no nos espantemos, los que sigamos caminando en nuestra dirección aun cuando sean tambien grandes las ordas que huyen presas del terror al de al lado, engañadas por quienes orquestan el \"de que hay que hablar hoy\". \nUn abrazo, y que sigas caminando"
 
 [[extra.comments]]
 id = 6827
@@ -170,7 +170,7 @@ date_display = "03.04.2008"
 depth = 0
 url_site = ""
 title = "Los dientes del poder"
-body = "Martin, que lindo tu nuevo blog, me gusta la estética, te has renovado. El contenido como siempre es con postura tomada y muy profundo, tal cual usted es, para liviano está el casancrem de la tapa verde. Me alaga que vos me pidas que te diga que me parecen tus textos, cuando tus letras supera ampliamente las mías. Es como comparar un F1 con un cartin. Es más creo vos escribis de verdad y para la gente, yo con terapia he descubierto que en la época en que escribía tanto, en verdad escribía para mí mismo. Digamos que me enamoraba de mí cuando me releía una y diez veces antes de apretar send o enviar o guardar, era una droga. Es por eso que en definitiva creo que me buscaba relaciones densas, platonicas, complicadas, con novio, con la mejor amiga de ella, con la maestra, con la señora mayor, a distancia; estas mujeres eran buenas destinatarias, era buena nafta para mi cabeza, como la fangio XXI, y ahi nomá le entraba a dar al teclado y no paraba hasta desnudarlas y que me dijeran que yo era increible...\nYa pasó ese tiempo, ya no escribo nada o casi nada, incluso soy medio frío, y es una cagada que ya no lo necesite, maldita terapia. \nEso si, creo que me siguen atrayendo el mismo tipo de mujeres, y aunuqe ya no escriba para conquistarlas, salgo a probar suerte con armas que son más genuinas conmigo mismo.  \nAbrazo de oso"
+body = "Martin, que lindo tu nuevo blog, me gusta la estética, te has renovado. El contenido como siempre es con postura tomada y muy profundo, tal cual usted es, para liviano está el casancrem de la tapa verde. Me alaga que vos me pidas que te diga que me parecen tus textos, cuando tus letras supera ampliamente las mías. Es como comparar un F1 con un cartin. Es más creo vos escribis de verdad y para la gente, yo con terapia he descubierto que en la época en que escribía tanto, en verdad escribía para mí mismo. Digamos que me enamoraba de mí cuando me releía una y diez veces antes de apretar send o enviar o guardar, era una droga. Es por eso que en definitiva creo que me buscaba relaciones densas, platonicas, complicadas, con novio, con la mejor amiga de ella, con la maestra, con la señora mayor, a distancia; estas mujeres eran buenas destinatarias, era buena nafta para mi cabeza, como la fangio XXI, y ahi nomá le entraba a dar al teclado y no paraba hasta desnudarlas y que me dijeran que yo era increíble...\nYa pasó ese tiempo, ya no escribo nada o casi nada, incluso soy medio frío, y es una cagada que ya no lo necesite, maldita terapia. \nEso si, creo que me siguen atrayendo el mismo tipo de mujeres, y aunuqe ya no escriba para conquistarlas, salgo a probar suerte con armas que son más genuinas conmigo mismo.  \nAbrazo de oso"
 
 [[extra.comments]]
 id = 6830
@@ -192,7 +192,7 @@ date_display = "04.04.2008"
 depth = 0
 url_site = ""
 title = "Los dientes del poder"
-body = "Bueno es dificil tener que dejar un comentario despúes de Gabo jajaj. \nDemás está que opine sobre el contenido de esta nota o del resto, me parece impecable y admirable la forma de redacción y el contenido de los textos, mis felicitaciones tin. \n¿No probaste con la literatura? \nLa última pregunta..¿aceptas columnistas? jajajja\n\nUn abrazo,\n          Jorge.-"
+body = "Bueno es dificil tener que dejar un comentario después de Gabo jajaj. \nDemás está que opine sobre el contenido de esta nota o del resto, me parece impecable y admirable la forma de redacción y el contenido de los textos, mis felicitaciones tin. \n¿No probaste con la literatura? \nLa última pregunta..¿aceptas columnistas? jajajja\n\nUn abrazo,\n          Jorge.-"
 
 [[extra.comments]]
 id = 6833
@@ -203,7 +203,7 @@ date_display = "04.04.2008"
 depth = 0
 url_site = ""
 title = "Los dientes del poder"
-body = "Martin: me dejas anonadada, la verdad que habia leido un solo texto tuyo que me parecio genial y oportuno, pero la verdad que este es excelente.\nescribis como muy pocos lo hacen, tenes un don, el de la palabra.\nsegui haci, por que la verdad sos bueno expresando tus sentimientos, y te soy sincera mientras lo leia podia imaginar esa situacion como si fuera yo quien la estaba viviendo\nFELICITACIONES nene\nbesos y abrasos \nFlor"
+body = "Martin: me dejas anonadada, la verdad que habia leido un solo texto tuyo que me parecio genial y oportuno, pero la verdad que este es excelente.\nescribis como muy pocos lo hacen, tenes un don, el de la palabra.\nsegui haci, por que la verdad sos bueno expresando tus sentimientos, y te soy sincera mientras lo leía podia imaginar esa situación como si fuera yo quien la estaba viviendo\nFELICITACIONES nene\nbesos y abrasos \nFlor"
 
 [[extra.comments]]
 id = 6835
@@ -287,7 +287,7 @@ Reacciono. Me doy cuenta que ese momento no hay ironía que descomprima el pavor
 
 Debe ser verdad que ante la sensación de peligro, prima el instinto por sobre la razón. Y el instinto generalizado parece que es seguir a la manada, que evidentemente no tiene la más puta idea lo que debe hacer. Nadie se lo indica, tampoco. No hay patrulleros, no hay policías, no hay noticias, no hay nada. Sólo miedo. Una fulminante pandemia de miedo. 
 
-Lo mio también es un instinto. Después de todo, tampoco tengo ni puta idea sobre qué mierda está pasando, pero no puedo olvidarme de aquel diciembre donde todo estalló, cuando con mi hermano baleado en la cama, llegaban vecinos a pedir nuestra ayuda para la guardia nocturna. La postal photoshopeada era casi igual: los negros, los que vivian más al oeste de nuestro oeste barrio, venian arrasando con todo a su paso. Era inminente. Una turba iracunda de pobres malolientes y rencorosos que se quedaron con las ganas de saquear más supermercados, ahora iban por nosotros, otros casi tan pobres como ellos. 
+Lo mio también es un instinto. Después de todo, tampoco tengo ni puta idea sobre qué mierda está pasando, pero no puedo olvidarme de aquel diciembre donde todo estalló, cuando con mi hermano baleado en la cama, llegaban vecinos a pedir nuestra ayuda para la guardia nocturna. La postal photoshopeada era casi igual: los negros, los que vivían más al oeste de nuestro oeste barrio, venían arrasando con todo a su paso. Era inminente. Una turba iracunda de pobres malolientes y rencorosos que se quedaron con las ganas de saquear más supermercados, ahora iban por nosotros, otros casi tan pobres como ellos. 
 
 Cuando cruzo La Cañada pasa algo extraño. La gente sigue histérica pero es menos, y los negocios recién parecen percatarse del peligro que, según las versiones del centro, ya los había incendiado. Me acerco a un flaco que tiene auriculares y le pregunto si está escuchando las noticias. Se saca el de la oreja izquierda y con un gesto casi inmovil me pide que le repita. 
 

@@ -89,7 +89,7 @@ date_display = "04.03.2009"
 depth = 0
 url_site = ""
 title = "Más respeto para los floggers"
-body = "floggers, y el resto de las tribus: busquense una vida, men. estan mucho tiempo al pedo. tanto tiempo al pedo, que hacen una historia de una boludez. se estan perdiendo las cosas importantes de la vida. lo unico que destaco es que no son aislados sociales. aun asi..."
+body = "floggers, y el resto de las tribus: busquense una vida, men. estan mucho tiempo al pedo. tanto tiempo al pedo, que hacen una historia de una boludez. se estan perdiendo las cosas importantes de la vida. lo único que destaco es que no son aislados sociales. aun asi..."
 
 [[extra.comments]]
 id = 7134
@@ -133,7 +133,7 @@ date_display = "05.03.2009"
 depth = 0
 url_site = ""
 title = "Más respeto para los floggers"
-body = "aaaa hernaaan m encaanto esa idea qe tuvistee :( re qe por eso t conoci,, juju\n\nMAS RESPETO PARA LOS FLOGGERS :D tnes muuucha razon!"
+body = "aaaa hernaaan m encaanto esa idea qe tuvistee :( re qe por eso t conocí,, juju\n\nMAS RESPETO PARA LOS FLOGGERS :D tnes muuucha razón!"
 
 [[extra.comments]]
 id = 7138
@@ -144,7 +144,7 @@ date_display = "05.03.2009"
 depth = 0
 url_site = ""
 title = "Más respeto para los floggers"
-body = "genial esos stenciles chabon\n\ndeberia haber mas respeto por la gente \n\nya se perdio hace miles eso...una verdadera cagada! \n\nsaludos persona"
+body = "genial esos stenciles chabón\n\ndeberia haber mas respeto por la gente \n\nya se perdio hace miles eso...una verdadera cagada! \n\nsaludos persona"
 
 [[extra.comments]]
 id = 7140
@@ -166,7 +166,7 @@ date_display = "10.03.2009"
 depth = 0
 url_site = ""
 title = "Más respeto para los floggers"
-body = "jaja quien es martin gaitan dice ,, jaj si che quien es¿ arre ,, no se quien habra hecho hecho esa obra de artee pero me encantoo , boee jaja :| hernan sos un amor (L) y obvio qe se quien lo hiso jaja :)"
+body = "jaja quien es martin gaitan dice ,, jaj si che quien es¿ arre ,, no se quien habrá hecho hecho esa obra de artee pero me encantoo , boee jaja :| hernan sos un amor (L) y obvio qe se quien lo hiso jaja :)"
 
 [[extra.comments]]
 id = 7143
@@ -254,7 +254,7 @@ date_display = "20.03.2009"
 depth = 0
 url_site = ""
 title = "Más respeto para los floggers"
-body = "a ver a ver a ver.. CHUIIII q qeres q escriba asi q parece q me cobraran x caracter? a que año vas? primero? tal vez segundo? nada de lo que dijiste tiene coherencia cito: \"se pide respeto por el simple hecho de q no por ser flogger nos van a tener q pegar o matar\" eso no tiene sentido porque el respeto no tiene nada que ver con la violencia yo con los floggers me limpio el culo(no los respeto ni a gancho)pero no ando pegandoles. yo en ningun momento dije que hay que matarlos ni pegarles. yo dije que no digan huevadas al pedo. El simple hecho de que sigas una moda ya me basta para escupirte a la cara. y que es eso de \"cada uno elige vivir como quiera mientras exista respeto\" es una contradiccion grande como una casa, entonces vos misma estas diciendo que no deberias ser flogger porque el boludo este exige respeto por ende asumo que dice que no hay respeto para los floggers. \ny puedo apostar toda mi fortuna a cambio de una simple y humilde aceituna a que \"maca\" es el huevon que anda ensuciando paredes nada mas que no le dan las pelotas para responder como el."
+body = "a ver a ver a ver.. CHUIIII q qeres q escriba asi q parece q me cobraran x caracter? a que año vas? primero? tal vez segundo? nada de lo que dijiste tiene coherencia cito: \"se pide respeto por el simple hecho de q no por ser flogger nos van a tener q pegar o matar\" eso no tiene sentido porque el respeto no tiene nada que ver con la violencia yo con los floggers me limpio el culo(no los respeto ni a gancho)pero no ando pegandoles. yo en ningun momento dije que hay que matarlos ni pegarles. yo dije que no digan huevadas al pedo. El simple hecho de que sigas una moda ya me basta para escupirte a la cara. y que es eso de \"cada uno elige vivir como quiera mientras exista respeto\" es una contradiccion grande como una casa, entonces vos misma estas diciendo que no deberías ser flogger porque el boludo este exige respeto por ende asumo que dice que no hay respeto para los floggers. \ny puedo apostar toda mi fortuna a cambio de una simple y humilde aceituna a que \"maca\" es el huevon que anda ensuciando paredes nada mas que no le dan las pelotas para responder como el."
 
 [[extra.comments]]
 id = 7156

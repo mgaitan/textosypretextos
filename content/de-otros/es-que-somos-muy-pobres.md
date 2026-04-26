@@ -188,7 +188,7 @@ date_display = "07.09.2010"
 depth = 0
 url_site = ""
 title = "Es que somos muy pobres"
-body = "he avemaria pues. monton de brutos pa resumir. escriban un renglon si y otro no, uno si y oto no, etecera"
+body = "he avemaria pues. montón de brutos pa resumir. escriban un renglon si y otro no, uno si y oto no, etecera"
 
 [[extra.comments]]
 id = 8654
@@ -221,7 +221,7 @@ date_display = "19.09.2010"
 depth = 0
 url_site = ""
 title = "Es que somos muy pobres"
-body = "me gusto mucho la obra es muy interesante!! pero lo k no entendi muy bn fu el fin pero nd es ta muy interesante la voy a volver a leer¿?"
+body = "me gusto mucho la obra es muy interesante!! pero lo k no entendí muy bn fu el fin pero nd es ta muy interesante la voy a volver a leer¿?"
 
 [[extra.comments]]
 id = 8731

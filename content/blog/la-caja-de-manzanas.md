@@ -37,7 +37,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
+    { name = "Anécdotas", path = "/etiquetas/anécdotas/" },
     { name = "Amistad", path = "/etiquetas/amistad/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]
@@ -71,7 +71,7 @@ Regresé a Córdoba hace algunas semanas. Atrás quedaron mis vacaciones bien di
 
 Eran las cinco de una tarde calurosísima en esa terminal neuquina agonizante.  Ya estaba arriba del colectivo y, al lado mio, en el asiento 37-V, estaba Rubén, un catamarqueño que me contaría su vida durante 16 horas de viaje. 
 
-Pasó un rato hasta que entablamos conversación, algo que sin mención en mi plan que consistia en escuchar los audios del [Consejo del 26](@/blog/un-mes.md) .  No recuerdo cómo se inció, pero no hubo otra opción: empezó a hablar y tuve que detener mi discman para escucharlo. 
+Pasó un rato hasta que entablamos conversación, algo que sin mención en mi plan que consistía en escuchar los audios del [Consejo del 26](@/blog/un-mes.md) .  No recuerdo cómo se inció, pero no hubo otra opción: empezó a hablar y tuve que detener mi discman para escucharlo. 
 
 Rubén era gordo y negro, con la remera tan ajustada a la panza como la vista al paisaje.  
 
@@ -87,7 +87,7 @@ Lo tomaron. Trabajaba de 9 a 11 horas por día, incluyendo sábados, junto a otr
 
 Mi apatía por escucharlo había desaparecido. Rubén tenia mucha habilidad para narrar y capturar mi atención y lamento no poder ser lo suficientemente fiel a esa intensidad narrativa.  Claro, era su vida, y la conocía muy bien. Semejante entrega en el relato tenia justificación: iba de  regreso a su hogar, en San Fernando del Valle, donde su familia  y una cerveza fría en el pool con los amigos lo esperaban. Aunque no ese día. 
 
--- Lo que pasa es que no me hallaba. Los sábados a veces arreglaba con el capatáz para hacer  las horas bien temprano, y entonces tenía la tarde libre y me iba a Neuquén. Allá pasaba el rato hasta la noche, pero me aburría, no tenía alguien para conversar, así como con tú ¿ves? Si uno tiene alguien para darle a la lengua, la cosa ya cambia. El tucumano, mi compañero, él tenia otros años de empaque y ya conocía gente de otras chacras, y entonces arrancaba sin avisar, solito se iba. Y uno no anda mendigando la amistad. 
+-- Lo que pasa es que no me hallaba. Los sábados a veces arreglaba con el capataz para hacer  las horas bien temprano, y entonces tenía la tarde libre y me iba a Neuquén. Allá pasaba el rato hasta la noche, pero me aburría, no tenía alguien para conversar, así como con tú ¿ves? Si uno tiene alguien para darle a la lengua, la cosa ya cambia. El tucumano, mi compañero, él tenia otros años de empaque y ya conocía gente de otras chacras, y entonces arrancaba sin avisar, solito se iba. Y uno no anda mendigando la amistad. 
 
 Seguía, casi sin pausas, resumiendo su vida.  Mechaba comentarios de su frustrada experiencia valletana con su pasado de trotamundos que lo había llevado por toda la Argentina. En Buenos Aires, donde vivía su hermano,  trabajó como parrillero en un restaurante de Once. En Salta cosechó naranjas. Y en Usuahia ensambló plaquetas de televisores Hitachi, pero el jefe de planta logró hacerlo renunciar con un sistemático hostigamiento.  La fabrica cerró a los pocos meses. 
 

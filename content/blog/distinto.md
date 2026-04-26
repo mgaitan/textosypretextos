@@ -84,7 +84,7 @@ date_display = "13.10.2006"
 depth = 0
 url_site = ""
 title = ""
-body = "Es muy bueno el enganche con tu mundano mundo, el psicologo, las preguntas, el ¿porque existo?. Te confieso que a veces escribis un poco largo, y si alguien no está en sintonía, es como cuando estas buscando una radio y vas pasando con el indice en el boton del estereo, O cuando haces saping con el control remoto. A veces me sucedia eso con tus ultimos escritos, eran interesantes, pero tenían demasiado contenido, demasiada densidad. Pero me encantó leer esto, sencillo, practico, cálido, llegas mas profundo, Y uno deja tu musica en el dial."
+body = "Es muy bueno el enganche con tu mundano mundo, el psicologo, las preguntas, el ¿porque existo?. Te confieso que a veces escribis un poco largo, y si alguien no está en sintonía, es como cuando estas buscando una radio y vas pasando con el indice en el boton del estereo, O cuando haces saping con el control remoto. A veces me sucedia eso con tus ultimos escritos, eran interesantes, pero tenían demasiado contenido, demasiada densidad. Pero me encantó leer esto, sencillo, practico, cálido, llegas mas profundo, Y uno deja tu música en el dial."
 
 [[extra.comments]]
 id = 51907
@@ -113,7 +113,7 @@ Como si no hubiera cosas para preocuparse, pensaba. Entonces iban 7 días de des
 
 Y esto es algo que nos queda bien cerca. Si levantamos un poco la vista, tenemos al Senado de EE.UU. discutiendo sobre si el submarino húmedo es tortura o no. Este mismo Senado, con la aprobación de algunos demócratas y casi todos los republicanos decidió que los sospechosos no tienen derecho al habeas corpus y en definitiva remite al presidente la decisión del tratamiento a otorgar. La cuestión que se discute en EE.UU. es si la tortura es un medio eficiente para recolectar información, no si ésta es algo repugnante a la condición humana. Y el mundo indiferente.
 
-Tato Plavlovsky publica hoy en la <a href="http://www.pagina12.com.ar/diario/contratapa/13-73964-2006-10-04.html">contratapa de página/12</a> una nota que condensa muchas de estas sensaciones que vivo a diario. Habla del pensamiento del "hombre común", el que no se "mete" en política, ese con el que, según José, me esfuerzo por diferenciarme pero a la vez necesito.
+Tato Plavlovsky pública hoy en la <a href="http://www.pagina12.com.ar/diario/contratapa/13-73964-2006-10-04.html">contratapa de página/12</a> una nota que condensa muchas de estas sensaciones que vivo a diario. Habla del pensamiento del "hombre común", el que no se "mete" en política, ese con el que, según José, me esfuerzo por diferenciarme pero a la vez necesito.
 
 Pavlovsky escribe con la sensatez que le dieron sus años y su militancia, y desde ahí no procura eufemismos para apuntar sobre la sociedad que tenemos. Después de todo, Menem ganó tres elecciones a presidente, y Blumberg lleva más gente a la plaza que las que van los 24 de marzo.
 

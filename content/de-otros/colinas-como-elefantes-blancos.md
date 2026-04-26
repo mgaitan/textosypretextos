@@ -67,7 +67,7 @@ date_display = "08.10.2010"
 depth = 0
 url_site = ""
 title = "Colinas como elefantes blancos"
-body = "Increible lo que logra sin nombrar....cuando llegue a pensar que giraba en un tema sobre el aborto al mismo tiempo que seguia leyendo me preguntaba sobre los demas lectores o si era una cuestion mia....Volvi a leer buscando el punto donde se hace manifiesto el tema en cuestion....me encontre que a pesar del tiempo y las distancias perduran conservadoramente algunas formas de expresion sencible."
+body = "Increíble lo que logra sin nombrar....cuando llegue a pensar que giraba en un tema sobre el aborto al mismo tiempo que seguía leyendo me preguntaba sobre los demás lectores o si era una cuestion mia....Volví a leer buscando el punto donde se hace manifiesto el tema en cuestion....me encontre que a pesar del tiempo y las distancias perduran conservadoramente algunas formas de expresion sencible."
 
 [[extra.comments]]
 id = 49840

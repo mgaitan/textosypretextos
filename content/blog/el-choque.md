@@ -35,7 +35,7 @@ author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
 tag_links = [
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
+    { name = "Anécdotas", path = "/etiquetas/anécdotas/" },
     { name = "Amor", path = "/etiquetas/amor/" },
     { name = "Memoria", path = "/etiquetas/memoria/" },
 ]
@@ -98,13 +98,13 @@ body = "Por empezar no pude evitar leer el blog... se que pediste explícitament
 
 Ayer a la tarde, en el programa radial de Jorge Guinzburg se produjo la recurrente discusión sobre cómo conducen las mujeres; si mejor o peor que los hombres. Ese debate siempre tiene como punto de partida la noticia sobre un *"nuevo estudio realizado por investigadores de un País X"*. Esta vez el país X era Alemania, pero como sucede con esta discusión, a nadie le importa.
 
-Sin embargo, el tema me hizo reflexionar un instante: *Yo...¿Cómo conduzco?*. Inmediatemente me respondi *"muy bien"*, y seguí rumbo, walkman en mano, siempre a gusto con mi subjetividad. Pero ya no iba sólo. Ahí estaba, empolvado, casi marchito, el resucitado recuerdo de mi único accidente de tránsito. 
+Sin embargo, el tema me hizo reflexionar un instante: *Yo...¿Cómo conduzco?*. Inmediatamente me respondí *"muy bien"*, y seguí rumbo, walkman en mano, siempre a gusto con mi subjetividad. Pero ya no iba sólo. Ahí estaba, empolvado, casi marchito, el resucitado recuerdo de mi único accidente de tránsito. 
 
-Hace algunos años, cuando empecé ingeniería en Neuquén, la conocí. Yo era estudiante de Electrónica y ella de Química, pero cursabamos juntos algunas materias y alguien nos presentó. Entonces era rubia, e incluso se notaba que alguna vez lo había sido también sin tintura. Simplemente sonrió y me enamoré, o sea, me volví un estúpido.
+Hace algunos años, cuando empecé ingeniería en Neuquén, la conocí. Yo era estudiante de Electrónica y ella de Química, pero cursábamos juntos algunas materias y alguien nos presentó. Entonces era rubia, e incluso se notaba que alguna vez lo había sido también sin tintura. Simplemente sonrió y me enamoré, o sea, me volví un estúpido.
 
 Me da vergüenza recordar que llegué a hacer cosas tan babosamente cursis. Por ejemplo, le regalé un libro de Pablo Neruda, envuelto para regalo y con moñito, a la entrada de una clase de Análisis Matemático II. Encima, el dato que costosamente había obtenido era falso: su cumpleaños era dos días después.
 
-Creo que fue el mismo desacreditado informante el que trajo la noticia de que a mi amada le gustaba el tango. Con poco margen para desconfiar, dada mi avidéz de cualquier tipo de datos, di por cierto el comentario. Así ideé la estratagema: en las pocas ocasiones que tenia para conversar con ella, sin mucho disimulo insertaba algún parlamento relacionado con el 2x4. Manotazos intelectuales casi siempre ineficaces.
+Creo que fue el mismo desacreditado informante el que trajo la noticia de que a mi amada le gustaba el tango. Con poco margen para desconfiar, dada mi avidez de cualquier tipo de datos, di por cierto el comentario. Así ideé la estratagema: en las pocas ocasiones que tenia para conversar con ella, sin mucho disimulo insertaba algún parlamento relacionado con el 2x4. Manotazos intelectuales casi siempre ineficaces.
 
 Fueron semanas de arduo estudio a conciencia, ya que corría con la arrolladora desventaja de no tener noción alguna sobre el asunto. Hasta largas horas de la madrugada me la pasaba escuchando a Gardel, al Polaco, a Piazzola, a Adriana Varela, e incluso al Gotan Project, intentando cubrir todas las épocas y estilos. También trataba de memorizar [cientos de letras](http://argentina.informatik.uni-muenchen.de/tangos/), pero con el lunfardo, que parecía tan fácil en la voz de Edmundo Rivero, no había caso. Todo fue en vano. Al tiempo supe que, en realidad, lo que le gustaba era bailar el tango; y se sabe, ahí voy muerto. Aunque el baile se tratáse de quedarse quieto, yo sería un perro.
 
@@ -120,9 +120,9 @@ Por fin, su enésimo llamado me encontró al teléfono.
 -- *Si, me avisaron. Disculpame, no tuve tiempo de llamarte* -- contesté altivo, exigiendo tácitamente un mayor esfuerzo de su parte.
 -- * Martín, eh...no sé cómo decirte esto.  Necesito que hablemos, pero no por teléfono.  No puedo por teléfono. ¿Nos podemos ver?*
 
-No había lugar a dudas. Una vez más (leáse como nunca) yo tenía razón.
+No había lugar a dudas. Una vez más (léase como nunca) yo tenía razón.
 
--- * Si, claro que podemos vernos, pero adelantame algo. Me dejás con la intriga.* -- dije simulando un desconocimiento que creía muy distante de mi.
+-- * Si, claro que podemos vernos, pero adelántame algo. Me dejás con la intriga.* -- dije simulando un desconocimiento que creía muy distante de mi.
 -- * No, no puedo. Mañana a las cinco, en el Café Italiano ¿dale?*
 -- * Bueno, dale*.
 

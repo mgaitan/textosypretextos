@@ -1,6 +1,6 @@
 +++
 title = "Sin señal de adiós"
-slug = "sin-senal-de-adios"
+slug = "sin-senal-de-adiós"
 date = 2011-11-30 01:54:15
 description = "Qué dulce modo tenés de no estar, quédate así cuando te vas, como un aroma de sol en la piel mucho verano después. Qué melancólico modo tenés de acompañar aunque no…"
 draft = false
@@ -26,7 +26,7 @@ popularite = 0.35842973978767356
 hero_image = ""
 hero_alt = ""
 comment_count = 1
-legacy_url = "/de-otros/sin-senal-de-adios/"
+legacy_url = "/de-otros/sin-senal-de-adiós/"
 surtitle = ""
 subtitle = "María Elena Walsh"
 deck = ""

@@ -33,7 +33,7 @@ author_links = [
     { name = "Antonio Gramsci", path = "" },
 ]
 tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
+    { name = "Tecnología", path = "/etiquetas/tecnología/" },
 ]
 
 [[extra.comments]]
@@ -45,7 +45,7 @@ date_display = "24.08.2010"
 depth = 0
 url_site = ""
 title = "La Ciudad Futura (fragmento)"
-body = "Acabo de saborear a Rulfo y me encuentro con este otro regalo que nos tienes.  De repente los comentarios perezosos de todos esos que garabatearon en la entrada de Rulfo me parecen tristes.  Peor que la indiferencia hay otra cosa que en algunos paises llaman el importanculismo, forma de cinismo en la que nada nos interesa.\nHay si Gramsci saliera de la tumba, qué escribiría?"
+body = "Acabo de saborear a Rulfo y me encuentro con este otro regalo que nos tienes.  De repente los comentarios perezosos de todos esos que garabatearon en la entrada de Rulfo me parecen tristes.  Peor que la indiferencia hay otra cosa que en algunos países llaman el importanculismo, forma de cinismo en la que nada nos interesa.\nHay si Gramsci saliera de la tumba, qué escribiría?"
 +++
 
 Odio a los indiferentes. Creo que vivir es tomar partido. Quien verdaderamente vive no puede dejar de ser ciudadano y partidario. 

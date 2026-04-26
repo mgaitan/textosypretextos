@@ -106,7 +106,7 @@ El primer indicio de que algo andaba mal ocurrió a las 12:30 del mediodía, cua
 
 —No quiero comer –dijo el hombre-. Me voy a la Maternidad a ver qué pasa. Tengo un mal presentimiento.
 
-Verón se levantó, tomó las llaves del auto y se fue. En la Maternidad, todos los consultorios estaban cerrados y los pasillos eran una ciudad vacía. Volvió a su casa y le contó lo que había visto a su mujer. Trimarco, por primera vez, empezó a llorar. De nuevo en la Maternidad, pero ahora juntos, preguntaron a un empleado de seguridad por el señor Miguel Ardiles, el jefe de personal.
+Verón se levantó, tomó las llaves del auto y se fue. En la Maternidad, todos los consultorios estaban cerrados y los pasillos eran una ciudad vacía. Volvíó a su casa y le contó lo que había visto a su mujer. Trimarco, por primera vez, empezó a llorar. De nuevo en la Maternidad, pero ahora juntos, preguntaron a un empleado de seguridad por el señor Miguel Ardiles, el jefe de personal.
 
 —¿Quién le dijo que es jefe de personal? –fue la respuesta-. Ardiles hace la limpieza. Y además no está.
 

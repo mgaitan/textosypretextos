@@ -128,8 +128,8 @@ cuando hace frío.<br>
 <br>
 <br>
 Si yo digo que te amo,<br>
-qué pensas que digo?<br>
-qué sentis que pienso ?<br>
+qué pensás que digo?<br>
+qué sentís que pienso ?<br>
 qué escuchas que siento?<br>
 Por todo eso, mujer.<br>
 Por escucharme,<br>

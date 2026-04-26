@@ -46,7 +46,7 @@ comments = []
 
 Esa tarde fui a saludar a algunos amigos para advertirles de mi presencia, luego fuimos al supermercado porque mis compañeros de depto estaban en la miseria absoluta esperando mi llegada con capital y entonces decidí no ir a 'probar suerte'.
 
-El viernes después de un almuerzo liviano, emprendí el rumbo. Llegué sobre la hora que abrian, pero aun estaba cerrado. Pregunté a uno que pasaba por ahí, y respondió "si, ya están por abrir, pero ¿pagaste el arancel arriba?". Veinte pesos me salió, toda una bicóca. Es el trámite mas caro, parece, pero todos los papeles los cobran: certificados, analiticos, titulos (para este último es necesario haberse recibido primero, al menos eso le dicen a quienes recién llegamos y no tenemos confianza). 
+El viernes después de un almuerzo liviano, emprendí el rumbo. Llegué sobre la hora que abrían, pero aun estaba cerrado. Pregunté a uno que pasaba por ahí, y respondió "si, ya están por abrir, pero ¿pagaste el arancel arriba?". Veinte pesos me salió, toda una bicóca. Es el trámite mas caro, parece, pero todos los papeles los cobran: certificados, analíticos, títulos (para este último es necesario haberse recibido primero, al menos eso le dicen a quienes recién llegamos y no tenemos confianza). 
 
 Hasta hace un tiempo, no se hablaba de arancel sino de contribución, que es lo mismo pero menos agresivo. La oficina del clinck caja sigue diciendo "Asociación Cooperadora de FCEFyN", pero algo me dijo que tienen uno preparado que diga "Gerencia".  
 
@@ -70,7 +70,7 @@ Luego de mostrarle el recibo y todos los papeles dijo:
 
 - Si, está bien, pero te falta el formulario de Alumnos que tenés que llenar y traerme sellado. 
 
-O sea, me equivoqué. Primero debía pasar por la oficina que abria 15hs, dejar una de las carpetas ahí (la copia), llenar un formulario con mis datos personales  y de carrera de orginen, y completar las dos columnas con las materias que (según mi criterio) equivaldrian. Ellos hacen el análisis según lo que pusé ahí, así que espero haber estado atento. 
+O sea, me equivoqué. Primero debía pasar por la oficina que abría 15hs, dejar una de las carpetas ahí (la copia), llenar un formulario con mis datos personales  y de carrera de orginen, y completar las dos columnas con las materias que (según mi criterio) equivaldrían. Ellos hacen el análisis según lo que pusé ahí, así que espero haber estado atento. 
 
 Hice una pregunta, y obtuve una fatal respuesta. Hasta que no esten los resultados de las equivalencias yo no soy estudiante de la Universidad de Córdoba. Ergo, no puedo rendir ninguna materia libre aún. El martes tengo que hablar con la persona que lleva el trámite, para pedir celeridad y explicarles que quiero poder rendir antes de fin de año, aunque sea las materias  de los primeros años que allá no tienen equivalencias. Espero tener suerte. 
 

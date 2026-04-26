@@ -63,7 +63,7 @@ date_display = "14.05.2011"
 depth = 0
 url_site = "http://cuentodehorrordemarcodanev"
 title = "Cuento de horror"
-body = "Muy buueno!! hoy mi profe de id. español nois hizo trabajar con el..... nos reimos mucho es muy bueno! felicidades!"
+body = "Muy buueno!! hoy mi profe de id. español nois hizo trabajar con el..... nos reímos mucho es muy bueno! felicidades!"
 +++
 
 La señora Smithson, de Londres (estas historias siempre ocurren entre ingleses) resolvió matar a su marido, no por nada sino porque estaba harta de él después de cincuenta años de matrimonio. Se lo dijo:

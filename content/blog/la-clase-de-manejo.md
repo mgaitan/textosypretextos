@@ -71,7 +71,7 @@ Fui a la terminal a buscar una encomienda y como el paquete era grande tomé un 
 -- Mirá vos -- respondo, algo desorientado por su relación geográfica. 
 -- Uh, me acuerdo que el guaso sube y me dice "llevame a tal lado rápido" porque parece que estaba apurado el loco.  Já, a mi juego me llamaron. Al rato me dice "loco, podés ir un poco más despacio, porque quiero llegar, viste?". Yo creo que él veía los autos más cerca de lo que yo les pasaba, porque tenía unos culos de botella así, mirá. 
 
-El taxista me hace el gesto con la mano que llevaba sobre la ventanilla, y gira todo su cuerpo, cabeza incluída, para cersiorarse de que entiendo que los lentes eran gruesos. Mientras tanto, con la otra mano esquiva a otro taxi que carga pasajeros en la mitad de la calle. 
+El taxista me hace el gesto con la mano que llevaba sobre la ventanilla, y gira todo su cuerpo, cabeza incluida, para cersiorarse de que entiendo que los lentes eran gruesos. Mientras tanto, con la otra mano esquiva a otro taxi que carga pasajeros en la mitad de la calle. 
 
 --  ¿Doblo por San Lorenzo? -- pregunta mientras ya dobla por San Lorenzo y me mira de nuevo. 
 -- Si, está bien. 
@@ -85,7 +85,7 @@ Hay silencio durante unos segundos, pero veo por el retrovisor que él quiere se
 -- ¿Son bravos los tacheros? -- digo, un poco socarronamente
 -- Y si papá, acá porque es re facha, está lleno de estudiantes y de minitas,  pero mandate para los barrios. Hay que tener para meterse para allá.
 
-Dobla cerrado por Independecia y acelera para pasar en amarrillo el último semáforo. Llegamos a destino, me da una moneda de vuelto y me insiste:
+Dobla cerrado por Independencia y acelera para pasar en amarrillo el último semáforo. Llegamos a destino, me da una moneda de vuelto y me insiste:
 
 -- ¿En serio no querés manejar?
 

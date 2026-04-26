@@ -53,7 +53,7 @@ Mario se tiró hacia atrás y agitó las manos y la cabeza, casi escandalizado.
 -- No me cuesta nada, boludo.
 -- Dejá, Mochila, dejá. Está bien.
  Mochila se encogió de hombros.
--- Jodete --dijo. Y buscó a Moreyra con la vista--. ¡Negro! --gritó--. ¿Estás vos acá?
+-- Jódete --dijo. Y buscó a Moreyra con la vista--. ¡Negro! --gritó--. ¿Estás vos acá?
 -- Además... --Mario, pese a todo, no quería desprenderse totalmente del tema y sabía que el lapso de privacidad con el Mochila podía ser corto--. No da bola, Mochi. No da bola.
 Mochila casi se enojó.
 -- ¿Y cómo sabes que no da bola si nunca la encaraste?
@@ -63,7 +63,7 @@ Mochila casi se enojó.
 -- No te engañes, no te engañes... Mirá que...
 -- Sí... "La vida te da sorpresas".
 -- La vida te da sorpresas...
--- Sí, pero acá es muy claro --se desalentó Mario--. ¿Viste que hay... cómo decirte... hay un lapso de duración en una mirada, en un cruce de miradas? Y después hay un plus, que es un milésimo... un milésimo de segundo... un ápice... un cícero... una infinitésima milésima de segundo en que se prolonga esa mirada más de lo normal... Es cuando una mina te mira y vos tenes un sensómetro, un sismógrafo, que registra que esa mirada ha durado esa milésima de segundo mas allá de lo necesario, y es lo que te está diciendo a las claras que esa no es una mirada común, que esa mirada está pidiendo otro cruce de comprobación, que te está diciendo algo... --Mochila afirmaba con la cabeza, algo fastidiado--. Bueno... --no se amilanó Mario--. Esa fracción supletoria de mirada debería tener un nombre. Porque es una medida patron... Es un exceso de intensidad... Debería haber algo como el "miradómetro"... Una unidad de vision, de calentura...
+-- Sí, pero acá es muy claro --se desalentó Mario--. ¿Viste que hay... cómo decirte... hay un lapso de duración en una mirada, en un cruce de miradas? Y después hay un plus, que es un milésimo... un milésimo de segundo... un ápice... un cícero... una infinitésima milésima de segundo en que se prolonga esa mirada más de lo normal... Es cuando una mina te mira y vos tenes un sensómetro, un sismógrafo, que registra que esa mirada ha durado esa milésima de segundo mas allá de lo necesario, y es lo que te está diciendo a las claras que esa no es una mirada común, que esa mirada está pidiendo otro cruce de comprobación, que te está diciendo algo... --Mochila afirmaba con la cabeza, algo fastidiado--. Bueno... --no se amilanó Mario--. Esa fracción supletoria de mirada debería tener un nombre. Porque es una medida patrón... Es un exceso de intensidad... Debería haber algo como el "miradómetro"... Una unidad de visión, de calentura...
 -- Bueno, bueno... Cortala... Dejá de hablar pelotudeces... --rogó Mochila--. ¿Y qué pasa? ¿Con esta mina no se dio nunca?
 -- En la puta vida de Dios.
 -- Ni te miró...
@@ -76,7 +76,7 @@ Mochila se rascó la cabeza.
 -- No, boludo. No te digo eso...
 -- ¿Cómo carajo hacés vos?
 -- ¿Cómo hago? ¿Cómo hago yo? ¡Voy y me siento con ella! Eso hago. Mirá que difícil. Y le empiezo a hablar de cualquier cosa... No podés entrar en la histeria de las minas, querido... Que te miro, que no te miro, que la profundidad de campo y todas esas pelotudeces...
--- Es que... --Mario apoyó el mentón sobre sus manos cruzadas y vaciló. Por momentos lo asaltaba la idea de que no era un tema para hacer publico--. ¿Sabes qué pasa?... ¿Vos te acordás de "El Eternauta"?
+-- Es que... --Mario apoyó el mentón sobre sus manos cruzadas y vaciló. Por momentos lo asaltaba la idea de que no era un tema para hacer público--. ¿Sabes qué pasa?... ¿Vos te acordás de "El Eternauta"?
 -- Sí, me acuerdo... Lo que no me acuerdo es quién trabajaba...
 -- ¿Cómo?
 -- ¿Quién trabajaba?

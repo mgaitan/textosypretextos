@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Carta", path = "/etiquetas/carta/" },
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
     { name = "Amor", path = "/etiquetas/amor/" },
 ]
 

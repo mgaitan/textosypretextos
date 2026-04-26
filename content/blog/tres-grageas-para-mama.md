@@ -37,7 +37,7 @@ author_links = [
 tag_links = [
     { name = "El resto", path = "/etiquetas/el-resto/" },
     { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
 ]
 
 [[extra.comments]]
@@ -82,7 +82,7 @@ date_display = "17.10.2010"
 depth = 0
 url_site = ""
 title = "Tres grageas para mamá"
-body = "Perfecto para mamá. Peermiso lo publico en mi muro del F.\nAbrazos"
+body = "Perfecto para mamá. Peermiso lo público en mi muro del F.\nAbrazos"
 
 [[extra.comments]]
 id = 51964
@@ -93,7 +93,7 @@ date_display = "16.10.2011"
 depth = 0
 url_site = ""
 title = "Tres grageas para mamá"
-body = "Gracias Hijo Querido!!\nTal vez, cuando nos reecontremos, agregaremos a tu mesa-mi mesa/ a tu cena desayuno, mi encuentro deseado con cada hijo, un vasito de tequila añejo que acabo de comprar para ti. Acà llueve tanto, tanto,  que optamos por entrar a un supermercado y alli estaba una linda botella diciendome llevame con martin. Te quiero"
+body = "Gracias Hijo Querido!!\nTal vez, cuando nos reecontremos, agregaremos a tu mesa-mi mesa/ a tu cena desayuno, mi encuentro deseado con cada hijo, un vasito de tequila añejo que acabo de comprar para ti. Acà llueve tanto, tanto,  que optamos por entrar a un supermercado y allí estaba una linda botella diciendome llevame con martin. Te quiero"
 
 [[extra.comments]]
 id = 51965

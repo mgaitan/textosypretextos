@@ -89,7 +89,7 @@ creer en amor de hidalgo cuando no ha mediado ni una palabra entre ambos ni
 siquiera una mirada o el más mínimo gesto de natural acercamiento. Insistió
 Sancho Panza con las mejores razones y modos del mundo, para vencer mis
 recelos más que justificados; le repuse yo de nuevo a mi modo, creo que no sin
-picardía y propiedad. De lo uno pasamos a lo otro y él me fue contanto sus
+picardía y propiedad. De lo uno pasamos a lo otro y él me fue contando sus
 muchas peripecias como escudero del hidalgo, las más de las cuales habían
 acabado con perjuicio de sus costillas; también me habló de su amo y de tal
 modo que, aunque decía seguir a su lado por el interés de no sé qué ínsula que se

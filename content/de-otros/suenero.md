@@ -33,7 +33,7 @@ author_links = [
     { name = "Jorge Fandermole", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
+    { name = "Música", path = "/etiquetas/música/" },
 ]
 
 [[extra.comments]]
@@ -56,7 +56,7 @@ date_display = "22.06.2009"
 depth = 0
 url_site = ""
 title = "Sueñero"
-body = "disculpen mi ignorancia, me gustaria saber que significa sueñero...a que se refiere esta cancion que me encanta..?\ndesde ya muchas gracias"
+body = "disculpen mi ignorancia, me gustaría saber que significa sueñero...a que se refiere esta cancion que me encanta..?\ndesde ya muchas gracias"
 
 [[extra.comments]]
 id = 53189

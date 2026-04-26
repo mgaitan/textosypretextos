@@ -89,7 +89,7 @@ body = "Mmm, no empecemos con eso de sureños, y no sé cqué porque no lleva a 
 
 Jorge Sobisch, el actual gobernador de la provincia de Neuquén, continúa su <a href="http://www.sobischpresidente.com">campaña</a> para las elecciones presidenciales de 2007, en la cual ya lleva gastado --faltando más de 24 meses para los comicios-- cifras millonarias.  
 
-Desde hace unas semanas, la ciudad de Córdoba está empapelada con la imágen de un Sobisch apacible y digitalmente rejuvenecido, y hermosas promotoras reparten volantes a toda persona que camine por el microcentro.  El papel dice: 
+Desde hace unas semanas, la ciudad de Córdoba está empapelada con la imagen de un Sobisch apacible y digitalmente rejuvenecido, y hermosas promotoras reparten volantes a toda persona que camine por el microcentro.  El papel dice: 
 
 > "Planificación y gestión con sentido común,
 > ES LO QUE QUIERO PARA MI PAIS,
@@ -97,7 +97,7 @@ Desde hace unas semanas, la ciudad de Córdoba está empapelada con la imágen d
 
 En paralelo, la Provincia de Neuquén organizó un "<a href="http://www.alimentacionysociedad.neuquen.org">Congreso Internacional de Alimentación y Sociedad"</a>, al que también se invitaba con afiches en las calles de esta ciudad, esta vez oficialmente pagados por los neuquinos.  
 
-Mientras el gobernador neuquino coronaba el turno cordobés de su campaña con un acto de dudosa convocatoria y reuniones con políticos y obispos locales,  en Neuquén los trabajadores de la salud continuaban su huelga por aumento salarial. Ayer, 15 de abril,   <a href="http://www.rionegro.com.ar/arch200504/15/r15j05.php">se leia en el  diario Rio Negro</a>;
+Mientras el gobernador neuquino coronaba el turno cordobés de su campaña con un acto de dudosa convocatoria y reuniones con políticos y obispos locales,  en Neuquén los trabajadores de la salud continuaban su huelga por aumento salarial. Ayer, 15 de abril,   <a href="http://www.rionegro.com.ar/arch200504/15/r15j05.php">se leía en el  diario Rio Negro</a>;
 
 > "Anoche fueron trasladados ocho chiquitos del servicio de Neonatología del Hospital Neuquén. El conflicto de Salud entró en una etapa crítica. La oferta de aumento presentada por el gobierno no conformó a los trabajadores."
 
@@ -150,7 +150,7 @@ En 1 de abril pasado se realizó en la base naval Camp Pendleton de California, 
 
 Se lee en el sitio web oficial: 
 
-> *"(...)Camp Pendleton fue anfitrion del Rockin' the Corps, un inolvidable evento para celebrar a nuestros infantes de marina y marineros que vuelven de su servicio en Irak y para demostrar el aprecio para el Cuerpo de Marina de Estados Unidos (USMC) y los hombres y mujeres del servicio activo que sirven para salvaguardar la libertad de todos los ciudadanos americanos"*
+> *"(...)Camp Pendleton fue anfitrión del Rockin' the Corps, un inolvidable evento para celebrar a nuestros infantes de marina y marineros que vuelven de su servicio en Irak y para demostrar el aprecio para el Cuerpo de Marina de Estados Unidos (USMC) y los hombres y mujeres del servicio activo que sirven para salvaguardar la libertad de todos los ciudadanos americanos"*
 
 Del patriótico evento participaron estrellas del espectáculo como Sharon Stone, los grupos Kiss y Destiny's Child, Cindy Crawford y Karl Malone, entre muchos otros.  
 

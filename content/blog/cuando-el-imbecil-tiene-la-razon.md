@@ -1,6 +1,6 @@
 +++
 title = "Cuando el imbécil tiene la razón"
-slug = "cuando-el-imbecil-tiene-la-razon"
+slug = "cuando-el-imbecil-tiene-la-razón"
 date = 2008-11-07 21:11:21
 description = "Divagar y pedalear son cosas que me salen con cierta facilidad. Son buenas virtudes, si uno las evalúa desde el placer y la salud y no desde el tiempo perdido y el olor…"
 draft = false
@@ -28,7 +28,7 @@ popularite = 0.9080029260945839
 hero_image = "/media/jpg/kit.jpg"
 hero_alt = "kit.jpg"
 comment_count = 2
-legacy_url = "/blog/cuando-el-imbecil-tiene-la-razon/"
+legacy_url = "/blog/cuando-el-imbecil-tiene-la-razón/"
 surtitle = ""
 subtitle = ""
 deck = ""
@@ -37,7 +37,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Aprendizajes", path = "/etiquetas/aprendizajes/" },
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
+    { name = "Anécdotas", path = "/etiquetas/anécdotas/" },
     { name = "Memoria", path = "/etiquetas/memoria/" },
     { name = "Familia", path = "/etiquetas/familia/" },
 ]
@@ -62,7 +62,7 @@ date_display = "17.11.2008"
 depth = 0
 url_site = ""
 title = "Cuando el imbécil tiene la razón"
-body = "Estimado Primo, (tan abandonado que me tenes), para las fiestas , te regalare un arbolito de navidad con luces rojas , verdes y amarillas....... es un chiste. \nnada fijate la proxima de respetar las normas de transito asi te evitas encuentros desagradables con agentes de policia de dibujos animados. cuidate\n                   \n Facu\n\nPD: yo apremdi a bicicletear a los 4 años con una aurorita color dorada de mi hermana. por si interesa el dato"
+body = "Estimado Primo, (tan abandonado que me tenes), para las fiestas , te regalare un arbolito de navidad con luces rojas , verdes y amarillas....... es un chiste. \nnada fijate la próxima de respetar las normas de transito asi te evitas encuentros desagradables con agentes de policia de dibujos animados. cuidate\n                   \n Facu\n\nPD: yo apremdi a bicicletear a los 4 años con una aurorita color dorada de mi hermana. por si interesa el dato"
 +++
 
 Divagar y pedalear son cosas que me salen con cierta facilidad. Son buenas virtudes, si uno las evalúa desde el placer y la salud y no desde el tiempo perdido y el olor a chivo.  Lo nocivo, lo peligroso de estas actividades está en hacerlas al mismo tiempo. Pobre de mí: estoy en riesgo. 
@@ -71,7 +71,7 @@ Voy a hacer una aclaración inmediata porque sé que mi viejo leerá esto y a la
 
 Aprendí a andar en bicicleta de viejo, a los 9 años. Un amigo de la infancia, Gerardo se llamaba, tenía una casa con patio grande, gallinas y bicicletas abandonadas. A cambio de una caja de madera que debía hacer mi papá (y no recuerdo si pagamos), me dio una de sus bicletas jubiladas y las primeras lecciones de conducir. 
 
-Era una <a href="http://www.textosypretextos.com.ar/IMG/jpg/1044229845_aurorita_suspension.jpg" class="thickbox" title="era como esta pero sin suspención">bici negra</a>, con llantas rígidas,  asiento con respaldo y muchos kilos de metal. Las lecciones se reducian a empujarme a gran velocidad por la calle Petróleo del Barrio La Sirena (en ese entonces, aún de tierra y piedras seleccionadamente filosas) durante unos 50 metros y esperar a que la inercia me diera tiempo a recibir, como si fuese una epifanía, el equilibrio y la motricidad ausentes de mi cuerpo. Aún tengo piedrecillas incrustadas en los codos de aquella dulce --y dolorosa-- infancia. 
+Era una <a href="http://www.textosypretextos.com.ar/IMG/jpg/1044229845_aurorita_suspension.jpg" class="thickbox" title="era como esta pero sin suspención">bici negra</a>, con llantas rígidas,  asiento con respaldo y muchos kilos de metal. Las lecciones se reducían a empujarme a gran velocidad por la calle Petróleo del Barrio La Sirena (en ese entonces, aún de tierra y piedras seleccionadamente filosas) durante unos 50 metros y esperar a que la inercia me diera tiempo a recibir, como si fuese una epifanía, el equilibrio y la motricidad ausentes de mi cuerpo. Aún tengo piedrecillas incrustadas en los codos de aquella dulce --y dolorosa-- infancia. 
 
 La cuestión es que aprendí y ya nunca dejé de pedalear. Tuve muchas bicicletas: nuevas y usadas, con más o menos antigüedad antes de que fueran robadas, con las que viajé por la montaña y con la que salté rampas de la muerte hechas por nosotros mismos, los pibes del barrio, compactando basura entre los eucaliptos.
 
@@ -100,7 +100,7 @@ A esa altura de la fantochada yo estaba tan indignado que perdí noción de la a
 
 -- *Esto no va a quedar así* -- le dije, como si esas palabras pudieran amilanar su fastidio. 
 
-Cuando todo indicaba lo peor y yo no antinaba a desinflar un poco el pecho, Gorgory revisó mi mochila, donde llevaba una filmadora para el [taller de comunicación](http://www.agrupacionmazamorra.com.ar/article/taller-de-comunicacion-y-expresion) que estabamos haciendo,  y de la nada elucubró una teoría que lo quebró: 
+Cuando todo indicaba lo peor y yo no antinaba a desinflar un poco el pecho, Gorgory revisó mi mochila, donde llevaba una filmadora para el [taller de comunicación](http://www.agrupacionmazamorra.com.ar/article/taller-de-comunicación-y-expresion) que estabamos haciendo,  y de la nada elucubró una teoría que lo quebró: 
 
 -- *¡Ah! ¿Vos sos de esos que estudian periodismo, no? ¿Sos de los que se creen mejor que nosotros porque tienen camarita y hacen preguntas? ¡¿Por qué te crees mejor que yo, che culiao?!* 
 

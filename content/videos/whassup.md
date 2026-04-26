@@ -38,7 +38,7 @@ tag_links = [
 comments = []
 +++
 
-Whassuuuuuuuup, (deformación "de What's up?" - ¿qué pasa? ) pregunta cada uno de los ociosos amigos yanquis al tubo, y sin esperarlo, excedió los límites del exito publicitario para convertirse en un ícono generacional adoptado en la jerga de los adolescentes y hasta referenciado en las comedias pochocleras de entonces. (véase Scary Movie). 
+Whassuuuuuuuup, (deformación "de What's up?" - ¿qué pasa? ) pregunta cada uno de los ociosos amigos yanquis al tubo, y sin esperarlo, excedió los límites del éxito publicitario para convertirse en un ícono generacional adoptado en la jerga de los adolescentes y hasta referenciado en las comedias pochocleras de entonces. (véase Scary Movie). 
 
 {{ video_embed(provider="youtube", id="W16qzZ7J5YQ") }}
 

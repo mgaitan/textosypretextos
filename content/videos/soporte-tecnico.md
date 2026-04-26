@@ -1,6 +1,6 @@
 +++
 title = "Soporte Técnico"
-slug = "soporte-tecnico"
+slug = "soporte-técnico"
 date = 2008-04-24 00:21:51
 description = ""
 draft = false
@@ -23,7 +23,7 @@ popularite = 0.9286037768111763
 hero_image = ""
 hero_alt = ""
 comment_count = 1
-legacy_url = "/videos/soporte-tecnico/"
+legacy_url = "/videos/soporte-técnico/"
 surtitle = ""
 subtitle = ""
 deck = ""

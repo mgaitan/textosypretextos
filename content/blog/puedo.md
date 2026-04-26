@@ -56,7 +56,7 @@ y estirar la sábana sobre el colchón<br>
 puedo combatir la ingravidez de mi pelo<br>
 dejar el baño como un sahara<br>
 regar y no regar según corresponda<br>
-y hacer la abodominal día por medio<br>
+y hacer la abdominal día por medio<br>
 <br>
 puedo aprender a lavar mi cara<br>
 a escuchar más música y menos noticias<br>
