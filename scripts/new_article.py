@@ -15,7 +15,7 @@ SECTION_TITLES = {
     "blog": "Blog",
     "fotos": "Fotos",
     "videos": "Videos",
-    "de-otros": "De otros",
+    "de-otros": "De otres",
     "personal": "Personal",
 }
 
