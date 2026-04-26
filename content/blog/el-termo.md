@@ -35,7 +35,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Política", path = "/etiquetas/politica/" },
+    { name = "Cuento breve", path = "/etiquetas/cuento-breve/" },
 ]
 comments = []
 +++
