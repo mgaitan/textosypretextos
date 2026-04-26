@@ -2,7 +2,7 @@
 title = "El taller, gimnasio de la neurona"
 slug = "el-taller-gimnasio-de-la-neurona"
 date = 2005-04-26 23:31:29
-description = "Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \\\"idea brillante\\\", a mis noches y mañanas. Mariconas resultaron mis…"
+description = "Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \"idea brillante\", a mis noches y mañanas. Mariconas resultaron mis…"
 draft = false
 template = "article.html"
 authors = [
@@ -22,7 +22,7 @@ tags = [
 legacy_id = 39
 section_slug = "blog"
 section_title = "Blog"
-summary = "Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \\\"idea brillante\\\", a mis noches y mañanas. Mariconas resultaron mis ganas. Para hacerlas mas machitas y obligarlas un…"
+summary = "Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \"idea brillante\", a mis noches y mañanas. Mariconas resultaron mis ganas. Para hacerlas mas machitas y obligarlas un…"
 visits = 1977
 popularite = 0.8501589887728135
 hero_image = ""

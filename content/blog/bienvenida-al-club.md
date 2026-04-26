@@ -2,7 +2,7 @@
 title = "Bienvenida al Club"
 slug = "bienvenida-al-club"
 date = 2006-02-15 19:22:04
-description = "Estimada Srta. Aitana: Estoy en la poco existencial duda sobre si debí leer, y mas aún, responder a su carta, dado que está dirigida a sus \\\"queridos amigos y…"
+description = "Estimada Srta. Aitana: Estoy en la poco existencial duda sobre si debí leer, y mas aún, responder a su carta, dado que está dirigida a sus \"queridos amigos y…"
 draft = false
 template = "article.html"
 authors = [
@@ -22,7 +22,7 @@ tags = [
 legacy_id = 59
 section_slug = "blog"
 section_title = "Blog"
-summary = "Estimada Srta. Aitana: Estoy en la poco existencial duda sobre si debí leer, y mas aún, responder a su carta, dado que está dirigida a sus \\\"queridos amigos y compañeros\\\", mas en ninguna parte de su misiva se hace…"
+summary = "Estimada Srta. Aitana: Estoy en la poco existencial duda sobre si debí leer, y mas aún, responder a su carta, dado que está dirigida a sus \"queridos amigos y compañeros\", mas en ninguna parte de su misiva se hace…"
 visits = 4043
 popularite = 0.9107493166320206
 hero_image = ""

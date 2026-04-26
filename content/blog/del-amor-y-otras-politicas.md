@@ -2,7 +2,7 @@
 title = "Del amor y otras políticas"
 slug = "del-amor-y-otras-politicas"
 date = 2013-08-11 23:40:31
-description = "\\\"Taca\\\", una travesti, era la fiscal general de De la Sota en la misma escuela donde yo fui el de Carolina Scotto, en la escuela primaria del popular barrio Coronel…"
+description = "\"Taca\", una travesti, era la fiscal general de De la Sota en la misma escuela donde yo fui el de Carolina Scotto, en la escuela primaria del popular barrio Coronel…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 442
 section_slug = "blog"
 section_title = "Blog"
-summary = "\\\"Taca\\\", una travesti, era la fiscal general de De la Sota en la misma escuela donde yo fui el de Carolina Scotto, en la escuela primaria del popular barrio Coronel Olmedo. Temprano, apenas nos saludamos, se acercó y…"
+summary = "\"Taca\", una travesti, era la fiscal general de De la Sota en la misma escuela donde yo fui el de Carolina Scotto, en la escuela primaria del popular barrio Coronel Olmedo. Temprano, apenas nos saludamos, se acercó y…"
 visits = 28010
 popularite = 0.3591075037964194
 hero_image = ""

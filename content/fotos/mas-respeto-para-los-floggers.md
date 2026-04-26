@@ -2,7 +2,7 @@
 title = "Más respeto para los floggers"
 slug = "mas-respeto-para-los-floggers"
 date = 2008-12-10 18:52:59
-description = "Este graffitti de estencil está en la esquina de Obispo Trejo y Boulevard San Juan, en Córdoba Capital. Dice \\\"Más respeto para los floggers\\\". ¿Futuro sindicalista…"
+description = "Este graffitti de estencil está en la esquina de Obispo Trejo y Boulevard San Juan, en Córdoba Capital. Dice \"Más respeto para los floggers\". ¿Futuro sindicalista…"
 draft = false
 template = "article.html"
 authors = [
@@ -19,7 +19,7 @@ tags = [
 legacy_id = 251
 section_slug = "fotos"
 section_title = "Fotos"
-summary = "Este graffitti de estencil está en la esquina de Obispo Trejo y Boulevard San Juan, en Córdoba Capital. Dice \\\"Más respeto para los floggers\\\". ¿Futuro sindicalista flogger ? Desde acá, le hacemos el aguante."
+summary = "Este graffitti de estencil está en la esquina de Obispo Trejo y Boulevard San Juan, en Córdoba Capital. Dice \"Más respeto para los floggers\". ¿Futuro sindicalista flogger ? Desde acá, le hacemos el aguante."
 visits = 3666
 popularite = 0.9462154421470971
 hero_image = "/media/jpg/DSC_3697.jpg"

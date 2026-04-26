@@ -2,7 +2,7 @@
 title = "A ver..."
 slug = "a-ver"
 date = 2012-02-03 21:51:00
-description = "...si puedo explicar todo esto que ando sintiendo y que al tratar de decirte por teléfono se reduce a un \\\"te extraño\\\" y... no es solo eso. Estar acá en Ushuaia, lejos…"
+description = "...si puedo explicar todo esto que ando sintiendo y que al tratar de decirte por teléfono se reduce a un \"te extraño\" y... no es solo eso. Estar acá en Ushuaia, lejos…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 403
 section_slug = "blog"
 section_title = "Blog"
-summary = "...si puedo explicar todo esto que ando sintiendo y que al tratar de decirte por teléfono se reduce a un \\\"te extraño\\\" y... no es solo eso. Estar acá en Ushuaia, lejos tuyo, me lleva irremediablemente a recordar otros…"
+summary = "...si puedo explicar todo esto que ando sintiendo y que al tratar de decirte por teléfono se reduce a un \"te extraño\" y... no es solo eso. Estar acá en Ushuaia, lejos tuyo, me lleva irremediablemente a recordar otros…"
 visits = 4928
 popularite = 0.9927101286804109
 hero_image = ""

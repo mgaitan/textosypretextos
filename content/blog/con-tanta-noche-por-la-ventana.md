@@ -2,7 +2,7 @@
 title = "Con tanta noche por la ventana"
 slug = "con-tanta-noche-por-la-ventana"
 date = 2011-12-11 07:51:00
-description = "UNO Por la ventanilla refulgente, la luz. Toda la luz. Sólo la luz. \\\"Bienvenido a Neuquén\\\" dicen, tímidos, los arbolitos secos de la ruta 22. Los vasos vacíos de…"
+description = "UNO Por la ventanilla refulgente, la luz. Toda la luz. Sólo la luz. \"Bienvenido a Neuquén\" dicen, tímidos, los arbolitos secos de la ruta 22. Los vasos vacíos de…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 398
 section_slug = "blog"
 section_title = "Blog"
-summary = "UNO Por la ventanilla refulgente, la luz. Toda la luz. Sólo la luz. \\\"Bienvenido a Neuquén\\\" dicen, tímidos, los arbolitos secos de la ruta 22. Los vasos vacíos de whisky berreta que convierten las 16 horas de viaje en…"
+summary = "UNO Por la ventanilla refulgente, la luz. Toda la luz. Sólo la luz. \"Bienvenido a Neuquén\" dicen, tímidos, los arbolitos secos de la ruta 22. Los vasos vacíos de whisky berreta que convierten las 16 horas de viaje en…"
 visits = 116174
 popularite = 0.6296504199252732
 hero_image = ""

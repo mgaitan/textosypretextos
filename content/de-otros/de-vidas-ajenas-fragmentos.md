@@ -2,7 +2,7 @@
 title = "De vidas ajenas (fragmentos)"
 slug = "de-vidas-ajenas-fragmentos"
 date = 2012-02-04 20:26:16
-description = "Cultivar nuestro jardín \\\"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa…"
+description = "Cultivar nuestro jardín \"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 405
 section_slug = "de-otros"
 section_title = "De otros"
-summary = "Cultivar nuestro jardín \\\"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa gente que se agita y se estresa e intriga, que…"
+summary = "Cultivar nuestro jardín \"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa gente que se agita y se estresa e intriga, que…"
 visits = 1579
 popularite = 0.9075215540682732
 hero_image = ""

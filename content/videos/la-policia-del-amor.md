@@ -2,7 +2,7 @@
 title = "La Policía del Amor"
 slug = "la-policia-del-amor"
 date = 2010-02-20 19:00:03
-description = "Charlie Veitch y Danny Shine formaron hace unos años atrás en Inglaterra un pequeño grupo denominado \\\"La Policía del Amor\\\", cuya misión principal es la de realizar…"
+description = "Charlie Veitch y Danny Shine formaron hace unos años atrás en Inglaterra un pequeño grupo denominado \"La Policía del Amor\", cuya misión principal es la de realizar…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 362
 section_slug = "videos"
 section_title = "Videos"
-summary = "Charlie Veitch y Danny Shine formaron hace unos años atrás en Inglaterra un pequeño grupo denominado \\\"La Policía del Amor\\\", cuya misión principal es la de realizar performances callejeras orientadas a denunciar el…"
+summary = "Charlie Veitch y Danny Shine formaron hace unos años atrás en Inglaterra un pequeño grupo denominado \"La Policía del Amor\", cuya misión principal es la de realizar performances callejeras orientadas a denunciar el…"
 visits = 1627
 popularite = 0.25127968637627346
 hero_image = ""

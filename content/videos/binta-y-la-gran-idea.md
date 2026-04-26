@@ -2,7 +2,7 @@
 title = "Binta y la gran idea"
 slug = "binta-y-la-gran-idea"
 date = 2008-12-30 20:54:26
-description = "Binta y la Gran idea es un cortometraje de Javier Fesser (uno de los responsables de la exquisita \\\"El milagro de P. Tinto\\\") que pertenece a la película 'En el mundo a…"
+description = "Binta y la Gran idea es un cortometraje de Javier Fesser (uno de los responsables de la exquisita \"El milagro de P. Tinto\") que pertenece a la película 'En el mundo a…"
 draft = false
 template = "article.html"
 authors = [
@@ -19,7 +19,7 @@ tags = [
 legacy_id = 259
 section_slug = "videos"
 section_title = "Videos"
-summary = "Binta y la Gran idea es un cortometraje de Javier Fesser (uno de los responsables de la exquisita \\\"El milagro de P. Tinto\\\") que pertenece a la película 'En el mundo a cada rato'. El film fue rodado en Senegal con la…"
+summary = "Binta y la Gran idea es un cortometraje de Javier Fesser (uno de los responsables de la exquisita \"El milagro de P. Tinto\") que pertenece a la película 'En el mundo a cada rato'. El film fue rodado en Senegal con la…"
 visits = 348
 popularite = 0.9078734832550184
 hero_image = ""

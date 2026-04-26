@@ -2,7 +2,7 @@
 title = "Maestras Argentinas: Clara Dezcurra"
 slug = "maestras-argentinas-clara-dezcurra"
 date = 2009-02-17 08:32:19
-description = "Clara Dezcurra toma la pluma y escribe la fecha: \\\"16 de Julio de 1840\\\". Luego, con la misma letra minúscula y erguida, agrega el encabezamiento: \\\"Querida Juana\\\"…"
+description = "Clara Dezcurra toma la pluma y escribe la fecha: \"16 de Julio de 1840\". Luego, con la misma letra minúscula y erguida, agrega el encabezamiento: \"Querida Juana\"…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 245
 section_slug = "de-otros"
 section_title = "De otros"
-summary = "Clara Dezcurra toma la pluma y escribe la fecha: \\\"16 de Julio de 1840\\\". Luego, con la misma letra minúscula y erguida, agrega el encabezamiento: \\\"Querida Juana\\\". Finalmente, tras alisar el papel que tiene la…"
+summary = "Clara Dezcurra toma la pluma y escribe la fecha: \"16 de Julio de 1840\". Luego, con la misma letra minúscula y erguida, agrega el encabezamiento: \"Querida Juana\". Finalmente, tras alisar el papel que tiene la…"
 visits = 29535
 popularite = 0.8927374597012787
 hero_image = ""

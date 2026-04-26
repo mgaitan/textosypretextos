@@ -2,7 +2,7 @@
 title = "Normalidad"
 slug = "normalidad"
 date = 2004-12-09 16:41:30
-description = "El canal TN titula \\\"Regresó la normalidad\\\" la noticia sobre el fin (temporal) del conflicto de los ferroviarios en Buenos Aires. La elipsis se entiende si se presta…"
+description = "El canal TN titula \"Regresó la normalidad\" la noticia sobre el fin (temporal) del conflicto de los ferroviarios en Buenos Aires. La elipsis se entiende si se presta…"
 draft = false
 template = "article.html"
 authors = [
@@ -19,7 +19,7 @@ tags = [
 legacy_id = 24
 section_slug = "blog"
 section_title = "Blog"
-summary = "El canal TN titula \\\"Regresó la normalidad\\\" la noticia sobre el fin (temporal) del conflicto de los ferroviarios en Buenos Aires. La elipsis se entiende si se presta atención, pero no deja de ser una suspicacia para…"
+summary = "El canal TN titula \"Regresó la normalidad\" la noticia sobre el fin (temporal) del conflicto de los ferroviarios en Buenos Aires. La elipsis se entiende si se presta atención, pero no deja de ser una suspicacia para…"
 visits = 601
 popularite = 0.9061625282787966
 hero_image = ""

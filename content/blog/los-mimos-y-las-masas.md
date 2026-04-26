@@ -2,7 +2,7 @@
 title = "Los mimos y las masas"
 slug = "los-mimos-y-las-masas"
 date = 2010-01-31 01:06:00
-description = "\\\"Susana amasa la masa\\\", acataba mi lápiz, con la punta filosa casi lista para apuñalar. Al lado, muchos garabatos contrastaban la hoja Rivadavia, acusando un gran…"
+description = "\"Susana amasa la masa\", acataba mi lápiz, con la punta filosa casi lista para apuñalar. Al lado, muchos garabatos contrastaban la hoja Rivadavia, acusando un gran…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 40
 section_slug = "blog"
 section_title = "Blog"
-summary = "\\\"Susana amasa la masa\\\", acataba mi lápiz, con la punta filosa casi lista para apuñalar. Al lado, muchos garabatos contrastaban la hoja Rivadavia, acusando un gran fastidio acumulado. Por fortuna, gracias a mi…"
+summary = "\"Susana amasa la masa\", acataba mi lápiz, con la punta filosa casi lista para apuñalar. Al lado, muchos garabatos contrastaban la hoja Rivadavia, acusando un gran fastidio acumulado. Por fortuna, gracias a mi…"
 visits = 2714
 popularite = 0.4190442819801751
 hero_image = ""

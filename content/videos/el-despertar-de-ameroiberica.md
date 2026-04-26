@@ -2,7 +2,7 @@
 title = "El Despertar de Ameroibérica"
 slug = "el-despertar-de-ameroiberica"
 date = 2008-08-13 05:58:36
-description = "Gran trabajo documental de los jóvenes cineastas cordobeses José Haidar, Pablo Sosa y Andrés Jones desde su independiente Puertas Productora Audiovisual \\\"El Despertar…"
+description = "Gran trabajo documental de los jóvenes cineastas cordobeses José Haidar, Pablo Sosa y Andrés Jones desde su independiente Puertas Productora Audiovisual \"El Despertar…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 190
 section_slug = "videos"
 section_title = "Videos"
-summary = "Gran trabajo documental de los jóvenes cineastas cordobeses José Haidar, Pablo Sosa y Andrés Jones desde su independiente Puertas Productora Audiovisual \\\"El Despertar de Ameroibérica\\\", de 41 minutos, retrata el…"
+summary = "Gran trabajo documental de los jóvenes cineastas cordobeses José Haidar, Pablo Sosa y Andrés Jones desde su independiente Puertas Productora Audiovisual \"El Despertar de Ameroibérica\", de 41 minutos, retrata el…"
 visits = 692
 popularite = 0.9103789363611012
 hero_image = ""

@@ -2,7 +2,7 @@
 title = "En tiempo real"
 slug = "en-tiempo-real"
 date = 2004-11-06 07:07:19
-description = "Esto es un \\\"reality post\\\", escribo mientras la acción aún goza de esplendor. Son casi las siete de la mañana, y en este solemne acto prometo respetar la espontaneidad…"
+description = "Esto es un \"reality post\", escribo mientras la acción aún goza de esplendor. Son casi las siete de la mañana, y en este solemne acto prometo respetar la espontaneidad…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 13
 section_slug = "blog"
 section_title = "Blog"
-summary = "Esto es un \\\"reality post\\\", escribo mientras la acción aún goza de esplendor. Son casi las siete de la mañana, y en este solemne acto prometo respetar la espontaneidad del \\\"como salga\\\". Sé que voy en contramano al…"
+summary = "Esto es un \"reality post\", escribo mientras la acción aún goza de esplendor. Son casi las siete de la mañana, y en este solemne acto prometo respetar la espontaneidad del \"como salga\". Sé que voy en contramano al…"
 visits = 517
 popularite = 0.3591503957302198
 hero_image = ""
