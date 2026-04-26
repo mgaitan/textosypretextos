@@ -48,6 +48,8 @@ Calambres en el alma,<br>
 cada cual tiene un trip en el bocho<br>
 difícil que lleguemos a ponernos de acuerdo.</div>
 
+{{ video_embed(provider="youtube", id="ONoJBmBJaVY") }}
+
 {% postscript() %}
 (...) ¿Te hago reír de a ratitos? ¿Te hago sentir bien como vos a mi? Entonces eso, sólo eso, ya vale el esfuerzo. Nada vale "la pena".
 {% end %}
