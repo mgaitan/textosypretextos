@@ -3,8 +3,6 @@
 
 {% block title %}{{ config.title }}{% endblock title %}
 
-{% block og_description %}Un weblog de Martín Gaitán{% endblock og_description %}
-
 {% block content %}
   {% set blog = get_section(path="blog/_index.md") %}
   {% set fotos_section = get_section(path="fotos/_index.md") %}

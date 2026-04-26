@@ -3,6 +3,14 @@
 
 {% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
 {% block meta_description %}{{ page.content | striptags | truncate(length=160) }}{% endblock meta_description %}
+{% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
+{% block og_url %}{{ page.permalink }}{% endblock og_url %}
+{% block og_title %}{{ page.title }} · {{ config.title }}{% endblock og_title %}
+{% block og_description %}{{ page.content | striptags | truncate(length=160) }}{% endblock og_description %}
+{% block og_image %}{% if page.extra.image %}{{ config.base_url }}{{ page.extra.image }}{% else %}{{ config.base_url }}/og-image.png{% endif %}{% endblock og_image %}
+{% block twitter_title %}{{ page.title }} · {{ config.title }}{% endblock twitter_title %}
+{% block twitter_description %}{{ page.content | striptags | truncate(length=160) }}{% endblock twitter_description %}
+{% block twitter_image %}{% if page.extra.image %}{{ config.base_url }}{{ page.extra.image }}{% else %}{{ config.base_url }}/og-image.png{% endif %}{% endblock twitter_image %}
 
 {% block content %}
   <main class="pt-8">

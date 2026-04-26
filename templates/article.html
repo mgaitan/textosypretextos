@@ -3,16 +3,31 @@
 
 {% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
 {% block meta_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock meta_description %}
+{% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
+{% block og_type %}article{% endblock og_type %}
 {% block og_url %}{{ page.permalink }}{% endblock og_url %}
-{% block og_title %}{{ page.title }}{% endblock og_title %}
+{% block og_title %}{{ page.title }} · {{ config.title }}{% endblock og_title %}
 {% block og_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock og_description %}
 {% block og_image %}
   {%- if page.extra.hero_image -%}
     {{ config.base_url }}{{ page.extra.hero_image }}
+  {%- elif page.extra.section_slug == "videos" and page.extra.video_id -%}
+    https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg
   {%- else -%}
     {{ config.base_url }}/og-image.png
   {%- endif -%}
 {% endblock og_image %}
+{% block twitter_title %}{{ page.title }} · {{ config.title }}{% endblock twitter_title %}
+{% block twitter_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock twitter_description %}
+{% block twitter_image %}
+  {%- if page.extra.hero_image -%}
+    {{ config.base_url }}{{ page.extra.hero_image }}
+  {%- elif page.extra.section_slug == "videos" and page.extra.video_id -%}
+    https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg
+  {%- else -%}
+    {{ config.base_url }}/og-image.png
+  {%- endif -%}
+{% endblock twitter_image %}
 
 {% block content %}
   {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
