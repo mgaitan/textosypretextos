@@ -18,7 +18,6 @@ article_paths = [
     "blog/el-senor-triste.md",
     "blog/hurgando-en-el-gmail.md",
     "blog/insomnios.md",
-    "blog/la-ciruela-magica.md",
     "blog/la-habitacion.md",
     "blog/la-otra-dictadura.md",
     "blog/la-parte-mas-nerd.md",

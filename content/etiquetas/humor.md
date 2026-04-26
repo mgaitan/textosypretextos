@@ -13,6 +13,7 @@ article_paths = [
     "blog/el-otro-bombardeo.md",
     "blog/ganas.md",
     "blog/hazanas-zarpadas.md",
+    "blog/la-ciruela-magica.md",
     "blog/la-parte-mas-nerd.md",
     "blog/literatura-urbana.md",
     "blog/los-dientes-del-poder.md",
