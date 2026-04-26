@@ -25,7 +25,7 @@ visits = 2621
 popularite = 0.9843284392200226
 hero_image = "/media/jpg/DSC_0005.jpg"
 hero_alt = "DSC_0005.jpg"
-comment_count = 4
+comment_count = 3
 legacy_url = "/fotos/la-perla/"
 surtitle = ""
 subtitle = ""
@@ -71,16 +71,6 @@ url_site = ""
 title = "La Perla"
 body = "la foto de las rosas me conmovió\nmuchas gracias\n\nDaniela"
 
-[[extra.comments]]
-id = 53680
-anchor = "comment-53680"
-author = "qcVyXhRVIHHGlNybx"
-date = "2012-12-25 15:56:37"
-date_display = "25.12.2012"
-depth = 0
-url_site = "http://www.facebook.com/profile.php?id=100003407223104"
-title = "La Perla"
-body = "Como bien dices todo radica en el prpoio autoconvencimiento de las cosas, a partir de ahi todo lo deme1s este1 por ver, pero desde luego que si no partes de esa base desde un primer momento pues mal lo llevas.En Revolutionary Road ademe1s de influir el hecho de conseguir o no un suef1o tb se marca mucho el tema de la perspectiva que se tiene sobre los deme1s, la imagen o la opinif3n que la gente marca o da sobre el resto. \"es una mierda eso de ir aparentando cosas por al mundo adelante, siempre lo dije\"En fin, esto por poner algo, como es la primera vez que entro aqui... (Abraham)Mira Slumdog Millionaire que es me1s entretenida :P"
 +++
 
 Fotos del Acto de Recuperación de *[La Perla](http://www.desaparecidos.org/arg/conadep/nuncamas/202.html)*, Córdoba, Sábado 24 de marzo de 2007. Publicadas originalmente [aquí](http://derechoshumanoscba.org.ar/spip.php?article434).

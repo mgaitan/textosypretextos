@@ -25,7 +25,7 @@ visits = 1682970
 popularite = 0.9241870534400456
 hero_image = ""
 hero_alt = ""
-comment_count = 105
+comment_count = 98
 legacy_url = "/de-otros/no-te-rindas/"
 surtitle = ""
 subtitle = "Mario Benedetti"
@@ -665,16 +665,6 @@ url_site = ""
 title = "No te rindas"
 body = "Hola,este poema me lleno el alma,llego a mi vida el día mas triste de toda mi existencia,acababa de partir mi esposo el mismo día de nuestro aniversario, 29 anos de casados, sufrió una muerte súbita,mis hijos me la regalaron ,cuando estoy muy triste la releo una y mil veces es lo mejor que he leído gracias"
 
-[[extra.comments]]
-id = 53191
-anchor = "comment-53191"
-author = "Sonia"
-date = "2012-07-19 11:15:11"
-date_display = "19.07.2012"
-depth = 0
-url_site = ""
-title = "No te rindas"
-body = "Votre article est excellant, cependant il y a un bug, je n'arrive pas afficher les images ? Peut être c'est mon navigateur qui ne marche pas bien ? (J'utilise Google Chrome)\nEn tout les cas je reviendrai vous lire :)\n\n<div style=\"display:none;\">\n	<h1>Quel est la meilleure mutuelle ASAF</h1> <h2>Quelle est la meilleure mutuelle santé</h2> [mutuelle jeune](http://www.chu-mutuelle.fr) pour chercher une mutuelle pas cher et trouver la mutuelle pour jeune selon les attentes de chacun d'entre nous  avec changement de mutuelle familiale </div>"
 
 [[extra.comments]]
 id = 53200
@@ -819,38 +809,8 @@ url_site = ""
 title = "No te rindas"
 body = "grasias a este poema esta muy lindo me agrada el poema de benedetti yo se lo di a un amigo que se fracturo la mano"
 
-[[extra.comments]]
-id = 53461
-anchor = "comment-53461"
-author = "mutuelle-conseil"
-date = "2012-10-12 11:55:20"
-date_display = "12.10.2012"
-depth = 0
-url_site = "http://www.mutuelle-conseil.com"
-title = "No te rindas"
-body = "Muchas gracias"
 
-[[extra.comments]]
-id = 53471
-anchor = "comment-53471"
-author = "nadege"
-date = "2012-10-16 11:29:31"
-date_display = "16.10.2012"
-depth = 0
-url_site = ""
-title = "No te rindas"
-body = "Quel beau texte. Bravo\n[université de la cartouche](http://univ-cartouche.fr/)"
 
-[[extra.comments]]
-id = 53472
-anchor = "comment-53472"
-author = "richard"
-date = "2012-10-16 12:34:40"
-date_display = "16.10.2012"
-depth = 0
-url_site = ""
-title = "No te rindas"
-body = "Simplement magnifique.\n[Visites Guidées Paris](http://ac-visiter.fr/)"
 
 [[extra.comments]]
 id = 53513
@@ -896,16 +856,6 @@ url_site = ""
 title = "No te rindas"
 body = "me gusto el poema de Mario Benedetti por que expresa todos sus sentimientos"
 
-[[extra.comments]]
-id = 53622
-anchor = "comment-53622"
-author = "Enrico"
-date = "2012-12-14 12:27:30"
-date_display = "14.12.2012"
-depth = 0
-url_site = "http://www;ambiance-thalasso.com/"
-title = "No te rindas"
-body = "Magnifique texte !"
 
 [[extra.comments]]
 id = 53631
@@ -951,16 +901,6 @@ url_site = ""
 title = "No te rindas"
 body = "Si es de Benedetti y está incompleto."
 
-[[extra.comments]]
-id = 54096
-anchor = "comment-54096"
-author = "Maria"
-date = "2013-01-08 10:38:50"
-date_display = "08.01.2013"
-depth = 0
-url_site = ""
-title = "No te rindas"
-body = "Gracias por todo este trabajo de fondo, no siempre es fácil\n<div style=\"display:none;\">\n<h2>[La Guadeloupe](www.1location-guadeloupe.fr/la-guadeloupe/)</h2>\n</div>"
 
 [[extra.comments]]
 id = 54097
@@ -973,16 +913,6 @@ url_site = ""
 title = "No te rindas"
 body = "Que extraordinario poema .\nMi madre me lo mandó tiene 85 años y me lo manda para las almas jóvenes y tristes que ironia verdad?\n\nElla con una alegria a prueba de muertes, refugios, cárceles y tantas otras cosas\ncreo que el poema ella lo representa de forma admirable\n\nEchemole ganas a la vida vale la pena\nBravo Mario y Gracias Madre"
 
-[[extra.comments]]
-id = 54105
-anchor = "comment-54105"
-author = "Julia"
-date = "2013-01-13 11:03:42"
-date_display = "13.01.2013"
-depth = 0
-url_site = ""
-title = "No te rindas"
-body = "Este blog en particular es realmente educar y divertido también. He elegido muchas cosas útiles de este blog. \n<div style=\"position:relative;left:-7842px;height:5px ;\"><h2>Locations de véhicules sur l'île de la  Guadeloupe</h2>\n[Officiel Auto Guadeloupe](www.ac-locationvoitureguadeloupe.fr/)\n[voiture en location Guadeloupe](http://location-voiture.guadeloupe-guadeloupe.fr/)\n[locations voitures Antilles Guadeloupe](http://univ-location-voiture-guadeloupe.fr/)\n[1locationvoitureguadeloupe.fr](http://1locationvoitureguadeloupe.fr/)\n[locationdevoiture-971.fr](www.locationdevoiture-971.fr/)\n</div>"
 
 [[extra.comments]]
 id = 54114

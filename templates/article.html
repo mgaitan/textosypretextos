@@ -101,9 +101,10 @@
         <span class="section-ribbon">Comentarios</span>
       </div>
 
-      {% if page.extra.comments | length > 0 %}
+      {% set static_comments = page.extra.comments | default(value=[]) %}
+      {% if static_comments | length > 0 %}
         <div class="comments-existing">
-          {% for comment in page.extra.comments %}
+          {% for comment in static_comments %}
             <article class="comment-card" id="{{ comment.anchor }}" data-depth="{{ comment.depth }}">
               <div class="meta-row">
                 <span>{{ comment.author | default(value="Anónimo") }}</span>
