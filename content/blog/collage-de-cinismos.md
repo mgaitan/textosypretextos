@@ -105,37 +105,34 @@ Mientras el gobernador neuquino coronaba el turno cordobés de su campaña con u
 
 En la pared de una escuela primaria de la ciudad de Córdoba se lee, sobre papel afiche amarillo, una producción grupal de la clase de lengua.   Dice así: 
 
-> 
-
-<div class="poetry">> **Mi vida en Córdoba**<br>
-><br>
-> *Tus calles he recorrido<br>
-> con mi carrito cartoneando.<br>
-> No me olvido de esa noche<br>
-> cuando me paró la CAP<br>
->                  en el mercado.<br>
-> No tenía documentos<br>
-> y me llevaron al centro.<br>
-><br>
-> Otras noche intoxicado,<br>
-> me he bardeado los fines de semana<br>
->                  y los feriados.<br>
-> Cómo olvidarse de esa noche<br>
-> que le robé el estereo al coche<br>
-><br>
-> Qué decir del Parque Las Heras,<br>
-> si habré allí arrebatado carteras.<br>
-> Y por le Río Suquía<br>
-> me habré hecho un par de amigas.<br>
-><br>
-> Voy cortando cadenas,<br>
-> estoy creciendo en miserias;<br>
-> pero las personas no mueren,<br>
-> porque Córdoba es grande y fuerte. *<br>
-><br>
-> **6ºB - Escuela "Alejandro Carbó"**<br>
-><br>
-></div>
+<div class="poetry">**Mi vida en Córdoba**<br>
+<br>
+*Tus calles he recorrido<br>
+con mi carrito cartoneando.<br>
+No me olvido de esa noche<br>
+cuando me paró la CAP<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; en el mercado.<br>
+No tenía documentos<br>
+y me llevaron al centro.*<br>
+<br>
+*Otras noche intoxicado,<br>
+me he bardeado los fines de semana<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y los feriados.<br>
+Cómo olvidarse de esa noche<br>
+que le robé el estereo al coche*<br>
+<br>
+*Qué decir del Parque Las Heras,<br>
+si habré allí arrebatado carteras.<br>
+Y por le Río Suquía<br>
+me habré hecho un par de amigas.*<br>
+<br>
+*Voy cortando cadenas,<br>
+estoy creciendo en miserias;<br>
+pero las personas no mueren,<br>
+porque Córdoba es grande y fuerte.*<br>
+<br>
+**6ºB - Escuela "Alejandro Carbó"**
+</div>
 
 En forma perpendicular, pegado en el vidrio de la puerta de entrada al establecimiento, hay otro cartel. Está hecho en una impresora de matriz de puntos con poca tinta y prolijamente plastificado en cintéx. Advierte:  
 
