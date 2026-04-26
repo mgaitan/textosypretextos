@@ -16,7 +16,7 @@ tags = [
 ]
 
 [extra]
-video_id = "Qjp_udjoUD4"
+video_id = "iojYDSjKK00"
 legacy_id = 194
 section_slug = "videos"
 section_title = "Videos"
@@ -39,7 +39,7 @@ tag_links = [
 comments = []
 +++
 
-{{ video_embed(provider="youtube", id="Qjp_udjoUD4") }}
+{{ video_embed(provider="youtube", id="iojYDSjKK00") }}
 
 <div class="poetry">Avião sem asa,<br>
 fogueira sem brasa,<br>
@@ -95,7 +95,3 @@ e a solidão é o meu pior castigo.<br>
 <br>
 Eu conto as horas pra poder te ver<br>
 mas o relógio tá de mal comigo.</div>
-
-### Galería
-
-{{ video_embed(provider="youtube", id="yVscPvz6Iwg", title="yVscPvz6Iwg") }}
