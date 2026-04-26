@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}Subsecciones · Blog · {{ config.title }}{% endblock title %}
+{% block meta_description %}{{ section.extra.summary | default(value="Subsecciones del blog") }}{% endblock meta_description %}
+
+{% block content %}
+  <main class="pt-8">
+    <section class="editorial-rule">
+      <span class="section-ribbon">Blog</span>
+      <div class="mt-5 max-w-[56rem]">
+        <p class="story-kicker"><a href="/blog/">Volver al listado general</a></p>
+        <h1 class="story-title">{{ section.title }}</h1>
+        {% if section.content %}
+          <div class="story-content mt-6">{{ section.content | safe }}</div>
+        {% elif section.extra.summary %}
+          <p class="story-deck">{{ section.extra.summary }}</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <section class="taxonomy-grid mt-10">
+      {% for page in section.pages | sort(attribute="title") %}
+        <article class="taxonomy-card reveal">
+          <p class="story-kicker">Subsección</p>
+          <h2 class="story-title-xs"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+          <p class="mt-4 text-base leading-7 text-neutral-700">{{ page.extra.article_paths | length }} textos</p>
+        </article>
+      {% endfor %}
+    </section>
+  </main>
+{% endblock content %}

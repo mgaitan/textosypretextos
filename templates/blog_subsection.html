@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as macros %}
+
+{% block title %}{{ page.title }} · Blog · {{ config.title }}{% endblock title %}
+{% block meta_description %}{{ page.content | striptags | truncate(length=160) | default(value="Subsección del blog") }}{% endblock meta_description %}
+
+{% block content %}
+  {% set subsections = get_section(path="blog/subsecciones/_index.md") %}
+  {% set blog = get_section(path="blog/_index.md") %}
+
+  <main class="pt-8">
+    <section class="editorial-rule">
+      <span class="section-ribbon">Subsección</span>
+      <div class="mt-5 max-w-[56rem]">
+        <p class="story-kicker"><a href="/blog/">Blog</a></p>
+        <h1 class="story-title">{{ page.title }}</h1>
+        {% if page.content %}
+          <div class="story-content mt-6">{{ page.content | safe }}</div>
+        {% endif %}
+      </div>
+    </section>
+
+    {% if subsections.pages | length > 0 %}
+      <section class="editorial-rule mt-8">
+        <div class="subsection-strip">
+          {% for subsection in subsections.pages | sort(attribute="title") %}
+            <a
+              href="{{ subsection.permalink }}"
+              class="subsection-chip{% if subsection.permalink == page.permalink %} is-active{% endif %}"
+            >{{ subsection.title }}</a>
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
+
+    <section class="listing mt-10">
+      {% for article in blog.pages %}
+        {% if page.extra.article_paths and article.relative_path and article.relative_path in page.extra.article_paths %}
+          {{ macros::story_card(page=article, variant="list") }}
+        {% endif %}
+      {% endfor %}
+    </section>
+  </main>
+{% endblock content %}
