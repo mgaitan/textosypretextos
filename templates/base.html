@@ -25,6 +25,12 @@
     <script type="module" src="/assets/site.js"></script>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path='atom.xml') }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{% block og_url %}{{ config.base_url }}/{% endblock og_url %}">
+    <meta property="og:title" content="{% block og_title %}{{ config.title }}{% endblock og_title %}">
+    <meta property="og:description" content="{% block og_description %}{{ config.description }}{% endblock og_description %}">
+    <meta property="og:image" content="{% block og_image %}{{ config.base_url }}/og-image.png{% endblock og_image %}">
+    <meta name="twitter:card" content="summary">
   </head>
   <body>
     <div class="page-shell">
