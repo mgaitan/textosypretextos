@@ -2,7 +2,7 @@
 title = "Uno nunca sabe"
 slug = "uno-nunca-sabe"
 date = 2008-11-27 06:00:35
-description = "Lo primero que le preguntó Mario apenas el Mochila se sentó, fue \\\"¿La conoces a esa mina?\\\". -- ¿Cuál? -- La que saludastes recién. Mochila giró apenas la cabeza hacia…"
+description = "Lo primero que le preguntó Mario apenas el Mochila se sentó, fue \"¿La conoces a esa mina?\". -- ¿Cuál? -- La que saludastes recién. Mochila giró apenas la cabeza hacia…"
 draft = false
 template = "article.html"
 authors = [
@@ -19,7 +19,7 @@ tags = [
 legacy_id = 246
 section_slug = "de-otros"
 section_title = "De otros"
-summary = "Lo primero que le preguntó Mario apenas el Mochila se sentó, fue \\\"¿La conoces a esa mina?\\\". -- ¿Cuál? -- La que saludastes recién. Mochila giró apenas la cabeza hacia atrás. -- ¿La flaca? -- Sí. -- Sí, la conozco. Es…"
+summary = "Lo primero que le preguntó Mario apenas el Mochila se sentó, fue \"¿La conoces a esa mina?\". -- ¿Cuál? -- La que saludastes recién. Mochila giró apenas la cabeza hacia atrás. -- ¿La flaca? -- Sí. -- Sí, la conozco. Es…"
 visits = 9995
 popularite = 0.9045439066782933
 hero_image = ""

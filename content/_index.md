@@ -52,7 +52,7 @@ author = "Juan Pablo Castel"
 anchor = "comment-54938"
 date = "2013-04-24 10:20:48"
 date_display = "24.04.2013"
-excerpt = "Solución al dilema: el autor de \\\"No te rindas\\\" soy yo; y, sin embargo, amo a Mario, él me amó, nos amamos con locura…"
+excerpt = "Solución al dilema: el autor de \"No te rindas\" soy yo; y, sin embargo, amo a Mario, él me amó, nos amamos con locura…"
 
 [[extra.recent_comments]]
 article_path = "blog/trescientos-metros.md"

@@ -2,7 +2,7 @@
 title = "Trámites"
 slug = "tramites"
 date = 2004-10-24 20:44:52
-description = "\\\"PASES Y EQUIVALENCIAS: ATENCION SOLO MIERCOLES Y VIERNES DE 15 a 18 hs\\\". Leía ese cartel en un pasillo, el jueves por la mañana, una hora después de haber bajado del…"
+description = "\"PASES Y EQUIVALENCIAS: ATENCION SOLO MIERCOLES Y VIERNES DE 15 a 18 hs\". Leía ese cartel en un pasillo, el jueves por la mañana, una hora después de haber bajado del…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 6
 section_slug = "blog"
 section_title = "Blog"
-summary = "\\\"PASES Y EQUIVALENCIAS: ATENCION SOLO MIERCOLES Y VIERNES DE 15 a 18 hs\\\". Leía ese cartel en un pasillo, el jueves por la mañana, una hora después de haber bajado del colectivo. Visto que iba a ser complicado…"
+summary = "\"PASES Y EQUIVALENCIAS: ATENCION SOLO MIERCOLES Y VIERNES DE 15 a 18 hs\". Leía ese cartel en un pasillo, el jueves por la mañana, una hora después de haber bajado del colectivo. Visto que iba a ser complicado…"
 visits = 219
 popularite = 0.9807151048646703
 hero_image = ""

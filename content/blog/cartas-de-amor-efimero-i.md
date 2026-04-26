@@ -2,7 +2,7 @@
 title = "Cartas de amor efímero I"
 slug = "cartas-de-amor-efimero-i"
 date = 2008-04-20 08:17:56
-description = "[Luego de un viaje a Puerto Madryn, abril de 2006] Daniela: Tengo en mi buzón de \\\"Borradores\\\" los dos primeros renglones de un email que que quise escribirte, el…"
+description = "[Luego de un viaje a Puerto Madryn, abril de 2006] Daniela: Tengo en mi buzón de \"Borradores\" los dos primeros renglones de un email que que quise escribirte, el…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 113
 section_slug = "blog"
 section_title = "Blog"
-summary = "[Luego de un viaje a Puerto Madryn, abril de 2006] Daniela: Tengo en mi buzón de \\\"Borradores\\\" los dos primeros renglones de un email que que quise escribirte, el domingo, cuando llegué a mi casa en Neuquén. El asunto…"
+summary = "[Luego de un viaje a Puerto Madryn, abril de 2006] Daniela: Tengo en mi buzón de \"Borradores\" los dos primeros renglones de un email que que quise escribirte, el domingo, cuando llegué a mi casa en Neuquén. El asunto…"
 visits = 2147
 popularite = 0.2538715201121162
 hero_image = ""

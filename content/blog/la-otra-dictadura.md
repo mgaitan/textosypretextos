@@ -2,7 +2,7 @@
 title = "La otra dictadura"
 slug = "la-otra-dictadura"
 date = 2004-12-06 00:54:29
-description = "Mi libro de baño predilecto de estos dias es \\\"INTRODUCCION A LA INFORMATICA, Versión Operacional en GNU-Octave. Año 2004\\\". Es un ladrillo (fotocopiado obviamente) de…"
+description = "Mi libro de baño predilecto de estos dias es \"INTRODUCCION A LA INFORMATICA, Versión Operacional en GNU-Octave. Año 2004\". Es un ladrillo (fotocopiado obviamente) de…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 21
 section_slug = "blog"
 section_title = "Blog"
-summary = "Mi libro de baño predilecto de estos dias es \\\"INTRODUCCION A LA INFORMATICA, Versión Operacional en GNU-Octave. Año 2004\\\". Es un ladrillo (fotocopiado obviamente) de 300 y pico páginas, que da un montón de certezas…"
+summary = "Mi libro de baño predilecto de estos dias es \"INTRODUCCION A LA INFORMATICA, Versión Operacional en GNU-Octave. Año 2004\". Es un ladrillo (fotocopiado obviamente) de 300 y pico páginas, que da un montón de certezas…"
 visits = 857
 popularite = 0.906608824846876
 hero_image = ""

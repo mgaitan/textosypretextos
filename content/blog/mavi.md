@@ -2,7 +2,7 @@
 title = "Mavi"
 slug = "mavi"
 date = 2004-10-27 12:58:56
-description = "Se llama María Virginia, pero que nadie le cuente que escribí su nombre completo en esta página, porque le asusta \\\"estar en internet\\\". La conocí en Junio, cuando vine…"
+description = "Se llama María Virginia, pero que nadie le cuente que escribí su nombre completo en esta página, porque le asusta \"estar en internet\". La conocí en Junio, cuando vine…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 9
 section_slug = "blog"
 section_title = "Blog"
-summary = "Se llama María Virginia, pero que nadie le cuente que escribí su nombre completo en esta página, porque le asusta \\\"estar en internet\\\". La conocí en Junio, cuando vine a Córdoba por primera vez, a averiguar sobre…"
+summary = "Se llama María Virginia, pero que nadie le cuente que escribí su nombre completo en esta página, porque le asusta \"estar en internet\". La conocí en Junio, cuando vine a Córdoba por primera vez, a averiguar sobre…"
 visits = 742
 popularite = 0.9592745810640606
 hero_image = ""

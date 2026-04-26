@@ -76,7 +76,7 @@ body = "Martín, hace tiempo leo tu blog sin atreverme a comentar.. quizás por 
 [[extra.comments]]
 id = 6974
 anchor = "comment-6974"
-author = "Ok... y algo, alguiiito que no sea una \\\"frasehecha\\\"?"
+author = "Ok... y algo, alguiiito que no sea una \"frasehecha\"?"
 date = "2008-07-27 17:30:06"
 date_display = "27.07.2008"
 depth = 0

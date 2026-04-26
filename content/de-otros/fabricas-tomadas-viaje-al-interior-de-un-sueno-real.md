@@ -2,7 +2,7 @@
 title = "Fábricas tomadas: viaje al interior de un sueño real"
 slug = "fabricas-tomadas-viaje-al-interior-de-un-sueno-real"
 date = 2011-11-21 00:45:46
-description = "INTRODUCCIÓN: El cerámico y los retratos \\\"Lock out\\\" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus \\\"demandas\\\" a los…"
+description = "INTRODUCCIÓN: El cerámico y los retratos \"Lock out\" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus \"demandas\" a los…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 382
 section_slug = "de-otros"
 section_title = "De otros"
-summary = "INTRODUCCIÓN: El cerámico y los retratos \\\"Lock out\\\" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus \\\"demandas\\\" a los trabajadores; baja de salarios, despidos, suspensiones o…"
+summary = "INTRODUCCIÓN: El cerámico y los retratos \"Lock out\" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus \"demandas\" a los trabajadores; baja de salarios, despidos, suspensiones o…"
 visits = 945
 popularite = 0.5796679912664636
 hero_image = ""

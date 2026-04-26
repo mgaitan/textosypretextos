@@ -2,7 +2,7 @@
 title = "El Hugo"
 slug = "el-hugo"
 date = 2004-11-20 18:37:53
-description = "El cine, esa cinta de sueños Orson Welles Sobre el Boulevard San Juan, cerquita del \\\"Patiolmos\\\" (el Shopping Patio Olmos) se encuentra un edificio antiguo con puertas…"
+description = "El cine, esa cinta de sueños Orson Welles Sobre el Boulevard San Juan, cerquita del \"Patiolmos\" (el Shopping Patio Olmos) se encuentra un edificio antiguo con puertas…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 16
 section_slug = "blog"
 section_title = "Blog"
-summary = "El cine, esa cinta de sueños Orson Welles Sobre el Boulevard San Juan, cerquita del \\\"Patiolmos\\\" (el Shopping Patio Olmos) se encuentra un edificio antiguo con puertas altísimas de madera tallada y rampas para…"
+summary = "El cine, esa cinta de sueños Orson Welles Sobre el Boulevard San Juan, cerquita del \"Patiolmos\" (el Shopping Patio Olmos) se encuentra un edificio antiguo con puertas altísimas de madera tallada y rampas para…"
 visits = 651
 popularite = 0.9064362303900785
 hero_image = ""

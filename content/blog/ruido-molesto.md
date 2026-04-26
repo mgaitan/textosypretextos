@@ -2,7 +2,7 @@
 title = "Ruido molesto"
 slug = "ruido-molesto"
 date = 2006-09-13 13:29:39
-description = "Córdoba, 8 de septiembre 2006 Edificio \\\"Pueyrredón\\\". Sr. Consorcista Depto 4to A: Por la presente comunico a Ud. que se han recibido quejas por ruidos molestos, no…"
+description = "Córdoba, 8 de septiembre 2006 Edificio \"Pueyrredón\". Sr. Consorcista Depto 4to A: Por la presente comunico a Ud. que se han recibido quejas por ruidos molestos, no…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 66
 section_slug = "blog"
 section_title = "Blog"
-summary = "Córdoba, 8 de septiembre 2006 Edificio \\\"Pueyrredón\\\". Sr. Consorcista Depto 4to A: Por la presente comunico a Ud. que se han recibido quejas por ruidos molestos, no respetando el horario de silencio y descanso de los…"
+summary = "Córdoba, 8 de septiembre 2006 Edificio \"Pueyrredón\". Sr. Consorcista Depto 4to A: Por la presente comunico a Ud. que se han recibido quejas por ruidos molestos, no respetando el horario de silencio y descanso de los…"
 visits = 3417
 popularite = 0.9074926462365135
 hero_image = ""
