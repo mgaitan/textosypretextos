@@ -9,8 +9,9 @@
   {% else %}
     {% set kicker_text = page.extra.section_title %}
   {% endif %}
-  <article class="{% if is_list %}listing-card{% elif is_home_list %}home-listing-card{% elif is_compact %}feed-item{% else %}grid gap-5{% endif %}{% if not page.extra.hero_image %} no-media{% endif %}">
-    {% if page.extra.hero_image %}
+  {% set show_hero = page.extra.hero_image and not (page.extra.hide_hero_in_listing and (is_list or is_home_list)) %}
+  <article class="{% if is_list %}listing-card{% elif is_home_list %}home-listing-card{% elif is_compact %}feed-item{% else %}grid gap-5{% endif %}{% if not show_hero %} no-media{% endif %}">
+    {% if show_hero %}
       <a href="{{ page.permalink }}" class="media-frame {% if page.extra.section_slug == 'videos' %}video{% endif %} reveal {% if is_feature %}aspect-[16/10]{% elif is_list or is_home_list %}aspect-[4/3]{% else %}aspect-[16/9]{% endif %}">
         <img src="{{ page.extra.hero_image }}" alt="{{ page.extra.hero_alt | default(value=page.title) }}">
       </a>
