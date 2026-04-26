@@ -2,7 +2,7 @@
 title = "Diario de viaje de un mochilero"
 slug = "diario-de-viaje-de-un-mochilero"
 date = 2011-12-09 01:10:25
-description = "Hoy estuvimos en Lima; no teníamos un cobre, loco. Así que pintó ir a la plaza central a tirar paños, a manguear algo para hacer el día. Nos mandamos yo, que zafo conâ¦"
+description = "Hoy estuvimos en Lima; no teníamos un cobre, loco. Así que pintó ir a la plaza central a tirar paños, a manguear algo para hacer el día. Nos mandamos yo, que zafo con…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 397
 section_slug = "de-otros"
 section_title = "De otros"
-summary = "Hoy estuvimos en Lima; no teníamos un cobre, loco. Así que pintó ir a la plaza central a tirar paños, a manguear algo para hacer el día. Nos mandamos yo, que zafo con la escribanía pública y hago algo con laâ¦"
+summary = "Hoy estuvimos en Lima; no teníamos un cobre, loco. Así que pintó ir a la plaza central a tirar paños, a manguear algo para hacer el día. Nos mandamos yo, que zafo con la escribanía pública y hago algo con la…"
 visits = 1348
 popularite = 0.9067183771843479
 hero_image = ""
@@ -55,4 +55,3 @@ Hoy estuvimos en Lima; no teníamos un cobre, loco. Así que pintó ir a la plaz
 {% postscript() %}
 Publicado en el blog del autor, [Prohibido Fumarx](http://prohibidofumarx.blogspot.com/)
 {% end %}
-

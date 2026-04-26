@@ -63,7 +63,7 @@ article_paths = [
     "de-otros/por-el-piso.md",
     "de-otros/rostro-de-vos.md",
     "de-otros/sanar.md",
-    "de-otros/sin-senal-de-adiós.md",
+    "de-otros/sin-senal-de-adios.md",
     "de-otros/una-carta-de-amor.md",
     "de-otros/una-modesta-proposicion.md",
     "de-otros/veinte-minutos.md",

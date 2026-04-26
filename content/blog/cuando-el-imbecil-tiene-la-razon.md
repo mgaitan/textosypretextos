@@ -1,6 +1,6 @@
 +++
 title = "Cuando el imbécil tiene la razón"
-slug = "cuando-el-imbecil-tiene-la-razón"
+slug = "cuando-el-imbecil-tiene-la-razon"
 date = 2008-11-07 21:11:21
 description = "Divagar y pedalear son cosas que me salen con cierta facilidad. Son buenas virtudes, si uno las evalúa desde el placer y la salud y no desde el tiempo perdido y el olor…"
 draft = false
@@ -28,7 +28,7 @@ popularite = 0.9080029260945839
 hero_image = "/media/jpg/kit.jpg"
 hero_alt = "kit.jpg"
 comment_count = 2
-legacy_url = "/blog/cuando-el-imbecil-tiene-la-razón/"
+legacy_url = "/blog/cuando-el-imbecil-tiene-la-razon/"
 surtitle = ""
 subtitle = ""
 deck = ""
@@ -117,4 +117,3 @@ Logré pedirle disculpas haciéndole notar que probablemente tenía razón pero 
 {{ media_image(src="/media/jpg/1044229845_aurorita_suspension.jpg", alt="", caption="", align="center") }}
 
 {{ media_image(src="/media/png/jefe-gorgory.png", alt="", caption="", align="center") }}
-

@@ -13,7 +13,7 @@ article_paths = [
     "blog/distinto.md",
     "blog/el-gol-no-esta-hecho.md",
     "blog/fragmentos-de-una-despedida.md",
-    "blog/cuando-el-imbecil-tiene-la-razón.md",
+    "blog/cuando-el-imbecil-tiene-la-razon.md",
 ]
 +++
 

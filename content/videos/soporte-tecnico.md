@@ -1,6 +1,6 @@
 +++
 title = "Soporte Técnico"
-slug = "soporte-técnico"
+slug = "soporte-tecnico"
 date = 2008-04-24 00:21:51
 description = ""
 draft = false
@@ -23,7 +23,7 @@ popularite = 0.9286037768111763
 hero_image = ""
 hero_alt = ""
 comment_count = 1
-legacy_url = "/videos/soporte-técnico/"
+legacy_url = "/videos/soporte-tecnico/"
 surtitle = ""
 subtitle = ""
 deck = ""
@@ -45,5 +45,3 @@ body = "Muy bueno!\nMe recuerda a algunos clientes \"especiales\" con los que un
 +++
 
 {{ video_embed(provider="youtube", id="K654kfJy9ZA") }}
-
-

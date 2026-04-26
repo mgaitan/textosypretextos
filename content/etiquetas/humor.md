@@ -18,7 +18,7 @@ article_paths = [
     "blog/literatura-urbana.md",
     "blog/los-dientes-del-poder.md",
     "blog/mavi.md",
-    "blog/nos-reímos-de-perdón-con-ustedes.md",
+    "blog/nos-reimos-de-perdon-con-ustedes.md",
     "blog/poco-cambio.md",
     "blog/querida-cami.md",
     "blog/una-decada-de-impunidad.md",

@@ -10,7 +10,7 @@ group_name = "transversales"
 article_paths = [
     "blog/ascenso.md",
     "blog/cartas-de-amor-efimero-i.md",
-    "blog/cuando-el-imbecil-tiene-la-razón.md",
+    "blog/cuando-el-imbecil-tiene-la-razon.md",
     "blog/dulce-y-tenaz.md",
     "blog/el-choque.md",
     "blog/el-otro-bombardeo.md",
@@ -40,7 +40,7 @@ article_paths = [
     "de-otros/por-eso.md",
     "de-otros/preguntas.md",
     "de-otros/rostro-de-vos.md",
-    "de-otros/sin-senal-de-adiós.md",
+    "de-otros/sin-senal-de-adios.md",
     "de-otros/synecdoche-new-york.md",
     "de-otros/una-mujer-y-un-hombre.md",
     "de-otros/zamba-de-usted.md",

@@ -1,6 +1,6 @@
 +++
 title = "El salón de bailes sin baños o el rapto de los orinantes"
-slug = "el-salón-de-bailes-sin-banos-o-el"
+slug = "el-salon-de-bailes-sin-banos-o-el"
 date = 2009-02-06 18:41:50
 description = "Un pintoresco croquis del Atlas señala en la calle Yatay un enorme salón de baile. A pesar de su lujosa apariencia, el local no tenia baños. Sucedía entonces que los…"
 draft = false
@@ -25,7 +25,7 @@ popularite = 0.9059914195522848
 hero_image = ""
 hero_alt = ""
 comment_count = 0
-legacy_url = "/de-otros/el-salón-de-bailes-sin-banos-o-el/"
+legacy_url = "/de-otros/el-salon-de-bailes-sin-banos-o-el/"
 surtitle = ""
 subtitle = "Alejandro Dolina"
 deck = ""

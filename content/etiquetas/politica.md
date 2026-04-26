@@ -14,7 +14,7 @@ article_paths = [
     "blog/contrastes.md",
     "blog/cuando-dejamos-de-sonar-con-ser-un-pais.md",
     "blog/cuatro-fragmentos-de-una-muerte.md",
-    "blog/del-amor-y-otras-políticas.md",
+    "blog/del-amor-y-otras-politicas.md",
     "blog/distinto.md",
     "blog/el-gol-no-esta-hecho.md",
     "blog/el-golpe-esta-en-marcha.md",

@@ -1,6 +1,6 @@
 +++
 title = "Cuatro fantásticos"
-slug = "cuatro-fantásticos"
+slug = "cuatro-fantasticos"
 date = 2009-02-12 20:35:38
 description = "Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay…"
 draft = false
@@ -26,7 +26,7 @@ popularite = 0.9056547023626682
 hero_image = ""
 hero_alt = ""
 comment_count = 2
-legacy_url = "/de-otros/cuatro-fantásticos/"
+legacy_url = "/de-otros/cuatro-fantasticos/"
 surtitle = ""
 subtitle = "Fabián Casas"
 deck = "Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay tantas caras en el mundo que uno, tarde o temprano, termina siendo otro. Yo quisiera hablar acá de los que conocí. Ellos dejaron sus huellas en mi vida y pienso que una forma de retribuirles que me hayan pisado es contar quiénes eran, lo que me enseñaron. Esas cosas.\n\nPara esa época mamá trabajaba en la fábrica de corpiños Peter Pan. Un nombre glorioso. No sé si todavía sigue funcionando. Mamá, por lo que me cuentan todos, era una mujer despampanante, parecía una vedette. Piernas, culo, caderas. Vivíamos en un departamentito del barrio de Once, muy chiquito, yo pensaba que era como el caño de Hijitus: el dormitorio de mamá, el living donde yo dormía en un sofá cama y una kitchenet empotrada en la pared. Eso era todo. Mamá tenía ropa tirada por todas partes. Y cosméticos y revistas que se traía de la peluquería de su amiga. Mi madre era una gran lectora. A veces, cuando ella iba a bailar, yo me quedaba con la peluquera, una paraguaya que me hablaba de sus hijos quienes, decía, tenían casi mi misma edad y estaban con su padre en Asunción. Yo no asociaba Asunción con un lugar físico, mas bien me parecía un verbo."
@@ -124,4 +124,3 @@ A veces, antes de clavar una antena contra el techo, la levantaba con una sola m
 Pasó el tiempo y me sortearon para la colimba. Me tocó tierra y tuve que bajar de las cimas. Pasé un año en el infierno como asistente de un milico. En algún momento de ese año, mi mamá y Rolando rompieron. Ella me lo comunicó en una carta. Cuando volví a casa, conseguí trabajo arreglando antenas. A Rolando nunca lo volví a ver, pero supe de él por un portero de un edificio. Me dijo que le había agarrado vértigo y que por eso dejó de trabajar en las cimas. A mí eso me sonó a ciencia ficción.
 
 A veces, cuando estoy en las alturas, con mi vianda, me doy cuenta de lo increíble que fue que me dejara acompañarlo y aprender el oficio. Porque el vértigo de los techos es una disciplina para personas solitarias. Para animales fabulosos. No se necesita a nadie acá arriba.
-

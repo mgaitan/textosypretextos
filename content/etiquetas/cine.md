@@ -15,7 +15,7 @@ article_paths = [
     "blog/felices-quince.md",
     "blog/fragmentos-de-una-despedida.md",
     "blog/mas-de-30-mil.md",
-    "blog/nos-reímos-de-perdón-con-ustedes.md",
+    "blog/nos-reimos-de-perdon-con-ustedes.md",
     "de-otros/conservas.md",
     "de-otros/juan-y-el-sol.md",
     "de-otros/la-tortura.md",

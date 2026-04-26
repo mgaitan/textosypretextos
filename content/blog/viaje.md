@@ -2,7 +2,7 @@
 title = "Viaje"
 slug = "viaje"
 date = 2004-10-23 16:39:22
-description = "Algunos kilómetro más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele…"
+description = "Algunos kilómetros más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 4
 section_slug = "blog"
 section_title = "Blog"
-summary = "Algunos kilómetro más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele, pero yo supe como fué. Me lo dedicó, claro. Fué en…"
+summary = "Algunos kilómetros más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele, pero yo supe como fue. Me lo dedicó, claro. Fue en…"
 visits = 877
 popularite = 0.9271626034537576
 hero_image = ""
@@ -74,7 +74,7 @@ title = ""
 body = "reitero lo que ya dije en otro comment, llevo diez años viajando de La Rioja a Bariloche y viceversa cada verano y cada invierno y una sola vez, de todas esas, me tocó un guaso DI VI NO en el trayecto Bariloche-Mendoza que se iba a escalar el Aconcagua. Me han tocado depresivas que lloraban a baldes y me contaban sobre las pastillas que tomaban para \"calmarse\" hasta un auxiliar de abordo de reconocida empresa donde limita el mar con los andes que me invitó sin preámbulos hipócritas a apretar en el asiento de atrás. Pero nunca en todos estos años me hice de un teléfono y nadie se hizo del mío."
 +++
 
-Algunos kilómetro más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele, pero yo supe como fue. Me lo dedicó, claro.
+Algunos kilómetros más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele, pero yo supe como fue. Me lo dedicó, claro.
 
 Fue en Gral Roca cuando ella subió. Hasta ese momento era uno de los pocos en el colectivo que iba sin acompañante de asiento. El 20p acogía cómodamente a mi mochila que rebasaba de libros, cds, y papeles pro burocracia. 
 
@@ -94,4 +94,3 @@ Pero esto no es una novela, mis queridos, y entonces no tiene final feliz. Sepan
 
 Fue así que mientras bajaba sus bolsos, ella se besaba en la dársena lindante con un novio feo, muy feo, con cara de mal tipo y que seguro la engaña. Pero 
 lo peor de ese tipo, es que no era yo. Después se acercó, y me regaló un "Chau Martin, nos vemos. Un gusto eh!".
-

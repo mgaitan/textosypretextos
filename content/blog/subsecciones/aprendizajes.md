@@ -6,7 +6,7 @@ template = "blog_subsection.html"
 subsection_slug = "aprendizajes"
 article_paths = [
     "blog/aiti.md",
-    "blog/cuando-el-imbecil-tiene-la-razón.md",
+    "blog/cuando-el-imbecil-tiene-la-razon.md",
     "blog/el-gol-no-esta-hecho.md",
     "blog/el-taller-gimnasio-de-la-neurona.md",
     "blog/fragmentos-de-una-despedida.md",

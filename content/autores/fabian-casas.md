@@ -6,10 +6,9 @@ template = "author.html"
 legacy_id = 29
 legacy_slug = "Fabian-Casas"
 article_paths = [
-    "de-otros/cuatro-fantásticos.md",
+    "de-otros/cuatro-fantasticos.md",
 ]
 image = "/media/auton29.jpg"
 is_owner = false
 +++
-
 

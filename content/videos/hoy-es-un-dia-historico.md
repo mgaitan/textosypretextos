@@ -1,6 +1,6 @@
 +++
 title = "Hoy es un día histórico"
-slug = "hoy-es-un-dia-histórico"
+slug = "hoy-es-un-dia-historico"
 date = 2008-09-29 20:32:57
 description = ""
 draft = false
@@ -23,7 +23,7 @@ popularite = 0.9059766295300351
 hero_image = ""
 hero_alt = ""
 comment_count = 4
-legacy_url = "/videos/hoy-es-un-dia-histórico/"
+legacy_url = "/videos/hoy-es-un-dia-historico/"
 surtitle = ""
 subtitle = "Discurso de Rafael Correa"
 deck = ""
@@ -78,5 +78,3 @@ body = "siempre tincho con información y cosas lindas, interesantes y alternati
 +++
 
 {{ video_embed(provider="youtube", id="HG18kguB2zY") }}
-
-
