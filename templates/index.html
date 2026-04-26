@@ -10,7 +10,7 @@
   {% set videos_section = get_section(path="videos/_index.md") %}
   {% set latest_video = videos_section.pages | first %}
   {% set latest_other = get_page(path=section.extra.latest_other_path) %}
-  {% set blog_pages = blog.pages | slice(end=5) %}
+  {% set blog_pages = blog.pages | slice(end=6) %}
 
   <main class="pt-8">
     <div class="home-grid">
