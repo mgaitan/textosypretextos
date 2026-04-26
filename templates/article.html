@@ -15,7 +15,13 @@
     <header class="article-header reveal">
       <h1 class="story-title">{{ page.title }}</h1>
       {% if page.extra.subtitle %}
-        <p class="article-subtitle">{{ page.extra.subtitle }}</p>
+        <p class="article-subtitle">
+          {%- if page.extra.author_links and page.extra.author_links[0].name == page.extra.subtitle and page.extra.author_links[0].path -%}
+            <a href="{{ page.extra.author_links[0].path }}" class="meta-link">{{ page.extra.subtitle }}</a>
+          {%- else -%}
+            {{ page.extra.subtitle }}
+          {%- endif -%}
+        </p>
       {% endif %}
       {% if page.extra.deck %}
         <div class="article-deck">{{ page.extra.deck | markdown(inline=false) | safe }}</div>
