@@ -228,7 +228,11 @@ function bindRecentCommentsRefresh(container) {
 
   refresh();
 
-  window.addEventListener("pageshow", refresh);
+  window.addEventListener("pageshow", (event) => {
+    if (event.persisted) {
+      refresh();
+    }
+  });
   window.addEventListener("typ:recent-comments-refresh", refresh);
   window.addEventListener("storage", (event) => {
     if (event.key === RECENT_COMMENTS_REFRESH_KEY) {
