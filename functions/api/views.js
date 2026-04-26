@@ -225,16 +225,17 @@ export async function onRequest(context) {
     if (!insertResult.meta?.changes) {
       return jsonResponse({ ok: true, skipped: "duplicate" });
     }
-
-    await env.DB.prepare(
-      `DELETE FROM page_views
-       WHERE created_at < ?1`
-    )
-      .bind(now - VIEW_RETENTION_SECONDS)
-      .run();
   } catch (_e) {
     return jsonResponse({ error: "Write failed" }, 500);
   }
+
+  env.DB.prepare(
+    `DELETE FROM page_views
+     WHERE created_at < ?1`
+  )
+    .bind(now - VIEW_RETENTION_SECONDS)
+    .run()
+    .catch(() => {});
 
   return jsonResponse({ ok: true });
 }
