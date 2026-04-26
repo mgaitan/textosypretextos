@@ -34,6 +34,7 @@
 
     {% if config.extra.github_repo and page.relative_path %}
       {% set edit_url = "https://github.com/" ~ config.extra.github_repo ~ "/edit/" ~ config.extra.github_branch ~ "/content/" ~ page.relative_path %}
+      {% set history_url = "https://github.com/" ~ config.extra.github_repo ~ "/commits/" ~ config.extra.github_branch ~ "/content/" ~ page.relative_path %}
       {% set issue_permalink = page.permalink | urlencode %}
       {% set issue_source_path = "content/" ~ page.relative_path %}
       {% set issue_source = issue_source_path | urlencode %}
@@ -43,6 +44,8 @@
       {% set issue_url = "https://github.com/" ~ config.extra.github_repo ~ "/issues/new?template=reporte_problema.yml&title=" ~ issue_title_encoded ~ "&url=" ~ issue_permalink ~ "&source=" ~ issue_source %}
       <div class="article-contribute reveal">
         <a href="{{ edit_url }}" class="article-contribute-link" rel="noopener" target="_blank">Editar en GitHub</a>
+        <span class="article-contribute-sep" aria-hidden="true">·</span>
+        <a href="{{ history_url }}" class="article-contribute-link" rel="noopener" target="_blank">Ver historial</a>
         <span class="article-contribute-sep" aria-hidden="true">·</span>
         <a href="{{ issue_url }}" class="article-contribute-link" rel="noopener" target="_blank">Reportar un problema</a>
       </div>
