@@ -37,7 +37,13 @@
         <a href="{{ page.permalink }}">{{ page.title }}</a>
       </h2>
       {% if page.extra.subtitle %}
-        <p class="mt-2 text-base text-neutral-600">{{ page.extra.subtitle }}</p>
+        <p class="mt-2 text-base text-neutral-600">
+          {%- if page.extra.author_links and page.extra.author_links[0].name == page.extra.subtitle and page.extra.author_links[0].path -%}
+            <a href="{{ page.extra.author_links[0].path }}" class="meta-link">{{ page.extra.subtitle }}</a>
+          {%- else -%}
+            {{ page.extra.subtitle }}
+          {%- endif -%}
+        </p>
       {% endif %}
       {% if page.extra.summary %}
         <p class="story-deck {% if is_compact or is_home_list %}text-base leading-7{% endif %}{% if is_home_list %} home-listing-summary{% endif %}">
