@@ -71,7 +71,7 @@
 
         <div class="sidebar-block">
           <h2 class="module-title">Más leídos</h2>
-          <div class="index-list">
+          <div class="index-list" data-popular-reads>
             {% for path in section.extra.popular_paths | slice(end=5) %}
               {% set popular = get_page(path=path) %}
               <article class="index-row">

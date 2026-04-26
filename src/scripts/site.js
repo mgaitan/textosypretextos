@@ -192,23 +192,51 @@ function slugFromUrl(value) {
   }
 }
 
-function buildArticleMap(docs) {
-  const map = new Map();
+function toPathname(value) {
+  try {
+    return new URL(value).pathname;
+  } catch (_e) {
+    return value;
+  }
+}
+
+function sectionMetaFromPath(pathname) {
+  const sectionSlug = pathname.split("/").filter(Boolean)[0] || "";
+  const sectionTitles = {
+    blog: "Blog",
+    "de-otros": "De otros",
+    fotos: "Fotos",
+    videos: "Videos",
+    personal: "Personal",
+  };
+
+  return {
+    sectionSlug,
+    sectionTitle: sectionTitles[sectionSlug] || sectionSlug,
+  };
+}
+
+function buildArticleIndexes(docs) {
+  const bySlug = new Map();
+  const byPath = new Map();
   Object.entries(docs || {}).forEach(([url, doc]) => {
-    let pathname = url;
-    try {
-      pathname = new URL(url).pathname;
-    } catch (_e) {
-      pathname = url;
-    }
+    const pathname = toPathname(url);
     const slug = slugFromUrl(url);
-    if (!slug || map.has(slug)) return;
-    map.set(slug, {
+    const article = {
       url: pathname,
       title: doc?.title || slug,
-    });
+      ...sectionMetaFromPath(pathname),
+    };
+
+    if (pathname) {
+      byPath.set(pathname, article);
+    }
+
+    if (slug && !bySlug.has(slug)) {
+      bySlug.set(slug, article);
+    }
   });
-  return map;
+  return { bySlug, byPath };
 }
 
 async function loadRecentComments(container) {
@@ -224,10 +252,10 @@ async function loadRecentComments(container) {
     const comments = (payload && payload.comments) || [];
     if (!comments.length) return;
 
-    const articleMap = buildArticleMap(docs);
+    const { bySlug } = buildArticleIndexes(docs);
     const html = comments
       .map((comment) => {
-        const article = articleMap.get(comment.article_slug);
+        const article = bySlug.get(comment.article_slug);
         if (!article) return "";
         const excerpt = escapeHtml(comment.body || "").slice(0, 180);
         return `
@@ -242,6 +270,45 @@ async function loadRecentComments(container) {
       })
       .filter(Boolean)
       .join("");
+    if (html) {
+      container.innerHTML = html;
+    }
+  } catch (_e) {
+    // Keep the static fallback if dynamic loading fails.
+  }
+}
+
+async function loadPopularReads(container) {
+  try {
+    const [docs, response] = await Promise.all([
+      ensureSearchIndexDocs(),
+      fetch("/api/views?limit=5", {
+        headers: { accept: "application/json" },
+      }),
+    ]);
+    if (!response.ok || !docs) return;
+    const payload = await response.json();
+    const items = (payload && payload.items) || [];
+    if (!items.length) return;
+    const { bySlug, byPath } = buildArticleIndexes(docs);
+
+    const html = items
+      .map((item, index) => {
+        const article = byPath.get(item.article_url || "") || bySlug.get(item.article_slug);
+        if (!article) return "";
+        return `
+          <article class="index-row">
+            <div class="feed-index">${index + 1 < 10 ? "0" : ""}${index + 1}</div>
+            <div>
+              <p class="story-kicker">${escapeHtml(article.sectionTitle || article.sectionSlug || "")}</p>
+              <h3 class="story-title-xs"><a href="${escapeHtml(article.url || "/")}">${escapeHtml(article.title || item.article_slug || "")}</a></h3>
+            </div>
+          </article>
+        `;
+      })
+      .filter(Boolean)
+      .join("");
+
     if (html) {
       container.innerHTML = html;
     }
@@ -319,6 +386,35 @@ function bindCommentForm(form, dynamicContainer, slug) {
   });
 }
 
+function trackArticleView(node) {
+  const payload = {
+    slug: node.dataset.articleSlug || "",
+  };
+
+  if (!payload.slug) return;
+
+  const body = JSON.stringify(payload);
+
+  try {
+    if (navigator.sendBeacon) {
+      const blob = new Blob([body], { type: "application/json" });
+      navigator.sendBeacon("/api/views", blob);
+      return;
+    }
+  } catch (_e) {
+    // Fallback to fetch below.
+  }
+
+  fetch("/api/views", {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body,
+    keepalive: true,
+  }).catch(() => {
+    // Ignore analytics failures.
+  });
+}
+
 const dynamicContainer = document.getElementById("dynamic-comments");
 const commentForm = document.getElementById("comment-form");
 if (dynamicContainer && commentForm) {
@@ -332,4 +428,14 @@ if (dynamicContainer && commentForm) {
 const recentCommentsContainer = document.querySelector("[data-recent-comments]");
 if (recentCommentsContainer) {
   bindRecentCommentsRefresh(recentCommentsContainer);
+}
+
+const popularReadsContainer = document.querySelector("[data-popular-reads]");
+if (popularReadsContainer) {
+  loadPopularReads(popularReadsContainer);
+}
+
+const articleTracker = document.querySelector("[data-track-article-view]");
+if (articleTracker) {
+  trackArticleView(articleTracker);
 }

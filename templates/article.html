@@ -18,7 +18,11 @@
     {% set kicker_link = "/" ~ page.extra.section_slug ~ "/" %}
   {% endif %}
 
-  <main class="article-shell">
+  <main
+    class="article-shell"
+    data-track-article-view
+    data-article-slug="{{ page.slug }}"
+  >
     <header class="article-header reveal">
       <p class="story-kicker">
         {% if kicker_link %}<a href="{{ kicker_link }}">{{ kicker_text }}</a>{% else %}{{ kicker_text }}{% endif %}
