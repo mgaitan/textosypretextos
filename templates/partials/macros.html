@@ -22,6 +22,11 @@
       <a href="{{ page.permalink }}" class="media-frame {% if page.extra.section_slug == 'videos' %}video{% endif %} reveal {% if is_feature %}aspect-[16/10]{% elif is_list or is_home_list %}aspect-[4/3]{% else %}aspect-[16/9]{% endif %}">
         <img src="{{ page.extra.hero_image }}" alt="{{ page.extra.hero_alt | default(value=page.title) }}">
       </a>
+    {% elif page.extra.section_slug == "videos" and page.extra.video_id %}
+      <a href="{{ page.permalink }}" class="media-frame video reveal aspect-[16/9]">
+        <img src="https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg"
+             alt="{{ page.title }}" loading="lazy">
+      </a>
     {% elif page.extra.section_slug == "videos" %}
       <a href="{{ page.permalink }}" class="media-frame video reveal flex items-center justify-center text-white">
         <span class="section-ribbon">Video</span>

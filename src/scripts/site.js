@@ -469,3 +469,16 @@ const articleTracker = document.querySelector("[data-track-article-view]");
 if (articleTracker) {
   trackArticleView(articleTracker);
 }
+
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest(".video-facade");
+  if (!btn) return;
+  const src = btn.dataset.src;
+  if (!src) return;
+  const iframe = document.createElement("iframe");
+  iframe.src = src;
+  iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+  iframe.allowFullscreen = true;
+  iframe.className = "w-full h-full border-0";
+  btn.replaceWith(iframe);
+});

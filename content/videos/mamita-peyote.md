@@ -15,6 +15,7 @@ tags = [
 ]
 
 [extra]
+video_id = "wAVUYDCjov8"
 section_slug = "videos"
 section_title = "Videos"
 summary = "Sentencia, de Mamita Peyote, con músicos invitados de Bersuit Vergarabat y Los Auténticos Decadentes."
