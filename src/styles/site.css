@@ -272,13 +272,13 @@
 
   .story-content a {
     color: var(--color-link);
-    text-decoration-color: var(--color-link);
-    text-decoration-thickness: 1px;
-    text-underline-offset: 0.2em;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.18em;
   }
 
   .story-content a:hover {
-    text-decoration-thickness: 2px;
+    opacity: 0.8;
   }
 
   .story-content > :first-child {
