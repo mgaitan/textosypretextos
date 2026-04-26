@@ -34,7 +34,8 @@ tag_links = []
 comments = []
 +++
 
-<div align="right">*
+{{% epigrafe() %}}
+*
 
 Si cuarenta mil niños sucumben diariamente
 en el purgatorio del hambre y de la sed
@@ -52,7 +53,8 @@ pero en cambio es atroz
 sencillamente atroz
 si es la humanidad la que se encoge de hombros.
 
-**Mario Benedetti***</div>
+**Mario Benedetti***
+{{% end %}}
 
 Paola tiene ocho años y trae de la mano a su hermanito de cinco. Lionel viene atrás de ellos, se limpia un moco con su remera y me extiende los brazos para entregarme un beso. Natalia tiene siete, y mientras se abraza a mí como una garrapata, me pregunta si trajimos los colores y si hay facturas hoy. Ricardo, de 12, me muestra su nueva adquisición: una gomera con doble elástico. Por todos lados hay niñas y niños. 
 

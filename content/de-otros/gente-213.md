@@ -40,7 +40,9 @@ tag_links = [
 comments = []
 +++
 
-<div align="right">A mi gente</div>
+{{% epigrafe() %}}
+A mi gente
+{{% end %}}
 
 <div class="poetry">Hay gente que con sólo decir una palabra<br>
 enciende la ilusión y los rosales,<br>

@@ -85,6 +85,20 @@ Y en `[extra]`:
   """
   ```
 
+  Alternativamente, usar el shortcode `epigrafe` en el body cuando el
+  epígrafe es multilineal o no encaja en el campo deck:
+
+  ```
+  {{% epigrafe() %}}
+  Verso o cita.
+
+  **— Fuente o autor**
+  {{% end %}}
+  ```
+
+  Los blockquotes markdown al comienzo del body también se renderizan
+  como epígrafes automáticamente.
+
 - `author_links`
 - `tag_links`
 
