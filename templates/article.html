@@ -96,7 +96,21 @@
       </nav>
     {% endif %}
 
-    <section id="comments" class="comment-list reveal">
+    {% if config.extra.github_repo and page.relative_path %}
+      {% set comment_issue_base = "https://github.com/" ~ config.extra.github_repo ~ "/issues/new?template=moderar_comentario.yml" %}
+      {% set comment_source_path = "content/" ~ page.relative_path %}
+    {% endif %}
+
+    <section
+      id="comments"
+      class="comment-list reveal"
+      {% if comment_issue_base %}
+        data-comment-report-base="{{ comment_issue_base }}"
+        data-comment-report-article-url="{{ page.permalink }}"
+        data-comment-report-article-slug="{{ page.slug }}"
+        data-comment-report-source="{{ comment_source_path }}"
+      {% endif %}
+    >
       <div class="pt-8">
         <span class="section-ribbon">Comentarios</span>
       </div>
@@ -107,7 +121,26 @@
             <article class="comment-card" id="{{ comment.anchor }}" data-depth="{{ comment.depth }}">
               <div class="meta-row">
                 <span>{{ comment.author | default(value="Anónimo") }}</span>
-                <span>{{ comment.date_display }}</span>
+                <div class="comment-meta-actions">
+                  <span>{{ comment.date_display }}</span>
+                  {% if comment_issue_base and comment.id %}
+                    {% set comment_issue_title_raw = "moderar comentario " ~ comment.id ~ " en " ~ page.slug %}
+                    {% set comment_issue_title = comment_issue_title_raw | urlencode %}
+                    {% set comment_url_raw = page.permalink ~ "#" ~ comment.anchor %}
+                    {% set comment_url = comment_url_raw | urlencode %}
+                    {% set comment_source = comment_source_path | urlencode %}
+                    {% set comment_article_url = page.permalink | urlencode %}
+                    {% set comment_article_slug = page.slug | urlencode %}
+                    {% set report_url = comment_issue_base
+                      ~ "&title=" ~ comment_issue_title
+                      ~ "&article_url=" ~ comment_article_url
+                      ~ "&comment_url=" ~ comment_url
+                      ~ "&article_slug=" ~ comment_article_slug
+                      ~ "&comment_id=" ~ comment.id
+                      ~ "&source=" ~ comment_source %}
+                    <a href="{{ report_url }}" class="comment-report-link" rel="noopener" target="_blank">Reportar</a>
+                  {% endif %}
+                </div>
               </div>
               <div class="comment-body">{{ comment.body | escape | replace(from="\n", to="<br>") | safe }}</div>
             </article>

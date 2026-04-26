@@ -1,0 +1,61 @@
+name: Moderar comentario
+description: Reportar spam o pedir moderación de un comentario del sitio
+labels: ["comentarios"]
+body:
+  - type: dropdown
+    id: accion
+    attributes:
+      label: Acción sugerida
+      description: Qué te gustaría que se haga con el comentario
+      options:
+        - Revisar
+        - Ocultar
+        - Marcar como spam
+    validations:
+      required: true
+  - type: input
+    id: article_url
+    attributes:
+      label: URL del artículo
+      description: Página donde aparece el comentario
+      placeholder: "https://textosypretextos.com.ar/..."
+    validations:
+      required: true
+  - type: input
+    id: comment_url
+    attributes:
+      label: URL del comentario
+      description: Link directo al comentario
+      placeholder: "https://textosypretextos.com.ar/...#comment-123"
+    validations:
+      required: true
+  - type: input
+    id: article_slug
+    attributes:
+      label: Slug del artículo
+      placeholder: "mi-articulo"
+    validations:
+      required: true
+  - type: input
+    id: comment_id
+    attributes:
+      label: ID del comentario
+      placeholder: "123"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Fuente
+      description: Ruta del archivo fuente del artículo
+      placeholder: "content/blog/..."
+    validations:
+      required: false
+  - type: textarea
+    id: motivo
+    attributes:
+      label: Motivo
+      description: Explicá por qué querés reportar o moderar este comentario
+      placeholder: "Spam, insulto, link malicioso, doxxing, etc."
+    validations:
+      required: true

@@ -550,6 +550,15 @@
     @apply border-b border-black py-5;
   }
 
+  .comment-meta-actions {
+    @apply flex items-center gap-3 text-right;
+  }
+
+  .comment-report-link {
+    font-family: var(--font-ui);
+    @apply text-[11px] uppercase tracking-[0.18em] text-neutral-500 hover:text-black;
+  }
+
   .no-comments-placeholder {
     @apply py-6 text-neutral-500 text-sm italic;
   }

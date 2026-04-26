@@ -142,6 +142,20 @@ function formatDate(unixSeconds) {
   return d.toLocaleDateString("es-AR", { year: "numeric", month: "2-digit", day: "2-digit" });
 }
 
+function buildCommentReportUrl({ baseUrl, articleUrl, articleSlug, sourcePath, commentId }) {
+  if (!baseUrl || !articleUrl || !articleSlug || !commentId) return "";
+  const url = new URL(baseUrl);
+  url.searchParams.set("title", `moderar comentario ${commentId} en ${articleSlug}`);
+  url.searchParams.set("article_url", articleUrl);
+  url.searchParams.set("comment_url", `${articleUrl}#comment-${commentId}`);
+  url.searchParams.set("article_slug", articleSlug);
+  url.searchParams.set("comment_id", String(commentId));
+  if (sourcePath) {
+    url.searchParams.set("source", sourcePath);
+  }
+  return url.toString();
+}
+
 async function loadDynamicComments(container, slug) {
   try {
     const res = await fetch(`/api/comments?slug=${encodeURIComponent(slug)}`, {
@@ -151,16 +165,33 @@ async function loadDynamicComments(container, slug) {
     const data = await res.json();
     const list = (data && data.comments) || [];
     if (!list.length) return;
+    const commentsSection = document.getElementById("comments");
+    const reportBase = commentsSection?.dataset.commentReportBase || "";
+    const articleUrl = commentsSection?.dataset.commentReportArticleUrl || window.location.href.split("#")[0];
+    const articleSlug = commentsSection?.dataset.commentReportArticleSlug || slug;
+    const sourcePath = commentsSection?.dataset.commentReportSource || "";
     document.getElementById("no-comments-placeholder")?.remove();
-    const html = list.map((c) => `
-      <article class="comment-card" data-depth="0">
+    const html = list.map((c) => {
+      const reportUrl = buildCommentReportUrl({
+        baseUrl: reportBase,
+        articleUrl,
+        articleSlug,
+        sourcePath,
+        commentId: c.id,
+      });
+      return `
+      <article class="comment-card" data-depth="0" id="comment-${c.id}">
         <div class="meta-row">
           <span>${escapeHtml(c.author || "Anónimo")}</span>
-          <span>${formatDate(c.created_at)}</span>
+          <div class="comment-meta-actions">
+            <span>${formatDate(c.created_at)}</span>
+            ${reportUrl ? `<a class="comment-report-link" href="${reportUrl}" rel="noopener" target="_blank">Reportar</a>` : ""}
+          </div>
         </div>
         <div class="comment-body">${escapeHtml(c.body).replace(/\n/g, "<br>")}</div>
       </article>
-    `).join("");
+    `;
+    }).join("");
     container.innerHTML = html;
   } catch (_e) {
     // Silent: comment loading failure shouldn't break the page.
