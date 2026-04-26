@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]
 comments = []

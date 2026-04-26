@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Universo universitario", path = "/etiquetas/universo-universitario/" },
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
     { name = "Amistad", path = "/etiquetas/amistad/" },
 ]
 

@@ -34,7 +34,7 @@ author_links = [
     { name = "Pecas Soriano", path = "/autores/pecas-soriano/" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]
 comments = []

@@ -33,7 +33,7 @@ author_links = [
     { name = "Lisandro Aristimuño", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
 ]
 
 [[extra.comments]]

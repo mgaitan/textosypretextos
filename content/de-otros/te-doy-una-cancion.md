@@ -33,7 +33,7 @@ author_links = [
     { name = "Silvio Rodríguez", path = "/autores/silvio-rodriguez/" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
 ]
 comments = []
 +++

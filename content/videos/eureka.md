@@ -41,7 +41,7 @@ tag_links = [
     { name = "Animación", path = "/etiquetas/animacion/" },
     { name = "Stop motion", path = "/etiquetas/stop-motion/" },
     { name = "Cine", path = "/etiquetas/cine/" },
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
 ]
 
 [[extra.comments]]

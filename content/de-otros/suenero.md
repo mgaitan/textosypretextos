@@ -33,7 +33,7 @@ author_links = [
     { name = "Jorge Fandermole", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
 ]
 
 [[extra.comments]]

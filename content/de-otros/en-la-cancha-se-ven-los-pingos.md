@@ -34,7 +34,7 @@ author_links = [
     { name = "Adriana Battu (Pedro Mairal)", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
     { name = "Memoria", path = "/etiquetas/memoria/" },
 ]
 

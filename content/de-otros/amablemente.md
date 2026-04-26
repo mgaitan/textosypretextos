@@ -33,7 +33,7 @@ author_links = [
     { name = "Edmundo Rivero - Iván Diez", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
 ]
 comments = []
 +++

@@ -37,7 +37,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Anécdotas", path = "/etiquetas/anécdotas/" },
+    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
     { name = "Amistad", path = "/etiquetas/amistad/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]

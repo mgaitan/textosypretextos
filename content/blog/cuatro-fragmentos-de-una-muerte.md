@@ -37,7 +37,7 @@ author_links = [
 tag_links = [
     { name = "Opinión o piñón", path = "/etiquetas/opinion-o-pinon/" },
     { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
 ]
 
 [[extra.comments]]

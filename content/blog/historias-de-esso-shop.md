@@ -37,7 +37,7 @@ author_links = [
 tag_links = [
     { name = "El resto", path = "/etiquetas/el-resto/" },
     { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
 ]
 
 [[extra.comments]]

@@ -34,7 +34,7 @@ author_links = [
     { name = "Miguel Angel Pérez y Gustavo \\\"Cuchi\\\" Leguizamón", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
     { name = "Amistad", path = "/etiquetas/amistad/" },
 ]
 

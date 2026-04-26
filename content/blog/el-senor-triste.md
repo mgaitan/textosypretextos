@@ -37,9 +37,9 @@ author_links = [
 ]
 tag_links = [
     { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Anécdotas", path = "/etiquetas/anécdotas/" },
+    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
     { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
 ]
 
 [[extra.comments]]

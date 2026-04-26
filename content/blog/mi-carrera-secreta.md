@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]
 

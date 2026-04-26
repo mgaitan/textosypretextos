@@ -34,7 +34,7 @@ author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
 tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
     { name = "Córdoba", path = "/etiquetas/cordoba/" },
 ]
 

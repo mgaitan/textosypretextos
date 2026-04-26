@@ -34,7 +34,7 @@ author_links = [
     { name = "Eduardo Galeano", path = "/autores/eduardo-galeano/" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
     { name = "Memoria", path = "/etiquetas/memoria/" },
 ]
 comments = []

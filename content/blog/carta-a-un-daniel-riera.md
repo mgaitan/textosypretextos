@@ -35,8 +35,8 @@ author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
 tag_links = [
-    { name = "Anécdotas", path = "/etiquetas/anécdotas/" },
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
     { name = "Amistad", path = "/etiquetas/amistad/" },
 ]
 

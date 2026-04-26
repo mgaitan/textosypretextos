@@ -33,7 +33,7 @@ author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
 ]
 comments = []
 +++

@@ -34,7 +34,7 @@ author_links = [
     { name = "Hamlet Lima Quintana", path = "" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
     { name = "Amor", path = "/etiquetas/amor/" },
 ]
 comments = []

@@ -38,7 +38,7 @@ author_links = [
 tag_links = [
     { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
     { name = "huellas", path = "/etiquetas/huellas/" },
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
     { name = "Humor", path = "/etiquetas/humor/" },
 ]
 

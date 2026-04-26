@@ -33,7 +33,7 @@ author_links = [
     { name = "Gabriel García Marquez", path = "/autores/gabriel-garcia-marquez/" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
 ]
 
 [[extra.comments]]

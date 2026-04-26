@@ -34,7 +34,7 @@ author_links = [
     { name = "María Elena Walsh", path = "/autores/maria-elena-walsh/" },
 ]
 tag_links = [
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
     { name = "Amor", path = "/etiquetas/amor/" },
 ]
 

@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "Música", path = "/etiquetas/música/" },
+    { name = "Música", path = "/etiquetas/musica/" },
     { name = "Familia", path = "/etiquetas/familia/" },
 ]
 

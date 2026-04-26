@@ -36,7 +36,7 @@ author_links = [
 ]
 tag_links = [
     { name = "Gente", path = "/etiquetas/gente/" },
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
     { name = "Amor", path = "/etiquetas/amor/" },
 ]
 

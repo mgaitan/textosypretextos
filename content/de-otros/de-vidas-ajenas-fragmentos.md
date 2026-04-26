@@ -34,7 +34,7 @@ author_links = [
     { name = "Emmanuel Carrère", path = "" },
 ]
 tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
     { name = "Amor", path = "/etiquetas/amor/" },
 ]
 comments = []

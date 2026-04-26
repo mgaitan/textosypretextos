@@ -33,7 +33,7 @@ author_links = [
     { name = "Antonio Gramsci", path = "" },
 ]
 tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnología/" },
+    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
 ]
 
 [[extra.comments]]
