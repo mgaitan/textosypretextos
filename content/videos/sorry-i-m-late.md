@@ -42,6 +42,3 @@ comments = []
 
 {{ video_embed(provider="vimeo", id="4862670") }}
 
-### Galería
-
-{{ video_embed(provider="vimeo", id="4862670", title="moogaloop.swf") }}

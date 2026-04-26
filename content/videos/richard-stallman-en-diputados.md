@@ -48,6 +48,3 @@ Hay una versión completa de la disertación, en el sitio de GNU:
 
 [http://audio-video.gnu.org/video/rms-diputados.ogg](http://audio-video.gnu.org/video/rms-diputados.ogg)
 
-### Galería
-
-{{ video_embed(provider="youtube", id="IGUjLIu2Hq0", title="IGUjLIu2Hq0") }}

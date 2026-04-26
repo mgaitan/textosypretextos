@@ -76,6 +76,3 @@ Hey tu,<br>
 No me digas que no hay nada de esperanzas.<br>
 Juntos estamos parados, divididos nos caemos</div>
 
-### Galería
-
-{{ video_embed(provider="youtube", id="lRcQZ2tnWeg", title="lRcQZ2tnWeg") }}

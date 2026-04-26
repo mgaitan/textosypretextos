@@ -47,6 +47,3 @@ vive en cada compañero*</div>
 
 {{ video_embed(provider="youtube", id="OJOFeXO2mpE") }}
 
-### Galería
-
-{{ video_embed(provider="youtube", id="OJOFeXO2mpE", title="OJOFeXO2mpE") }}

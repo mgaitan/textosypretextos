@@ -40,6 +40,3 @@ Este video fue filmado el 21 de julio de 2006 en los estudios [Beirut DC](http:/
 
 Dos años después, la masacre israelí es la misma. La impotencia del mundo --cuando no la indiferencia--  también.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="lWmQEaA6OKI", title="lWmQEaA6OKI") }}

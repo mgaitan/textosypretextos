@@ -66,9 +66,6 @@ Dirección, guión y animación: Ana Ines Flores
 _ CGI y montaje: Dante Martínez Figueroa
 _ Música y diseño de sonido: Cesar Catalán
 
-### Galería
-
-{{ video_embed(provider="youtube", id="PVkSg7S4n58", title="YouTube - Eureka!") }}
 
 {{ video_embed(provider="youtube", id="PVkSg7S4n58", title="PVkSg7S4n58") }}
 

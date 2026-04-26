@@ -42,6 +42,3 @@ comments = []
 
 Cortometraje de animación del holandés Michaël Dudok de Wit. Este film ganó el Premio Oscar en el año 2000.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="RvmTsH4iHBo", title="RvmTsH4iHBo") }}

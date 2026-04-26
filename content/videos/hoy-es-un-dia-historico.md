@@ -79,8 +79,5 @@ body = "siempre tincho con informacion y cosas lindas, interesantes y alternativ
 
 {{ video_embed(provider="youtube", id="HG18kguB2zY") }}
 
-### Galería
-
-{{ video_embed(provider="youtube", id="HG18kguB2zY", title="HG18kguB2zY") }}
 
 <span id="comments"></span>

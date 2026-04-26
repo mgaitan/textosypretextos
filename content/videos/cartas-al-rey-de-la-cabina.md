@@ -50,6 +50,3 @@ Doce cartas, doce canciones. Con sutileza, humor y silencio acompañamos la hist
 Las lecturas son del [libro homónimo](http://www.luispescetti.com/cartas-al-rey-de-la-cabina/) de Luis Pescetti. Recomiendo mucho su [blog](http://www.luispescetti.com).
 {% end %}
 
-### Galería
-
-{{ video_embed(provider="youtube", id="W0UEct25rpU", title="W0UEct25rpU") }}

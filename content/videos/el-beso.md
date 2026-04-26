@@ -44,6 +44,3 @@ comments = []
 
 Un cortometraje muy original realizado en Perú, en el año 2000. La banda de sonido es original de Ulises Piedra.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="mb4WoMgVxFQ", title="mb4WoMgVxFQ") }}

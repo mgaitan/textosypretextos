@@ -36,6 +36,3 @@ comments = []
 
 {{ video_embed(provider="dailymotion", id="x3m5o1") }}
 
-### Galería
-
-{{ video_embed(provider="dailymotion", id="x3m5o1", title="x3m5o1") }}

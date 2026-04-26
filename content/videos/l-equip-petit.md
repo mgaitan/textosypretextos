@@ -52,8 +52,5 @@ body = "Es genial, y me recuerda a mi época de jóven deportista también."
 
 La historia del Margatània, un equipo infantil de fútbol que ha empezado a jugar el torneo este año... y su filosofía ha llegado al corazón de mucha gente.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="TvLV5Iy6YDk", title="TvLV5Iy6YDk") }}
 
 <span id="comments"></span>

@@ -48,6 +48,3 @@ Su éxito (más de 70 millones de visualizaciones a la fecha) ha demostrado las 
 
 El mismo director explica el fenómeno que se produjo en [diversos artículos de su blog](http://www.filmica.com/casiopea/archivos/cat_lo_que_tu_quieras_oir.html)
 
-### Galería
-
-{{ video_embed(provider="youtube", id="12Z3J1uzd0Q", title="12Z3J1uzd0Q") }}

@@ -38,6 +38,3 @@ comments = []
 
 *[Gracias Lauritita!]*
 
-### Galería
-
-{{ video_embed(provider="vimeo", id="993998", title="moogaloop.swf") }}

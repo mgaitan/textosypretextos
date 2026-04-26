@@ -48,6 +48,3 @@ Kung Fu 2003 surge a raíz de la segunda invasión de Estados Unidos en Irak en 
 
 Tampico es un director de documentales y cortos de ficción. Miembro de la Tampong Filmmaking Society en Europa, también es uno de los fundadores del Movimiento Internacional ShitArt que comenzó en Cuba con la intención de traer el surrealismo al arte del documental y cortometraje. En Cuba se graduó en la escuela de Cine y Televisión y estudió cinematografía en la Filmakademy de Alemania. También estudió Ciencias Politicas y economía en la Universidad de California.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="4oV5ZE5XVMI", title="4oV5ZE5XVMI") }}

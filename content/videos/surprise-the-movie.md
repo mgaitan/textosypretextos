@@ -38,6 +38,3 @@ comments = []
 
 *[Gracias Anne!]*
 
-### Galería
-
-{{ video_embed(provider="youtube", id="ge7R19dH31o", title="ge7R19dH31o") }}
