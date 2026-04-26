@@ -28,7 +28,7 @@
       {% endif %}
       <div class="meta-row">
         <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
-        {% if page.extra.comment_count > 0 %}
+        {% if page.extra.comment_count | default(value=0) > 0 %}
           <a href="#comments" class="meta-link">{{ page.extra.comment_count }} comentarios</a>
         {% endif %}
       </div>

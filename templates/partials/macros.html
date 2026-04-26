@@ -63,7 +63,7 @@
             {% endfor %}
           </span>
         {% endif %}
-        {% if page.extra.comment_count > 0 %}
+        {% if page.extra.comment_count | default(value=0) > 0 %}
           <span>{{ page.extra.comment_count }} comentarios</span>
         {% endif %}
       </div>
