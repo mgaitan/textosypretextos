@@ -35,7 +35,7 @@
 
     <section class="listing mt-10">
       {% for article in blog.pages %}
-        {% if article.tags and article.tags[0] == page.title %}
+        {% if page.extra.article_paths and article.relative_path and article.relative_path in page.extra.article_paths %}
           {{ macros::story_card(page=article, variant="list") }}
         {% endif %}
       {% endfor %}
