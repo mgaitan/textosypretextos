@@ -28,7 +28,9 @@ comment_count = 0
 legacy_url = "/de-otros/ninos-corea-1952/"
 surtitle = ""
 subtitle = "Juan Gelman"
-deck = ""
+deck = """
+> A Nati, que me acompaña en esta dolorosa tarea de intentar abrir los ojos propios.
+"""
 author_links = [
     { name = "Juan Gelman", path = "/autores/juan-gelman/" },
 ]
@@ -87,5 +89,5 @@ mamá con letras tiernas<br>
 bajo una dulce vaca de tres patas.</div>
 
 {% postscript() %}
-A Nati, que me acompaña en esta dolorosa tarea de intentar abrir los ojos propios.
+Juan Gelman, *Violín y otras cuestiones*, Buenos Aires, 1956.
 {% end %}
