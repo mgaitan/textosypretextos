@@ -150,6 +150,20 @@ uv run scripts/fix_dialogues.py --apply content/fotos/cronica-de-un-intento-de-h
 
 - Sin `--apply`, el script corre en modo dry-run e informa candidatos y casos ambiguos para revisión manual.
 
+### Poesía
+
+- Para poesía o texto con cortes de verso que haya que preservar, envolver el bloque con `<div class="poetry">`:
+
+```md
+<div class="poetry">
+Primer verso
+Segundo verso
+Tercer verso
+</div>
+```
+
+- No usar `<br>` para simular versos si el bloque completo puede resolverse con `poetry`.
+
 ### Ortografía
 
 ```bash
