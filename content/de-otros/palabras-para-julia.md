@@ -57,4 +57,3 @@ Te quiero muchísimo.
 Somos muchos los que queremos que estés bien.
 {% end %}
 
-<span id="comments"></span>

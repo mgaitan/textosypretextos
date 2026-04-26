@@ -53,4 +53,3 @@ Documental sobre los cultivos de soja transgénica en Argentina , y los estragos
 {{ video_embed(provider="dailymotion", id="xu9kc") }}
 
 
-<span id="comments"></span>

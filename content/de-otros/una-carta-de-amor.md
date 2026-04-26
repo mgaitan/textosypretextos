@@ -71,4 +71,3 @@ en la cara de un jefe de oficina,<br>
 y que el placer que juntos inventamos<br>
 sea otro signo de la libertad.</div>
 
-<span id="comments"></span>

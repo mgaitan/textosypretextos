@@ -166,4 +166,3 @@ Estos graffitis invadieron Córdoba. No sé qué significan, pero me persiguen. 
 
 {{ media_image(src="/media/jpg/DSC_1843.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

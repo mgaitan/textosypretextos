@@ -130,4 +130,3 @@ Doblando la esquina pregunté:
 -- *Muchas gracias por los ochentas centavos, le hubieses dicho a la mina. *
 -- *No, no.... yo no le agradecí a la mina, le agradecí al Engañador. *
 
-<span id="comments"></span>

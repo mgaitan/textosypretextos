@@ -127,4 +127,3 @@ Martín.
 Completan la trilogía [Cartas de amor efímero I](@/blog/cartas-de-amor-efimero-i.md) y [Cartas de amor efímero II](@/blog/cartas-de-amor-efimero-ii.md).
 {% end %}
 
-<span id="comments"></span>

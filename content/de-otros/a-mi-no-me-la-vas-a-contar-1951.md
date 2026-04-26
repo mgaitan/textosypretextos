@@ -120,4 +120,3 @@ No importa que tu patria haya tenido problemas de gigantes, y que esos problemas
 Enrique Santos Discépolo, año 1951
 {% end %}
 
-<span id="comments"></span>

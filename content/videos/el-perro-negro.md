@@ -65,4 +65,3 @@ body = "esto funciona?"
 
 Film de Alison de Vere. Visto en el blog de [Luis Beltrán](http://www.luisbeltran.com/archivos/2008/03/el-perro-negro-alison-de-vere/).
 
-<span id="comments"></span>

@@ -82,4 +82,3 @@ Este es el emotivo film del director japonés Kunio Kato que ayer ganó el Oscar
 
 {{ external_embed(provider="googlevideo", url="http://video.google.com/googleplayer.swf?docid=918072409397842222&hl=es&fs=true", title="googleplayer.swf") }}
 
-<span id="comments"></span>

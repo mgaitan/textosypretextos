@@ -66,4 +66,3 @@ Extracto de *"La Ciudad Futura"*, revista cultural publicada por Antonio Gramsci
 Lo robé de [mi blog favorito](http://larunfla.blogspot.com).
 {% end %}
 
-<span id="comments"></span>

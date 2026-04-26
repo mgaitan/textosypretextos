@@ -85,4 +85,3 @@ Algo buenisimo es que todos los ambientes se comunican por un pasillo pero con p
 
 Estoy muy cómodo, esté mas que bien. Aunque, ejem, ehhh,  no es barato, cierto. Pero esa parte sí va por email (teléfono en su defecto).
 
-<span id="comments"></span>

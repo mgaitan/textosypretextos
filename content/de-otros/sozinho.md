@@ -245,4 +245,3 @@ O no estás madura<br>
 La rudimentaria traducción es propia, con gentiles correcciones del compañero Quique.
 {% end %}
 
-<span id="comments"></span>

@@ -63,4 +63,3 @@ ocupan su lugar en la tierra.</div>
 de Gotán, 1962.
 {% end %}
 
-<span id="comments"></span>

@@ -252,4 +252,3 @@ Un abrazo grande.
 _ Martín Gaitán
 _ Estudiante de Ingeniería en Computación
 
-<span id="comments"></span>

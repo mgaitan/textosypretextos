@@ -131,4 +131,3 @@ Martín Gaitán. Inquilino.
 
 PD: La multa por "olores molestos" ¿A cuanto asciende? Sucede que este fin de semana estará mi madre de visita, y debo planificar los gastos del mes.
 
-<span id="comments"></span>

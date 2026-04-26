@@ -105,4 +105,3 @@ Yo no lo quería interrumpir pero sentía que esperaba algún comentario mio.
 
 Mientras Juan terminaba de atender al otro señor (creo que también boliviano), elogiaba una vez más el regalo para mi amigo. Su mujer --  supongo que sería -- asomaba por la puerta impaciente porque el almuerzo ya estaba listo. Yo limpiaba la marca de mis dedos sobre la cara de John, y me alejaba un poco para ver cuán lindo estaba quedando. Paul, me guiñaba el ojo  escondido atrás de Ringo y todos ellos de perfil --George primero-- esperaban ansiosos salir a la calle bajo mi brazo, para que una vez más, la gente sencilla como Juan se emocione al verlos.
 
-<span id="comments"></span>

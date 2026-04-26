@@ -65,4 +65,3 @@ body = "Que Tere?? la perdida de Nqn?? ja ja ja... la virtud de la expresión 'b
 
 Pasó un rato, una hora o menos. Poco tiempo si lo pienso, podría haberme llevado días o meses. La radio hablaba cosas interesantisimas del nuevo festival de audiovisaules de ARAN que me perderé nuevamente. Íbamos por Allen y la señal de fm se hacía débil, lo que me obligaba a buscar raras posiciones al mejor estilo "parabólica humana". Fue con mucha interferencia, pero lo escuché todo. Fer no lo dijo al aire, pero se que fue para mi: Noelia cantó una canción hermosisima que despacito se fue diluyendo, suave, en mis oídos. Recién ahí supe que me estaba yendo.
 
-<span id="comments"></span>

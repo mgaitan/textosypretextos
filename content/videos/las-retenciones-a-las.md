@@ -52,4 +52,3 @@ Es una trabajo del [Ateneo Arturo Jauretche](http://www.ateneojauretche.blogspot
 
 {{ external_embed(provider="slideshare", url="http://static.slideshare.net/swf/ssplayer2.swf?doc=retenciones-y-conflicto-1210301005804252-8", title="ssplayer2.swf") }}
 
-<span id="comments"></span>

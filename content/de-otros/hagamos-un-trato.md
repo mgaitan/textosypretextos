@@ -68,4 +68,3 @@ body = "Lo es. Joan Manuel Serrat la hizo canción en su disco \"El sur también
 
 {{ video_embed(provider="youtube", id="OORVw3o7Pl8") }}
 
-<span id="comments"></span>

@@ -77,4 +77,3 @@ Aquel domingo reímos, bailamos, malabareamos, hicimos pulseritas y relatamos la
 
 Este domingo no habrá relato a duo, pero Nachito andará por ahí, cosechando lo que supo sembrar. Sólo se soltó una mano. Con la otra nos lleva bien fuerte a dar algunas vueltas. Será el abrazo caracol más grande del mundo.
 
-<span id="comments"></span>

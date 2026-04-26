@@ -122,4 +122,3 @@ relampagueante y libertador.</div>
 {{ video_embed(provider="youtube", id="t9BhcgDoMEo") }}
 {% end %}
 
-<span id="comments"></span>

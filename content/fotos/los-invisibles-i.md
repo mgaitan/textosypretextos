@@ -72,4 +72,3 @@ Esta obra forma parte de la serie Los Invisibles: [Los invisibles II](@/fotos/lo
 
 {{ media_image(src="/media/jpg/DSC_0141.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

@@ -88,4 +88,3 @@ Sano y barato, eran las condiciones que más respeté. Luego venía la del menor
 
 Pero, mi querida familia, hete aquí un pequeño chantaje: si quieren comprobar con sus propios ojos y paladares esto que aquí he contado, entonces deberan hacerse presentes de cuerpo y espiritu por la húmeda capital cordobesa. Mientras tanto yo voy a servirme algo de todo lo rico que ustedes cocinaron para esta ocasión. Felíz Navidad.
 
-<span id="comments"></span>

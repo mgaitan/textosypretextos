@@ -149,4 +149,3 @@ Cosechando alegría, siempre aparecerán.</div>
 Ya subí [las fotos de la jornada](@/fotos/ii-jornadas-populares-y.md).
 {% end %}
 
-<span id="comments"></span>

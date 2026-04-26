@@ -46,4 +46,3 @@ body = "bfQue9 es un Gravatar?R: El Gravatar es un Avatar (representacif3n gre1f
 
 Despiértese, que es tarde, me grita desde la puerta un hombre extraño. Despiértese usted, que buena falta le hace, le contesto yo. Pero el muy obstinado me sigue soñando.
 
-<span id="comments"></span>

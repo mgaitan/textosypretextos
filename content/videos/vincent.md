@@ -47,4 +47,3 @@ body = "¡Muy bueno!"
 {{ video_embed(provider="youtube", id="ZH3R5ntFK3c") }}
 
 
-<span id="comments"></span>

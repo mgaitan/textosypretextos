@@ -124,4 +124,3 @@ se desgarran, se muerden, se asesinan,<br>
 resucitan, se buscan, se refriegan,<br>
 se rehúyen, se evaden y se entregan.</div>
 
-<span id="comments"></span>

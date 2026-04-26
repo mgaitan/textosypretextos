@@ -131,4 +131,3 @@ Cuelga. Me mira con los ojos desafiantes y me dice:
 -- *¿Perdón?* -- intento persuadirlo con la mirada de bueno más artificial que haya existido nunca.
 -- *Mentiste. El frasco es de 3 kilos. ¿Pesos o dólares?*
 
-<span id="comments"></span>

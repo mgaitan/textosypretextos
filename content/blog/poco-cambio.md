@@ -115,4 +115,3 @@ A Gonzáles le pareció absurdo y rió. Hacía mucho que no reía, tanto que ni 
 
 Se duchó y con su canoso pelo aun húmedo se echó en la cama y se colocó el casco. Quince minutos más tarde se convirtió en un lachorito, un insecto que suele encontrarse comiendo archivos en oficinas de AFIP.
 
-<span id="comments"></span>

@@ -257,4 +257,3 @@ canallas de adentro y afuera, sedientos, hábiles buceadores de la mierda y el l
 
 Y habrá que saber que ya no alcanzará con ser tibios, aplaudir desde casa y putear bajito. Aunque sigamos sin darle carta blanca a nadie (de eso se trata) y nuestros sueños sigan siendo grandes, perfectos, deberemos aceptar que lo poquito puede volver a ser nada. O peor que nada: puede volver a ser pesadilla.
 
-<span id="comments"></span>

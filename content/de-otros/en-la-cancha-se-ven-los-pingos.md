@@ -127,4 +127,3 @@ También es director, pero no técnico, sino de cine, de sonido, de fotografía.
 
 Seguramente hay más que estos 12 estilos sexuales masculinos, pero está bien así. No hace falta aclarar que hay hombres a los que les caben varias categorías, o que mutan de categoría en una misma noche o a lo largo de los años. No pretendo que esta clasificación sirva de algo ni que haga reflexionar a los hombres. No soy Alejandra Granpolla. La verdad que cada uno coje como puede. Quizá con algunos hombres hay esperanza porque es cierto que mejoran un poquito con la edad.
 
-<span id="comments"></span>

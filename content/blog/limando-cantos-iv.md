@@ -956,4 +956,3 @@ _Martín
 Hay más limaduras de cantos. Sólo tenés que [buscarlas](spip.php?page=recherche&recherche=limando+cantos)
 {% end %}
 
-<span id="comments"></span>

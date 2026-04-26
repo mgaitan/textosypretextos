@@ -696,7 +696,7 @@
   }
 
   .home-sidebar {
-    @apply min-w-0 lg:pl-10;
+    @apply min-w-0 lg:border-l lg:border-black lg:pl-10;
   }
 
   .home-lead {
@@ -722,10 +722,6 @@
 
   .sidebar-block {
     @apply pb-8 mb-8 border-b border-neutral-300 last:border-b-0 last:mb-0;
-  }
-
-  .home-sidebar .media-frame {
-    @apply border-t-2 border-black;
   }
 
   .comment-stack {

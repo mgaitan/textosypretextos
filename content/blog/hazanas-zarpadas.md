@@ -140,4 +140,3 @@ Apareció originalmente en la revista Eppur Si Muove, publicación del Centro de
 Luego escribí [Verdes menesteres](@/blog/verdes-menesteres.md) para la revista El Cascotazo y, más adelante, uno que tiene ausencia deliberada de la vocal "e": [Los mimos y las masas](@/blog/los-mimos-y-las-masas.md).
 {% end %}
 
-<span id="comments"></span>

@@ -77,4 +77,3 @@ nosotros en nada.<br>
 Parece que hay sales y soles,<br>
 nosotros y nada...</div>
 
-<span id="comments"></span>

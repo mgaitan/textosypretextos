@@ -73,4 +73,3 @@ Quiero hacer un agradacimiento especial a Miguel, Gustavo y Orlando que me abrie
 Un abrazo inmenso que les llegue a tod@s
 Martin.
 
-<span id="comments"></span>

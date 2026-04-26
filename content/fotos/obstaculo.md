@@ -50,4 +50,3 @@ Buenos Aires, marzo de 2007
 
 {{ media_image(src="/media/jpg/DSC_0485.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

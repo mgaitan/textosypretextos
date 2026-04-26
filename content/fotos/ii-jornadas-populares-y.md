@@ -283,4 +283,3 @@ También podés ver [las fotos de Nati](http://picasaweb.google.com/lobonatalia/
 
 {{ media_image(src="/media/jpg/DSC_1797.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

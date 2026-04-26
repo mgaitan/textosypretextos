@@ -88,4 +88,3 @@ Sabías que ayer fue el Día No Sé Qué de la Mujer, y quería decirte eso: que
 Chicas, Jorge Lanta. Leído como editorial del programa radial RompeCabezas, 9 de marzo de 1995. Publicado en el libro "Vuelta de página" Ediciones J. L. Y Asociados (1997)
 {% end %}
 
-<span id="comments"></span>

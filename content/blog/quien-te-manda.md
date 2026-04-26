@@ -126,4 +126,3 @@ Estos días he estado muy bien, conmigo y con todos, pero temo me afecte esta fa
 
 -- *"Quién te manda"*, me dijo El Chuleta, un flaco de Neuquén que conozco de la ENET 1 (hay muchos de Neuquén acá). Lo encontré en el bar de la facultad, y cruzamos dos palabras.  La  charla continuaba,  pero en segundo plano me quedé pensando en su pregunta-sentencia. Me mandan  la pasión que siento por aprender más de esto que me gusta, y esas ganas incontenibles de conocer y conocerme.
 
-<span id="comments"></span>

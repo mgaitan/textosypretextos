@@ -113,4 +113,3 @@ Pasaron los años. La morocha no conoció el amor de Frezza ni tampoco su gesto 
 Si alguien califica estas lecciones en alguna libreta celeste, Frezza tendrá
 un nueve. Y si ni siquiera existe esa libreta, entonces tendrá un diez.
 
-<span id="comments"></span>

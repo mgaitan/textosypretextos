@@ -69,4 +69,3 @@ _ Música y diseño de sonido: Cesar Catalán
 
 {{ video_embed(provider="youtube", id="PVkSg7S4n58", title="PVkSg7S4n58") }}
 
-<span id="comments"></span>

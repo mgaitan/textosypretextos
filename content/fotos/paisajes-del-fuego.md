@@ -137,4 +137,3 @@ Fotos de mi viaje a Ushuaia, Tierra del Fuego. Las galerías completas están en
 
 {{ media_image(src="/media/jpg/DSC_5043.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

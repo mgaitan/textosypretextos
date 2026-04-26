@@ -141,4 +141,3 @@ Pero antes de eso, y quizá mucho antes, por ejemplo a pocos centímetros de la 
 Parte de *Historias de Cronopios y de Famas*, 1962
 {% end %}
 
-<span id="comments"></span>

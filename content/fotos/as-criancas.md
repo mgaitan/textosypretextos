@@ -95,4 +95,3 @@ Fotos tomadas el 6 de septiembre de 2008, en una de las actividades de [Mazamorr
 
 {{ media_image(src="/media/jpg/DSC_1880.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

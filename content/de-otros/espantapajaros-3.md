@@ -73,4 +73,3 @@ Y como me dispusiera a demostrarle que lejos de cometer esas barbaridades, no he
 de *Espantapájaros*, 1932
 {% end %}
 
-<span id="comments"></span>

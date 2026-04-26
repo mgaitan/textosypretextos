@@ -76,4 +76,3 @@ Según el balance de los obreros ceramistas, la producción ascendió a más de 
 
 A los señores de TN: La normalidad no regresó; nunca se fue.
 
-<span id="comments"></span>

@@ -163,4 +163,3 @@ Fotos del Acto de Recuparación de *[La Perla](http://www.desaparecidos.org/arg/
 
 {{ media_image(src="/media/jpg/DSC_0231.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

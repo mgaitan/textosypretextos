@@ -114,4 +114,3 @@ Pero hay algo más que tiene el Gordo, que excede su capacidad de trabajo y su i
 
 Cuando yo era chico mi abuelo me enseñaba su conocimiento de anatomía. *"Cerrá el puño" * me indicaba. *"Así de grande es tu corazón"*. Creo que bien puede ser errada esta equivalencia fisionómica en el Gordo, y en vez del puño lo que tiene igual al corazón es la cabeza. Entonces creanmé que tiene mucho.
 
-<span id="comments"></span>

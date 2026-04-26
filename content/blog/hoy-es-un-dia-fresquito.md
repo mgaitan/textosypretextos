@@ -85,4 +85,3 @@ Bueno, me tengo que ir.
 
 Perdon por no contarles mucho. A la tarde vuelvo.
 
-<span id="comments"></span>

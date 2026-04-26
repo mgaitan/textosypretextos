@@ -123,4 +123,3 @@ Leí en algún lado que la mejor inteligencia es la que nos ayuda a ser más fel
 
 Necesito ser distinto, como todos. Necesito ser yo y necesito ser parte. No se trata de la ropa, del pelo o los zapatos. Se trata de que me niego a cerrar los ojos, y aunque duela, quiero tenerlos abiertos para encontrar a los muchos como yo.
 
-<span id="comments"></span>

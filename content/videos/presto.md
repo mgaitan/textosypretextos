@@ -53,4 +53,3 @@ body = "Aqued se suscitan dos temas. El pemrrio es si puedo ver exclusivamente t
 Presto es un corto animado de Pixar, que se distribuyó junto al largometraje WALL-E tanto en el cine como en las ediciones en DVD. Su creador, [Doug Sweetland](http://en.wikipedia.org/wiki/Doug_Sweetland), es uno de los animadores más antiguos de la compañia,
 
 
-<span id="comments"></span>

@@ -72,4 +72,3 @@ Nube desconfió y exigió:
 
 Uno de los mellizos envío a la tierra un relámpago. El otro, un trueno. Como Nube todavía dudaba, atravesaron una inundación y salieron intactos. Entonces Nube les hizo un lugar a su lado, entre sus muchos hermanos y sobrinos.
 
-<span id="comments"></span>

@@ -52,4 +52,3 @@ body = "Las palabras son como monedas, que una vale por muchas como muchas no va
 La foto que acompaña a esta entrada es de mi autoría, y forma parte de la [->157]
 {% end %}
 
-<span id="comments"></span>

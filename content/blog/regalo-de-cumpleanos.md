@@ -91,4 +91,3 @@ La cosa viene más o menos así: como el mundo está enloquecedor, hay que cuida
 
 Vino a darnos una manito, la misma que tiene manchada con sangre.
 
-<span id="comments"></span>

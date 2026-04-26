@@ -201,4 +201,3 @@ Pero no le alcanzó. Mi colaborador, Manu Ginóbili, ganó el Anillo de la NBA l
 
 Si me preguntaran diría que sí, que estoy cansado. Pero no puedo detenerme. Esta carrera es cruel por naturaleza, no tiene línea de llegada ni cinta para cortar con el abdomen en pose de esfuerzo. Mi carrera secreta terminará cuando uno de los dos pierda. Será cuando Martín Gaitán, el perdedor, sea confinado a las catacumbas del olvido, que queda en la séptima O de Goooooo**o**ogle, o más allá.
 
-<span id="comments"></span>

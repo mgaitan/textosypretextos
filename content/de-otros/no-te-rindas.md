@@ -1238,4 +1238,3 @@ porque yo te quiero.</div>
 
 [[No estoy seguro sobre la autoría de este poema, así que acepto la que le asignan algunos foros a Mario Benedetti]]
 
-<span id="comments"></span>

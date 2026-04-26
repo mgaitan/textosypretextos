@@ -65,4 +65,3 @@ body = "Linda contribución a los debates sobre eutanasia :-)"
 
 Cortometraje de animación nominado al Premio Goya 2010 y al Premio Oscar 2010.
 
-<span id="comments"></span>

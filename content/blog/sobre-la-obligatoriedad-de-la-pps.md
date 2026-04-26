@@ -142,4 +142,3 @@ Este artículo forma parte del apartado *"Balance y conclusiones"* del Infome Fi
 
 {{ media_file(url="http://lab.nqnwebs.com/descargas/informe_practica_supervisada0.3.pdf", title="Práctica Profesional  Supervisada -  Informe Final") }}
 
-<span id="comments"></span>

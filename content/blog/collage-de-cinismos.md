@@ -172,4 +172,3 @@ Treber pinta con resaltador la falacia implícita en lo que significan "ingresos
 
 > *"En la Argentina, el proceso de polarización de la riqueza ha hecho que el 10% de la población que está en la cúspide sea el único ganador, y el 90% restante -en distintas proporciones- sea el de los perdedores"*
 
-<span id="comments"></span>

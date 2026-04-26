@@ -207,4 +207,3 @@ Es terrible extrapolar lo que dirá la prensa de derecha, principalmente la TV, 
 
 Acaba de morir una familia más en Jabalia; un tanque israelí derribó su vivienda. En algo tiene razón la muchacha: es imposible vivir así.
 
-<span id="comments"></span>

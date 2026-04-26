@@ -84,4 +84,3 @@ La señora Smithson, de Londres (estas historias siempre ocurren entre ingleses)
 
 El señor Smithson comprendió que su mujer no bromeaba. Perdió el sueño y el apetito. Enfermó del corazón, del sisema nervioso y de la cabeza. Seis meses después falleció. Euphemia Smithson, que era una mujer piadosa, le agradeció a Dios haberla librado de ser una asesina.
 
-<span id="comments"></span>

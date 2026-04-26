@@ -199,4 +199,3 @@ En dónde sea que estés, quería que tuvieras esta carta. Algo mío, más allá
   </div>
 </div>
 
-<span id="comments"></span>

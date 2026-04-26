@@ -113,4 +113,3 @@ Un guagua gatea entre mis piernas mientras su mamá habla por teléfono en la ca
 
 Ahora lo entiendo: la paz está en mi.
 
-<span id="comments"></span>

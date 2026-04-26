@@ -138,4 +138,3 @@ Giro un simple compás y en un círculo yo hago el mundo...<br>
 (Que descolorará!)</div>
 
 
-<span id="comments"></span>

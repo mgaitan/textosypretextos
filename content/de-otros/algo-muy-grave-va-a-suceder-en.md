@@ -130,4 +130,3 @@ Huyen en un tremendo y verdadero pánico, como en un éxodo de guerra, y en medi
 Nota: En un congreso de escritores, al hablar sobre la diferencia entre contar un cuento o escribirlo, García Márquez contó lo que sigue, "Para que vean después cómo cambia cuando lo escriba".
 {% end %}
 
-<span id="comments"></span>

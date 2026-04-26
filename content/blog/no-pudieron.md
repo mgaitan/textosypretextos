@@ -153,4 +153,3 @@ Se vieron, por primera vez en sus vidas sabiendo quienes eran, esa misma noche. 
 
 {{ video_embed(provider="youtube", id="sANS2sWSkeo") }}
 
-<span id="comments"></span>

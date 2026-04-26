@@ -145,4 +145,3 @@ Siguió hablando, pero ya no sé bien qué. Todo se volvió lento, no había son
 
 Lo triste es que no existen pólizas de seguro para este tipo de choques. Que injusticia.
 
-<span id="comments"></span>

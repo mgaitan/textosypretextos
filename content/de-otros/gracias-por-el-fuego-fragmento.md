@@ -93,4 +93,3 @@ Lo único seguro es que estás exisitiendo, Dolores, en algún rincón de este d
 *De la novela «Gracias por el fuego», de Mario Benedetti. El poema que encabeza el fragmento es, por supuesto, de la autoría de Benedetti y se titula «Corazón Coraza».*
 {% end %}
 
-<span id="comments"></span>

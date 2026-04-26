@@ -95,4 +95,3 @@ En esos escenarios aparecen, tremendas, levantándose apenas el vestido de algod
 Publicado en la antología "En celo", editorial Mondadori, Bs. As., 2007
 {% end %}
 
-<span id="comments"></span>

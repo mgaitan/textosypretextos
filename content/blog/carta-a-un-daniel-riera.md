@@ -176,4 +176,3 @@ Ignoro si quien lo hizo es una persona que lleva mi nombre o alguien que quiso g
 Un abrazo grande y suerte con la rubita.
 _ Daniel Riera (uno entre muchos).
 
-<span id="comments"></span>

@@ -83,4 +83,3 @@ Con el deporte (y el fútbol en particular), que entre lo poco es lo que más ve
 
 Gente, me despido porque empieza un partido y una serie de estreno. Son a la misma hora pero por suerte tengo dos teles.
 
-<span id="comments"></span>

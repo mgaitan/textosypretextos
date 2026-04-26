@@ -105,4 +105,3 @@ _ * -- La dictadura pegó muy duro acá, se perdió mucha gente, algo que dolió
 
 Me acordé de este diálogo ayer, cuando charlaba sobre esta apatía con Laura, la Pety.  Me afirmaba que ella iba a la facultad *"a estudiar"*, y que si todos hicieran eso, este país no estaría como está. Cuando esa discusión moría con más pena que gloria, alguien comenzaba a contar sobre las cirujias estéticas que se haría si le alcanzara el dinero.
 
-<span id="comments"></span>

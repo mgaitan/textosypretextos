@@ -50,4 +50,3 @@ body = "Buenísimo!! Me encantó"
 
 {{ media_file(url="http://www.metacafe.com/fplayer/1677122/fallen.swf", title="fallen.swf") }}
 
-<span id="comments"></span>

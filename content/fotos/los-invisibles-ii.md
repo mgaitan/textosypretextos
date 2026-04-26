@@ -50,4 +50,3 @@ Esta obra forma parte de la serie Los Invisibles: [Los invisibles I](@/fotos/los
 
 {{ media_image(src="/media/jpg/DSC_0130_reduc.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

@@ -54,4 +54,3 @@ body = "Esa historia es absolutamente HORRIBLE!!!  Es nino trabaja si quejarse..
 
 {{ media_image(src="/media/jpg/invitacion_cocalero.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

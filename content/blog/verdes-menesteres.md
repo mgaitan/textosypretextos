@@ -107,4 +107,3 @@ El cuento me lo pidieron porque les había gustado [este otro](@/blog/hazanas-za
 Tiempo después escribí un lipograma que es la antítesis de este, con ausencia deliberada de la vocal *e*: [Los mimos y las masas](@/blog/los-mimos-y-las-masas.md).
 {% end %}
 
-<span id="comments"></span>

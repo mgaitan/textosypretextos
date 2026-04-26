@@ -106,4 +106,3 @@ Como un antídoto reconfortante me llegan emails de mis amigos Edgardo y David, 
 
 Ayer fue un gran día, compañeros. Gracias por haberlo hecho así.
 
-<span id="comments"></span>

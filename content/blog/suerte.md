@@ -134,4 +134,3 @@ Me puso muy triste esto.  No puedo evitar acordarme de mis abuelos y de verles s
 
 Sé que la rubia no tiene la culpa, pero es toda una postal mirada desde esta altura: sábado 4 de la tarde,  el sol satanizado contra el asfalto y nosotros pagando los platos de semejante calor.  La rubia toma sol boca arriba y se pone crema a cada instante. Mientras tanto, justo enfrente, en uno de los edificios en construcción, tres obreros acarrean en sus hombros bolsas de cemento y de cal. Como mi viejo, que también se rompe el lomo laburando, ellos tienen *"suerte"* de tener trabajo.
 
-<span id="comments"></span>

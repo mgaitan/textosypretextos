@@ -102,4 +102,3 @@ su humildad tropezaba con fantásticas conquistas en el colegio nocturno, aquell
 
 Cuando llegamos a Córdoba lo invité a mi departamento. Eran las 8 de la mañana y recién a las 2 de la tarde tomaba el Chevallier a su casa. La razón de semejante desvío --en vez de ir directo por Mendoza y San Juan--  era sencilla: la caja de manzanas que el Ingeniero le había autorizado a llevar iba junto a su escaso equipaje. Según le habían advertido, por Mendoza no dejaban pasar frutas ni verduras y no era cuestión que un inspector boicotee el regalo para su madre.
 
-<span id="comments"></span>

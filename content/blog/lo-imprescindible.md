@@ -94,4 +94,3 @@ Llegaron rumores, comentarios, hipótesis. Que por navegar en internet, que por 
 
 Se volvió a Neuquén, abandonando su carrera de ingeniería en la UTN, que de todos modos y a falta de un clon o algún superpoder, sólo tenía en la mira.  Allá intentará, en renovado escenario, arrancar de nuevo. Es el mismo (y quizás más cínico) capitalismo, pero con la contención de su familia y su gente.  Chau hormiguistas, chau puente, chau mierda del Riachuelo. Se va con poco de lo que fue a buscar, pero lo imprescindible: la tranquilidad de haber dejado todo, contra muchas fomentadas adversidades, y el orgullo no haber perdido en esa lucha cotidiana sus ganas, su humildad y ese enorme corazón que tiene.
 
-<span id="comments"></span>

@@ -96,4 +96,3 @@ y caramelo.</div>
 Escrito por Yamandú Cardozo y e interpretado por Fredy Bessio. Del espectáculo *El Viaje*, ganador del carnaval 2008.
 {% end %}
 
-<span id="comments"></span>

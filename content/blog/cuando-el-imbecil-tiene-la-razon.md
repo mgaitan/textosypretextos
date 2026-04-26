@@ -118,4 +118,3 @@ Logré pedirle disculpas haciéndole notar que probablemente tenía razón pero 
 
 {{ media_image(src="/media/png/jefe-gorgory.png", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

@@ -178,4 +178,3 @@ Este texto fue un email a muchos destinatarios que envié el 4 de ferebro de 200
 Lo publico aquí, por varios motivos: primero porque siento que este debería ser su *habitat natural*;en febrero este weblog seguía cerrado por melancolía y recién tiempo después encontré las llaves de su alegría. Segundo porque es una forma, torpe y pasiva pero llena de sentimiento, de solidarizarme con el Pueblo Boliviano, en [esta lucha](http://todosconbolivia.org/) que se sigue agudizando. Y tercero, porque hay una continuación que pronto publicaré.
 {% end %}
 
-<span id="comments"></span>

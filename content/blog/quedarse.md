@@ -364,4 +364,3 @@ Mariano reía sentado en el escalón de la puerta, más tranquilo, disfrutando l
 
 Y yo sacaba fotos y filmaba, intentando, quizás, que el display me confirmara lo que mis ojos, todavía aturdidos, no se animaban solos: que todo eso era verdad y que quedarse valía la pena.
 
-<span id="comments"></span>
