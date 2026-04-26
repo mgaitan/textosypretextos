@@ -42,7 +42,7 @@ comments = []
 
 Me encontré un termo pequeño marca Thermos, de esos que tienen un botón que al presionarlo se abre la tapa y queda el vertedor libre. Estaba con mi viejo y dos miembros del personal de su escuela de Yoga, paseando por Montreal. Salíamos de una iglesia enorme y lo vi bajo un banco, en el ala izquierda. No había nadie. Claramente se lo habían olvidado. Dudé entre un segundo o seis meses y finalmente lo agarré. Era negro, nuevito, hermoso. Un sticker informaba sobre sus 24 horas de conservación de temperatura.
 
-Había llevado la mochila sin evidente utilidad durante todo el día, pero en esa última parada de turismo relámpago la había dejado en el auto. Sabiendo que si Dios no había visto mi acto in fraganti por el circuito cerrado de la iglesia, bien podría ver la evidencia en mi mano, caminé rápido hasta integrarme al malón.
+Había llevado la mochila sin evidente utilidad durante todo el día, pero en esa última parada de turismo relámpago la había dejado en el auto. Sabiendo que si Dios no había visto mi acto *in fraganti* por el circuito cerrado de la iglesia, bien podría ver la evidencia en mi mano, caminé rápido hasta integrarme al malón.
 Mis acompañantes me habían visto todo el día acarrear una botellita de 500ml descartable de agua "Pure vie" que llené no una sino dos veces, una de ellas desde el bidón que cargamos estratégicamente en el baúl antes de salir. Es decir, no había manera de justificar el cambio de recipiente salvo un milagro express de Saint Joseph.
 
 Era agua, pero estaba jugabando con fuego. Dos fuegos: la moral paralizante canadiense, la vergüenza inquisidora de Vyasa Gaitán, mi viejo. Pero la botella era tan linda.
@@ -56,7 +56,7 @@ Pero supe entonces que no podría perpetuar el disimulo y tuve que enfrentar la 
 
 — Mirá lo que me encontré, pa. Estaba abajo de un banco. Al final estos canadienses se hacen, pero compran y tiran igual que los yanquis.
 
-Hizo su sonrisa nerviosa como toda respuesta a mi chascarrillo, pero era claro que no tendría su venía. Quizás los yoguis acepten aviones privados, Alfa Romeos, "asistentes" personales cama adentro o hectáreas de bosque privado, pero una botella es mera ilusión, una trampa de Maya, no habrá realización en ella ni en sus 24 horas de frío-calor.
+Hizo su sonrisa nerviosa como toda respuesta a mi chascarrillo, pero era claro que no tendría su venia. Quizás los swamis acepten aviones privados, Alfa Romeos, "asistentes" personales cama adentro o hectáreas de bosque privado, pero una botella es mera ilusión, una trampa de Maya, no habrá realización en ella ni en sus 24 horas de frío-calor.
 
 Más y más fotos. Me cago en el Mount-Royal de Montreal y su gran vista. Mi papá rumia, bruxa. Lo he puesto en un aprieto que los vedantas no explicaron ni en metáforas, agravado por el hecho de que ahora es él quien tiene el termo en las manos.
 
