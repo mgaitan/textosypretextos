@@ -308,4 +308,3 @@ Martin.
 Hay otra discusión en la lista de computación publicada en el blog: [Limando cantos II](@/blog/limando-cantos-ii.md).
 {% end %}
 
-<span id="comments"></span>

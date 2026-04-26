@@ -301,4 +301,3 @@ Casi les doy el gusto.
 Este relato está basado en hechos reales del 31 de marzo de 2008 . Podés leer la [noticia de La Voz del Interior](http://www2.lavoz.com.ar/08/04/01/secciones/economia/nota.asp?nota_id=176625)  y escuchar las [declaraciones del jefe de policía](http://www.cadena3.com/post_ampliado.asp?post=2477). También <a href="http://www2.lavoz.com.ar/anexos/imagen/08/75938.JPG" class="thickbox"  rel="fot">algunas</a> <a href="http://www2.lavoz.com.ar/anexos/imagen/08/75939.JPG" class="thickbox" rel="fot">fotos</a>.
 {% end %}
 
-<span id="comments"></span>

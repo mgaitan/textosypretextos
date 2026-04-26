@@ -162,4 +162,3 @@ Conste que el texto está absolutamente condicionado por las comparaciones (y/o 
 > Me queda el salvavidas de siempre cuando la melancolía me invade: mi libro favorito, baño y llave. Pero la conspiración que vive dentro mio atraviesa cualquier puerta y entonces la inspiración queda tan lejos como un suspiro dulce y melancólico. Justo a mis espaldas, sobre la pared del inodoro donde estoy sentado, un obrero golpea fuerte para construir el décimo piso del edificio nuevo, destruyendo los cimientos de mi tranquilidad.
 > No puedo más. Estallo en un ladrido agrio y doloroso como un abuelo en la calle.
 
-<span id="comments"></span>

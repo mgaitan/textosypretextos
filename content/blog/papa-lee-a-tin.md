@@ -88,4 +88,3 @@ Esa tarde en la terminal nos dimos un abrazo, pero quizás no fue el que más ta
 
 Uso internet desde hace mucho, pero nunca la valoré tanto como ahora, que me permite comunicarme con los que quiero. No tengo nostalgia, ni extraño, pero la distancia por si sola te muestra todo lo que signfica una familia como la mía, y hace agraceder a ese dios que no existe por tenerla.
 
-<span id="comments"></span>

@@ -82,4 +82,3 @@ Juan y Joaco (mi hermano y su hijo). Fotos tomadas en febrero de 2008, en la fie
 
 {{ media_image(src="/media/jpg/DSC_0310.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

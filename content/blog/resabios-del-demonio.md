@@ -324,4 +324,3 @@ Pase lo que pase, la lucha siempre continuará, mientras la memoria del pueblo n
 
 {{ media_image(src="/media/jpg/67905-SRA.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

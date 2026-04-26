@@ -125,4 +125,3 @@ Pasó el tiempo y me sortearon para la colimba. Me tocó tierra y tuve que bajar
 
 A veces, cuando estoy en las alturas, con mi vianda, me doy cuenta de lo increíble que fue que me dejara acompañarlo y aprender el oficio. Porque el vértigo de los techos es una disciplina para personas solitarias. Para animales fabulosos. No se necesita a nadie acá arriba.
 
-<span id="comments"></span>

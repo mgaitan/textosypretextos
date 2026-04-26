@@ -71,4 +71,3 @@ Film de Alison de Vere. Visto en el blog de [Luis Beltrán](http://www.luisbeltr
 
 {{ external_embed(provider="veoh", url="http://www.veoh.com/videodetails2.swf?player=videodetailsembedded&type=v&permalinkId=v63495735q2qtYFd", title="videodetails2.swf") }}
 
-<span id="comments"></span>

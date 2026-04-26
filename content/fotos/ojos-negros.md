@@ -54,4 +54,3 @@ Foto tomada el 8 de febrero, en [el cumpleaños de Dalma](@/blog/felices-quince.
 
 {{ media_image(src="/media/jpg/nino_bn.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

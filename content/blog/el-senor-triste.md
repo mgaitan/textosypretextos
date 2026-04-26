@@ -105,4 +105,3 @@ Cada vez que pasaba por allí, generalmente untándome protector de sol y subié
 
 Muchos días después, arrepentido de nunca haber ingresado a ese local aunque sea para mover al hombre triste de su erguida posición tras el mostrador, me acordé de él. Y súbitamente comprendí que la tristeza de su mirada no tenia nada que ver con su fracaso comercial, mas al contrario, su fracaso comercial tenia que ver con la tristeza del mundo.
 
-<span id="comments"></span>

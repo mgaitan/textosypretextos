@@ -943,4 +943,3 @@ Son interesantes tu preguntas, y aunque a algunas no las entiendo del todo,
 Hay otra discusión en la lista de computación publicada en el blog: [Limando cantos I](@/blog/limando-cantos-i.md).
 {% end %}
 
-<span id="comments"></span>

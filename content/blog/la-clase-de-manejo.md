@@ -89,4 +89,3 @@ Dobla cerrado por Independecia y acelera para pasar en amarrillo el último sem�
 
 -- ¿En serio no querés manejar?
 
-<span id="comments"></span>

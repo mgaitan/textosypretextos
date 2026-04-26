@@ -164,4 +164,3 @@ Son buenas razones para seguir haciendo camino, ¿cierto?
 **(*)** *Fe de Ratas: Unos herejes afirman en los comentarios que Cristo se murió a los 33, o sea 10 años después de cuando yo lo di por finado. ¿Y cómo saben? ¿eh?  ¡Muestren evidencia fideligna!. Es su palabra contra la mía!  
 De todas maneras, que bruto soy. Así nunca me voy a levantar a la monja que toma el colectivo en la esquina de mi casa, y está tan buena. Aunque... ¿por qué no?*
 
-<span id="comments"></span>

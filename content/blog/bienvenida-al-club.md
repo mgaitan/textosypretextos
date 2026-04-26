@@ -340,4 +340,3 @@ un admirador no tan secreto.
 
 <div><span class\u003d\"gmail_quote\">El día 16/07/05, <b class\u003d\"gmail_sendername\">aitana castro</b> <<a href\u003d\"mailto:aitana451@hotmail.com\" target\u003d\"_blank\" onclick\u003d\"return top.js.OpenExtLink(window,event,this)\">aitana451@hotmail.com</a>> escribió:</span>",1] );  //--></script> Beso grande y dulce.
 
-<span id="comments"></span>

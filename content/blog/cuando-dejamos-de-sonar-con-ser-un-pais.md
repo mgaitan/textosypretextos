@@ -291,4 +291,3 @@ Puede no gustarte como al profe Capdevila, pero es claro que hay uno,
 exitoso en términos fácticos y apoyado por más de la mitad del pueblo, mezcla de haitiano y francés, bien argentino. Deberás preguntarte entonces,
 "¿Qué es lo que sucedió... que yo no estoy viendo?"
 
-<span id="comments"></span>

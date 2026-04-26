@@ -128,4 +128,3 @@ sueñero, duermete y dame calma...</div>
 
 {{ media_audio(src="/media/mp3/12_-_Suenero.mp3", title="12_-_Suenero.mp3") }}
 
-<span id="comments"></span>

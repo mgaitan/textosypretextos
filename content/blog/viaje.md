@@ -95,4 +95,3 @@ Pero esto no es una novela, mis queridos, y entonces no tiene final feliz. Sepan
 Fue así que mientras bajaba sus bolsos, ella se besaba en la dársena lindante con un novio feo, muy feo, con cara de mal tipo y que seguro la engaña. Pero 
 lo peor de ese tipo, es que no era yo. Depués se acercó, y me regaló un "Chau Martin, nos vemos. Un gusto eh!".
 
-<span id="comments"></span>

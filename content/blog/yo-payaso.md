@@ -488,4 +488,3 @@ Acá algunos fragmentos de la presentación que, como verán, salió bastante im
 {{ video_embed(provider="youtube", id="videoseries") }}
 {% end %}
 
-<span id="comments"></span>

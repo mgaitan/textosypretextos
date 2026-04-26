@@ -105,4 +105,3 @@ En estos últimos días me cerraron un sitio de internet (que era mi única mejo
 
 Ya me dio sueño. Pero acaba de sonar el despertador.
 
-<span id="comments"></span>

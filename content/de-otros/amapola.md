@@ -88,4 +88,3 @@ Interpretada por Juan Quintero en [->art399]
 {{ video_embed(provider="youtube", id="BRWVs0VWhWs") }}
 {% end %}
 
-<span id="comments"></span>

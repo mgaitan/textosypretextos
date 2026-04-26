@@ -79,4 +79,3 @@ Nosotros, mujeres y hombres, a través de la Asamblea Constituyente y con el pod
 
 Honor y gloria a los mártires de la gesta constituyente y liberadora, que han hecho posible esta nueva historia.
 
-<span id="comments"></span>

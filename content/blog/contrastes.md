@@ -108,4 +108,3 @@ Con la ayuda de muchos amigos (Anna, Xtian, Jim, Renzo y David, gracias!) subtit
 {{ video_embed(provider="youtube", id="sv4xjxcNYqk") }}
 
 
-<span id="comments"></span>

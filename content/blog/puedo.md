@@ -70,4 +70,3 @@ y no olvidarme de los días siete<br>
 pero sé que no son estas las razones<br>
 porque no querés enamorarte de otro</div>
 
-<span id="comments"></span>

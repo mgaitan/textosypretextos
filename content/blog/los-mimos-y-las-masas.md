@@ -103,4 +103,3 @@ Este texto fue presentado en el [taller de escritura](@/blog/el-taller-gimnasio-
 Fue publicado originalmente en este blog el 9 de mayo de 2005.
 {% end %}
 
-<span id="comments"></span>

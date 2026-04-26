@@ -66,4 +66,3 @@ Pero llegó el final, o algo que se le parece, y cayeron por el peso de su misma
 
 Será un esfuerzo, es patear la pelota para adelante, y me queda el sinsabor de que mi inactividad académica -no de estudio- continuará hasta, al menos, mediados de marzo. Pero al menos sé, aún día de volver a Neuquén, que no fue en vano este tiempo y fue buena decisión quedarme a pelearla. Tuve el aguante de Andrea y Daniel y el de mi familia siempre atenta al asunto. Esta especie de "triunfo", también es de ellos.
 
-<span id="comments"></span>

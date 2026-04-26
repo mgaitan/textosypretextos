@@ -78,4 +78,3 @@ Album completo en [Picasa](http://picasaweb.google.com/gaitan/AmaichaInvierno200
 
 {{ media_image(src="/media/jpg/DSC_6452.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

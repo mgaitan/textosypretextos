@@ -54,4 +54,3 @@ body = "Bom dia Nepomuceno,Bem, como estou comee7ando ainda a dar os primeiros p
 
 *Paseo* es un cortometraje de Arturo Ruiz Serrano. Nominado al Goya 2008. Con la actuación de José Sacristán. Paco Tous y Carlos Santos.
 
-<span id="comments"></span>

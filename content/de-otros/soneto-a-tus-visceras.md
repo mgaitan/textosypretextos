@@ -84,4 +84,3 @@ Quiero gastar tus vísceras a besos,<br>
 vivir dentro de ti con mis sentidos…<br>
 yo soy un sapo negro con dos alas.</div>
 
-<span id="comments"></span>

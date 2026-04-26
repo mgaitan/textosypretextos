@@ -81,4 +81,3 @@ body = "Hola Martin Sabatella soy Alejandra, de la localidad de Merlo,el sabado 
 
 {{ video_embed(provider="vimeo", id="2453057", title="moogaloop.swf") }}
 
-<span id="comments"></span>

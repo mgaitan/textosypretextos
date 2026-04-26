@@ -204,4 +204,3 @@ Cobarde, no contesté cuando debí, pero mas vale tarde que nunca:
 
 Yo también Cele. Pero a riesgo de sonar empalagosamente cursi, me bastará mirar al cielo y encontrarte, cómplice y con lo ojitos brillantes como siempre.
 
-<span id="comments"></span>

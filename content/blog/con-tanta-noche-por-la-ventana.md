@@ -181,4 +181,3 @@ Te escribo, con tanta noche por la ventana, amándote suavecito.
 *Correo enviado el domingo 11 de diciembre de 2011*.
 {% end %}
 
-<span id="comments"></span>

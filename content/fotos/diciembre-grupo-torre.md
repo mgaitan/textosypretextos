@@ -211,4 +211,3 @@ _ Intervención teatral basada en la obra *Diciembre*, de Laura Ferraris.  Ciuda
 
 {{ media_image(src="/media/jpg/DSC_7115.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

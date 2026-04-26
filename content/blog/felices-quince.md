@@ -160,4 +160,3 @@ Allá quedó la alegría, recién comenzada, polvareda enredada de felices quinc
 Agradecimiento especial a la más hermosa y sagaz correctora: a Nati, que me puso, literalmente, los puntos sobre las íes.
 {% end %}
 
-<span id="comments"></span>

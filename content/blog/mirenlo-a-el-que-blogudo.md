@@ -226,4 +226,3 @@ Por supuesto, en estos momentos donde las mieles de la fama golpean a mi puerta,
 alentando y sobre todo comentando.  Los que no, sientansé culpables carajo.
 {% end %}
 
-<span id="comments"></span>

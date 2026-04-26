@@ -120,4 +120,3 @@ Creo que igual el gancho está en otro lado. Creo que quizás el primer gancho s
 Entrevista realizada a mediados de 2006, y publicada en [Efecto Tábano](@/blog/un-cuaderno-en-el-cajon.md) en febrero de 2007.
 {% end %}
 
-<span id="comments"></span>

@@ -143,4 +143,3 @@ sigue bregando dulce y tenaz por la dicha del hombre.</div>
 <p>
 A las seis de la tarde, mientras una voz militante leía su poema en un barrio pobre de Córdoba, su cuerpo moría en una habitación de Montevideo. En ese instante, no lo detuvo la distancia ni la despedida. Como ayer, como siempre, sigue bregando, dulce y tenaz, por la dicha del hombre.</p>
 
-<span id="comments"></span>

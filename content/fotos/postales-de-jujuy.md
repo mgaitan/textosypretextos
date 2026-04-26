@@ -122,4 +122,3 @@ un mate de larga duración.
 
 {{ media_image(src="/media/jpg/__DSC_0046.JPG.jpg", alt="1", caption="1", align="center") }}
 
-<span id="comments"></span>

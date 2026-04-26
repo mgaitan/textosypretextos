@@ -102,4 +102,3 @@ La sanata introductoria habitual tuvo el toque de color cuando el Ingeniero (con
 
 Cansado por la falta de costumbre (que nunca tuve, no crean)  terminé mi primer día académico bastante tarde. Volví entonces a mi hogar, sobreviviente de un nuevo primer día.
 
-<span id="comments"></span>

@@ -68,4 +68,3 @@ Yo, si se quiere, era el villano de la historia.
 
 Llegamos a Neuquén y ayudé a descargar las cosas en el departamento que queda a una cuadra de la facultad. Me presentó a dos chicas con quien comparte el departamento (ahora me contó que son tres). Tomamos una cerveza, y Juan me agradeció con un abrazo fuerte, como si hubiese hecho algo más que una mudanza.
 
-<span id="comments"></span>

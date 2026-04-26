@@ -174,4 +174,3 @@ sentirás del otro lado de las nubes. Donde te espero.
 Córdoba, 5 de diciembre de 2011
 {% end %}
 
-<span id="comments"></span>

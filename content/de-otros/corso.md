@@ -63,4 +63,3 @@ Al rato nos encontramos con el Ángel en la estación, el Ángel hace como que m
 Publicado en *Los Oficios Terrestres*, 1965
 {% end %}
 
-<span id="comments"></span>

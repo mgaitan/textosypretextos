@@ -105,4 +105,3 @@ Bruno Bimbi (34) es periodista, profesor de portugués, máster en Letras por la
 Escribe el blog [Tod@s en la web de TN](http://blogs.tn.com.ar/todxs/) . / Tw: [@bbimbi](http://twitter.com/bbimbi)
 {% end %}
 
-<span id="comments"></span>

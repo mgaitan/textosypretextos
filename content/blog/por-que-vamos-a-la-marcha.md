@@ -107,4 +107,3 @@ De esta crisis, no menos grave porque se la niegue, sólo se sale con más democ
 
 *Hugo Yasky, Martín Sabbatella, Horacio Verbitsky, Laura Conte, Juan Gelman, Adrián Paenza, Eduardo de la Serna, Abraham Gak, Juan Pablo Paz, Carlos Heller, Horacio González, Nicolás Casullo, Lilia Ferreyra, Ana Cacopardo, Victorio Paulón, Stella Maldonado, Roberto Baradell, Carlos De Feo, Juan Carlos Junio, Alejandro Dolina, Juano Villafañe, Vicente Battista.*
 
-<span id="comments"></span>

@@ -58,4 +58,3 @@ Pero estás, Julio, pero estás.
 
 {{ external_embed(provider="googlevideo", url="http://video.google.com/googleplayer.swf?docid=-3562250863327291954&hl=es&fs=true&initialTime=105", title="googleplayer.swf") }}
 
-<span id="comments"></span>

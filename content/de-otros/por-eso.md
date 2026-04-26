@@ -66,4 +66,3 @@ por eso yo te viento y tú me crines<br>
 por eso te crepúsculo y me auroras<br>
 por eso yo te cielo y tú me golondrinas</div>
 
-<span id="comments"></span>

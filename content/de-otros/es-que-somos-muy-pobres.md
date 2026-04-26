@@ -583,4 +583,3 @@ Y Tacha llora al sentir que su vaca no volverá porque se la ha matado el río. 
 
 Yo la abrazo tratando de consolarla, pero ella no entiende. Llora con más ganas. De su boca sale un ruido semejante al que se arrastra por las orillas del río, que la hace temblar y sacudirse todita, y, mientras, la creciente sigue subiendo. El sabor a podrido que viene de allá salpica la cara mojada de Tacha y los dos pechitos de ella se mueven de arriba abajo, sin parar, como si de repente comenzaran a hincharse para empezar a trabajar por su perdición.
 
-<span id="comments"></span>

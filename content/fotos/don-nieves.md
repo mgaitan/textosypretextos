@@ -77,4 +77,3 @@ Don Nieves Martínez vive en un puesto a unos 15 kilómetros de Amaicha del Vall
 
 {{ media_image(src="/media/jpg/61680009.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

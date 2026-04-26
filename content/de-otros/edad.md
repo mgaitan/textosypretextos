@@ -52,4 +52,3 @@ Y al cabo de los ochocientos años quizá se empezase a saber cómo habría que 
 
 Un programa honesto requiere ocho mil años...
 
-<span id="comments"></span>

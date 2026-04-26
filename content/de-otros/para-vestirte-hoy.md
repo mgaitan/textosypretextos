@@ -52,4 +52,3 @@ body = "hermoso tema... muy dulce, cual es el adjetivo que describe lo dulce que
 
 {{ media_audio(src="/media/mp3/10._Para_vestirte_hoy.mp3", title="10._Para_vestirte_hoy.mp3") }}
 
-<span id="comments"></span>

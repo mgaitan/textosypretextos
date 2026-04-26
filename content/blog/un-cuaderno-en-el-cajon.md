@@ -190,4 +190,3 @@ amigos y cuando llegó el momento de regalarle la pelota dijo "hola
 nueva amiga". Serafín le puso el nombre "Cloti" y con Cloti y con ella
 jugaba, saltaba y hasta la abrazaba. Cloti fue una pelota histórica.
 
-<span id="comments"></span>

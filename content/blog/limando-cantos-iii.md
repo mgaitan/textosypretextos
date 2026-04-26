@@ -292,4 +292,3 @@ Hay más limaduras de cantos en los archivos. Sólo [tenés que buscarlas](/spip
 
 {{ media_image(src="/media/gif/2h3z9l5.gif", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

@@ -300,4 +300,3 @@ Ella acepta y la peina con la boca apretada; quizás intenta contener el llanto.
 Crónica publicada originalmente en la revista Gatopardo, México, en el año 2007 y luego  en "Historia de una mujer bomba y otros relatos, antología de crónica de la Universidad Adolfo Ibáñez" de Chile.
 {% end %}
 
-<span id="comments"></span>

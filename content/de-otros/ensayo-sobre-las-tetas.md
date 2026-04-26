@@ -76,4 +76,3 @@ Quizá las tetas no sean indispensables, pero dan alegría. Por suerte, las arge
 publicado en la revista <em>Brando</em>, Buenos Aires, noviembre 2006
 {% end %}
 
-<span id="comments"></span>

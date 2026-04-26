@@ -71,4 +71,3 @@ body = "gracias por los videos, que han despertado un montón de gente.\nEn mi h
 Visto en el gran blog cordobés [La Runfla de Rufianes](http://larunfla.blogspot.com).
 {% end %}
 
-<span id="comments"></span>

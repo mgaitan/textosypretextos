@@ -230,4 +230,3 @@ Te mando un abrazo hno, nos vemos
 
 Mariano
 
-<span id="comments"></span>

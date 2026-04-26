@@ -82,4 +82,3 @@ Saco una foto a la ciudad amaneciendo, y otra a los que siguen de fiesta  y lueg
 
 El sol está imponente, hacen falta cortinas. Nico acaba de bajar la persiana y entoces reacciono que mi cara se estaba quemando. Se nota que  va a ser un día precioso, pero lamentablemente en un rato mi cuerpo no resistirá más y caerá redondo en la cama, y lo peor, la morocha no va estar ahí, porque yo seguiré escribiendo en mi sueño.
 
-<span id="comments"></span>

@@ -64,4 +64,3 @@ y sin saber siquiera que ha rezado<br>
 se yergue tan hermosa con turbante<br>
 que el solo gesto alumbra la vida cotidiana.</div>
 
-<span id="comments"></span>

@@ -87,4 +87,3 @@ Creo sin embargo, que nos queda una oportunidad: hacer justicia con la memoria. 
 
 Allá en Neuquén, en la ENET 1, la escuela técnica más grande de la patagonia, un grupo de imberbes reorganizamos el Centro de Estudiantes. Una de las primeras cosas que hicimos fue una revista, la "Nueva Generación". Teníamos 14 o 16 años, y mucho coraje. En uno de los primeros números, la contratapa mostraba una foto de José Luis Cabezas y una sóla frase: *La impunidad da miedo, pero el miedo no debe hacernos callar*. Que así sea.
 
-<span id="comments"></span>

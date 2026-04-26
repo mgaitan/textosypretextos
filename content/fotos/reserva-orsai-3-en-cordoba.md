@@ -113,4 +113,3 @@ Si en cambio lo que querés es hacer una consulta, dejá un [comentario](#commen
 
 <form1>
 
-<span id="comments"></span>

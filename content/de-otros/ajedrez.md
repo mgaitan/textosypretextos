@@ -84,4 +84,3 @@ Dios mueve al jugador, y éste, la pieza.<br>
 ¿Qué Dios detrás de Dios la trama empieza<br>
 de polvo y tiempo y sueño y agonías?</div>
 
-<span id="comments"></span>

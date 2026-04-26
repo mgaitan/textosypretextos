@@ -513,4 +513,3 @@ El fin de semana aparecieron pegados por  la ciudad unos afiches tamaño A3 . Co
 
 Muy lindo, pero lo cierto es que cuando leia yo no tenia ojos atrás mio ni nuca adelante. Mas al contrario, justo cuando terminaba la transcripción con horrible caligrafía pasó una hermosa traficante de curvas, y ni siquiera me sonrió.  Y a mi si me gustan los caramelos ácidos.
 
-<span id="comments"></span>

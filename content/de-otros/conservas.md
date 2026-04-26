@@ -115,4 +115,3 @@ Quiero decirle que me deje acá tirada, que no importa, que corra a hablar con W
 Del libro *"Pájaros en la boca"*, Emecé, 2008
 {% end %}
 
-<span id="comments"></span>

@@ -83,4 +83,3 @@ Acá va el primero.
 >
 > Tu hermano me dio esta carta para vos, es de tu viejo. Estaba en el segundo cajón.
 
-<span id="comments"></span>

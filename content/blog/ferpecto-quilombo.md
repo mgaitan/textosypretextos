@@ -202,4 +202,3 @@ Martín
 
 **Córdoba [3/09/05] **
 
-<span id="comments"></span>

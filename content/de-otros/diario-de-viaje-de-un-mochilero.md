@@ -56,4 +56,3 @@ Hoy estuvimos en Lima; no teníamos un cobre, loco. Así que pintó ir a la plaz
 Publicado en el blog del autor, [Prohibido Fumarx](http://prohibidofumarx.blogspot.com/)
 {% end %}
 
-<span id="comments"></span>

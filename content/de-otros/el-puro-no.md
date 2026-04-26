@@ -77,4 +77,3 @@ sin no</div>
 de *En la masmédula*. Se puede escuchar, en voz de Girondo, [acá](http://www.palabravirtual.com/newvo/2079.php)
 {% end %}
 
-<span id="comments"></span>

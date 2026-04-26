@@ -107,4 +107,3 @@ Visto en [No Te vayas, estúpida](http://notevayasestupida.blogspot.com/2009/10/
 
 {{ media_audio(src="/media/mp3/Dolina_maradona.mp3", title="Dolina_maradona.mp3") }}
 
-<span id="comments"></span>

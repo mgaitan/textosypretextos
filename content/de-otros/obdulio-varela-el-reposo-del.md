@@ -60,4 +60,3 @@ El 16 de julio de 1950, en el estadio Maracaná de Rio de Janeiro, nació una de
 Introducción al cuento "Obdulio Varela, El reposo del centrojás", publicado originalmente en "Artistas, locos y criminales".
 {% end %}
 
-<span id="comments"></span>

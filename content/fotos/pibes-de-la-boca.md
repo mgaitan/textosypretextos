@@ -52,4 +52,3 @@ body = "la primera creo que es la mejor foto que has sacado y nadie dice naá."
 
 {{ media_image(src="/media/jpg/DSC_023.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

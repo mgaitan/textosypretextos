@@ -84,4 +84,3 @@ Fotografías tomadas en Barrio Güemes, Córdoba, una mañana con mi amigo y com
 
 {{ media_image(src="/media/jpg/DSC_0011.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

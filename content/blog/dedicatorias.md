@@ -163,4 +163,3 @@ El vendedor me invitó a sentarme y manoteó un botín del par gris que estaba s
 
 Al final me llevé unos pumas que salían 30 pesos menos que los total 90, y que según el vendedor a esa altura, en realidad eran los mejores. Cuando me estaba yendo y luego de agradecerme por cuarta vez, me dijo que si hacía un gol se lo dedicara. Hice dos. El segundo para el miedo.
 
-<span id="comments"></span>

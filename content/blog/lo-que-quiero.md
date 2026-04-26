@@ -103,4 +103,3 @@ Pero si alguna vez, quizás no pronto, nuestros caminos se vuelven a cruzar, otr
 
 Y si eso no ocurre, puede pasar, quiero que sepas siempre que este hombre te amó y se sintió amado y nunca, jamás, va a olvidar cuánto.
 
-<span id="comments"></span>

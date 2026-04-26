@@ -56,4 +56,3 @@ Corto de animación mexicano del año 2001, escrito y dirigido por René Castill
 > _ *Un comentario en Youtube*
 
 
-<span id="comments"></span>

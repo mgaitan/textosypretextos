@@ -155,4 +155,3 @@ Un abrazo para que entiendas mejor.
 
 Martín
 
-<span id="comments"></span>

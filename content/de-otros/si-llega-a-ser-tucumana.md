@@ -78,4 +78,3 @@ body = "Perecito siempre se las ingenia pa acariciarnos el alma"
 Mi amigo Pablo, que sabe de muchas cosas pero especialmente de música, dice que la de arriba es "LA" versión de esta bellísima zamba. Es la interpretación del **Dúo Salteño** en el disco ** Como quien entrega el alma**. Y es para **ella**, que es tan tucumana como yo mendocino. ;-)
 {% end %}
 
-<span id="comments"></span>

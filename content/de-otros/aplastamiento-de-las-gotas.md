@@ -66,4 +66,3 @@ brotan en el marco y ahí mismo se tiran,
 me parece ver la vibración del salto, sus piernitas desprendiéndose y el grito que las emborracha en esa nada del caer y aniquilarse.
 _ Tristes gotas, redondas inocentes gotas. Adiós gotas. Adiós.
 
-<span id="comments"></span>

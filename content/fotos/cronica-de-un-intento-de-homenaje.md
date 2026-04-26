@@ -258,4 +258,3 @@ Claro está que en las fotos en las que yo aparezco no fueron tomadas por mí. P
 
 {{ media_image(src="/media/jpg/DSC_0771.jpg", alt="El turista", caption="El turista", align="center") }}
 
-<span id="comments"></span>

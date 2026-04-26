@@ -194,4 +194,3 @@ y desde arriba fusilaré al mundo,<br>
 suavemente,<br>
 para que esto cambie de una vez</div>
 
-<span id="comments"></span>

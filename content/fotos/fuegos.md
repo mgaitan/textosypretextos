@@ -72,4 +72,3 @@ Isla del Sol, Bolivia. Enero de 2008.
 
 {{ media_image(src="/media/jpg/DSC_0622.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

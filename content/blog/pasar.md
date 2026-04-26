@@ -165,4 +165,3 @@ Y pasó de mundo.<br>
 <br>
 *Emocionado hasta los tuétanos, mis más afectuoso abrazo a los compañeros y compañeras que hicieron este logro realidad. Y a Damián, ese pequeño gran luchador.*</div>
 
-<span id="comments"></span>

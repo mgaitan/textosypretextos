@@ -57,4 +57,3 @@ body = "buena musica chabon..."
 
 {{ video_embed(provider="youtube", id="Ww2EX0OdDeA", title="Ww2EX0OdDeA") }}
 
-<span id="comments"></span>

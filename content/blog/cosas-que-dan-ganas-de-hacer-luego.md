@@ -142,4 +142,3 @@ Besar a mamá. Decirle lo mucho que la quiero. Invitarla a ver Little Miss Sunsh
 Inspirado en un [artículo](http://aguadeoro.wordpress.com/2006/08/22/quiero-ser-un-tenenbaum/) de Emanuel Rodriguez, publicado en la revista Metrópolis del Cine Club Municipal de Córdoba.
 {% end %}
 
-<span id="comments"></span>

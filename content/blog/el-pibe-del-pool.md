@@ -109,4 +109,3 @@ Mirá lo que te vengo a contar, que ridículo. Me acordé del pibe del pool, y y
 
 Con su habilidad todo sería más fácil. Haría un 'pic' sutil, bien suave, y las palabras más maravillosas, las más dulces, esas que aún nadie inventó, susurrarían cuanto te amo.
 
-<span id="comments"></span>

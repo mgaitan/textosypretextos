@@ -58,4 +58,3 @@ body = "Excelente.Muy muy bueno, pensar como pasan als cosas y uno a veces vive 
 {{ video_embed(provider="youtube", id="TIeU7_yqrpc") }}
 
 
-<span id="comments"></span>

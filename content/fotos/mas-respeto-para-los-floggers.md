@@ -377,4 +377,3 @@ Este graffitti de estencil está en la esquina de Obispo Trejo y Boulevard San J
 
 {{ media_image(src="/media/jpg/DSC_3699.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

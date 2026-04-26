@@ -66,4 +66,3 @@ que las madres teresas de calcutas.</div>
 De de su libro de sonetos *"Ciento volando de catorce"*.
 {% end %}
 
-<span id="comments"></span>

@@ -125,4 +125,3 @@ El miércoles pasado me acordé de Baeza y de sus palabras. Contra Estudiantes y
 
 Que Estudiantes es justo campeón, no hay muchas dudas. Pero la pasión de un hincha no entiende de justicias y este torneo que se nos fue deja un sabor desagradable, como si fuera el último sorbo de Cherry Coca.
 
-<span id="comments"></span>

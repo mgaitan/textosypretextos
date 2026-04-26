@@ -153,4 +153,3 @@ Emanuel Rodríguez es uno de los mejores escritores cordobeses vivos. Aún no ha
 También escribe en el suplemento de cultura del diario La Voz del Interior y dirige la [Revista Diccionario](http://www.revistadiccionario.com/).
 {% end %}
 
-<span id="comments"></span>

@@ -113,4 +113,3 @@ Hace una pausa. No se la ve convencida pero parece resignada.
 
 Esa noche, en esa aula fría de universidad, no cabía un alma. Si, ya sé, no eramos más de veinte ahí sentados, pero les aseguro que había más de 30.000 almas apretadas y felices, satisfechas de saber que, aunque triste, la memoria no se renuncia...y la lucha continua.
 
-<span id="comments"></span>

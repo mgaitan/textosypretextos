@@ -171,7 +171,7 @@ Sí! Sumate al [grupo de Facebook](http://www.facebook.com/groups/orsaicordoba/)
 
 Por favor, sólo completá el formulario si estás interesado en comprar la revista y/o el libro. Es un compromiso. 
 
-Si en cambio lo que querés es hacer una consulta, dejá un [comentario](#comments) o mandame un email a gaitan@gmail.com
+Si en cambio lo que querés es hacer una consulta, dejá un comentario al pie o mandame un email a gaitan@gmail.com
 
 <form3>
 
@@ -179,4 +179,3 @@ Si en cambio lo que querés es hacer una consulta, dejá un [comentario](#commen
 
 {{ media_image(src="/media/jpg/orsai3.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

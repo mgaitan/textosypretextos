@@ -156,4 +156,3 @@ Todos sabemos --y lo supimos siempre-- de qué se trata conocerse en vacaciones.
 
 Pero los recuerdos ya no son los mismos. Ahora tienen rostros, novios, ex novios y menos tetas que las que me inventé. Todo está allí, desidealizando mi pasado.    Perdieron la magia, como esa novela buenísima que algún turro llevó al cine.
 
-<span id="comments"></span>

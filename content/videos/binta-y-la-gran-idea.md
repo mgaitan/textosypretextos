@@ -58,4 +58,3 @@ Binta y la Gran idea es un cortometraje de Javier Fesser (uno de los responsable
 
 {{ external_embed(provider="googlevideo", url="http://video.google.com/googleplayer.swf?docid=1814175740046170677", title="googleplayer.swf") }}
 
-<span id="comments"></span>

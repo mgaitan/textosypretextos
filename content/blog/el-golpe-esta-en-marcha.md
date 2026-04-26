@@ -154,4 +154,3 @@ los que se desentendieron habrá que decirles: ¡A llorar a la Iglesia!
 *[Un email que envié a la lista de correos de [Ingeniería en Computación](http://www.ceicin.org.ar/Grupo-de-Correo-de-Ingenieria-en), donde participamos la mayoría de los estudiantes de la carrera y varios profesores]*
 {% end %}
 
-<span id="comments"></span>

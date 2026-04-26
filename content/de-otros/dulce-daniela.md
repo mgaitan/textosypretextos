@@ -75,4 +75,3 @@ pinta dentro de mí.</div>
 
 {{ media_audio(src="/media/mp3/08_-_DULCE_DANIELA.mp3", title="08_-_DULCE_DANIELA.mp3") }}
 
-<span id="comments"></span>

@@ -143,4 +143,3 @@ Texto publicado originalmente el 19 de septiembre de 2006 con esta introducción
 > Entre otras cosas, en ese email  Sandra me propuso participar de un incipiente <a href="http://nuestraciruela.blogspot.com/">blog</a> colectivo que sólo pudo pergeñar una mente marabichosa como la de ella. "<a href="http://nuestraciruela.blogspot.com/">Nuestro mundo es una ciruela</a>" se llama este blog-consigna, y deja abierta la puerta para que cada uno salga por la ventana que quiera. A mi me salió este texto, inspirado en algunas experiencias que (obviamente) le sucedieron a un amigo mio.
 {% end %}
 
-<span id="comments"></span>

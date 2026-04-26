@@ -92,4 +92,3 @@ Fotos tomadas entre diciembre de 2010 y febrero de 2011 en Neuquén, Las Grutas 
 
 {{ media_image(src="/media/jpg/img32.jpg", alt="", caption="", align="center") }}
 
-<span id="comments"></span>

@@ -666,4 +666,3 @@ En realidad, poco y nada decía para sus alumnos la temática de la anterior com
 
     "Creo que todo ha sido inútil --escribe a su amiga Juana--. Comprendo que, hoy por hoy, se hace muy difícil cambiar algo de lo ya dispuesto. Supongo que, con el paso del tiempo, todo el mundo se olvidará de mi tema de composición y volveremos a 'Voyage autour de mon bureau', o a cualquier otra imposición venida de afuera bajo el engañoso rubro de aporte cultural." Deja gotear el lacre, morosamente, sobre la juntura del cierre, antes de moldearlo bajo la presión de su anillo de sello. No puede dejar de pensar en la fugacidad de su iniciativa educacional. No sabe cuán equivocada está. Una gota de lacre, lustrosa, ha modelado un diminuto montículo sobre la mesa.
 
-<span id="comments"></span>

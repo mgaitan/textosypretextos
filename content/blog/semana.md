@@ -157,4 +157,3 @@ A la noche hubo anécdota que podría intitularse "Cumpleaños de Nico Lolo, seg
 
 Los dejo, e intentaré  escribir mas corto y mas seguido. Hasta la victoria, siempre!
 
-<span id="comments"></span>

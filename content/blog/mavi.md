@@ -108,4 +108,3 @@ El domingo a la tarde nos encontramos para ir al Museo Emilio Caraffa a ver (gra
 
 Me encanta conversar con Mavi, y verla sonreír. Le hago chistes cuando vamos por la calle: "señores pasajeros, a su izquierda pueden observar a un típico vendedor de encendedores en la vía pública, patrimonio histórico y fiel reflejo de la idiosincrasia de nuestra amada tierra". Acá todo se presta para el turismo, desde los "guasos" que hacen asado en la calle, hasta restaurante de dudosa localía como "Pizzeria de La Boca" (pasando por cientos y cientos de iglesias). Ella me festeja la ironía, me da un beso y se va a estudiar, porque quiere cumplir su sueño de recorrer el mundo.
 
-<span id="comments"></span>

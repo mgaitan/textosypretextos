@@ -54,4 +54,3 @@ body = "he disfrutado mucho la interpretación. Gracias qué buen sonido, qué p
 
 {{ video_embed(provider="youtube", id="poKTQS6FCHI") }}
 
-<span id="comments"></span>

@@ -127,4 +127,3 @@ Triste pero no extraño sería que el tal cabo exista de verdad, porque sabemos,
 
 Sea como sea, la jugada del honor, la que recordaré cuando tenga alzheimer, es bien simple: me la [enseñó Diego](http://nqnwebs.com/quelasiganchupando) semanas atrás.
 
-<span id="comments"></span>

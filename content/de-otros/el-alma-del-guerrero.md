@@ -52,4 +52,3 @@ body = ""
  
 ¿Que tal? ¿Falsa modestia? ¿Extrañeza ante su propio genio? El creador de lord Jim, del capitán Kurtz, del Negro, del Narciso, sólo podía escribir escondido de sí mismo. En el momento en que intervenia "a sabiendas", se jodía. Con esto quiero decirte que no quiero correr ese riesgo. Mis memorias serán breves, pequeñas historias mías y de otros, interrogaciones y blasfemias.  ¿Que otra cosa puedo hacer ahora que estoy en tiempo de descuento? Mirarme para adentro, buscarme, eso es todo.
 
-<span id="comments"></span>
