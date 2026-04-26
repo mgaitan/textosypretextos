@@ -49,6 +49,6 @@ body = "Las palabras son como monedas, que una vale por muchas como muchas no va
 {{ media_image(src="/media/jpg/DSC_0328-8ebaf.jpg", alt="", caption="", align="center") }}
 
 {% postscript() %}
-La foto que acompaña a esta entrada es de mi autoría, y forma parte de la [->157]
+La foto que acompaña a esta entrada es de mi autoría, y forma parte de la [Crónica de un intento de homenaje](/fotos/cronica-de-un-intento-de-homenaje/)
 {% end %}
 
