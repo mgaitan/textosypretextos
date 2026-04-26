@@ -1,6 +1,6 @@
 +++
-title = "Mamita Peyote - Sentencia"
-slug = "mamita-peyote"
+title = "Sentencia - Mamita Peyote"
+slug = "sentencia-mamita-peyote"
 date = 2026-04-26 12:51:41
 draft = false
 template = "article.html"
