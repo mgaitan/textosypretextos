@@ -141,7 +141,7 @@ Por alguna fuerza extraña no me rendí a la tentación de callarla con un beso 
 
 -- *Lo que quiero pedirte es...bueno...si me podés reintegrar los quince pesos que me costó la exposición policial que tuve que hacer para el seguro, por lo del acciden.... *
 
-Siguió hablando, pero ya no sé bien qué. Todo se volvió lento, no había sonidos ni voces, y comenzó a hacer muchísimo frio. Saqué mi billetera, le di su dinero, pagué los dos cafés, saludé y me fui.
+Siguió hablando, pero ya no sé bien qué. Todo se volvió lento, no había sonidos ni voces, y comenzó a hacer muchísimo frío. Saqué mi billetera, le di su dinero, pagué los dos cafés, saludé y me fui.
 
 Lo triste es que no existen pólizas de seguro para este tipo de choques. Que injusticia.
 

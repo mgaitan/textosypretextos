@@ -98,7 +98,7 @@ body = "Ah!!! como me encantan estos temas y los ckrcas de flu-project no me dej
 
 Damián va a la escuela Canónigo Piñero, en el barrio Campos de la Ribera de Córdoba. Vive en una casita de plan con su familia y, a veces, con la de su tía. Es el único varón entre cinco hermanas. En noviembre del año pasado le dijeron a su mamá que probablemente repetiría, por tercera vez, el segundo grado. 
 
--- Pero le vamos a dar la oportunidad de que rinda un exámen en diciembre -- le dijo, solidaria, la maestra. 
+-- Pero le vamos a dar la oportunidad de que rinda un examen en diciembre -- le dijo, solidaria, la maestra. 
 
 A partir de ese día, Damián sumó a su prontuario un apodo más: el bruto. Para entonces ya era el vago, el quilombero y también el sordo, porque Damián tiene una hipoacusia avanzada que nunca recibió tratamiento. 
 

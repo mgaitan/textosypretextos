@@ -101,7 +101,7 @@ Después del #8N, la vida sigue, como seguirá después del #7D. Y habrá proble
 Menos fechas marketineras y más política. Digo, me parece.
 
 {% postscript() %}
-Bruno Bimbi (34) es periodista, profesor de portugués, máster en Letras por la Pontifícia Universidade Católica do Rio de Janeiro y doctorando en Estudios del Lenguaje en la misma universidad. Actualmente coordina la campaña por el matrimonio igualitario en Brasil. Es activista de la FALGBT y autor del libro "Matrimonio igualitario" (Planeta, 2010). 
+Bruno Bimbi (34) es periodista, profesor de portugués, máster en Letras por la Pontifícia Universidade Católica do Río de Janeiro y doctorando en Estudios del Lenguaje en la misma universidad. Actualmente coordina la campaña por el matrimonio igualitario en Brasil. Es activista de la FALGBT y autor del libro "Matrimonio igualitario" (Planeta, 2010). 
 Escribe el blog [Tod@s en la web de TN](http://blogs.tn.com.ar/todxs/) . / Tw: [@bbimbi](http://twitter.com/bbimbi)
 {% end %}
 

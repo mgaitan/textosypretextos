@@ -60,7 +60,7 @@ Me temo que es una discusión difícil, y que tengo que dar con casi todos a los
 
 Siento un poco de escalofrío al notar lo arraigada que está la falacia en los que al menos pensaron en el tema, y siento tristeza por el total desinterés que hay en el resto, la mayoría, los que ponen el billete sin siquiera pensar porqué o para qué. 
 
-Pero volvamos a los trámites, tarea que requiere paciencia, sepanlo. Luego de pagar fui a la oficina de vidrio. Su arquitectura es una metáfora: parece una pecera (los pescados están adentro). Dos señoras mayores conversaban mientras yo me acercaba a la ventanilla cerrada con un candado de viedriera. Moviendo el dedo indice, me dijo "no, no. Se abre a la tres y media". Luego sorbió el mate, volteó la cara y siguió conversando. Yo atiné a comentar sobre el anuncio del cartel del pasillo, pero la señora tenia una respuesta: "en Alumnos es donde atienden desde las 15hs, acá no". 
+Pero volvamos a los trámites, tarea que requiere paciencia, sepanlo. Luego de pagar fui a la oficina de vidrio. Su arquitectura es una metáfora: parece una pecera (los pescados están adentro). Dos señoras mayores conversaban mientras yo me acercaba a la ventanilla cerrada con un candado de viedriera. Moviendo el dedo índice, me dijo "no, no. Se abre a la tres y media". Luego sorbió el mate, volteó la cara y siguió conversando. Yo atiné a comentar sobre el anuncio del cartel del pasillo, pero la señora tenia una respuesta: "en Alumnos es donde atienden desde las 15hs, acá no". 
 
 Esperé media hora en el bar que administra el centro de estudiantes al igual que la fotocopiadora. Un sanguchito de miga y una gaseosa vengaron al pobre almuerzo de unas horas atrás. Luego volví, con la cara mas diplomática que me salió, a la oficina de vidrio. 
 

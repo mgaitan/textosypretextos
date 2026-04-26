@@ -97,7 +97,7 @@ Desde hace unas semanas, la ciudad de Córdoba está empapelada con la imagen de
 
 En paralelo, la Provincia de Neuquén organizó un "<a href="http://www.alimentacionysociedad.neuquen.org">Congreso Internacional de Alimentación y Sociedad"</a>, al que también se invitaba con afiches en las calles de esta ciudad, esta vez oficialmente pagados por los neuquinos.  
 
-Mientras el gobernador neuquino coronaba el turno cordobés de su campaña con un acto de dudosa convocatoria y reuniones con políticos y obispos locales,  en Neuquén los trabajadores de la salud continuaban su huelga por aumento salarial. Ayer, 15 de abril,   <a href="http://www.rionegro.com.ar/arch200504/15/r15j05.php">se leía en el  diario Rio Negro</a>;
+Mientras el gobernador neuquino coronaba el turno cordobés de su campaña con un acto de dudosa convocatoria y reuniones con políticos y obispos locales,  en Neuquén los trabajadores de la salud continuaban su huelga por aumento salarial. Ayer, 15 de abril,   <a href="http://www.rionegro.com.ar/arch200504/15/r15j05.php">se leía en el  diario Río Negro</a>;
 
 > "Anoche fueron trasladados ocho chiquitos del servicio de Neonatología del Hospital Neuquén. El conflicto de Salud entró en una etapa crítica. La oferta de aumento presentada por el gobierno no conformó a los trabajadores."
 

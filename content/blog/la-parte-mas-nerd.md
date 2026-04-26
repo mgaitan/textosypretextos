@@ -117,7 +117,7 @@ Así, bastante masturbacion (,) intelectual, bastante encerrado, suficientemente
 
 Ya falta menos para el partido pero yo no voy a llegar sin dormir. Hay uno que hace dos horas, o sea desde las 7, que está con la corneta dele que dele, me hace sentir en zoológico viendo a los elefantes. Ahí de nuevo. 
 
-Tengo ganas de que ganemos, pero jugando bien. Nada hay que temer, pues, por suerte es tan sólo un partido de futbol. Los que sí están preocupados son ellos, esos necios agentes del capital que inundan las pantallas con su creatividad gritona y patriotera.
+Tengo ganas de que ganemos, pero jugando bien. Nada hay que temer, pues, por suerte es tan sólo un partido de fútbol. Los que sí están preocupados son ellos, esos necios agentes del capital que inundan las pantallas con su creatividad gritona y patriotera.
 
 Creo que me voy a dormir un ratito. Te mando Pi besos. Uy, te dije que encontré mi parte nerd?
 

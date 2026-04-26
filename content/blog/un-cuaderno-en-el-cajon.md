@@ -128,7 +128,7 @@ El 12 de septiembre se recuerda un aniversario más del traslado de la
 capital neuquina. Los niños que hoy vivimos en esta ciudad no podemos imaginar cómo era este neuquén. Los Berbel dicen en sus canciones que todo cambió mucho en muy poquitos años.
 
 Me gustaría viajar en el túnel del tiempo y recorrer la antigua ciudad
-con pocos habitantes, callecitas de tierra, campos áridos, un rio
+con pocos habitantes, callecitas de tierra, campos áridos, un río
 enorme y muy pocas viviendas. Cuentan que el viento era más fuerte:
 ¡Qué feo sería!
 

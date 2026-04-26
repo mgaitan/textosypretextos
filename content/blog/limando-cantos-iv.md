@@ -942,7 +942,7 @@ profesional propio, por más pequeño que sea en principio.
 >  dar confiabilidad a sus actos, en esto la UTN nos lleva varios millones de
 >  ventaja.
 
-Usted lo ha dicho. Lo que está a nuestro alcance críticar y mejorar es
+Usted lo ha dicho. Lo que está a nuestro alcance criticar y mejorar es
 que las universidades estén muy interesadas  en ser un sello acrítico
 que vale millones. En ese sentido, la "ventaja" que nos lleva la UTN
 es en la carrera de ver quien se cava la tumba más rápido.

@@ -66,7 +66,7 @@ baratos de un rato… me llamas".<br>
 Y si quieres también<br>
 puedo ser tu trapecio y tu red,<br>
 tu adiós y tu "ven",<br>
-tu manta y tu frio,<br>
+tu manta y tu frío,<br>
 tu resaca, tu lunes, tu hastio…<br>
 <br>
 O tal vez ese viento<br>

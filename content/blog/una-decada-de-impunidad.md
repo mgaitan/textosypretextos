@@ -73,7 +73,7 @@ En las breves escapadas de invierno y en los veranos, cuando los kilómetos se a
 
 Lo que sigue es el guión de de títeres que escribimos con Camila,  para una obra pensada para la navidad pero estrenada al final luego la cena de año nuevo del 2006 ante el público familiar presente. Joaquín tenía 2 años y formó parte del elenco, en el rol estelar del Gigante Panzachina. Ripolito era mi títere, y Floripondia y la Gata Machata los de Camila, que tuvo memoria suficiente para recordar los parlamentos de dos personajes. 
 
-Aunque no fue la mejor presentación, los aplausos del público estremecieron la sala (sobre todo ante la aparación del Gigante), y la vibración se sintió fuerte en el escenario principal, instalado por la producción en el descanso de la escalera. 
+Aunque no fue la mejor presentación, los aplausos del público estremecieron la sala (sobre todo ante la aparición del Gigante), y la vibración se sintió fuerte en el escenario principal, instalado por la producción en el descanso de la escalera. 
 
 ### La navidad del Gigante Panzachina
 

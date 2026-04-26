@@ -485,7 +485,7 @@ Caminar por la calle transmite sensaciones de todos los colores y gustos, pero u
 
 La calle no es sólo el asfalto y la vereda, entiendasé. Tampoco se completa si sumamos los cordones y las esquinas. La calle es todo lo que hay afuera: los peatones que visten celulares de mil pesos, los obreros de la construcción que piropean profesionalmente, las vidrieras con maniquies de cintura diminuta, los miles de pibitos que manguean o venden alguna chuchería en cada esquina, los policías sospechandome violador en el parque,  las minas hiperproducidas que van a comprar arroz de oferta al Disco, los artistas callejeros tantas veces mejores que los otros e igual o más postergados. Hay infinitas historias en la calle,  sólo falta contarlas. 
 
-Suelo divertirme caminando, y no es que lo busque, pero a veces me sorprendo en plena risa y me tengo que sentar a agarrarme la panza. La gente a mi alrededor queda atónita y me doy cuenta que se acomodan el pelo y se levantan el pantalón por las dudas, creyendo que me rio de ellos.  
+Suelo divertirme caminando, y no es que lo busque, pero a veces me sorprendo en plena risa y me tengo que sentar a agarrarme la panza. La gente a mi alrededor queda atónita y me doy cuenta que se acomodan el pelo y se levantan el pantalón por las dudas, creyendo que me río de ellos.  
 
 Ya me pasó muchas veces.  Una fue sobre la calle Rivera Indarte, cuando descubrí un diminuto local que anuncia en su ventana "**AQUI PANCHO ELECTRONICO**".  No resistí la tentación y me acerqué a ver de qué trataba esa tecnología gastronómica, y era algo así como una maquinita (eléctrica) que envolvía las salchichas en una especie de panqueque caliente. Me duró la diversión como dos cuadras . 
 

@@ -85,7 +85,7 @@ Hay silencio durante unos segundos, pero veo por el retrovisor que él quiere se
 -- ¿Son bravos los tacheros? -- digo, un poco socarronamente
 -- Y si papá, acá porque es re facha, está lleno de estudiantes y de minitas,  pero mandate para los barrios. Hay que tener para meterse para allá.
 
-Dobla cerrado por Independencia y acelera para pasar en amarrillo el último semáforo. Llegamos a destino, me da una moneda de vuelto y me insiste:
+Dobla cerrado por Independencia y acelera para pasar en amarillo el último semáforo. Llegamos a destino, me da una moneda de vuelto y me insiste:
 
 -- ¿En serio no querés manejar?
 

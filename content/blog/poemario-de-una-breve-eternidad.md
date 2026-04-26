@@ -106,7 +106,7 @@ para hacerse de este mundo<br>
 Este aleteo de teclas<br>
 para combatir<br>
 el miedo,<br>
-  el frio<br>
+  el frío<br>
      la inefable incertidumbre<br>
  y sentirte más cerca<br>
 sólo le hace tachones al silencio<br>

@@ -2,7 +2,7 @@
 title = "El taller, gimnasio de la neurona"
 slug = "el-taller-gimnasio-de-la-neurona"
 date = 2005-04-26 23:31:29
-description = "Mis ganas son suceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \\\"idea brillante\\\", a mis noches y mañanas. Mariconas resultaron mis…"
+description = "Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \\\"idea brillante\\\", a mis noches y mañanas. Mariconas resultaron mis…"
 draft = false
 template = "article.html"
 authors = [
@@ -22,7 +22,7 @@ tags = [
 legacy_id = 39
 section_slug = "blog"
 section_title = "Blog"
-summary = "Mis ganas son suceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \\\"idea brillante\\\", a mis noches y mañanas. Mariconas resultaron mis ganas. Para hacerlas mas machitas y obligarlas un…"
+summary = "Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \\\"idea brillante\\\", a mis noches y mañanas. Mariconas resultaron mis ganas. Para hacerlas mas machitas y obligarlas un…"
 visits = 1977
 popularite = 0.8501589887728135
 hero_image = ""
@@ -109,24 +109,24 @@ title = "El taller, gimnasio de la neurona"
 body = "Ame la leyenda del Surucucu"
 +++
 
-Mis ganas son suceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una "idea brillante", a mis noches y mañanas. Mariconas resultaron mis ganas.
+Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una "idea brillante", a mis noches y mañanas. Mariconas resultaron mis ganas.
 
 Para hacerlas mas machitas y obligarlas un poco a aparecer, hace unas semanas empecé un taller de escritura creativa coordinado por un tal Jorge Felippa, que me vine a enterar luego, es profesor, editor y escritor con flamante primer libro publicado. 
 
-La metodología del taller es simple. Se trabaja sobre algún eje temático o teórico propuesto por Jorge, se hace una lluvia de palabras grupal al respecto, y esos son los ladrillos para contruir, ahí mismo y como podamos, un texto.
+La metodología del taller es simple. Se trabaja sobre algún eje temático o teórico propuesto por Jorge, se hace una lluvia de palabras grupal al respecto, y esos son los ladrillos para construir, ahí mismo y como podamos, un texto.
 
-Nadie dijo que fuera fácil, y en general uno se queda con ese gustito de que lo que sale ahí nada tiene que ver con lo que a uno le gustaria y podría escribir. Pero es un juego de entrenamiento y aprendizaje; son ejercicios para ablandar la muñeca y, de paso, sacudir la neurona. Lo bueno es que las suceptibles ganas se quedan pataleando de bronca cuando la (forzada) espontaneidad les usurpa el protagonismo. Con o sin ellas, se puede sembrar escritura. Claro que para cosechar buenos frutos hay que trabajar mucho, y ahí si que hacen falta.
+Nadie dijo que fuera fácil, y en general uno se queda con ese gustito de que lo que sale ahí nada tiene que ver con lo que a uno le gustaría y podría escribir. Pero es un juego de entrenamiento y aprendizaje; son ejercicios para ablandar la muñeca y, de paso, sacudir la neurona. Lo bueno es que las susceptibles ganas se quedan pataleando de bronca cuando la (forzada) espontaneidad les usurpa el protagonismo. Con o sin ellas, se puede sembrar escritura. Claro que para cosechar buenos frutos hay que trabajar mucho, y ahí si que hacen falta.
 
 Acá les dejo algunos de los textos que escribí en el taller  tanto, algunos *in situ* y otros como de tarea en mi casa. No sé a cuales dediqué más tiempo.
 
 **La leyenda del Surucucú**
 
-Nos dan una lista de palabras que existen, pero que nadie sabe (en ese momento) qué significan. De acuerdo a "cómo nos suenan" debemos proponer otras que describan las imagenes subjetivas que nos evocan. Con las disparadoras y algunas de las disparadas cada uno escribió un texto.
+Nos dan una lista de palabras que existen, pero que nadie sabe (en ese momento) qué significan. De acuerdo a "cómo nos suenan" debemos proponer otras que describan las imágenes subjetivas que nos evocan. Con las disparadoras y algunas de las disparadas cada uno escribió un texto.
 
 Las palabras en cuestión fueron *"matoco", "chuchurrido", "pelargonio" y "quijondo"*.  El que sigue es mi texto original, sin modificación alguna.
 
 > En las noches más calurosas del Paraguay, si se puede ver la constelación Pelargonio, los abuelos cuentan a sus nietos la leyenda del Surucucú. Como sucede habitualmente con las leyendas, hay innumerables versiones, casi tantas como abuelos paraguayos.
-> Algunos describen al Surucucú como un caballo enano y tosco, y otros afirman, en cambio, que es un pez peludo y áspero. Lo cierto, mejor dicho lo común a todas las versiones, es que el Surucucú sólo se puede ver si se siente un dolor quijondo. Claro, además de lo dificíl que resulta distinguir algo que no sabemos cómo puede ser, todos dudan si además están sintiendo, sin saberlo, este dolor. Los guaraníes decian que cuando el matoco dormia, o el amor se acababa, el alma sufría quijondo.
+> Algunos describen al Surucucú como un caballo enano y tosco, y otros afirman, en cambio, que es un pez peludo y áspero. Lo cierto, mejor dicho lo común a todas las versiones, es que el Surucucú sólo se puede ver si se siente un dolor quijondo. Claro, además de lo difícil que resulta distinguir algo que no sabemos cómo puede ser, todos dudan si además están sintiendo, sin saberlo, este dolor. Los guaraníes decían que cuando el matoco dormía, o el amor se acababa, el alma sufría quijondo.
 > Según la leyenda, cuando alguien ve un surucucú debe tocarlo inmediatamente, porque de esa manera se liberará para le resto de su vida del mal mayor: el aburrimiento. En algunas casas del Paraguay y de la Mesopotamia Argentina cuelgan jámparos de los techos porque, según la tradición, su chichirrido atrae al Surucucú.
 > Pero así como puede ser bendición, la aparición también puede ser un peligro: quien está en presencia de un surucucú y no tiene la hidalguía de acariciarlo se convertirá en un ogro la próxima noche que aparezca ante alguien.
 > Don Juan Montepío, gran conocedor de la leyenda que hoy se encuentra preso en Asunción, pasaba cada día de su juventud persiguiendo a las muchachas de su pueblo. Las emboscaba, y soprendidas las tocaba hasta el cachetazo. Argumentaba que eran surucucúes, y él no quería volverse un monstruo.
@@ -147,18 +147,18 @@ Parece difícil, pero es sólo cuestión de jugar, aunque sea unos minutos. Esto
 >
 > De repente sucedió, la solución me encontró a mi, no fue al reves. Un caudal contundente de vómito traspasaba mi garganta, pero mi boca y mi vergüenza hicieron fuerza y le impidieron salir. Entones tragué agachando en simultáneo la cabeza para disimular.
 >
-> Exquisito. Sacié el hambre y el mal gusto en un sólo sorbo. Ahora lo sé, su acidez equilibrada es garantia de un sabor refrescante y duradero.
+> Exquisito. Sacié el hambre y el mal gusto en un sólo sorbo. Ahora lo sé, su acidez equilibrada es garantía de un sabor refrescante y duradero.
 
 **El ladrido**
 
-Hoy trabajamos con comparaciones como técnica. Nos explicaba Jorge la utilidad de adjetivar sobre sensaciones y no tanto sobre emociones, porque así se logra trasmitir una imágen que el lector puede compartir (sentir) más fácilmente.
+Hoy trabajamos con comparaciones como técnica. Nos explicaba Jorge la utilidad de adjetivar sobre sensaciones y no tanto sobre emociones, porque así se logra trasmitir una imagen que el lector puede compartir (sentir) más fácilmente.
 
-La técnica para hacer comparaciones fue la siguiente: una columna que listaba voces y sonidos (gemido, grito, ladrido, campanada, zumbido, etc) . Luego le agregábamos un primer adjetivo que nada tenga que ver con lo auditivo, pero si pertenezca a lo sensorial; por ejemplo agrio, nauseabundo, punzante. La tercer columna, predecida del correspondiente conector "y", eran adjetivos que esta vez podian ser subjetivos: desesperado, melancólico, hartante, solitario. Y ahí venía el "como" y la comparacion, que cada uno decidia a su antojo.
+La técnica para hacer comparaciones fue la siguiente: una columna que listaba voces y sonidos (gemido, grito, ladrido, campanada, zumbido, etc) . Luego le agregábamos un primer adjetivo que nada tenga que ver con lo auditivo, pero si pertenezca a lo sensorial; por ejemplo agrio, nauseabundo, punzante. La tercer columna, predecida del correspondiente conector "y", eran adjetivos que esta vez podían ser subjetivos: desesperado, melancólico, hartante, solitario. Y ahí venía el "como" y la comparación, que cada uno decidía a su antojo.
 
 Conste que el texto está absolutamente condicionado por las comparaciones (y/o metáforas) obtenidas, y en nada tiene que ver con mi situación habitacional actual, bien cómoda por cierto. Aclarado el asunto, los dejo con la producción:
 
 > La tele está prendida, es un zumbido pegajoso y hartante que me persigue y me encuentra. Hay gente alienada frente a él, y no tengo autoridad o valentía suficiente para apagarla.
-> Es tarde, en una horas debo entregar el texto, y este departamento cada vez se hace más chico; el espacio se consume como el tiempo. Y encima hace frio.
+> Es tarde, en una horas debo entregar el texto, y este departamento cada vez se hace más chico; el espacio se consume como el tiempo. Y encima hace frío.
 > Me queda el salvavidas de siempre cuando la melancolía me invade: mi libro favorito, baño y llave. Pero la conspiración que vive dentro mio atraviesa cualquier puerta y entonces la inspiración queda tan lejos como un suspiro dulce y melancólico. Justo a mis espaldas, sobre la pared del inodoro donde estoy sentado, un obrero golpea fuerte para construir el décimo piso del edificio nuevo, destruyendo los cimientos de mi tranquilidad.
 > No puedo más. Estallo en un ladrido agrio y doloroso como un abuelo en la calle.
 

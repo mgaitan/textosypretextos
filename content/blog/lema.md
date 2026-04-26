@@ -62,7 +62,7 @@ No soy muy amigo de Juan, pero lo quiero y me parece un muy buen tipo. Su histó
 
 Llegué esa tarde a Allen. Lo esperé en una esquina de la "calle asfaltada" porque, según él, era difícil llegar a su casa. Me fue a buscar caminando y llegamos. Camioneta marcha atrás y empezamos a cargar cosas. Se lo conté ese viernes personalmente, fue muy especial vivir esa situación como un espectador devenido en otro personaje mas de la escena. Él apurado, un tanto nervioso, como queriendo que la situación acabara de una vez y poder romper esa cadena de tantos años que, se nota, le sigue pesando. La mamá, con la cara triste que suelen poner las madres de hijos únicos cuando "se va el nene" lo perseguía preguntándole   *--¿ Venís mañana a almorzar ? te hago los fideos caseros que te gustan*.  Juan no respondía y seguía cargando las pocas cajas de sus pertenencias. *-- Vení con tu amigo si querés --* intentaba mirandome con complicidad. 
 
-El papá serio, formal, adusto. Si no hubiese prestado atención a sus ojos brillosos también hubiese dicho frio, pero no. Era un tipo quebrado, pero que no se permitía más que aconsejar *"aten bien ese bolso, corre un poco de viento y se puede volar"*. 
+El papá serio, formal, adusto. Si no hubiese prestado atención a sus ojos brillosos también hubiese dicho frío, pero no. Era un tipo quebrado, pero que no se permitía más que aconsejar *"aten bien ese bolso, corre un poco de viento y se puede volar"*. 
 
 Yo, si se quiere, era el villano de la historia.  
 

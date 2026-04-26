@@ -77,7 +77,7 @@ Rubén era gordo y negro, con la remera tan ajustada a la panza como la vista al
 
 Las tonadas norteñas me confunden y creo que cuando arriesgué *"riojano"* se ofendió, pero sus ganas de conversar lo hicieron ignorar mi desacierto. Había trabajado en un galpón de empaque de frutas en General Roca desde los primeros días de enero, cuando llegó sin conocer nada ni a nadie, en busca de algunos pesos y algo para contar.  Los pesos fueron exiguos pero para contar, verán, tenía bastante. 
 
-Al sur llegó con frio, ese que sólo pueden sentir los que vienen de un calor tan caliente como el de Catamarca. Llevaba lo puesto, un bolso pequeño y una libretita con el nombre del establecimiento al que debía presentarse. Toda la información era de primera mano: un conocido  ya había hecho la temporada de empaque años atrás. 
+Al sur llegó con frío, ese que sólo pueden sentir los que vienen de un calor tan caliente como el de Catamarca. Llevaba lo puesto, un bolso pequeño y una libretita con el nombre del establecimiento al que debía presentarse. Toda la información era de primera mano: un conocido  ya había hecho la temporada de empaque años atrás. 
 
 -- "Sácate todo" mandó la doctora, "pero todo eh"--  me contaba, con lujo de detalles, casi ruborizándose como en aquella revisación médica que recordaba.  
 

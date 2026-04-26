@@ -93,7 +93,7 @@ body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus agu
 >
 > Así como me emociona y me alegra todo lo que has aprendido y sentido en este viaje, no deja de preocuparme, (lo siento, soy tu padre), leo y me parece leer algún "documento" que yo escribiera cuando tenía 20 años. Siento en tus escritos la angustia y la necesidad de hacer algo que sentía yo en esa época.
 >
-> Mientras escribo me pregunto si ya no lo siento, la verdad es que sí, también me duele hasta las lagrimas las injusticias, el hambre la marginación y todas las putas injusticias que existen. Lo que pasa que ya he vivido unos cuantos años y he recorrido algunos caminos, muchos de los cuales fueron equivocados. De todos uno aprende algo y me gustaría,  (es más, es mi compromiso) que Uds puedan aprovechar algo de ese aprendizaje.
+> Mientras escribo me pregunto si ya no lo siento, la verdad es que sí, también me duele hasta las lágrimas las injusticias, el hambre la marginación y todas las putas injusticias que existen. Lo que pasa que ya he vivido unos cuantos años y he recorrido algunos caminos, muchos de los cuales fueron equivocados. De todos uno aprende algo y me gustaría,  (es más, es mi compromiso) que Uds puedan aprovechar algo de ese aprendizaje.
 >
 > Por eso, todo este tiempo en el que yo no "milito" en la forma tradicional, trato de hacerlo en la vida de todos los días, tratando de ser mejor,  de encontrar algún camino que ayude a ese cambio, por ahora solo lo hago desde buscar mi propio cambio que de alguna manera pueda irradiar a los mas cercanos.
 >

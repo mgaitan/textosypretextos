@@ -49,7 +49,7 @@ date_display = "22.10.2004"
 depth = 0
 url_site = "http://joauin"
 title = ""
-body = "Por si tenías frio en Cba, me ocupé especialmente de la frazadita y muuuuuuuuuuuucha ropita abrigada. Un abrazo enorme y toda toda la ONDA."
+body = "Por si tenías frío en Cba, me ocupé especialmente de la frazadita y muuuuuuuuuuuucha ropita abrigada. Un abrazo enorme y toda toda la ONDA."
 
 [[extra.comments]]
 id = 57

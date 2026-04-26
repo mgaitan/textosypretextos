@@ -1206,7 +1206,7 @@ destrabar el tiempo,<br>
 correr los escombros y destapar el cielo.<br>
 <br>
 No te rindas, por favor no cedas,<br>
-aunque el frio queme,<br>
+aunque el frío queme,<br>
 aunque el miedo muerda,<br>
 aunque el sol se esconda y se calle el viento,<br>
 aun hay fuego en tu alma,<br>
@@ -1226,7 +1226,7 @@ desplegar las alas e intentar de nuevo,<br>
 celebrar la vida y retomar los cielos,<br>
 <br>
 No te rindas por favor no cedas,<br>
-aunque el frio queme,<br>
+aunque el frío queme,<br>
 aunque el miedo muerda,<br>
 aunque el sol se ponga y se calle el viento,<br>
 aun hay fuego en tu alma,<br>

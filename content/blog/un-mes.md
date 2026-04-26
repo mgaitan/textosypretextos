@@ -78,7 +78,7 @@ Hoy se cumplió *otro* mes, y es de ése del que quiero hablar: **un mes de toma
 
 -- *Que difícil Tin, ¿por qué no hacés como la mayoría y te evitás meterte en un tema tan delicado?* -- intenta persuadirme mi subconsciente, justo antes de que mi inconsciente le encaje un piña bien puesta. 
 
-Atento, preocupado, orgulloso, intrigado, dudoso, nostálgico, furioso, desconectado, convencido. Son muchos estados teniendo en cuenta que estoy a cientos de kilómetros de 'la verdad'.Pero ¿Cuál verdad? ¿La que escribió el Rio Negro todo este tiempo? ¿O la que me llegaba por emails de mis compañeros y amigos? En mi búsqueda diaria de alguna novedad logré una revelación (que ingenuo era antes): los medios tienen poder y lo ejercen  tergiversando, ocultando, omitiendo, confundiendo, y (como último recurso) ignorando los hechos.  <a href="http://www.8300.com.ar">(8300)</a> es el único medio que dio voz a los estudiantes; un capo el que hizo ese sitio, felicitenló de mi parte.  
+Atento, preocupado, orgulloso, intrigado, dudoso, nostálgico, furioso, desconectado, convencido. Son muchos estados teniendo en cuenta que estoy a cientos de kilómetros de 'la verdad'.Pero ¿Cuál verdad? ¿La que escribió el Río Negro todo este tiempo? ¿O la que me llegaba por emails de mis compañeros y amigos? En mi búsqueda diaria de alguna novedad logré una revelación (que ingenuo era antes): los medios tienen poder y lo ejercen  tergiversando, ocultando, omitiendo, confundiendo, y (como último recurso) ignorando los hechos.  <a href="http://www.8300.com.ar">(8300)</a> es el único medio que dio voz a los estudiantes; un capo el que hizo ese sitio, felicitenló de mi parte.  
 
 Me cuenta David: 
 

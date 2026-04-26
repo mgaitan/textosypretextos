@@ -196,7 +196,7 @@ En la presentación del <a href="http://elblogdesandra.blogspot.com/">blog de Sa
 
 A Sandra no la conozco, pero se debe parecer bastante a Celeste, seguro. 
 
-El domingo pasado Celeste se fue. Volvíó a Neuquén y no regresará, o al menos ese es su plan vigente.  Al contrario de muchos, su regreso no fue forzado por tropiezos académicos, porque es excelente en lo que estudia y le gusta.  Pero parece que necesita afectos que acá no tiene ni podrá encontrar. 
+El domingo pasado Celeste se fue. Volvió a Neuquén y no regresará, o al menos ese es su plan vigente.  Al contrario de muchos, su regreso no fue forzado por tropiezos académicos, porque es excelente en lo que estudia y le gusta.  Pero parece que necesita afectos que acá no tiene ni podrá encontrar. 
 
 -- Justo que yo me voy ¿vos decidís venir? Te voy a extrañar ¿sabés?
 

@@ -28,7 +28,7 @@ comment_count = 0
 legacy_url = "/videos/whassup/"
 surtitle = ""
 subtitle = "Charles Stone"
-deck = "Decime una publicidad de la tela de la que te acuerdes mucho. Una más famosa que la de la nenita del hellmanns y que la del día Osvaldo. Bueno, algo así fue en 1999 esta publicidad de Budweiser, que se pasó por primera vez en el entretiempo del \"Boca-River\" de la temporada de futbol americano de aquel año."
+deck = "Decime una publicidad de la tela de la que te acuerdes mucho. Una más famosa que la de la nenita del hellmanns y que la del día Osvaldo. Bueno, algo así fue en 1999 esta publicidad de Budweiser, que se pasó por primera vez en el entretiempo del \"Boca-River\" de la temporada de fútbol americano de aquel año."
 author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]

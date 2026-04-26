@@ -71,13 +71,13 @@ especial a alguien especial. Bueno, sí, quizás un papel en blanco,
 pero este posmodernismo me tecnificó hasta los miedos.
 
 Es que aunque de vez en cuando me gusta escribir y otras veces tengo
-infrecuentes impulsos de audacia --como salir semidesnudo de un rio
+infrecuentes impulsos de audacia --como salir semidesnudo de un río
 logrando una versión libre del  monstruo del lago Ness con bajo
 presupuesto--, en realidad se vuelve difícil hilvanar palabras que me
 dejen acercarme, sin saber bien a qué, sin saber bien por dónde. 
 
 Lo que sé es que fue un gran amanecer, un bello inicio de año, con la
-alegría de estar con amigos, contemplando el rio, bajo el sol y tu
+alegría de estar con amigos, contemplando el río, bajo el sol y tu
 poesía.
 
 Confesión de parte: Me quedé pensando en vos. Recién bajé las fotos, y
@@ -98,7 +98,7 @@ Nueva Zelanda.
 
 Tengo una seria tendencia a la cursilería, que a veces se camufla en la sensibilidad pero en general se evidencia cuando la lengua se te queda pegada en el paladar si estás cerca mio. Si se trata de una carta, y no sé muy bien qué quiero escribir, siempre empiezo por contar lo que me cuesta empezar cuando no sé muy bien qué quiero escribir --¿te suena?--.
 
-De vez en cuando me gusta salir del rio semidesnudo y sentarme al lado de alguna chica que me gusta. Me asusto muchísimo cuando en vez de insultarme, ignorarme, o llamar a su novio matón, la chica me sonríe, me da conversación y me lee un poema.  
+De vez en cuando me gusta salir del río semidesnudo y sentarme al lado de alguna chica que me gusta. Me asusto muchísimo cuando en vez de insultarme, ignorarme, o llamar a su novio matón, la chica me sonríe, me da conversación y me lee un poema.  
 
 Me gusta la música, aunque no soy erudito («eructito, hijo, se dice eructito»  -- amo Los Simpsons- ). En  el cine, en cambio, me inventé algo así como un criterio personal que consiste en decir «me gustó» si la peli me gustó y «no me gustó» si sucede lo contrario. Además llevo una especie de obsesión por recordar los nombres de
 los actores de reparto de películas desconocidas que nunca vi. 
