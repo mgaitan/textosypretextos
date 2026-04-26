@@ -274,17 +274,6 @@
     @apply mt-0;
   }
 
-  .story-content a {
-    color: var(--color-link);
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 0.18em;
-  }
-
-  .story-content a:hover {
-    opacity: 0.8;
-  }
-
   .story-content h2,
   .story-content h3 {
     font-family: var(--font-ui);
