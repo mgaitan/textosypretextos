@@ -67,7 +67,7 @@
       {% block content %}{% endblock content %}
 
       <footer class="page-footer">
-        <p>{{ config.title }} · {{ config.extra.site_owner }}</p>
+        <p>{{ config.title }} · {{ config.extra.site_owner }} · {{ config.extra.start_year }}–{{ now() | date(format="%Y") }}</p>
       </footer>
     </div>
   </body>
