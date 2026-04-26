@@ -98,7 +98,7 @@ Para lograr un gran cambio social no hay sustitutos a los mimos y a las masas. M
 No anclar la voluntad, luchar por algún cambio, dar forma útil a las críticas y construir una opción innovadora son pasos a dar. Volvamos a jugar, volvamos a soñar, volvamos a buscar las sonrisas robadas. Un futuro más lindo para los niños y las niñas lo clama a gritos.
 
 {% postscript() %}
-Este texto fue presentado en el [taller de escritura](@/blog/el-taller-gimnasio-de-la-neurona.md) bajo la consigna de "no utilizar nunca la vocal E". Justo lo contrario a lo que hice [acá](@/blog/verdes-menesteres.md) y también forma parte de la serie de  lipogramas que se completa con [este cuento](@/blog/hazanas-zarpadas.md).
+Este texto fue presentado en el [taller de escritura](@/blog/el-taller-gimnasio-de-la-neurona.md) bajo la consigna de "no utilizar nunca la vocal E". Justo lo contrario a lo que hice en [Verdes menesteres](@/blog/verdes-menesteres.md) y también forma parte de la serie de lipogramas que se completa con [Hazañas zarpadas](@/blog/hazanas-zarpadas.md).
 
 Fue publicado originalmente en este blog el 9 de mayo de 2005.
 {% end %}
