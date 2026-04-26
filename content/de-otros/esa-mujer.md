@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 366
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El coronel elogia mi puntualidad: --Es puntual como los alemanes --dice. --O como los ingleses. El coronel tiene apellido alemán. Es un hombre corpulento, canoso, de cara ancha, tostada. --He leído sus cosas…"
 visits = 1565
 popularite = 0.43083331751999526

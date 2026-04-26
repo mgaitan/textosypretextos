@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 390
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Estoy contigo, pero por encima de tu hombro me dice adiós tu mano que se aleja. Entonces yo contengo mi mano para que no nos traicione ella también. E insisto: estoy contigo. Los innegables títulos del adiós abandonan…"
 visits = 1184
 popularite = 0.3527492824813419

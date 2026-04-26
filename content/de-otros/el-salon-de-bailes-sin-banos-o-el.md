@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 273
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Un pintoresco croquis del Atlas señala en la calle Yatay un enorme salón de baile. A pesar de su lujosa apariencia, el local no tenia baños. Sucedía entonces que los bailarines se veían obligados a abandonar la milonga…"
 visits = 3238
 popularite = 0.9059914195522848

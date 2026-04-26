@@ -20,7 +20,7 @@ tags = [
 [extra]
 legacy_id = 349
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Para luchar contra el pragmatismo y la horrible tendencia a la consecución de fines útiles, mi primo el mayor propugna el procedimiento de sacarse un buen pelo de la cabeza, hacerle un nudo en el medio y dejarlo caer…"
 visits = 13622
 popularite = 0.9495419524668959

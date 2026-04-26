@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 192
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "cuando sientas tu voz sollozar cuenta conmigo|autor=de una canción de Carlos Puebla> Compañera, usted sabe que puede contar conmigo, no hasta dos ni hasta diez sino contar conmigo. Si algunas veces advierte que la miro…"
 visits = 11454
 popularite = 0.9077470659938383

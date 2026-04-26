@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 448
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En la luz del espejo le están cortando el pelo al que yo soy. La gran tijera que recorta el día roza la yugular, roza la nuca con el frío metálico de un arma; y el que yo soy me mira porque sabe, porque tiene al revés…"
 visits = 1674
 popularite = 0.9335663255773755

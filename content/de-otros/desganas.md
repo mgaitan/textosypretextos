@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 120
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Si cuarenta mil niños sucumben diaramente en el purgatorio del hambre y de la sed si la tortura de los pobres cuerpos envilece una a una a las almas y si el poder se ufana de sus cuarentenas o si los pobres de…"
 visits = 3867
 popularite = 0.9048234532829699

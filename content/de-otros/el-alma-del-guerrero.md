@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 184
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "(...)Mirá, cortá el pan dulce que te voy a leer una carta de Conrad a su amigo Edward Garnett: \"Tiene razón en su crítica de mi novela. La estructura es mala. Es mala porque la decidí conscientemente y yo no tengo…"
 visits = 2081
 popularite = 0.9090167875128295

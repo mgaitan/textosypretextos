@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 323
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Lo primero que me trae a la mente la palabra \"tocar\" es mi amiga Gimena, compañera de colegio, en el viaje de egresados, el último año de la secundaria. Y más específicamente el ómnibus que nos llevaba de vuelta al…"
 visits = 0
 popularite = 0.0

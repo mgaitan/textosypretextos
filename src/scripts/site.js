@@ -203,7 +203,7 @@ function sectionMetaFromPath(pathname) {
   const sectionSlug = pathname.split("/").filter(Boolean)[0] || "";
   const sectionTitles = {
     blog: "Blog",
-    "de-otros": "De otros",
+    "de-otros": "De otres",
     fotos: "Fotos",
     videos: "Videos",
     personal: "Personal",

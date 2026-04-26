@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 357
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Papá nunca deja rastros. Incluso ahora, que trataba de evitar el mal humor durmiendo, está tirado sin desarmar la cama. Hace un rato le gritó a mamá desde el pasillo: --Lilí, llamame en veinte minutos. Papá puede…"
 visits = 3133
 popularite = 0.9438263225838504

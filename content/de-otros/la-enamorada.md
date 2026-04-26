@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 386
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Esta lúgubre manía de vivir esta recóndita humorada de vivir te arrastra alejandra no lo niegues. Hoy te miraste en el espejo y te fue triste estabas sola la luz rugía el aire cantaba pero tu amado no volvió Enviarás…"
 visits = 0
 popularite = 0.0

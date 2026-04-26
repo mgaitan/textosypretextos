@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 417
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Cuando quieras mi amor, no lo imagines no sueñes esperando que lo adivine Cuando quieras al fin seguir tu instinto ven a verme y abandona tu laberinto Si no entiendes lo que vives, si no crees lo que dicen, Quizas sea…"
 visits = 0
 popularite = 0.0

@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 371
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Pasa una semana, un mes, y vamos haciéndonos la idea de que Teresita se adelantará a nuestros planes. Voy a tener que renunciar a la beca de estudios porque dentro de unos meses ya no va a ser fácil seguir. Quizá no…"
 visits = 7031
 popularite = 0.3527096577428952

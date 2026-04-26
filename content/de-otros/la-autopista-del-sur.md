@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 261
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Al principio la muchacha del Dauphine había insistido en llevar la cuenta del tiempo, aunque al ingeniero del Peugeot 404 le daba ya lo mismo. Cualquiera podía mirar su reloj pero era como si ese tiempo atado a la…"
 visits = 6419
 popularite = 0.9085093608497894

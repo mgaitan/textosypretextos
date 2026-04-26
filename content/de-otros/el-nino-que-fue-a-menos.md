@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 234
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "La señorita Claudia le pregunta a Ferro: -- ¿Quién fundó la ciudad de Asunción? Ferro lo ignora y lo confiesa. La maestra intenta por otros rumbos. -- Tissot. -- No sé, señorita. -- Rossi. Silencio. El ambiente se pone…"
 visits = 7788
 popularite = 0.9064506206617594

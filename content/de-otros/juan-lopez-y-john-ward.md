@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 327
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Les tocó en suerte una época extraña. El planeta había sido parcelado en distintos países, cada uno provisto de lealtades, de queridas memorias, de un pasado sin duda heroico, de derechos, de agravios, de una mitología…"
 visits = 0
 popularite = 0.0

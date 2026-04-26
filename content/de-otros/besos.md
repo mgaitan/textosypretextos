@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 121
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Hay besos que pronuncian por sí solos la sentencia de amor condenatoria, hay besos que se dan con la mirada hay besos que se dan con la memoria. Hay besos silenciosos, besos nobles hay besos enigmáticos, sinceros hay…"
 visits = 4186
 popularite = 0.2504463719784405

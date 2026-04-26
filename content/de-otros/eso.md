@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 276
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Al preso lo interrogaban tres veces por semana para averiguar «quien le había enseñado eso». Él siempre respondía con un digno silencio y entonces el teniente de turno arrimaba a sus testículos la horrenda picana. Un…"
 visits = 3814
 popularite = 0.9073778081269231

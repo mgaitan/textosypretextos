@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 393
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "¿Lejos? Hay un arco tendido que hace viajar la flecha de tu voz. ¿Alto? Hay un ala que rema recta, hacia el sol. De polo a polo a una secreta información. ¿Qué más? Estar alerta para el duro remar; y toda el alma…"
 visits = 546
 popularite = 0.9091874338153906

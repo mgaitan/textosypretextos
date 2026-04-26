@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 326
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Nadie lo vio desembarcar en la unánime noche, nadie vio la canoa de bambú sumiéndose en el fango sagrado, pero a los pocos días nadie ignoraba que el hombre taciturno venía del Sur y que su patria era una de las…"
 visits = 0
 popularite = 0.0

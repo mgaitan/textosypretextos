@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 331
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "lla era gorda, baja, pecosa y de pelo excesivamente crespo, medio amarillento. Tenía un busto enorme, mientras que todas nosotras todavía eramos chatas. Como si no fuese suficiente, por encima del pecho se llenaba de…"
 visits = 0
 popularite = 0.0

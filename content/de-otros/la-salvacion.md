@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 274
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ésta es una historia de tiempos y de reinos pretéritos. El escultor paseaba con el tirano por los jardines del palacio. Más allá del laberinto para los extranjeros ilustres, en el extremo de la alameda de los filósofos…"
 visits = 0
 popularite = 0.0

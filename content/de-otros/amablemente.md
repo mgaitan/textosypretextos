@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 206
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "La encontró en el bulín y en otros brazos... Sin embargo, canchero y sin cabrearse, Le dijo al gavilán: \"Puede rajarse; el choma no es culpable en estos casos.\" Al quedarse bien solo con la mina, buscó las alpargatas…"
 visits = 1928
 popularite = 0.4213978477805894

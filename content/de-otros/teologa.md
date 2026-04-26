@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 271
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En el siglo Vll después de Cristo, un grupo de teólogos bávaros discute sobre el sexo de los ángeles. Obviamente, no se admite que las mujeres (por entonces ni siquiera era seguro que tuvieran alma) sean capaces de…"
 visits = 2724
 popularite = 0.4270365568177682

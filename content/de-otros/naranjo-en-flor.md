@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 416
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Era más blanda que el agua, que el agua blanda, era más fresca que el río, naranjo en flor. Y en esa calle de estío, calle perdida, dejó un pedazo de vida y se marchó... Primero hay que saber sufrir, después amar…"
 visits = 466
 popularite = 0.9063651872834128

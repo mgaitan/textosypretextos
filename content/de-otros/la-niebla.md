@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 363
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "La niebla lo invade todo. Este cuarto que no eligió, este mundo que no es el suyo, estos ojos desconocidos que la miran y la buscan, y que aseguran conocerla. Acá la niebla. Más allá, también la niebla. Sobre sus manos…"
 visits = 5529
 popularite = 0.9033604999180275

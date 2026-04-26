@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 146
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Por favor no hagas promesas sobre el bidet por favor no me abras más los sobres. Por favor, yo te prometo te escribiré si es que para de correr. Por favor, sigue la sombra de mi bebé, por favor, no bebas más, por favor…"
 visits = 9660
 popularite = 0.9131748810622817

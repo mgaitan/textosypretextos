@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 437
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Resulta que antes no te importaba nada y ahora te importa todo. Sobre todo lo chiquito. Pasaste de náufrago a financista sin bajarte del bote. Vos, sí, vos, que ya estabas acostumbrado a saber que tu patria era la…"
 visits = 94144
 popularite = 0.7407276545126769

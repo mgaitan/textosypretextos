@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 407
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Tu voz interrumpe el mundo y le da otra palabra. Ahora gira en los silencios del sol. Tiene mares y tu idea del mar es más bella que el mar. Islas que son cuando hablás y se van cuando callás a su isla que se hunde en…"
 visits = 2499
 popularite = 0.35248945171112883

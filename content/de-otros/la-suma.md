@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 328
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ante la cal de una pared que nada nos veda imaginar como infinita un hombre se ha sentado y premedita trazar con rigurosa pincelada en la blanca pared el mundo entero: puertas, balanzas, tártaros, jacintos, ángeles…"
 visits = 0
 popularite = 0.0

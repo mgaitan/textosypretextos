@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 431
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No vayan a creer vuesas mercedes que soy una moza lánguida y amiga de embelecos sin bulto, de los que no se palpan ni se sienten pero hacen llorar. Arredro vayan de mi vera los pálpitos inexplicables, los suspiritos de…"
 visits = 2268
 popularite = 0.9966812718610963

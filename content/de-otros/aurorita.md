@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 449
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Invierno en la avenida Juan B. Justo y el viejo pedaleando en la Aurorita rosada de la nena. Un pullover y otro y camiseta, la campera del Shopping Abasto está muy cara, la motito alemana está muy cara, la bici con…"
 visits = 0
 popularite = 0.0

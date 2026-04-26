@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 365
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Octubre 25, 2007. --Hola María Rosa. ¿Cómo te va? --Mal. --¿Qué tenés? --Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y que necesito que me pagues la deuda. Un día después…"
 visits = 3509
 popularite = 0.3527181314761368

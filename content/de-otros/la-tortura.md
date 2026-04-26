@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 278
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "La palabra mártir viene del griego, y significa: el que da testimonio. En los años de la dictadura militar brasileña, fray Tito dio testimonio de indignación entre los indignos, y fue por ellos encarcelado y…"
 visits = 7946
 popularite = 0.9075672581712685

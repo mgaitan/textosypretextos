@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 330
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Anders llegó al banco poco antes de la hora de cierre, así que por supuesto la cola era interminable y quedó ubicado detrás de dos mujeres que, con su estridente y estúpida conversación, lo pusieron de un humor…"
 visits = 0
 popularite = 0.0

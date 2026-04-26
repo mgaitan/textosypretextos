@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 385
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Qué dulce modo tenés de no estar, quédate así cuando te vas, como un aroma de sol en la piel mucho verano después. Qué melancólico modo tenés de acompañar aunque no estés. Tiembla en el aire del atardecer verte por…"
 visits = 1222
 popularite = 0.35842973978767356

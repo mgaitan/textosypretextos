@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 439
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Yo no voy. Claro que no voy. Que no vaya no significa que piense que está todo bien, que no hay nada que criticar o que cambiar. No significa que yo no esté también enojado por algunas cosas. Significa que creo que…"
 visits = 2741
 popularite = 0.3541938898641551

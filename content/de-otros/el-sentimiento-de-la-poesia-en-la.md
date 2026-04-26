@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 335
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El sentimiento de la poesía en la infancia: me gustaría saber más, pero temo caer en las extrapolaciones a la inversa, recordar obligadamente desde el hic et nunc que deforma casi siempre el pasado (Proust incluído…"
 visits = 4971
 popularite = 0.9393818730261312

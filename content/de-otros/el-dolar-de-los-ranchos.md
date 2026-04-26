@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 423
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En 1998, el país parecía vivir un tiempo de vacas gordas. Era el tiempo del despilfarro procaz del dólar. Pero había también, en el interior del país, sobre todo, otra Argentina. Por entonces, yo estaba terminando mi…"
 visits = 470
 popularite = 0.9060722089944736

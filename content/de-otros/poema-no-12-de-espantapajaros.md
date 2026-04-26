@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 180
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Se miran, se presienten, se desean, se acarician, se besan, se desnudan, se respiran, se acuestan, se olfatean, se penetran, se chupan, se demudan, se adormecen, despiertan, se iluminan, se codician, se palpan, se…"
 visits = 26616
 popularite = 0.9060940491335622

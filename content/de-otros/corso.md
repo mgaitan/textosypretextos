@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 354
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Vos sabés cómo nos divertimos, el corso era un asco pero nosotros nos divertimos igual. El Ángel se consiguió unos plumachos, dice que los trajo de la isla y que crecen en una planta, pero eran como plumas de avestruz…"
 visits = 5586
 popularite = 0.9148080758655842

@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 169
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No amarse ahora, pero haber amado. Y encontrarse otra vez... Recuerdo grave como el de alguna flor de aroma suave que se mustia en un libro ya olvidado. Va surgiendo el recuerdo desvelado: una palabra, un gesto... Es…"
 visits = 1923
 popularite = 0.9060469492297398

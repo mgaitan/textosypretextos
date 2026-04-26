@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 98
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "¿Qué se puede hacer en ochenta años? Probablemente, empezar a darse cuenta de cómo habría de vivir y cuáles son las tres o cuatro cosas que valen la pena. Un programa honesto requiere ochocientos años. Los primeros…"
 visits = 2262
 popularite = 0.9025665138590587

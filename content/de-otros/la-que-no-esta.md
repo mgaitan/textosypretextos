@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 89
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ninguna tiene tanto éxito como la que no está. Aunque todavía es joven, muchos años de práctica consciente la han perfeccionado en el sutilísimo arte de la ausencia. Los que preguntan por ella terminan por conformarse…"
 visits = 692
 popularite = 0.907591078304076

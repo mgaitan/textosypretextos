@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 97
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Lunas, marfiles, instrumentos, rosas, lamparas y la linea de Durero, las nueve cifras y el cambiante cero, debo fingir que existen esas cosas. Debo fingir que en el pasado fueron Persepolis y Roma y que una arena sutil…"
 visits = 1896
 popularite = 0.9065415706045545

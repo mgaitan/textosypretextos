@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 391
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Trato de escribir en la oscuridad tu nombre. Trato de escribir que te amo. Trato de decir a oscuras esto. No quiero que nadie se entere, que nadie me mire a las tres de la mañana, paseando a lo largo de la estancia…"
 visits = 1273
 popularite = 0.9041542274460466

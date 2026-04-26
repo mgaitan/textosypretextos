@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 376
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El lagarto está llorando. La lagarta está llorando. El lagarto y la lagarta con delantaritos blancos. Han perdido sin querer su anillo de desposados. ¡Ay, su anillito de plomo, ay, su anillito plomado! Un cielo grande…"
 visits = 665
 popularite = 0.9081298074090259

@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 264
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El hombre que maneja la niveladora de terreno, mira el banderín azul con ansiedad. Tiene las manos al volante, y un cigarrillo apagado en la boca. El sol brilla con desenfado y entonces el hombre se seca una gota que…"
 visits = 1126
 popularite = 0.9066396752886733

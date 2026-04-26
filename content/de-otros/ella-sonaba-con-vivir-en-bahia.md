@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 299
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ella soñaba con vivir en Bahía, pero en San Telmo sobrevivía; tomaba clases de teatro independiente era feliz mostrando el culo a tanta gente inteligente. Tomaba leche en La Martona de Corrientes y se las daba de mujer…"
 visits = 0
 popularite = 0.0

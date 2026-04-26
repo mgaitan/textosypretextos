@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 279
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Para prevenir que los niños de los pobres de Irlanda sean una carga para sus padres o el país, y para hacerlos útiles al público Dublín, Irlanda, 1729 Es un asunto melancólico para quienes pasean por esta gran ciudad o…"
 visits = 1279
 popularite = 0.9071164913818109

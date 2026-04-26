@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 392
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ayer pasó el pasado lentamente con su vacilación definitiva sabiéndote infeliz y a la deriva con tus dudas selladas en la frente ayer pasó el pasado por el puente y se llevó tu libertad cautiva cambiando su silencio en…"
 visits = 0
 popularite = 0.0

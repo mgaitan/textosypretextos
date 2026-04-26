@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 263
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ella es el verde y yo el azul. Y cuando estamos azul sobre verde somos la tierra y el cielo, porque ella es la ofrenda fértil y yo soy los vientos con tormentas y soles; porque ella es la risa, el pan, la tierra y yo…"
 visits = 0
 popularite = 0.0

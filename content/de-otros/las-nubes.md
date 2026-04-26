@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 272
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Nube dejó caer una gota de lluvia sobre el cuerpo de una mujer. A los nueve meses, ella tuvo mellizos. Cuando crecieron, quisieron saber quién era su padre. -- Mañana por la mañana --dijo ella-- miren hacia el…"
 visits = 14018
 popularite = 0.9077791310156823

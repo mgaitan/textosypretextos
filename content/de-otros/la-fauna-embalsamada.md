@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 377
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "¿esto es un poema? ¿estar a oscuras sin dormir puede ser un poema? ¿si no hay nada puede haber un poema? ¿si digo que respiro en este cubo negro, no es algo ya? ¿no es demasiado? ¿no es mucho más que esto en realidad?…"
 visits = 1075
 popularite = 0.9083129008981133

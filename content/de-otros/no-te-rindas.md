@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 141
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No te rindas, aun estas a tiempo de alcanzar y comenzar de nuevo, aceptar tus sombras, enterrar tus miedos, liberar el lastre, retomar el vuelo. No te rindas que la vida es eso, continuar el viaje, perseguir tus…"
 visits = 1682970
 popularite = 0.9241870534400456

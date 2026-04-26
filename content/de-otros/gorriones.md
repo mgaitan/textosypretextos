@@ -16,7 +16,7 @@ tags = [
 
 [extra]
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Llegó el verano y con el verano el tiempo de arreglar la casa. Mi padre apoyó la escalera sobre una de las paredes y se trepó al techo."
 hero_image = ""
 hero_alt = ""

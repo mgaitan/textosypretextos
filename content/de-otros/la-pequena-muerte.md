@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 125
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No nos da risa el amor cuando llega a lo más hondo de su viaje, a lo más alto de su vuelo: en lo más hondo, en lo más alto, nos arranca gemidos y quejidos, voces de dolor, aunque sea jubiloso dolor, lo que pensándolo…"
 visits = 47076
 popularite = 0.9402925051548888

@@ -20,7 +20,7 @@ tags = [
 [extra]
 legacy_id = 78
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "A través de tus ojos. Una canción de La Portuaria sobre el tiempo compartido, la intimidad y la mirada amorosa."
 visits = 0
 popularite = 0.0

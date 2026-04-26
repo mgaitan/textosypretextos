@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 420
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Los abismos atraen. Yo vivo en la orilla de tu alma. Inclinado hacia ti, sondeo tus pensamientos, indago el germen de tus actos. Vagos deseos se remueven en el fondo, confusos y ondulantes en su lecho de reptiles. ¿De…"
 visits = 0
 popularite = 0.0

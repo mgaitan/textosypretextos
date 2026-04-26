@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 128
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Silbo en la oscuridad animal sin reposo torres de la vigilia candela de los ojos. No sé qué pueda ser si una curva del tiempo o un hueco en el corazón atento . Trigo sobre el brocal para que coma el hambre y abajo el…"
 visits = 5345
 popularite = 0.9070244380093243

@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 337
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Niños de plástico juegan erráticos sueños para vivir, y en un errático vagabundeo se vuelven a consumir, en el estático mundo simpático que les dan a elegir. Mienten, mienten, qué forma de mentir. No es el mundo que…"
 visits = 865
 popularite = 0.9063337423159666

@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 387
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "La calle Llupes raya al medio encuentra Belvedere el tren saluda desde abajo con silbos de tristeza aquellas filas infinitas saliendo de Central el empedrado está tapado pero allí está La primavera en aquel barrio se…"
 visits = 2212
 popularite = 0.9072258348093631

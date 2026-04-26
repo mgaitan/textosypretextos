@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 414
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Mira, no pido mucho, solamente tu mano, tenerla como un sapito que duerme así contento. Necesito esa puerta que me dabas para entrar a tu mundo, ese trocito de azúcar verde, de redondo alegre. ¿No me prestás tu mano en…"
 visits = 5703
 popularite = 0.9104279001615339

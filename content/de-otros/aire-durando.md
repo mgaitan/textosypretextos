@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 441
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "¿Quién ha matado este hombre que su voz no está enterrada? Hay muertos que van subiendo cuanto más su ataúd baja... Este sudor... ¿por quién muere? ¿por qué cosa muere un pobre? ¿Quién ha matado estas manos? ¡No cabe…"
 visits = 3227
 popularite = 0.9071571480694836

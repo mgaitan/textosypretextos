@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 427
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Si toco todos los días este pan, la cama y mis zapatos el pie que me adelanta y el ojo por donde entra el mundo. Si con esta visión de la corteza adivino al árbol y al pájaro que viene. ¿Cómo no voy a conocer la exacta…"
 visits = 1006
 popularite = 0.35267045909840383

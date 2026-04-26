@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 123
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Todo lo que de vos quisiera es tan poco en el fondo porque en el fondo es todo, como un perro que pasa, una colina, esas cosas de nada, cotidianas, espiga y cabellera y dos terrones, el olor de tu cuerpo, lo que decís…"
 visits = 28877
 popularite = 0.9103697183727175

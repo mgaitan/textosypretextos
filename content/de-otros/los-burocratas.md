@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 317
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Los burócratas nadan en un mar de aburrimiento tempestuoso. Desde el horror de sus bostezos son los primeros asesinos de la ternura terminan por enfermarse del hígado y mueren aferrados a los teléfonos con los ojos…"
 visits = 3165
 popularite = 0.3534311603555411

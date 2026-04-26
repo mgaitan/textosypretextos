@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 132
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Cómo será pregunto. Cómo será tocarte a mi costado. Ando de loco por el aire que ando que no ando. Cómo será acostarme en tu país de pechos tan lejano. Ando de pobrecristo a tu recuerdo clavado, reclavado. Será ya como…"
 visits = 5482
 popularite = 0.9074844390415828

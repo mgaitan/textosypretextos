@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 422
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Van por la junta de los baldosones, marchando. Parece una fila recta, pero no. Hay que mirar con atención, una atención que sólo se logra siendo un niño o estando enamorado. Una atención minuciosamente escrutadora de…"
 visits = 542
 popularite = 0.42150966697530967

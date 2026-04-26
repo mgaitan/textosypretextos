@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 440
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "San Miguel de Tucumán, la capital de Tucumán, una provincia ubicada en el Norte de la Argentina, tiene sus calles repletas de naranjos. Están dispuestos en hilera en casi todas las aceras y eso hace que la ciudad…"
 visits = 41339
 popularite = 0.8781274233633689

@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 396
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El amor se aprende, se hace, se inventa, se contagia… y también se acaba. Queramos o no, dura lo que dura. El amor caduca sin previo aviso y no admite reclamaciones ni devoluciones. El amor es así. Improbable…"
 visits = 905
 popularite = 0.9057542980764269

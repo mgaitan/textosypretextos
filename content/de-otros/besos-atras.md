@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 395
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Es olvidar todo este tiempo que vendrá trayendo un fin. Es olvidar todo lo triste del sufrir que ha de llegar. Es olvidar, llenar vacíos que se irán. Guardar palabras, callar sueños sin seguir ya comenzando el amor con…"
 visits = 513
 popularite = 0.9045389843460049

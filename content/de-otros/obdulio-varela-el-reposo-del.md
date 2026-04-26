@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 158
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Historia de vida , tal como se la conocía en el suplemento cultural de La Opinión, era una de las formas más difíciles del reportaje. Consistía en escuchar, ante un grabador, durante cinco o seis horas--tal vez más--…"
 visits = 4668
 popularite = 0.3523961796653185

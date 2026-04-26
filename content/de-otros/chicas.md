@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 308
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ayer fue el Día Internacional de la Mujer, o algo así, y quería --con muchísimas prevenciones-- decirte algo sobre eso. Lo de las prevenciones es natural: cualquier mujer se enoja si se habla de ellas solo en su día, y…"
 visits = 5694
 popularite = 0.492067828210331

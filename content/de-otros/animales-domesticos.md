@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 356
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Desde que Felipe trajo esa estufa de kerosene no se puede respirar en esta casa. --Quería darte una sorpresa-- dijo cuando cortaba el hilo del paquete. --Sabés que no aguanto el kerosene. Me da alergia. --En esta casa…"
 visits = 2794
 popularite = 0.9269723057904171

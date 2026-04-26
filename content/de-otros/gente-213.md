@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 213
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "A mi gente Hay gente que con sólo decir una palabra enciende la ilusión y los rosales, que con sólo sonreir entre los ojos nos invita a viajar por otras zonas y nos hace recorrer toda la mágia. Hay gente que con sólo…"
 visits = 1318
 popularite = 0.9080295988238771

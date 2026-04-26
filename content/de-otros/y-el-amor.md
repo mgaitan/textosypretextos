@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 108
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El milagro de existir, el instinto de buscar, la fortuna de encontrar, el gusto de conocer. La ilusión de vislumbrar, el placer de coincidir, el temor a reincidir, el orgullo de gustar. La emoción de desnudar y…"
 visits = 5139
 popularite = 0.5645960787306027

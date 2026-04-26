@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 433
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Es tiempo de unión, tiempo de que juntemos las manos y desafiemos la muerte. Las naranjas están dulces en los palos, se desgajan pesadas para que tu y yo comamos la ternura de la naturaleza. Es tiempo de decir te…"
 visits = 988
 popularite = 0.9033216032426754

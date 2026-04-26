@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 406
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "a Olga Orozco No importa que no sepas cuándo te toca la incandescencia del aire. Lo importante es que la recibas y más importante aún que abras así el país de la bondad. Los sueños no saben nada de sí mismos. También…"
 visits = 902
 popularite = 0.907178356165239

@@ -20,7 +20,7 @@ tags = [
 [extra]
 legacy_id = 378
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Pido que las noches no se quiebren en tu luz Y que las ventanas sean grandes para el sol Cuando los almendros no se pasen de estación Buscaré más flores para darte mi canción de amor. Pido atardeceres en los cielos de…"
 visits = 902
 popularite = 0.9087395783257712

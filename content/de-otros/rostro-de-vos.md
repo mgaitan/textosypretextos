@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 411
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Tengo una soledad tan concurrida tan llena de nostalgias y de rostros de vos de adioses hace tiempo y besos bienvenidos de primeras de cambio y de último vagón. Tengo una soledad tan concurrida que puedo organizarla…"
 visits = 3477
 popularite = 0.9076700618274073

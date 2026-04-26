@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 443
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "A la memoria de Philip Seymour Hoffman Todo es más complicado de lo que piensas. Sólo ves un décimo de lo que es verdad. Hay un millón de pequeños hilos ligados a cada decisión que tomas. Puedes destruir tu vida cada…"
 visits = 1166
 popularite = 0.983059446523208
