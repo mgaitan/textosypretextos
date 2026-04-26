@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#000"/>
+  <!-- Serif T: crossbar + stem + base serifs, path-based for consistent rendering -->
+  <path fill="#fff" d="M4.5,5.5 H27.5 V9.5 H17.5 V26.5 H21 V28.5 H11 V26.5 H14.5 V9.5 H4.5 Z"/>
+</svg>
