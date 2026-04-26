@@ -270,6 +270,17 @@
     @apply max-w-none text-[1.06rem] leading-8 text-black;
   }
 
+  .story-content a {
+    color: var(--color-link);
+    text-decoration-color: var(--color-link);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+  }
+
+  .story-content a:hover {
+    text-decoration-thickness: 2px;
+  }
+
   .story-content > :first-child {
     @apply mt-0;
   }
