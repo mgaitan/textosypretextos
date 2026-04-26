@@ -23,32 +23,152 @@
 
   <script src="/elasticlunr.min.js"></script>
   <script>
-    // The index ships with Spanish stemming but elasticlunr.js does not
-    // bundle a Spanish pipeline. Register a lightweight stemmer that trims
-    // common suffixes so query terms match the stemmed index entries.
-    if (window.elasticlunr) {
-      const SUFFIXES = [
-        'amientos', 'imientos', 'amiento', 'imiento', 'aciones', 'iciones',
-        'amente', 'aciones', 'mente', 'logia', 'logias', 'idades', 'idad',
-        'ables', 'ibles', 'icion', 'ucion', 'aron', 'ieron', 'iendo', 'ando',
-        'ados', 'idos', 'ada', 'ida', 'ado', 'ido', 'amos', 'emos', 'imos',
-        'ais', 'eis', 'ar', 'er', 'ir', 'as', 'os', 'es', 'a', 'o', 'e',
-      ];
-      const lightStem = (token) => {
-        if (!token || token.length < 5) return token;
-        const lower = token.toLowerCase();
-        for (const sfx of SUFFIXES) {
-          if (lower.length - sfx.length >= 3 && lower.endsWith(sfx)) {
-            return lower.slice(0, lower.length - sfx.length);
+    // The index ships with Snowball Spanish stemming (built by Zola) but
+    // elasticlunr.min.js does not bundle a Spanish pipeline. We register the
+    // same Snowball Spanish algorithm here so query tokens match index tokens.
+    (function () {
+      if (!window.elasticlunr) return;
+
+      function spanishStem(token) {
+        if (!token || token.length <= 2) return token;
+        let w = token.toLowerCase()
+          .replace(/[áà]/g,'a').replace(/[éè]/g,'e').replace(/[íì]/g,'i')
+          .replace(/[óò]/g,'o').replace(/[úùü]/g,'u').replace(/ñ/g,'n');
+        if (w.length <= 2) return w;
+
+        const iv = (s, i) => 'aeiou'.includes(s[i] || '');
+
+        // Compute R1 (min 3), R2, RV once from original word
+        let r1 = w.length, r2 = w.length, rv = w.length;
+        for (let i = 1; i < w.length; i++) {
+          if (!iv(w,i) && iv(w,i-1)) { r1 = i+1; break; }
+        }
+        r1 = Math.max(3, r1);
+        for (let i = r1+1; i < w.length; i++) {
+          if (!iv(w,i) && iv(w,i-1)) { r2 = i+1; break; }
+        }
+        if (!iv(w,1)) {
+          for (let i = 2; i < w.length; i++) { if (iv(w,i)) { rv=i+1; break; } }
+        } else if (iv(w,0) && iv(w,1)) {
+          for (let i = 2; i < w.length; i++) { if (!iv(w,i)) { rv=i+1; break; } }
+        } else { rv = 3; }
+
+        // Remove suffix if its start position >= min boundary
+        const del = (sfx, min) => {
+          if (w.endsWith(sfx) && w.length - sfx.length >= min) {
+            w = w.slice(0, w.length - sfx.length); return true;
+          }
+          return false;
+        };
+        const rep = (sfx, repl, min) => {
+          if (w.endsWith(sfx) && w.length - sfx.length >= min) {
+            w = w.slice(0, w.length - sfx.length) + repl; return true;
+          }
+          return false;
+        };
+
+        // ── Step 1: Standard suffixes ───────────────────────────────────────
+        let s1 = false;
+
+        // Delete if in R2
+        for (const sfx of [
+          'amientos','imientos','amiento','imiento',
+          'ismos','ismo','istas','ista',
+          'osas','osos','osa','oso',
+          'ables','ibles','able','ible',
+          'icas','icos','ica','ico',
+          'anzas','anza','aciones','iciones',
+        ]) { if (del(sfx, r2)) { s1=true; break; } }
+
+        // adora/ador/acion/ante + possible 'ic' (all in R2)
+        if (!s1) {
+          for (const sfx of ['adoras','adores','adora','ador','acion','aciones','antes','ante']) {
+            if (w.endsWith(sfx) && w.length - sfx.length >= r2) {
+              w = w.slice(0, w.length - sfx.length);
+              del('ic', r2);
+              s1 = true; break;
+            }
           }
         }
-        return lower;
-      };
+        // logía → log (normalized: logia)
+        if (!s1) { for (const sfx of ['logias','logia']) { if (rep(sfx,'log',r2)) { s1=true; break; } } }
+        // ución → u (normalized: ucion)
+        if (!s1) { for (const sfx of ['uciones','ucion']) { if (rep(sfx,'u',r2)) { s1=true; break; } } }
+        // encia → ente
+        if (!s1) { for (const sfx of ['encias','encia']) { if (rep(sfx,'ente',r2)) { s1=true; break; } } }
+        // amente (R1; sub-suffixes R2)
+        if (!s1 && del('amente', r1)) {
+          s1 = true;
+          for (const sfx of ['iv','os','ic','ad']) { if (del(sfx, r2)) break; }
+        }
+        // mente (R2; sub-suffixes R2)
+        if (!s1 && del('mente', r2)) {
+          s1 = true;
+          for (const sfx of ['ante','able','ible']) { if (del(sfx, r2)) break; }
+        }
+        // idad/idades (R2; sub-suffixes R2)
+        if (!s1) {
+          for (const sfx of ['idades','idad']) {
+            if (del(sfx, r2)) {
+              s1 = true;
+              for (const sfx2 of ['abil','ic','iv']) { if (del(sfx2, r2)) break; }
+              break;
+            }
+          }
+        }
+        // iva/ivo/ivas/ivos (R2; 'at' R2)
+        if (!s1) {
+          for (const sfx of ['ivas','ivos','iva','ivo']) {
+            if (del(sfx, r2)) { s1=true; del('at', r2); break; }
+          }
+        }
+
+        // ── Step 2a: y-forms preceded by u (in RV) ─────────────────────────
+        if (!s1) {
+          for (const sfx of ['yendo','yamos','yais','yeron','yan','yen','yas','yes','yos','ye','ya','yo']) {
+            if (w.endsWith(sfx) && w.length - sfx.length >= rv) {
+              const pre = w.slice(0, w.length - sfx.length);
+              if (pre.endsWith('u')) { w = pre; break; }
+            }
+          }
+        }
+
+        // ── Step 2b: Verb suffixes (longest match, all in RV) ───────────────
+        // All accented characters are already normalized in `w`
+        if (!s1) {
+          for (const sfx of [
+            'ariamos','eriamos','iriamos','ieramos','iesemos',
+            'ariais','eriais','iriais','ierais','ieseis','asteis','isteis',
+            'abamos','aramos','asemos',
+            'aremos','eremos','iremos',
+            'arian','erian','irian','arias','erias','irias',
+            'areis','ereis','ireis',
+            'aran','eran','iran','aras','eras','iras',
+            'ieran','iesen','ieron','iendo',
+            'aran','asen','aron','aban','ados','idas','idos','ando',
+            'emos','imos','amos',
+            'aria','eria','iria','iera','iese',
+            'aste','iste',
+            'ara','ase','ian',
+            'ado','ida','ido','ias',
+            'ais','eis','aba',
+            'an','ad','ed','id','as','es','is',
+            'ar','er','ir',
+            'a','e',
+          ]) { if (del(sfx, rv)) break; }
+        }
+
+        // ── Step 3: Residual vowel (in RV) ──────────────────────────────────
+        for (const sfx of ['os','a','o','i']) { if (del(sfx, rv)) break; }
+
+        return w;
+      }
+
       const noop = (token) => token;
       try { elasticlunr.Pipeline.registerFunction(noop, 'trimmer-es'); } catch (_e) {}
       try { elasticlunr.Pipeline.registerFunction(noop, 'stopWordFilter-es'); } catch (_e) {}
-      try { elasticlunr.Pipeline.registerFunction(lightStem, 'stemmer-es'); } catch (_e) {}
-    }
+      try { elasticlunr.Pipeline.registerFunction(spanishStem, 'stemmer-es'); } catch (_e) {}
+    })();
   </script>
   <script src="/search_index.es.js"></script>
   <script defer>
