@@ -9,6 +9,7 @@ article_paths = [
 ]
 image = "/media/flor_lobo.jpg"
 is_owner = false
+gender = "f"
 +++
 
 Florencia Lobo (San Miguel de Tucumán, 1984) es una poeta argentina que se crió Tierra del Fuego. Su escritura explora la naturaleza, las culturas de su tierra, el asombro ante la belleza cotidiana, la conmoción inexplicable de *"poner el corazón al servicio de lo inútil"*.

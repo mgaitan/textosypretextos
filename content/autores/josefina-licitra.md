@@ -11,6 +11,7 @@ article_paths = [
 ]
 image = ""
 is_owner = false
+gender = "f"
 +++
 
 
