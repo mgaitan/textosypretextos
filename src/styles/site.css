@@ -498,6 +498,10 @@
     @apply min-w-0;
   }
 
+  .article-nav .story-kicker {
+    @apply whitespace-nowrap;
+  }
+
   .article-nav-next {
     @apply sm:text-right;
   }
