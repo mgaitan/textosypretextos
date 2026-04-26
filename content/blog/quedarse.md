@@ -274,33 +274,35 @@ body = "Me alegra que estén bien.\nAhora, hay una frase que no tiene desperdici
 
 ### Uno
 
+{% dialogo() %}
 — Sí, loco. Es increíble pero a la vez lo siento totalmente natural; ya no lo podría concebir de otra forma. A veces me doy cuenta que paso todo el día con ella pero se me pasa volando. Me da mucha alegría, mucha paz estar con ella. Ey, allá están los milicos de nuevo.  ¡Qué cantidad de yutas que hay!
-— Sí, ¿no?. Che, qué bueno eso, lo distinto que es construir una relación desde la naturalidad, desde la alegría y no desde el conflicto, aunque sea trivial. Yo tengo que buscar bastante para encontrar cuando me sentí realmente así, como que de alguna manera, sin querer por ahí, pero proyecto y, no sé, prediseño la relación de antemano. Y al final así uno se pierde la sorpresa. 
-— La verdad que la flaca es hermosísima. Terrible minón, boludo. 
+— Sí, ¿no?. Che, qué bueno eso, lo distinto que es construir una relación desde la naturalidad, desde la alegría y no desde el conflicto, aunque sea trivial. Yo tengo que buscar bastante para encontrar cuando me sentí realmente así, como que de alguna manera, sin querer por ahí, pero proyecto y, no sé, prediseño la relación de antemano. Y al final así uno se pierde la sorpresa.
+— La verdad que la flaca es hermosísima. Terrible minón, boludo.
 — Negro, ¡estás al horno! ¡Jaja jajaja!
 — Parece, ¿no?
-— Che, ponete algo de música. Ahí en el canasto están los discos.  
-— A ver... ¿Caetano? 
+— Che, ponete algo de música. Ahí en el canasto están los discos.
+— A ver... ¿Caetano?
 — Bueno, dale
-— Che, parece que está hecho percha. ¿Qué mierda dice? No alcanzo a ver, que display de mierda. Ah, check disk. Que cagada, pero el disco parece sano, me parece que está hecho mierda el lector. 
-— Probá otro disco. 
-— Sí, es el lector. Dice lo mismo. 
-— Ahí atrás, en la mochila, está la maquina mía. Tengo ganas de escuchar Pink Floyd. 
+— Che, parece que está hecho percha. ¿Qué mierda dice? No alcanzo a ver, que display de mierda. Ah, check disk. Que cagada, pero el disco parece sano, me parece que está hecho mierda el lector.
+— Probá otro disco.
+— Sí, es el lector. Dice lo mismo.
+— Ahí atrás, en la mochila, está la maquina mía. Tengo ganas de escuchar Pink Floyd.
 — Boludo, está bonita ¿eh?. La cagada es que tiene el teclado en inglés.
-— En inglés y en francés. Pero la configuré en español, y ya me acostumbré, es lo mismo. Está buenísima. Ahora uso casi siempre esta. La otra vez tenía que hacer uno escritos, y me fui a un barcito por ahí cerca de mi casa, que tiene wifi; ocho hora le clavé. Los mozos ya me barrían las patas.  
+— En inglés y en francés. Pero la configuré en español, y ya me acostumbré, es lo mismo. Está buenísima. Ahora uso casi siempre esta. La otra vez tenía que hacer uno escritos, y me fui a un barcito por ahí cerca de mi casa, que tiene wifi; ocho hora le clavé. Los mozos ya me barrían las patas.
 — ¿Cuánto salió al final?
-— Seiscientos y pico, no me acuerdo bien. Está bastante bien ¿no? Fijate ahí en el borde tiene la descripción de las cosas que tiene.  
+— Seiscientos y pico, no me acuerdo bien. Está bastante bien ¿no? Fijate ahí en el borde tiene la descripción de las cosas que tiene.
 — Che,  ¿cuál es la contraseña?
 — Mariano ese. Fijate ahí en el escritorio tiene que haber una carpeta que diga backup.
-— No está, che. 
-— ¿No está? Puta, el boludo del Renzo la debe haber bajado a la otra maquina y la borró. 
+— No está, che.
+— ¿No está? Puta, el boludo del Renzo la debe haber bajado a la otra maquina y la borró.
 — A ver busco en todo el disco. Acá salen varios mp3. Tribalistas, ¿te va?
-— Sí, pero si está eso debe haber más, buscá Pink Floyd. 
+— Sí, pero si está eso debe haber más, buscá Pink Floyd.
 — Bueno, a ver. Qué poronga este windows vista, ¿no?.  Suena fuerte, ¿cierto?
-— Sí. Por lo menos se escucha.  Ponela acá al medio si querés. 
+— Sí. Por lo menos se escucha.  Ponela acá al medio si querés.
 — Es que es media anchita...
 — ¡¡¡Ayy boludooooo se me va!!!
 — ¡¡¡Ay Mariaaaanoooooo, la concha de la loraaaaaaaaa!!!
+{% end %}
 
 ### Dos
 
@@ -363,4 +365,3 @@ Eso, al menos, nos pasó a nosotros. Pero qué va: si esta es una nueva vida, qu
 Mariano reía sentado en el escalón de la puerta, más tranquilo, disfrutando la escena. Juan y Juli también reían y jugaban con sus hijos. Mi viejo abrazaba a Graciela y al que le pasara cerca, con menos timidez que otras veces y una sonrisa incrustada en el rostro.  
 
 Y yo sacaba fotos y filmaba, intentando, quizás, que el display me confirmara lo que mis ojos, todavía aturdidos, no se animaban solos: que todo eso era verdad y que quedarse valía la pena.
-

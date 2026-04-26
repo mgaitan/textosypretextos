@@ -375,6 +375,11 @@
     @apply border-y border-black py-6 text-[1.02rem] leading-8;
   }
 
+  .story-content .dialogue-block {
+    @apply my-5;
+    white-space: pre-line;
+  }
+
   .story-content figure {
     @apply my-8;
   }
