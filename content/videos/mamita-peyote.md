@@ -77,12 +77,12 @@ Todo vuelve en la vida, este sol vio imperios caer.<br>
 {% postscript() %}
 Músicos Invitados: Daniel Suárez y Cóndor Sbarbati (de Bersuit Vergarabat), Mariano Franceschelli y Martin "Moska" Lorenzo (de Los Auténticos Decadentes) en batería y percusión.
 
-Producción artística: Mariano Franceschelli y Martin "Moska" Lorenzo para Mil canciones.  
+Producción artística: Mariano Franceschelli y Martin "Moska" Lorenzo para Mil canciones.<br>
 Ing. Sonido: Federico Falco.
 
-Grabado en: Los Teros / Estudios Casa Azul.  
-Ing. de mezcla y edición: Mariano Franceschelli / Martin Moska Lorenzo.  
-Dirección video: Mariano Franceschelli.  
-Filmación: Mariano Franceschelli.  
+Grabado en: Los Teros / Estudios Casa Azul.<br>
+Ing. de mezcla y edición: Mariano Franceschelli / Martin Moska Lorenzo.<br>
+Dirección video: Mariano Franceschelli.<br>
+Filmación: Mariano Franceschelli.<br>
 Posproducción: Octavio Lovisolo.
 {% end %}
