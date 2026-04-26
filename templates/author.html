@@ -9,11 +9,11 @@
     <section class="author-header editorial-rule">
       <span class="section-ribbon">Autor</span>
       <div class="author-header-grid mt-5">
-        {% if page.extra.image %}
-          <div class="author-portrait">
+        <div {% if page.extra.image %}class="author-portrait"{% endif %}>
+          {% if page.extra.image %}
             <img src="{{ page.extra.image }}" alt="{{ page.title }}" loading="lazy">
-          </div>
-        {% endif %}
+          {% endif %}
+        </div>
         <div class="min-w-0">
           <h1 class="story-title">{{ page.title }}</h1>
           {% if page.content %}
