@@ -61,13 +61,7 @@ title = "El perro negro"
 body = "esto funciona?"
 +++
 
-{{ external_embed(provider="veoh", url="<embed src=\"http://www.veoh.com/videodetails2.swf?player=videodetailsembedded&type=v&permalinkId=v63495735q2qtYFd&id=anonymous\" allowFullScreen=\"true\" width=\"540\" height=\"438\" type=\"application/x-shockwave-flash\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\">") }}
-
-</embed>
+{{ video_embed(provider="youtube", id="-QB6EsHAih8") }}
 
 Film de Alison de Vere. Visto en el blog de [Luis Beltrán](http://www.luisbeltran.com/archivos/2008/03/el-perro-negro-alison-de-vere/).
-
-### Galería
-
-{{ external_embed(provider="veoh", url="http://www.veoh.com/videodetails2.swf?player=videodetailsembedded&type=v&permalinkId=v63495735q2qtYFd", title="videodetails2.swf") }}
 

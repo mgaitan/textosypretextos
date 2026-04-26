@@ -12,10 +12,9 @@ categories = [
     "Blog",
 ]
 tags = [
+    "Humor",
     "Ficciones",
     "Especial Refrito de Verano",
-    "Amistad",
-    "Tecnología",
 ]
 
 [extra]
@@ -36,10 +35,9 @@ author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
 tag_links = [
+    { name = "Humor", path = "/etiquetas/humor/" },
     { name = "Ficciones", path = "/etiquetas/ficciones/" },
     { name = "Especial Refrito de Verano", path = "/etiquetas/especial-refrito-de-verano/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
 ]
 
 [[extra.comments]]

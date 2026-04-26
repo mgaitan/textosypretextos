@@ -26,7 +26,6 @@ article_paths = [
     "blog/gordo.md",
     "blog/i-m-back.md",
     "blog/la-caja-de-manzanas.md",
-    "blog/la-ciruela-magica.md",
     "blog/lema.md",
     "blog/limando-cantos-ii.md",
     "blog/llegar.md",
