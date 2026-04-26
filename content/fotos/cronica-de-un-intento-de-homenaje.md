@@ -25,7 +25,7 @@ visits = 5923
 popularite = 0.9125278969859208
 hero_image = "/media/jpg/DSC_0020.jpg"
 hero_alt = "Cursilerías de otoño 1"
-comment_count = 1
+comment_count = 0
 legacy_url = "/fotos/cronica-de-un-intento-de-homenaje/"
 surtitle = ""
 subtitle = ""
@@ -38,16 +38,6 @@ tag_links = [
     { name = "Memoria", path = "/etiquetas/memoria/" },
 ]
 
-[[extra.comments]]
-id = 54310
-anchor = "comment-54310"
-author = "xsxpCRyWHGCd"
-date = "2013-02-21 07:59:12"
-date_display = "21.02.2013"
-depth = 0
-url_site = "http://www.facebook.com/profile.php?id=100003411213472"
-title = "Crónica de un intento de homenaje"
-body = "Estaba rebuscando este antsuo en particular mediante el uso de ask cuando me tope9 con su web. Tienes una gran cantidad de tema genial aqued. Sin duda una de mis favoritas."
 +++
 
 *Rosario, entre el 13 y el 16 de junio de 2008*
