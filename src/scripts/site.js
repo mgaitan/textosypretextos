@@ -210,6 +210,37 @@ async function loadRecentComments(container) {
   }
 }
 
+const RECENT_COMMENTS_REFRESH_KEY = "typ:last-comment-at";
+
+function announceRecentCommentRefresh() {
+  try {
+    localStorage.setItem(RECENT_COMMENTS_REFRESH_KEY, String(Date.now()));
+  } catch (_e) {
+    // Best-effort only.
+  }
+  window.dispatchEvent(new CustomEvent("typ:recent-comments-refresh"));
+}
+
+function bindRecentCommentsRefresh(container) {
+  const refresh = () => {
+    loadRecentComments(container);
+  };
+
+  refresh();
+
+  window.addEventListener("pageshow", (event) => {
+    if (event.persisted) {
+      refresh();
+    }
+  });
+  window.addEventListener("typ:recent-comments-refresh", refresh);
+  window.addEventListener("storage", (event) => {
+    if (event.key === RECENT_COMMENTS_REFRESH_KEY) {
+      refresh();
+    }
+  });
+}
+
 function bindCommentForm(form, dynamicContainer, slug) {
   const status = form.querySelector("[data-status]");
   form.addEventListener("submit", async (e) => {
@@ -240,6 +271,7 @@ function bindCommentForm(form, dynamicContainer, slug) {
       status.dataset.state = "ok";
       form.reset();
       await loadDynamicComments(dynamicContainer, slug);
+      announceRecentCommentRefresh();
     } catch (_e) {
       status.textContent = "Error de red. Probá más tarde.";
       status.dataset.state = "error";
@@ -259,5 +291,5 @@ if (dynamicContainer && commentForm) {
 
 const recentCommentsContainer = document.querySelector("[data-recent-comments]");
 if (recentCommentsContainer) {
-  loadRecentComments(recentCommentsContainer);
+  bindRecentCommentsRefresh(recentCommentsContainer);
 }
