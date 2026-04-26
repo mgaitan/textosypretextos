@@ -2,7 +2,7 @@
 title = "Quedarse"
 slug = "quedarse"
 date = 2008-12-25 01:02:06
-description = "Uno -- Sí, loco. Es increíble pero a la vez lo siento totalmente natural; ya no lo podría concebir de otra forma. A veces me doy cuenta que paso todo el día con ella…"
+description = "Uno — Sí, loco. Es increíble pero a la vez lo siento totalmente natural; ya no lo podría concebir de otra forma. A veces me doy cuenta que paso todo el día con ella…"
 draft = false
 template = "article.html"
 authors = [
@@ -21,7 +21,7 @@ tags = [
 legacy_id = 256
 section_slug = "blog"
 section_title = "Blog"
-summary = "Uno -- Sí, loco. Es increíble pero a la vez lo siento totalmente natural; ya no lo podría concebir de otra forma. A veces me doy cuenta que paso todo el día con ella pero se me pasa volando. Me da mucha alegría, mucha…"
+summary = "Uno — Sí, loco. Es increíble pero a la vez lo siento totalmente natural; ya no lo podría concebir de otra forma. A veces me doy cuenta que paso todo el día con ella pero se me pasa volando. Me da mucha alegría, mucha…"
 visits = 2048
 popularite = 0.8967965704877915
 hero_image = ""
@@ -274,33 +274,33 @@ body = "Me alegra que estén bien.\nAhora, hay una frase que no tiene desperdici
 
 ### Uno
 
--- Sí, loco. Es increíble pero a la vez lo siento totalmente natural; ya no lo podría concebir de otra forma. A veces me doy cuenta que paso todo el día con ella pero se me pasa volando. Me da mucha alegría, mucha paz estar con ella. Ey, allá están los milicos de nuevo.  ¡Qué cantidad de yutas que hay!
--- Sí, ¿no?. Che, qué bueno eso, lo distinto que es construir una relación desde la naturalidad, desde la alegría y no desde el conflicto, aunque sea trivial. Yo tengo que buscar bastante para encontrar cuando me sentí realmente así, como que de alguna manera, sin querer por ahí, pero proyecto y, no sé, prediseño la relación de antemano. Y al final así uno se pierde la sorpresa. 
--- La verdad que la flaca es hermosísima. Terrible minón, boludo. 
--- Negro, ¡estás al horno! ¡Jaja jajaja!
--- Parece, ¿no?
--- Che, ponete algo de música. Ahí en el canasto están los discos.  
--- A ver... ¿Caetano? 
--- Bueno, dale
--- Che, parece que está hecho percha. ¿Qué mierda dice? No alcanzo a ver, que display de mierda. Ah, check disk. Que cagada, pero el disco parece sano, me parece que está hecho mierda el lector. 
--- Probá otro disco. 
--- Sí, es el lector. Dice lo mismo. 
--- Ahí atrás, en la mochila, está la maquina mía. Tengo ganas de escuchar Pink Floyd. 
--- Boludo, está bonita ¿eh?. La cagada es que tiene el teclado en inglés.
--- En inglés y en francés. Pero la configuré en español, y ya me acostumbré, es lo mismo. Está buenísima. Ahora uso casi siempre esta. La otra vez tenía que hacer uno escritos, y me fui a un barcito por ahí cerca de mi casa, que tiene wifi; ocho hora le clavé. Los mozos ya me barrían las patas.  
--- ¿Cuánto salió al final?
--- Seiscientos y pico, no me acuerdo bien. Está bastante bien ¿no? Fijate ahí en el borde tiene la descripción de las cosas que tiene.  
--- Che,  ¿cuál es la contraseña?
--- Mariano ese. Fijate ahí en el escritorio tiene que haber una carpeta que diga backup.
--- No está, che. 
--- ¿No está? Puta, el boludo del Renzo la debe haber bajado a la otra maquina y la borró. 
--- A ver busco en todo el disco. Acá salen varios mp3. Tribalistas, ¿te va?
--- Sí, pero si está eso debe haber más, buscá Pink Floyd. 
--- Bueno, a ver. Qué poronga este windows vista, ¿no?.  Suena fuerte, ¿cierto?
--- Sí. Por lo menos se escucha.  Ponela acá al medio si querés. 
--- Es que es media anchita...
--- ¡¡¡Ayy boludooooo se me va!!!
--- ¡¡¡Ay Mariaaaanoooooo, la concha de la loraaaaaaaaa!!!
+— Sí, loco. Es increíble pero a la vez lo siento totalmente natural; ya no lo podría concebir de otra forma. A veces me doy cuenta que paso todo el día con ella pero se me pasa volando. Me da mucha alegría, mucha paz estar con ella. Ey, allá están los milicos de nuevo.  ¡Qué cantidad de yutas que hay!
+— Sí, ¿no?. Che, qué bueno eso, lo distinto que es construir una relación desde la naturalidad, desde la alegría y no desde el conflicto, aunque sea trivial. Yo tengo que buscar bastante para encontrar cuando me sentí realmente así, como que de alguna manera, sin querer por ahí, pero proyecto y, no sé, prediseño la relación de antemano. Y al final así uno se pierde la sorpresa. 
+— La verdad que la flaca es hermosísima. Terrible minón, boludo. 
+— Negro, ¡estás al horno! ¡Jaja jajaja!
+— Parece, ¿no?
+— Che, ponete algo de música. Ahí en el canasto están los discos.  
+— A ver... ¿Caetano? 
+— Bueno, dale
+— Che, parece que está hecho percha. ¿Qué mierda dice? No alcanzo a ver, que display de mierda. Ah, check disk. Que cagada, pero el disco parece sano, me parece que está hecho mierda el lector. 
+— Probá otro disco. 
+— Sí, es el lector. Dice lo mismo. 
+— Ahí atrás, en la mochila, está la maquina mía. Tengo ganas de escuchar Pink Floyd. 
+— Boludo, está bonita ¿eh?. La cagada es que tiene el teclado en inglés.
+— En inglés y en francés. Pero la configuré en español, y ya me acostumbré, es lo mismo. Está buenísima. Ahora uso casi siempre esta. La otra vez tenía que hacer uno escritos, y me fui a un barcito por ahí cerca de mi casa, que tiene wifi; ocho hora le clavé. Los mozos ya me barrían las patas.  
+— ¿Cuánto salió al final?
+— Seiscientos y pico, no me acuerdo bien. Está bastante bien ¿no? Fijate ahí en el borde tiene la descripción de las cosas que tiene.  
+— Che,  ¿cuál es la contraseña?
+— Mariano ese. Fijate ahí en el escritorio tiene que haber una carpeta que diga backup.
+— No está, che. 
+— ¿No está? Puta, el boludo del Renzo la debe haber bajado a la otra maquina y la borró. 
+— A ver busco en todo el disco. Acá salen varios mp3. Tribalistas, ¿te va?
+— Sí, pero si está eso debe haber más, buscá Pink Floyd. 
+— Bueno, a ver. Qué poronga este windows vista, ¿no?.  Suena fuerte, ¿cierto?
+— Sí. Por lo menos se escucha.  Ponela acá al medio si querés. 
+— Es que es media anchita...
+— ¡¡¡Ayy boludooooo se me va!!!
+— ¡¡¡Ay Mariaaaanoooooo, la concha de la loraaaaaaaaa!!!
 
 ### Dos
 
@@ -312,11 +312,11 @@ Dos por dos, cuatro. Desde pequeño, ante cada golpazo en la cabeza que yo mismo
 
 Ahora sí, grite. Con ansias, tomando aire aunque trague polvo y el pecho le duela. 
 
--- ¡Nano! ¡Nanitoooooo!  ¿Estás bien? ¡Nanoooooo!
+— ¡Nano! ¡Nanitoooooo!  ¿Estás bien? ¡Nanoooooo!
 
 Si su acompañante demora en responder, inevitablemente sufrirá. Una instantánea desesperación. Aunque sean décimas de segundo,  alcanzará para que los ojos intenten abrirse en busca de la respuesta que los oídos no encuentran. A la fuerza expulsará las lágrimas contenidas que inmediatamente se harán barro sobre sus pómulos. 
 
--- Perdoname, negrito, por favor, perdoname. Yo estoy bien. Por favor, perdoname. 
+— Perdoname, negrito, por favor, perdoname. Yo estoy bien. Por favor, perdoname. 
 
 Revise su cuerpo mentalmente. Empiece por los pies. Me duele el derecho, aunque los puedo mover. Ahora las piernas. Me tiemblan. Los brazos. Me raspé el antebrazo, me arde. Las manos. 
 Siguen apretadas. Intente ahora percibir algún dolor en particular. Me arde el cuello; sigo colgado del cinturón, y mi hombro derecho está sobre una mata con espinas. O sea, estamos volcados de mi lado. Está bien: usted está ileso. Respire. 
@@ -325,7 +325,7 @@ En total, habrán pasado unos 15 segundos. Quizás menos. Los primeros segundos 
 
 ### Tres
 
--- Quedate quietito flaco, ya te vamos a sacar. ¿Estás bien? ¿Estás lastimado? 
+— Quedate quietito flaco, ya te vamos a sacar. ¿Estás bien? ¿Estás lastimado? 
 
 El tipo me miraba desde atrás, agachado al ras del piso, haciéndose lugar para mirar por uno de los ángulos de la luneta estallada. Yo lo miré con una mezcla de agradecimiento y odio. No quería que me sacaran en ese momento. Necesitaba silencio. El silencio que reemplazara al llanto de un nacimiento tradicional.
 
@@ -341,7 +341,7 @@ También me metí de nuevo por la ventanilla. Necesitaba buscar los papeles de l
 
 Cargamos todo en la camioneta de Pascual, que viajaba con su familia desde Comodoro a La Angostura, a pasar la navidad con amigos. Con él iba su mujer, Ona, y cuatro de sus cinco hijos. 
 
--- Ella se llama Teresa del Jesús. Él José. Ella María. Y él Bautista, por Juan Bautista. Falta Milagros, la más grande, que está en Buenos Aires porque el niñito Jesús le dejó un pasaje en el arbolito para pasar la navidad con sus padrinos. 
+— Ella se llama Teresa del Jesús. Él José. Ella María. Y él Bautista, por Juan Bautista. Falta Milagros, la más grande, que está en Buenos Aires porque el niñito Jesús le dejó un pasaje en el arbolito para pasar la navidad con sus padrinos. 
 
 Enumerando a sus hijos, Ona, dejó bien en clara su religiosidad. Pascual, por su lado, insistía con que los fierros se arreglan o se tiran, pero con la vida no es tán fácil. Nosotros, mascando arena, angustia y bronca, sólo atinábamos a asentir con gestos torvos, que intercalabamos con otros de perplejidad al no comprender cómo, habiendo visto lo que habían visto, podían ir a 120 por hora con el bebé en brazos y sin cinturón de seguridad. 
 
@@ -359,7 +359,7 @@ Eso, al menos, nos pasó a nosotros. Pero qué va: si esta es una nueva vida, qu
 
 ### Cinco
 
--- Navidad, navidad, navidad – repetía Joaquín, después de doce, con una estrellita en la mano y moviendo acompasado su cuerpito feliz. Camila gastaba los últimos fósforos encendiendo una lucecitas que apenas volaban, aunque no lo suficiente para hacerla claudicar en su interés. 
+— Navidad, navidad, navidad – repetía Joaquín, después de doce, con una estrellita en la mano y moviendo acompasado su cuerpito feliz. Camila gastaba los últimos fósforos encendiendo una lucecitas que apenas volaban, aunque no lo suficiente para hacerla claudicar en su interés. 
 Mariano reía sentado en el escalón de la puerta, más tranquilo, disfrutando la escena. Juan y Juli también reían y jugaban con sus hijos. Mi viejo abrazaba a Graciela y al que le pasara cerca, con menos timidez que otras veces y una sonrisa incrustada en el rostro.  
 
 Y yo sacaba fotos y filmaba, intentando, quizás, que el display me confirmara lo que mis ojos, todavía aturdidos, no se animaban solos: que todo eso era verdad y que quedarse valía la pena.
