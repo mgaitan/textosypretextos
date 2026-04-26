@@ -29,7 +29,7 @@ comment_count = 0
 legacy_url = "/de-otros/veinte-minutos/"
 surtitle = ""
 subtitle = "Jorge Lanata"
-deck = "Papá nunca deja rastros. Incluso ahora, que trataba de evitar el mal humor durmiendo,\nestá tirado sin desarmar la cama. Hace un rato le gritó a mamá desde el pasillo:\n\n--Lilí, llamame en veinte minutos.\n\nPapá puede dormir veinte minutos. Duerme con la precisión de un horno a microondas.\n\n--Avisame en veinte minutos-- advierte.\n\nO quince. Pero al rato se levanta exacto, nuevo, alisa la colcha y deja en el aire, por un par de\nsegundos, una pequeña nube de Paco Rabanne.\n\nMamá vive pendiente del reloj; pronuncia en voz alta la cuenta regresiva de los últimos diez\nsegundos y entonces grita desde el vestidor:\n\n--¡Negro! ¡Despertáte!\n\nPero papá ya está levantado, y sale a caminar, o me lleva de compras al supermercado. Papá odia ir\nal supermercado y hacer las compras, pero odia más Punta del Este, y se aburre y tal vez en el\nfondo le divierten los comentarios de los argentinos que murmuran entre las estanterías cuando la\ncara de Papá aparece. Ayer una alarma secreta hizo saltar de su sillón al gerente del Super Uno, que\nse acercó a nuestro carrito y preguntó:\n\n--¿Lo ayudo, Almirante?"
+deck = ""
 author_links = [
     { name = "Jorge Lanata", path = "/autores/jorge-lanata/" },
 ]
@@ -39,6 +39,31 @@ tag_links = [
 ]
 comments = []
 +++
+
+Papá nunca deja rastros. Incluso ahora, que trataba de evitar el mal humor durmiendo,
+está tirado sin desarmar la cama. Hace un rato le gritó a mamá desde el pasillo:
+
+--Lilí, llamame en veinte minutos.
+
+Papá puede dormir veinte minutos. Duerme con la precisión de un horno a microondas.
+
+--Avisame en veinte minutos-- advierte.
+
+O quince. Pero al rato se levanta exacto, nuevo, alisa la colcha y deja en el aire, por un par de
+segundos, una pequeña nube de Paco Rabanne.
+
+Mamá vive pendiente del reloj; pronuncia en voz alta la cuenta regresiva de los últimos diez
+segundos y entonces grita desde el vestidor:
+
+--¡Negro! ¡Despertáte!
+
+Pero papá ya está levantado, y sale a caminar, o me lleva de compras al supermercado. Papá odia ir
+al supermercado y hacer las compras, pero odia más Punta del Este, y se aburre y tal vez en el
+fondo le divierten los comentarios de los argentinos que murmuran entre las estanterías cuando la
+cara de Papá aparece. Ayer una alarma secreta hizo saltar de su sillón al gerente del Super Uno, que
+se acercó a nuestro carrito y preguntó:
+
+--¿Lo ayudo, Almirante?
 
 Papá ni le contestó, sin dejar de sonreír avanzó hacia una pila de latas de tomate. El gerente tenia
 jogging azul y creo que se maldijo porque justo esa mañana salió sin saco y corbata.
