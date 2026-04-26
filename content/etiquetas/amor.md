@@ -71,6 +71,7 @@ article_paths = [
     "de-otros/y-el-amor.md",
     "de-otros/zamba-de-usted.md",
     "videos/cartas-al-rey-de-la-cabina.md",
+    "videos/a-traves-de-tus-ojos.md",
     "videos/el-beso.md",
     "videos/elvira.md",
     "videos/fico-assim-sem-voce.md",
