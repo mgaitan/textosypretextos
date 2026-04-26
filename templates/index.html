@@ -85,22 +85,25 @@
           </div>
         </div>
 
-        <div class="sidebar-block">
-          <h2 class="module-title">Comentarios recientes</h2>
-          <div class="comment-stack" data-recent-comments>
-            {% for item in section.extra.recent_comments | slice(end=5) %}
-              {% set comment_page = get_page(path=item.article_path) %}
-              <article class="comment-snippet">
-                <p class="story-kicker">{{ item.author | default(value="Anónimo") }} · {{ item.date_display }}</p>
-                <h3 class="story-title-xs">
-                  <a href="{{ comment_page.permalink }}#{{ item.anchor }}">{{ comment_page.title }}</a>
-                </h3>
-                <p class="mt-2 text-sm leading-6 text-neutral-700">{{ item.excerpt }}</p>
-              </article>
-            {% endfor %}
-          </div>
-        </div>
       </aside>
     </div>
+
+    <section class="home-recent-comments editorial-rule mt-12">
+      <div class="mb-5">
+        <h2 class="module-title mb-0">Comentarios recientes</h2>
+      </div>
+      <div class="home-comments-grid" data-recent-comments>
+        {% for item in section.extra.recent_comments | slice(end=5) %}
+          {% set comment_page = get_page(path=item.article_path) %}
+          <article class="comment-snippet">
+            <p class="story-kicker">{{ item.author | default(value="Anónimo") }} · {{ item.date_display }}</p>
+            <h3 class="story-title-xs">
+              <a href="{{ comment_page.permalink }}#{{ item.anchor }}">{{ comment_page.title }}</a>
+            </h3>
+            <p class="mt-2 text-sm leading-6 text-neutral-700">{{ item.excerpt }}</p>
+          </article>
+        {% endfor %}
+      </div>
+    </section>
   </main>
 {% endblock content %}

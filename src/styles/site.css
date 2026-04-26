@@ -281,6 +281,23 @@
     @apply border-b border-black py-4 last:border-b-0;
   }
 
+  .home-recent-comments {
+    @apply pb-2;
+  }
+
+  .home-comments-grid {
+    @apply grid border-y border-black;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .home-comments-grid .comment-snippet {
+    @apply border-b border-black px-0 py-5;
+  }
+
+  .home-comments-grid .comment-snippet:last-child {
+    @apply border-b-0;
+  }
+
   .page-grid {
     @apply grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px];
   }
@@ -699,6 +716,10 @@
     @apply min-w-0 lg:border-l lg:border-black lg:pl-10;
   }
 
+  .home-comments-grid {
+    @apply mt-0;
+  }
+
   .home-lead {
     @apply pb-10;
   }
@@ -718,6 +739,38 @@
 
   .home-blog-rest .home-listing-card {
     @apply border-b border-neutral-300 last:border-b-0;
+  }
+
+  @media (min-width: 768px) {
+    .home-comments-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .home-comments-grid .comment-snippet {
+      @apply border-b border-r border-black px-4;
+    }
+
+    .home-comments-grid .comment-snippet:nth-child(2n) {
+      @apply border-r-0;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .home-comments-grid {
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
+
+    .home-comments-grid .comment-snippet {
+      @apply min-h-[15rem] border-b-0 border-r border-black px-5;
+    }
+
+    .home-comments-grid .comment-snippet:nth-child(2n) {
+      @apply border-r border-black;
+    }
+
+    .home-comments-grid .comment-snippet:last-child {
+      @apply border-r-0;
+    }
   }
 
   .sidebar-block {

@@ -6,6 +6,7 @@ const navToggle = document.querySelector("[data-nav-toggle]");
 const navPanel = document.querySelector("[data-nav-panel]");
 const themeToggle = document.querySelector("[data-theme-toggle]");
 const THEME_STORAGE_KEY = "typ:theme";
+const COMMENTER_STORAGE_KEY = "typ:commenter";
 
 function resolveThemePreference() {
   const saved = root.dataset.theme;
@@ -350,6 +351,21 @@ function bindRecentCommentsRefresh(container) {
 
 function bindCommentForm(form, dynamicContainer, slug) {
   const status = form.querySelector("[data-status]");
+  const authorInput = form.querySelector('input[name="author"]');
+  const emailInput = form.querySelector('input[name="email"]');
+
+  try {
+    const saved = JSON.parse(localStorage.getItem(COMMENTER_STORAGE_KEY) || "{}");
+    if (authorInput && typeof saved.author === "string") {
+      authorInput.value = saved.author.slice(0, 80);
+    }
+    if (emailInput && typeof saved.email === "string") {
+      emailInput.value = saved.email.slice(0, 120);
+    }
+  } catch (_e) {
+    // Ignore storage failures.
+  }
+
   form.addEventListener("submit", async (e) => {
     e.preventDefault();
     const data = new FormData(form);
@@ -376,7 +392,21 @@ function bindCommentForm(form, dynamicContainer, slug) {
       }
       status.textContent = "¡Gracias! Tu comentario fue publicado.";
       status.dataset.state = "ok";
+      try {
+        localStorage.setItem(COMMENTER_STORAGE_KEY, JSON.stringify({
+          author: String(payload.author || "").slice(0, 80),
+          email: String(payload.email || "").slice(0, 120),
+        }));
+      } catch (_e) {
+        // Ignore persistence failures.
+      }
       form.reset();
+      if (authorInput) {
+        authorInput.value = String(payload.author || "").slice(0, 80);
+      }
+      if (emailInput) {
+        emailInput.value = String(payload.email || "").slice(0, 120);
+      }
       await loadDynamicComments(dynamicContainer, slug);
       announceRecentCommentRefresh();
     } catch (_e) {
