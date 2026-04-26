@@ -51,21 +51,21 @@
           </div>
         {% endif %}
 
-        {% if latest_video %}
-          <div class="sidebar-block">
-            <div class="mb-4">
-              <span class="section-ribbon">Video</span>
-            </div>
-            {{ macros::story_card(page=latest_video, variant="compact") }}
-          </div>
-        {% endif %}
-
         {% if latest_other %}
           <div class="sidebar-block">
             <div class="mb-4">
               <span class="section-ribbon">De otres</span>
             </div>
             {{ macros::story_card(page=latest_other, variant="compact") }}
+          </div>
+        {% endif %}
+
+        {% if latest_video %}
+          <div class="sidebar-block">
+            <div class="mb-4">
+              <span class="section-ribbon">Video</span>
+            </div>
+            {{ macros::story_card(page=latest_video, variant="compact") }}
           </div>
         {% endif %}
 
