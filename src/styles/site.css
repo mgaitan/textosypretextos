@@ -722,7 +722,11 @@
   }
 
   .home-sidebar {
-    @apply min-w-0 lg:pl-10;
+    @apply min-w-0 lg:border-l lg:border-black lg:pl-10;
+  }
+
+  .home-sidebar .media-frame {
+    border: 0;
   }
 
   .home-comments-grid {
