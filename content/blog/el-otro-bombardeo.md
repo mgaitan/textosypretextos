@@ -140,26 +140,24 @@ title = "El otro bombardeo"
 body = "Quien quiere hoy día combatir la mentira y la ignorancia y escribir la verdad, tiene que vencer por lo menos cinco dificultades. Deberá tener el valor de escribir la verdad, aun cuando sea reprimida por doquier; la perspicacia de reconocerla, aun cuando sea solapada por doquier; el arte de hacerla manejable como un arma; criterio para escoger a aquellos en cuyas manos se haga eficaz; astucia para propagarla entre éstos. Estas dificultades son grandes para aquellos que escriben bajo la férula del fascismo, pero existen también para aquellos que fueron expulsados o han huido, e incluso para aquellos que escriben en los países de la libertad burguesa.                                                          \n\n                                                                                                                                                      \n\nBERTOLT BRECHT (En \"Cinco dificultades para encontrar la verdad\")   \n\n                                                                      \n                                                                                                                   \nGracias por tener el \"valor de escribirla\", la \"perspicacia de reconocerla\", \"el arte de hacerla manejable\". Como vos dijiste, abrir los ojos a veces duele, pero es necesario.\n\nAbrazos de sur (cálidos)"
 +++
 
-> El siglo veinte, que nació anunciando paz y justicia, 
- murió bañado en sangre
- y dejó un mundo mucho más injusto que el que había encontrado.
-
-El siglo veintiuno, que también nació anunciando paz y justicia,
-
-está siguiendo los pasos del siglo anterior.
-
-Allá en mi infancia, yo estaba convencido de que a la luna iba a
-parar todo lo que en la tierra se perdía.
-
-Sin embargo, los astronautas no han encontrado sueños peligrosos,
-
-ni promesas traicionadas, ni esperanzas rotas.
-
-Si no están en la luna, ¿dónde están?
-
-¿Será que en la tierra no se perdieron?
-
-¿Será que en la tierra se escondieron?
+> El siglo veinte, que nació anunciando paz y justicia,
+> murió bañado en sangre
+> y dejó un mundo mucho más injusto que el que había encontrado.
+>
+> El siglo veintiuno, que también nació anunciando paz y justicia,
+> está siguiendo los pasos del siglo anterior.
+>
+> Allá en mi infancia, yo estaba convencido de que a la luna iba a
+> parar todo lo que en la tierra se perdía.
+>
+> Sin embargo, los astronautas no han encontrado sueños peligrosos,
+> ni promesas traicionadas, ni esperanzas rotas.
+>
+> Si no están en la luna, ¿dónde están?
+>
+> ¿Será que en la tierra no se perdieron?
+>
+> ¿Será que en la tierra se escondieron?
 >
 > — Eduardo Galeano
 
