@@ -14,15 +14,10 @@
     {% set kicker_link = "/" ~ page.extra.section_slug ~ "/" %}
   {% endif %}
 
-  {% set article_url = "/" ~ page.extra.section_slug ~ "/" ~ page.slug ~ "/" %}
   <main
     class="article-shell"
     data-track-article-view
     data-article-slug="{{ page.slug }}"
-    data-article-url="{{ article_url }}"
-    data-article-title="{{ page.title }}"
-    data-section-slug="{{ page.extra.section_slug }}"
-    data-section-title="{{ page.extra.section_title }}"
   >
     <header class="article-header reveal">
       <p class="story-kicker">

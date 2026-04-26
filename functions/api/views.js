@@ -1,5 +1,7 @@
 const ALLOWED_METHODS = ["GET", "POST", "OPTIONS"];
 const RECENT_VISIT_WINDOW_SECONDS = 30 * 60;
+const VIEW_RETENTION_SECONDS = 180 * 24 * 60 * 60;
+const VALID_SECTION_SLUGS = new Set(["blog", "de-otros", "fotos", "videos", "personal"]);
 const BOT_UA_PATTERN =
   /bot|crawler|crawl|spider|slurp|preview|headless|lighthouse|facebookexternalhit|whatsapp|telegrambot|discordbot|slackbot|embedly|quora link preview|ia_archiver/i;
 
@@ -26,9 +28,59 @@ function isValidArticleUrl(url) {
   return typeof url === "string" && /^\/[a-z0-9/_-]*$/i.test(url);
 }
 
+function isTrustedViewRequest(request) {
+  const requestOrigin = new URL(request.url).origin;
+  const origin = request.headers.get("origin");
+  const fetchSite = request.headers.get("sec-fetch-site");
+
+  if (origin && origin !== requestOrigin) {
+    return false;
+  }
+
+  if (fetchSite && !["same-origin", "same-site", "none"].includes(fetchSite)) {
+    return false;
+  }
+
+  return true;
+}
+
 function isBotRequest(request) {
   const ua = request.headers.get("user-agent") || "";
   return BOT_UA_PATTERN.test(ua);
+}
+
+function getTrustedArticleContext(request, articleSlug) {
+  const requestOrigin = new URL(request.url).origin;
+  const referer = request.headers.get("referer");
+  if (!referer) return null;
+
+  let refererUrl;
+  try {
+    refererUrl = new URL(referer);
+  } catch (_e) {
+    return null;
+  }
+
+  if (refererUrl.origin !== requestOrigin) {
+    return null;
+  }
+
+  const parts = refererUrl.pathname.split("/").filter(Boolean);
+  if (parts.length < 2) {
+    return null;
+  }
+
+  const [sectionSlug, pathSlug] = parts;
+  if (!VALID_SECTION_SLUGS.has(sectionSlug) || pathSlug !== articleSlug) {
+    return null;
+  }
+
+  const articleUrl = `/${sectionSlug}/${pathSlug}/`;
+  if (!isValidArticleUrl(articleUrl)) {
+    return null;
+  }
+
+  return { articleUrl, sectionSlug };
 }
 
 async function hashVisitor(request, salt) {
@@ -63,9 +115,7 @@ export async function onRequest(context) {
     return new Response(null, {
       status: 204,
       headers: {
-        "access-control-allow-origin": "*",
-        "access-control-allow-methods": "GET, POST, OPTIONS",
-        "access-control-allow-headers": "content-type",
+        allow: "GET, POST, OPTIONS",
       },
     });
   }
@@ -81,10 +131,27 @@ export async function onRequest(context) {
 
     try {
       const { results } = await env.DB.prepare(
-        `SELECT article_slug, article_url, article_title, section_slug, section_title, COUNT(*) AS views
-         FROM page_views
-         GROUP BY article_slug, article_url, article_title, section_slug, section_title
-         ORDER BY views DESC, MAX(created_at) DESC
+        `WITH ranked_page_views AS (
+           SELECT
+             article_slug,
+             article_url,
+             section_slug,
+             created_at,
+             COUNT(*) OVER (PARTITION BY article_slug) AS views,
+             ROW_NUMBER() OVER (
+               PARTITION BY article_slug
+               ORDER BY created_at DESC
+             ) AS metadata_rank
+           FROM page_views
+         )
+         SELECT
+           article_slug,
+           article_url,
+           section_slug,
+           views
+         FROM ranked_page_views
+         WHERE metadata_rank = 1
+         ORDER BY views DESC, created_at DESC
          LIMIT ?1`
       )
         .bind(limit)
@@ -100,6 +167,10 @@ export async function onRequest(context) {
     return jsonResponse({ ok: true, skipped: "bot" });
   }
 
+  if (!isTrustedViewRequest(request)) {
+    return jsonResponse({ error: "Forbidden" }, 403);
+  }
+
   let payload;
   try {
     payload = await readPayload(request);
@@ -108,61 +179,58 @@ export async function onRequest(context) {
   }
 
   const articleSlug = clean(payload.slug, 220);
-  const articleUrl = clean(payload.url, 255);
-  const articleTitle = clean(payload.title, 180);
-  const sectionSlug = clean(payload.sectionSlug, 80);
-  const sectionTitle = clean(payload.sectionTitle, 80);
 
-  if (!isValidSlug(articleSlug) || !isValidArticleUrl(articleUrl)) {
+  if (!isValidSlug(articleSlug)) {
     return jsonResponse({ error: "Invalid article" }, 400);
   }
 
-  if (!articleTitle || !sectionSlug || !sectionTitle) {
-    return jsonResponse({ error: "Missing article metadata" }, 400);
+  const articleContext = getTrustedArticleContext(request, articleSlug);
+  if (!articleContext) {
+    return jsonResponse({ error: "Untrusted article context" }, 400);
   }
 
   const visitorHash = await hashVisitor(request, env.COMMENT_SALT || "tyt");
   const now = Math.floor(Date.now() / 1000);
 
   try {
-    const existing = await env.DB.prepare(
-      `SELECT id
-       FROM page_views
-       WHERE article_slug = ?1
-         AND visitor_hash = ?2
-         AND created_at >= ?3
-       LIMIT 1`
-    )
-      .bind(articleSlug, visitorHash, now - RECENT_VISIT_WINDOW_SECONDS)
-      .first();
-
-    if (existing?.id) {
-      return jsonResponse({ ok: true, skipped: "duplicate" });
-    }
-
-    await env.DB.prepare(
+    const insertResult = await env.DB.prepare(
       `INSERT INTO page_views (
          article_slug,
          article_url,
-         article_title,
          section_slug,
-         section_title,
          visitor_hash,
          user_agent,
          created_at
        )
-       VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8)`
+       SELECT ?1, ?2, ?3, ?4, ?5, ?6
+       WHERE NOT EXISTS (
+         SELECT 1
+         FROM page_views
+         WHERE article_slug = ?1
+           AND visitor_hash = ?4
+           AND created_at >= ?7
+       )`
     )
       .bind(
         articleSlug,
-        articleUrl,
-        articleTitle,
-        sectionSlug,
-        sectionTitle,
+        articleContext.articleUrl,
+        articleContext.sectionSlug,
         visitorHash,
         clean(request.headers.get("user-agent") || "", 255) || null,
-        now
+        now,
+        now - RECENT_VISIT_WINDOW_SECONDS
       )
+      .run();
+
+    if (!insertResult.meta?.changes) {
+      return jsonResponse({ ok: true, skipped: "duplicate" });
+    }
+
+    await env.DB.prepare(
+      `DELETE FROM page_views
+       WHERE created_at < ?1`
+    )
+      .bind(now - VIEW_RETENTION_SECONDS)
       .run();
   } catch (_e) {
     return jsonResponse({ error: "Write failed" }, 500);

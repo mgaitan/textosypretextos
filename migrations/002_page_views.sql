@@ -2,9 +2,7 @@ CREATE TABLE IF NOT EXISTS page_views (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   article_slug TEXT NOT NULL,
   article_url TEXT NOT NULL,
-  article_title TEXT NOT NULL,
   section_slug TEXT NOT NULL,
-  section_title TEXT NOT NULL,
   visitor_hash TEXT NOT NULL,
   user_agent TEXT,
   created_at INTEGER NOT NULL
