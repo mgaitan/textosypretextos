@@ -100,10 +100,6 @@ En "La Venganza será terrible" del lunes 19 de octubre, Alejandro Dolina, ante 
 > Así que sí, lo defiendo a Maradona. Ante usted lo voy a defender siempre".
 
 {% postscript() %}
-Visto en [No Te vayas, estúpida](http://notevayasestupida.blogspot.com/2009/10/sabe-por-que-defiendo-maradona-por.html). El audio lo saqué de [Venganzas del Pasado](http://venganzasdelpasado.com.ar/)
+Visto en [No Te vayas, estúpida](https://web.archive.org/web/2009/http://notevayasestupida.blogspot.com/2009/10/sabe-por-que-defiendo-maradona-por.html). El audio lo saqué de Venganzas del Pasado.
 {% end %}
-
-### Galería
-
-{{ media_audio(src="/media/mp3/Dolina_maradona.mp3", title="Dolina_maradona.mp3") }}
 
