@@ -9,14 +9,15 @@
     <script>
       (() => {
         const storageKey = "typ:theme";
+        const fallbackTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
         try {
           const saved = localStorage.getItem(storageKey);
           const theme = saved === "dark" || saved === "light"
             ? saved
-            : (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+            : fallbackTheme;
           document.documentElement.dataset.theme = theme;
         } catch (_error) {
-          document.documentElement.dataset.theme = "light";
+          document.documentElement.dataset.theme = fallbackTheme;
         }
       })();
     </script>
