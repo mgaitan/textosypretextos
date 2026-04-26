@@ -58,5 +58,5 @@ venga hermano.</div>
 {% postscript() %}
 Grabado en el disco *El matecito de las siete* de Luna Monti y Juan Quintero. La versión en vivo del Ciclo "Esto también está sonando" en la Casa de las Culturas, Resistencia, Chaco - 16/06/12
 
-{{ video_embed(provider="youtube", id="7ClfFVPyGXY") }}
+{{ video_embed(provider="youtube", id="Kx4daXeD7Xk") }}
 {% end %}
