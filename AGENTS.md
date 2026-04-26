@@ -241,7 +241,21 @@ npx wrangler d1 execute textosypretextos-comments --remote --command "UPDATE com
 
 ## Preferencia operativa para futuras sesiones
 
-Cuando un prompt traiga una lista de tareas nuevas:
+### Inicio de cada tarea
+
+Antes de arrancar cualquier trabajo nuevo, asegurarse de estar en la versión más reciente de `main`, salvo indicación contraria:
+
+```bash
+git checkout main && git pull origin main
+```
+
+Crear la rama de trabajo a partir de ese punto.
+
+### Pull Requests
+
+Abrir siempre el PR con `gh pr create` y **esperar revisión y aprobación explícita antes de mergear**. No ejecutar `gh pr merge` por iniciativa propia.
+
+### Cuando un prompt traiga una lista de tareas nuevas
 
 1. crear primero issue/s con `gh` en `mgaitan/textosypretextos`
 2. usar bodies pragmáticos y concretos, no texto inflado

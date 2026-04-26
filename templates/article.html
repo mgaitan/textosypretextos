@@ -15,14 +15,20 @@
     <header class="article-header reveal">
       <h1 class="story-title">{{ page.title }}</h1>
       {% if page.extra.subtitle %}
-        <p class="article-subtitle">{{ page.extra.subtitle }}</p>
+        <p class="article-subtitle">
+          {%- if page.extra.author_links and page.extra.author_links[0].name == page.extra.subtitle and page.extra.author_links[0].path -%}
+            <a href="{{ page.extra.author_links[0].path }}" class="meta-link">{{ page.extra.subtitle }}</a>
+          {%- else -%}
+            {{ page.extra.subtitle }}
+          {%- endif -%}
+        </p>
       {% endif %}
       {% if page.extra.deck %}
         <div class="article-deck">{{ page.extra.deck | markdown(inline=false) | safe }}</div>
       {% endif %}
       <div class="meta-row">
         <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
-        {% if page.extra.comment_count > 0 %}
+        {% if page.extra.comment_count | default(value=0) > 0 %}
           <a href="#comments" class="meta-link">{{ page.extra.comment_count }} comentarios</a>
         {% endif %}
       </div>
@@ -56,6 +62,7 @@
 
     {% if config.extra.github_repo and page.relative_path %}
       {% set edit_url = "https://github.com/" ~ config.extra.github_repo ~ "/edit/" ~ config.extra.github_branch ~ "/content/" ~ page.relative_path %}
+      {% set history_url = "https://github.com/" ~ config.extra.github_repo ~ "/commits/" ~ config.extra.github_branch ~ "/content/" ~ page.relative_path %}
       {% set issue_permalink = page.permalink | urlencode %}
       {% set issue_source_path = "content/" ~ page.relative_path %}
       {% set issue_source = issue_source_path | urlencode %}
@@ -65,6 +72,8 @@
       {% set issue_url = "https://github.com/" ~ config.extra.github_repo ~ "/issues/new?template=reporte_problema.yml&title=" ~ issue_title_encoded ~ "&url=" ~ issue_permalink ~ "&source=" ~ issue_source %}
       <div class="article-contribute reveal">
         <a href="{{ edit_url }}" class="article-contribute-link" rel="noopener" target="_blank">Editar en GitHub</a>
+        <span class="article-contribute-sep" aria-hidden="true">·</span>
+        <a href="{{ history_url }}" class="article-contribute-link" rel="noopener" target="_blank">Ver historial</a>
         <span class="article-contribute-sep" aria-hidden="true">·</span>
         <a href="{{ issue_url }}" class="article-contribute-link" rel="noopener" target="_blank">Reportar un problema</a>
       </div>

@@ -252,7 +252,7 @@ async function loadRecentComments(container) {
     if (!comments.length) return;
 
     const { bySlug } = buildArticleIndexes(docs);
-    const html = comments
+    const dynamicParts = comments
       .map((comment) => {
         const article = bySlug.get(comment.article_slug);
         if (!article) return "";
@@ -267,11 +267,13 @@ async function loadRecentComments(container) {
           </article>
         `;
       })
-      .filter(Boolean)
-      .join("");
-    if (html) {
-      container.innerHTML = html;
-    }
+      .filter(Boolean);
+    if (!dynamicParts.length) return;
+    const needed = Math.max(0, 5 - dynamicParts.length);
+    const staticFallback = Array.from(container.querySelectorAll("article.comment-snippet"))
+      .slice(0, needed)
+      .map((el) => el.outerHTML);
+    container.innerHTML = [...dynamicParts, ...staticFallback].join("");
   } catch (_e) {
     // Keep the static fallback if dynamic loading fails.
   }
