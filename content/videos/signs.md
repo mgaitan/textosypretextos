@@ -42,6 +42,3 @@ comments = []
 
 Corto escrito y dirigido por Patrick Hughes para el [Schweppes Short Film Festival](http://www.schhh.eu/shortfilms/). O sea, es un chivo de esa gaseosa citrus tan fea. Pero bonito chivo, ¿no?
 
-### Galería
-
-{{ video_embed(provider="youtube", id="uy0HNWto0UY", title="uy0HNWto0UY&color1=0xb1b1b1&color2=0xcfcfcf&hl=es&feature=player_embedded&fs=1") }}

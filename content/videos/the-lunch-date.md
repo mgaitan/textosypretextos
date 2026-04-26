@@ -38,6 +38,3 @@ comments = []
 
 *The lunch date* es um corto rodado en blanco y negro, ganador del Oscar en 1990. Es la opera prima de Adam Davidson, uno de los talentosos directores que se *fugaron* a la televisión. [Davidson](http://www.imdb.com/name/nm0203215/) dirigió capitulos de Lost, Six Feet Under, Rome y muchas otros pesos pesados de las series contemporáneas.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="epuTZigxUY8", title="epuTZigxUY8") }}

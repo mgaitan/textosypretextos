@@ -44,7 +44,3 @@ comments = []
 
 Premio a Mejor Animación del [Savannah Film Festival](http://filmfest.scad.edu/) 2009.
 
-### Galería
-
-{{ video_embed(provider="youtube", id="jEjUAnPc2VA", title="YouTube
-				- Pigeon: Impossible") }}

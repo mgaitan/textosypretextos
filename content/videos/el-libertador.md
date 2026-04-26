@@ -79,6 +79,3 @@ Oh oh oh! de latinoamérica<br>
 Paso firme hacia delante, pisa fuerte, comandante<br>
 Oh oh oh! en latinoamérica.</div>
 
-### Galería
-
-{{ video_embed(provider="youtube", id="Du7sbLC9stI", title="Du7sbLC9stI") }}

@@ -42,6 +42,3 @@ comments = []
 
 *"My name is lisa"* es un cortometraje de [Ben Shelton](http://sheltonfilms.com), ganador en la categoría cortometraje de ficción del [Festival Youtube 2007](http://www.youtube.com/ytawards07winners)
 
-### Galería
-
-{{ video_embed(provider="youtube", id="m58zutsI3GA", title="m58zutsI3GA") }}

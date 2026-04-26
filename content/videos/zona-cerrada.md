@@ -54,6 +54,3 @@ Según los compañeros de [La Runfla](http://larunfla.blogspot.com/2009/03/los-n
 
 > Este trabajo es doblemente interesante porque además de presentar en forma gráfica la situación de sitio que viven los palestinos de Gaza (en especial sus niños) tiene el valor agregado de haber sido producido por israelíes que tiene una visión muy diferente a la de su gobierno sobre el problema político y humanitario que hoy enfrentan -y causan- como nación
 
-### Galería
-
-{{ video_embed(provider="youtube", id="Hzqw7oBZT8k", title="Hzqw7oBZT8k") }}

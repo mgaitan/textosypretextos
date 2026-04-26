@@ -42,7 +42,8 @@ tag_links = [
 comments = []
 +++
 
-<div align="right">Bienvenidos al show
+{{% epigrafe() %}}
+Bienvenidos al show
 
 de este grupo de fulanos
 
@@ -55,8 +56,7 @@ Bienvenidos al camino
 más errado del destino
 
 y de alguna salvación...
-
-</div>
+{{% end %}}
 
 **Ma'PerQué**, una banda de fulanos, está sonando mucho y bien por lo bares de Córdoba. Otro fulano, nuestro entrevistador, los escuchó una noche y e inmediatamente les echó la culpa de haberse enamorado de la ciudad y su cultura. Sabemos que nuestro entrevistador es un exagerado, pero afirma tener sus motivos. Luego los buscó durante algunas semanas, hasta que una tarde de sábado el pasto de una plaza fue testigo de esta charlita con Marcos y Exequiel, dos de los culpables. *
 

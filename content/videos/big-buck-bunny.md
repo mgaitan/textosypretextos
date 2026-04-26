@@ -46,6 +46,3 @@ comments = []
 
 Este corto es de los mismos realizadores que el aclamado (y algo críptico) [Elephants Dream](http://www.elephantsdream.org/), a través del  Peach Open Movie Project de la [Blender Foundation](http://www.blender.org/blenderorg/blender-foundation/).
 
-### Galería
-
-{{ video_embed(provider="youtube", id="YE7VzlLtp-4", title="YE7VzlLtp-4") }}

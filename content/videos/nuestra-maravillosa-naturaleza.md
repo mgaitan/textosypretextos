@@ -52,8 +52,5 @@ body = "jooooooo jooooo!"
 
 Corto animado ganador del Premio del Jurado del [Aniboom Award 2008](http://www.aniboom.com/awards2008/)
 
-### Galería
-
-{{ video_embed(provider="youtube", id="0aFKSvw4bjU", title="0aFKSvw4bjU&hl=es&fs=1") }}
 
 <span id="comments"></span>

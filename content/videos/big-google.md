@@ -36,6 +36,3 @@ comments = []
 
 {{ video_embed(provider="youtube", id="fPgV6-gnQaE") }}
 
-### Galería
-
-{{ video_embed(provider="youtube", id="fPgV6-gnQaE", title="fPgV6-gnQaE") }}

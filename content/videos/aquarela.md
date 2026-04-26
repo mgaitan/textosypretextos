@@ -137,8 +137,5 @@ Giro un simple compás y en un círculo yo hago el mundo...<br>
 <br>
 (Que descolorará!)</div>
 
-### Galería
-
-{{ video_embed(provider="youtube", id="2-V21HepcgY", title="2-V21HepcgY") }}
 
 <span id="comments"></span>

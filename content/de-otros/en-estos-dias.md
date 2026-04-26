@@ -34,7 +34,9 @@ tag_links = []
 comments = []
 +++
 
-<div align="right"><em>A la mujer que amo y me ama</em></div>
+{{% epigrafe() %}}
+<em>A la mujer que amo y me ama</em>
+{{% end %}}
 
 <div class="poetry">En estos días, todo el viento del mundo sopla en tu dirección<br>
 La osa mayor corrige la punta de su cola<br>
