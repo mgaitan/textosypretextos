@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 361
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En el vapor del baño se dibuja desnuda y luminosa. Ceremoniosamente, abre una toalla azul, se inclina en una reverencia para el dios de toda su belleza. El pelo en catarata hacia adelante. Lleva suave la toalla hasta…"
 visits = 2568
 popularite = 0.9065254179568324

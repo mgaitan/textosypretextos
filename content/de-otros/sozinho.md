@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 216
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Às vezes, no silêncio da noite Eu fico imaginando nós dois Eu fico ali sonhando acordado, juntando O antes, o agora e o depois Por que você me deixa tão solto? Por que você não cola em mim? Tô me sentindo muito…"
 visits = 21956
 popularite = 0.9439521677006377

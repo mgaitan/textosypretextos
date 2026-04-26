@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 248
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Qué le vas a hacer, ñato, cuando estás abajo todos te fajan. Todos, che, hasta el más maula. Te sacuden contra las sogas, te encajan la biaba. Andá, andá, qué venís con consuelos vos. Te conozco, mascarita. Cada vez…"
 visits = 9398
 popularite = 0.9063558860227122

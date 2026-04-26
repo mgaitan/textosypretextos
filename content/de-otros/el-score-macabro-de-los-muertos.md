@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 358
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Nadie se pregunta para qué sirven los embajadores argentinos en cada país del mundo. Les sospechamos actividades poco esforzadas, los imaginamos en perpetuos ágapes, y siempre conocemos a alguien que conoce al hijo o a…"
 visits = 717
 popularite = 0.9592294035436403

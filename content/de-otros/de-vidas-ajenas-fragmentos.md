@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 405
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Cultivar nuestro jardín \"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa gente que se agita y se estresa e intriga, que…"
 visits = 1579
 popularite = 0.9075215540682732

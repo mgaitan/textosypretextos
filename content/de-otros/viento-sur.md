@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 383
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No hay tunel que dure cien años, mi vida. Mira como se arruga la tiniebla, la procesión de pálidas se desbarranca, los funcionarios inauguran ruinas. Y vos y yo fundamos aires buenos. Donde estará la plata de mi río…"
 visits = 4214
 popularite = 0.2503866625464238

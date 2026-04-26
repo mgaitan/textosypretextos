@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 426
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En la cima del árbol justo al borde del verde -en donde empieza el aire- hay un ruiseñor en concierto. Por un momento creo que soy de nube que no me pesa esta materia que casi tengo la altura de su canto. De pronto el…"
 visits = 784
 popularite = 0.9095423822711809

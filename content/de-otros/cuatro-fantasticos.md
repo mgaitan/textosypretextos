@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 287
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay tantas caras en el mundo que uno, tarde o temprano…"
 visits = 11667
 popularite = 0.9056547023626682

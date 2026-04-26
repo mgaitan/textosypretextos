@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 389
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Todo nos amenaza: el tiempo, que en vivientes fragmentos divide al que fui del que seré, como el machete a la culebra; la conciencia, la transparencia traspasada, la mirada ciega de mirarse mirar; las palabras, guantes…"
 visits = 0
 popularite = 0.0

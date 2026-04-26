@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 322
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Del otro lado del valle del Ebro, las colinas eran largas y blancas. De este lado no había sombra ni árboles y la estación se alzaba al rayo del sol, entre dos líneas de rieles. Junto a la pared de la estación caía la…"
 visits = 8772
 popularite = 0.9652204032819879

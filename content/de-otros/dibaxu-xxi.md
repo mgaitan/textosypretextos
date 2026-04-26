@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 450
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "en la noche tu vientre detiene astros/ respira como tierra/ tu vientre es tierra/ en el trigo de tu vientre vuelan pájaros que cantan en lo que va a venir/ --o-- nila nochi tu ventre queda astrus/ respira comu terra/…"
 visits = 5571
 popularite = 0.9676193583279015

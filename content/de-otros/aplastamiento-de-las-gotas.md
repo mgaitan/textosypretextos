@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 124
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Yo no sé, mirá, es terrible cómo llueve. Llueve todo el tiempo, afuera tupido y gris, aquí contra el balcón con goterones cuajados y duros, que hacen plaf y se aplastan como bofetadas uno detrás de otro qué hastío…"
 visits = 10210
 popularite = 0.9412514114821786

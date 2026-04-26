@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 176
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Si me dieran a elegir, yo elegiría esta salud de saber que estamos muy enfermos, esta dicha de andar tan infelices. Si me dieran a elegir, yo elegiría esta inocencia de no ser un inocente, esta pureza en que ando por…"
 visits = 2379
 popularite = 0.9075205894872277

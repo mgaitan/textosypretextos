@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 189
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "La mujer que tiene los pies hermosos nunca podrá ser fea mansa suele subirle la belleza por tobillos pantorrillas y muslos demorarse en el pubis que siempre ha estado más alla de todo canon rodear el ombligo como a uno…"
 visits = 14158
 popularite = 0.42146842042158755

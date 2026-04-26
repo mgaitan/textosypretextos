@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 203
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No hacen falta alas para hacer un sueño basta con las manos basta con el pecho basta con las piernas y con el empeño. No hacen falta alas para ser más bellos basta el buen sentido del amor inmenso no hacen falta alas…"
 visits = 0
 popularite = 0.0

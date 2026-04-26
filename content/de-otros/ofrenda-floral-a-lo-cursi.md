@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 384
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Delirante bazar de celuloide, módico lujo de colectiveros, risa planchada de Gardel eterno con nomeolvides. Trajes de noviecitas en vidrieras, tribus de maniquíes con meñiques, Patria y Hogar y Madre hay una Sola Himno…"
 visits = 0
 popularite = 0.0

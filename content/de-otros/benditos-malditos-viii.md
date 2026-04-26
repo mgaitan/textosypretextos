@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 210
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Benditas sean las rubias calentonas que se bajan las bragas con cualquiera, las niñeras que salen respondonas y arrinconan al niño en la escalera, las enfermeras que suben la fiebre, las tetas de pezón hospitalario…"
 visits = 2882
 popularite = 0.9058795232834082

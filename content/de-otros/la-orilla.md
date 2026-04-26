@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 277
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No se animaban a meterse. Con los ojos clavados en las olas, todos parados como soldados en fila, se medían el miedo y se atrevían, a lo sumo, a mojarse los pies. Eran niños venidos de tierra adentro, de muy adentro…"
 visits = 7231
 popularite = 0.58398717143389

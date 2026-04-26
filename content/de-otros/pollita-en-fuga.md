@@ -20,7 +20,7 @@ tags = [
 [extra]
 legacy_id = 347
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No se le notaba. La última vez que Silvina cayó presa –el 5 de mayo pasado – estaba en la cama con su novio, embarazada y desnuda, pero no se le notaba. La brigada bonaerense la encontró a quince cuadras de la Villa…"
 visits = 1697
 popularite = 0.9070598051785029

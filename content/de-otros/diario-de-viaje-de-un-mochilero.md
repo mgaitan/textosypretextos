@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 397
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Hoy estuvimos en Lima; no teníamos un cobre, loco. Así que pintó ir a la plaza central a tirar paños, a manguear algo para hacer el día. Nos mandamos yo, que zafo con la escribanía pública y hago algo con la…"
 visits = 1348
 popularite = 0.9067183771843479

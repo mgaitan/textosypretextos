@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 224
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "A la mujer que amo y me ama En estos días, todo el viento del mundo sopla en tu dirección La osa mayor corrige la punta de su cola Y te corona con la estrella que guía: la mía Los mares se han torcido con no poco dolor…"
 visits = 1241
 popularite = 0.908636336380697

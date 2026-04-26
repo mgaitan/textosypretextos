@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 245
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Clara Dezcurra toma la pluma y escribe la fecha: \"16 de Julio de 1840\". Luego, con la misma letra minúscula y erguida, agrega el encabezamiento: \"Querida Juana\". Finalmente, tras alisar el papel que tiene la…"
 visits = 29535
 popularite = 0.8927374597012787

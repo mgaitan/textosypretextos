@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 246
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Lo primero que le preguntó Mario apenas el Mochila se sentó, fue \"¿La conoces a esa mina?\". -- ¿Cuál? -- La que saludastes recién. Mochila giró apenas la cabeza hacia atrás. -- ¿La flaca? -- Sí. -- Sí, la conozco. Es…"
 visits = 9995
 popularite = 0.9045439066782933

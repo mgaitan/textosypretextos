@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 333
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El plan parecía una locura demasiado simple. Se trataba de tomar el Palacio Nacional de Managua a pleno día, con solo veinticinco hombres, mantener en rehenes a los miembros de la Cámara de Diputados y obtener como…"
 visits = 1005
 popularite = 0.9105340946762814

@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 229
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Es preciso que nos entendamos. Yo hablo de algo seguro y de algo posible. Seguro es que todos coman y vivan dignamente y es posible saber algún día muchas cosas que hoy ignoramos. Entonces, es necesario que esto…"
 visits = 29250
 popularite = 0.9063374941699699

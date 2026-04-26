@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 109
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El primero que lo dijo no fue Diógenes el cínico sino el cíclope Polifemo. Interrogado por Ulises sobre las razones de su misoginia, Polifemo pronunció el famoso discurso: \"Tener relaciones sexuales con una prostituta…"
 visits = 945
 popularite = 0.5799107433900417

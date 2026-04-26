@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 300
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ella decide cuando es de día, ella maneja el sol anda pintando toda la casa con trozos de crayón. Rojo a los muros, verde al oscuro sillón del comedor, y un póquitito de azul celeste aquí en mi corazón. El amarillo…"
 visits = 1510
 popularite = 0.9070235089757736

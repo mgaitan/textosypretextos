@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 394
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Dónde pongo lo hallado en las calles, los libros, las noche, los rostros en que te he buscado. Dónde pongo lo hallado en la tierra, en tu nombre, en la Biblia, en el día que al fin te he encontrado. Qué le digo a la…"
 visits = 2254
 popularite = 0.9422720031840343

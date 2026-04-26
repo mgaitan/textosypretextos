@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 112
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Puedo acariciar tu voz ser tu desierto y mirarte horas enteras. Puedo acercarme a vos y no ser tan terco pisando la basura del puerto. Desde el mar no hay piedad si vos no te mojás Se cansó la ansiedad, la pena y el…"
 visits = 8330
 popularite = 0.9134861829733387

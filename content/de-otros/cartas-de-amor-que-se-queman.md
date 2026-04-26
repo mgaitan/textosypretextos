@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 163
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ay niña no queda nada de todo lo que soñamos nuestro amor son estas llamas que estan quemando mis manos nuestro amor son estas llamas que estan quemando mis manos Son como una ala de luto volando papel quemado las…"
 visits = 4834
 popularite = 0.9062441490304762

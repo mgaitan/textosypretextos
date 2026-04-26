@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 280
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Qué estará haciendo esta hora mi andina y dulce Rita de junco y capulí; ahora que me asfixia Bizancio, y que dormita la sangre, como flojo coñac, dentro de mí. Dónde estarán sus manos que en actitud contrita planchaban…"
 visits = 1686
 popularite = 0.42150884961449947

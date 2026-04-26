@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 332
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Aquí todo va de mal en peor. La semana pasada se murió mi tía Jacinta, y el sábado, cuando ya la habíamos enterrado y comenzaba a bajársenos la tristeza, comenzó a llover como nunca. A mi papá eso le dio coraje, porque…"
 visits = 0
 popularite = 0.0

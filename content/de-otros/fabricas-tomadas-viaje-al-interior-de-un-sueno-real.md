@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 382
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "INTRODUCCIÓN: El cerámico y los retratos \"Lock out\" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus \"demandas\" a los trabajadores; baja de salarios, despidos, suspensiones o…"
 visits = 945
 popularite = 0.5796679912664636

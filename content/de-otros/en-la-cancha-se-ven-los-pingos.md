@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 370
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Me agarró la fiebre clasificatoria y empecé por ordenar mis zapatos, después mi biblioteca, después los papeles que daban vueltas hace meses, y ahora quiero terminar etiquetando los estilos sexuales de los hombres…"
 visits = 2225
 popularite = 0.42209615354441127

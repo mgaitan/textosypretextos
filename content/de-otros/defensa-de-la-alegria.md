@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 236
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Defender la alegría como una trinchera defenderla del escándalo y la rutina de la miseria y los miserables de las ausencias transitorias y las definitivas defender la alegría como un principio defenderla del pasmo y…"
 visits = 12736
 popularite = 0.9056624156109147

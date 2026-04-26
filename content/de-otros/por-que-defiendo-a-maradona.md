@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 341
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En \"La Venganza será terrible\" del lunes 19 de octubre, Alejandro Dolina, ante el mensaje de una oyente, se expidió con vehemencia sobre las declaraciones de Maradona. \"Ingrid Hammer dice: 'Estimado Dolina, ¿ya no…"
 visits = 1789
 popularite = 0.36018891815256276

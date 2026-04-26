@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 93
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ya que navegas por mi sangre y conoces mis límites y me despiertas en la mitad del día para acostarme en tu recuerdo y eres furia de mi paciencia para mi dime qué diablos hago por qué te necesito quién eres muda sola…"
 visits = 5614
 popularite = 0.9891322522086501

@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 353
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Nunca he dejado de llevar la vida humilde que puede permitirse un modesto empleado de correos. ¡Pues! mi mujer —que tiene la manía de pensar en voz alta y de decir todo lo que le pasa por la cabeza— se empeña en…"
 visits = 4976
 popularite = 0.4215557905110288

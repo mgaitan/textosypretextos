@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 155
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "La señora Smithson, de Londres (estas historias siempre ocurren entre ingleses) resolvió matar a su marido, no por nada sino porque estaba harta de él después de cincuenta años de matrimonio. Se lo dijo: -- Thaddeus…"
 visits = 5115
 popularite = 0.902651706772405

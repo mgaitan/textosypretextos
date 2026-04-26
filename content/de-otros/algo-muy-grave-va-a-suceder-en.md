@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 436
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Imagínese usted un pueblo muy pequeño donde hay una señora vieja que tiene dos hijos, uno de 17 y una hija de 14. Está sirviéndoles el desayuno y tiene una expresión de preocupación. Los hijos le preguntan qué le pasa…"
 visits = 10178
 popularite = 0.9268310975041049

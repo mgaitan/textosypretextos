@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 172
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Porque te tengo y no porque te pienso porque la noche está de ojos abiertos porque la noche pasa y digo amor porque has venido a recoger tu imagen y eres mejor que todas tus imágenes porque eres linda desde el pie…"
 visits = 111578
 popularite = 0.909474549999842

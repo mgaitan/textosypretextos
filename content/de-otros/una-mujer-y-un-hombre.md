@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 218
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Una mujer y un hombre llevados por la vida, una mujer y un hombre cara a cara habitan en la noche, desbordan por sus manos, se oyen subir libres en la sombra, sus cabezas descansan en una bella infancia que ellos…"
 visits = 4487
 popularite = 0.9387650994300958

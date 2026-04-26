@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 204
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Cómo gasto papeles recordándote Cómo me haces hablar en el silencio Y cómo no te me quitas de las ganas Aunque nadie me vea nunca contigo Y cómo pasa el tiempo Que de pronto son años Sin pasar tú por mí Detenida Te doy…"
 visits = 780
 popularite = 0.9045912332169311

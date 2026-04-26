@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 410
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Se puede decir que entré en la literatura por un ascensor. Me explico: cuando tenía quince, un vecino de mi edificio nos oyó hablar a mis amigos y a mí en un viaje en ascensor, y nos invitó a su departamento en el…"
 visits = 0
 popularite = 0.0

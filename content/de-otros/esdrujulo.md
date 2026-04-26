@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 227
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "A La Rousis Se trata cósmicos de ser más fértiles, de no ser tímidos, de ser más trópicos, de ir a lo pálido, volverlo térmico, sentirse prójimo de lo más lúdico, con verdes lápices trazar el ámbito de lo que mágico…"
 visits = 1307
 popularite = 0.9053894702205999

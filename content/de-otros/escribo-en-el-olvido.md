@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 179
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Escribo en el olvido en cada fuego de la noche cada rostro de ti. Hay una piedra entonces donde te acuesto mía, ninguno la conoce, he fundado pueblos en tu dulzura, he sufrido esas cosas, eres fuera de mí, me…"
 visits = 2019
 popularite = 0.25135378237919914

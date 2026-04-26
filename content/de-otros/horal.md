@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 122
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El mar se mide por olas, el cielo por alas, nosotros por lágrimas. El aire descansa en las hojas, el agua en los ojos, nosotros en nada. Parece que hay sales y soles, nosotros y nada..."
 visits = 5948
 popularite = 0.9063779520706314

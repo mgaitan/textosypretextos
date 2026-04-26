@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 193
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Decí, por Dios, ¿qué me has dao, que estoy tan cambiao, no sé más quien soy? El malevaje extrañao, me mira sin comprender... Me ve perdiendo el cartel de guapo que ayer brillaba en la acción... ¿No ves que estoy…"
 visits = 1422
 popularite = 0.4223062814898757

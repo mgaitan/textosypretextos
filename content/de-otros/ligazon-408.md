@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 408
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ella desnuda y yo desnudo y no hay mucho más que me importe. Las cosas caen al suelo como habiendo estado siempre en ese sitio, así caigo yo en ella. Ella apunta sus rodillas hacia dos constelaciones y es entonces la…"
 visits = 539
 popularite = 0.9075164179612479

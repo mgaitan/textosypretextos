@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 233
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "A Nati Leve na lembrança a singela melodia que eu fiz para ti ó bem amada princesa olhos d'água menina da lua Quero te ver clara clareando a noite intensa deste amor o céu é teu sorriso no branco do teu rosto a…"
 visits = 2738
 popularite = 0.9070413357971427

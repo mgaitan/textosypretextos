@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 269
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Esto que tengo de niño fundamental se me rebela, quiere llorar en los rincones, desgarrarse la frente, la mejilla, olvidar el cuaderno donde dice mamá con letras tiernas y hay una dulce vaca de tres patas. Hermanitos…"
 visits = 1538
 popularite = 0.9076165375324229

@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 177
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En un desierto lugar del Irán hay una no muy alta torre de piedra, sin puerta ni ventana. En la única habitación (cuyo piso es de tierra y que tiene la forma del círculo) hay una mesa de madera y un banco. En esa celda…"
 visits = 14197
 popularite = 0.6786000819473098

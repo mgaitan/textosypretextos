@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 217
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Si la cintura es un junco y la boca es colorada, si son los ojos retintos... esa moza es tucumana. Si es dulce como esa niña y airosa cuando la bailan, si te gana el corazón... esa zamba es tucumana. Y si la moza y la…"
 visits = 44450
 popularite = 0.5425418446065758

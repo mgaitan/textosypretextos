@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 275
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Lo cierto es que fueron años de arduo y pragmático aprendizaje, con lapsos de desaliento en los que estuvo a punto de desistir. Pero al fin triunfó la perseverancia y Raimundo aprendió a ladrar. No a imitar ladridos…"
 visits = 4509
 popularite = 0.9748393149212815

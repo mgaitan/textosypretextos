@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 447
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Aire, fuego y agua casi sin querer alzan las montañas, las dejan caer. Rigen los destinos, por allá o aquí nunca, nadie, nada te alejará de mí. Hijo, madre, hermano, toman sin pensar sendas diferentes, propios de su…"
 visits = 4531
 popularite = 0.9071772122636592

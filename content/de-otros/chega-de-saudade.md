@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 305
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Vai, minha tristeza E diz a ela Que sem a ela não pode ser Disse numa prece Que ela regresse Porque eu não posso mais sofrer Chega de saudade A realidade é que sem ela não há mais paz, não há beleza É só tristeza e…"
 visits = 3185
 popularite = 0.35522821501259016

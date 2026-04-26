@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 257
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No están desnudas. Pero casi. Algunas sonriendo, o serias en pose hot, o con anteojos de sol, boca abajo en la cama, casi pegándose el culo con los talones, mostrando las marcas del bronceado, o con bombachas de…"
 visits = 83738
 popularite = 0.6864202903160397

@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 429
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "1916-Buenos Aires Descalza, desnuda, apenas envuelta en la bandera argentina, Isadora Duncan baila el himno nacional. Una noche comete esa osadía, en un café de estudiantes de Buenos Aires y a la mañana siguiente todo…"
 visits = 8894
 popularite = 0.908130339859081

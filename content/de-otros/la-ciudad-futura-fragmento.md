@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 367
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Odio a los indiferentes. Creo que vivir es tomar partido. Quien verdaderamente vive no puede dejar de ser ciudadano y partidario. Indiferencia es abulia, es parasitismo, es cobardía, no es vida. Por eso, odio a los…"
 visits = 3207
 popularite = 0.9067080058931521

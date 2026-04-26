@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 222
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Al valiente Pueblo Boliviano, que sabe de lucha, sudor y revoluciones En tiempos inmemoriales se erigieron montañas, se desplazaron ríos, se formaron lagos. Nuestra amazonia, nuestro chaco, nuestro altiplano y nuestros…"
 visits = 1735
 popularite = 0.9277035815565915

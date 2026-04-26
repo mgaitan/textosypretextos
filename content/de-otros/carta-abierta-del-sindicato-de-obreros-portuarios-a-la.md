@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 435
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Señora Dickinson, porque sabemos ser corteses, en ocasión de que la hija del compañero García le comentara unos versos suyos que oyó en la escuela: Multiplicar los muelles no disminuye el mar. El compañero los trajo a…"
 visits = 5916
 popularite = 0.9127070350485231

@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 419
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Despiértese, que es tarde, me grita desde la puerta un hombre extraño. Despiértese usted, que buena falta le hace, le contesto yo. Pero el muy obstinado me sigue soñando."
 visits = 2404
 popularite = 0.9062808063816475

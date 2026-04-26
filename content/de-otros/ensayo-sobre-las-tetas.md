@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 343
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Ahora que llega el calor y por toda la ciudad afloran las tetas con su vanguardia prometedora de un tiempo blando, vale quizá entregarse a esa curiosidad primaria que generan las tetas en la vida de los hombres…"
 visits = 3273
 popularite = 0.98177941039578

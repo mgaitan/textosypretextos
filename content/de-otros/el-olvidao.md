@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 212
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "De tu palo soy, hijo de tu cuero soy el olvidao en la alcancía del tiempo el que se quedó de pie poniéndote el pecho. Flor obrera soy, silvestre de espuma cuando el tren se va miro en las vías la luna pensando tal vez…"
 visits = 2050
 popularite = 0.7421601795674655

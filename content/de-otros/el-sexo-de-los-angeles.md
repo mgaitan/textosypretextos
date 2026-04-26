@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 421
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Una de las más lamentables carencias de información que han padecido los hombres y mujeres de todas las épocas, se relaciona con el sexo de los ángeles. El dato, nunca confirmado, de que los ángeles no hacen el amor…"
 visits = 0
 popularite = 0.0

@@ -20,7 +20,7 @@ tags = [
 [extra]
 legacy_id = 381
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Yo no sé si podrá esta zamba llegar a usted, bajo los luceros va por la noche buscando el pueblito donde la dejé Por oir otra vez la tonadita de su voz, niña de los ojos color de olivo me iré tras la zamba, romero de…"
 visits = 2242
 popularite = 0.9075009308418274

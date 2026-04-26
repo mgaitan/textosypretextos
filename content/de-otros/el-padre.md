@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 329
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "El bebé estaba en una canasta al lado de la cama, y llevaba puesto un osito y un gorro blanco. La canasta de mimbre estaba recién pintada, acolchada con pequeños edredones azules y sujeta con cintas de color azul…"
 visits = 0
 popularite = 0.0

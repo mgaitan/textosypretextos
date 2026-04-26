@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 240
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Llovía tanto que parecía que el mundo entero se estaba licuando. Hacía un mes que no paraba. Y cuando paraba era por un ratito, algunas horas, a lo mucho amainaba medio día o toda una tarde, pero enseguida se largaba…"
 visits = 974
 popularite = 0.6805399277000869

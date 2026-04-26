@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 302
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En el tumulto de los húsares de Momo encandilado por las luces de otro barrio aquel murguista saludando con su gorro se despedía, como siempre, del tablado Entre la nube de pintados chiquilines vió la sonrisa que…"
 visits = 2498
 popularite = 0.9072392306963571

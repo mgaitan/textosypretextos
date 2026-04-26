@@ -16,7 +16,7 @@ tags = [
 
 [extra]
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "En este momento, el corazón de un oso pardo / late apenas ocho veces por minuto. / Una pizca de energía que gaste de más / y no podría salir vivo de este invierno."
 hero_image = ""
 hero_alt = ""

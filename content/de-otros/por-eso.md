@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 258
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "porque yo me desierto y tú me lluvias porque me océano y me balsas porque me otoño y tú me hojas porque me sótano y me alas por eso yo te músico y me músicas por eso yo te potro y tú me frutas y yo te marinero y me…"
 visits = 4952
 popularite = 0.9605241970255376

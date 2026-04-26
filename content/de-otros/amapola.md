@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 401
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Abre las hojas del viento, mi vida, ponle una montura al río. Cabalga y si te da frío te arropas con la piel de las estrellas. De almohada la luna llena, mi vida, y de sueño el amor mío. Y una amapola me lo dijo ayer…"
 visits = 7453
 popularite = 0.3655757882649118

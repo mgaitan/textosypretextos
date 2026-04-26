@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 107
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Las ideas las tenía yo, ella las ponía en práctica. En general a mí las ideas se me ocurrían cuando espantaba recuerdos o cuando sentado a mi escritorio de ideas jugueteaba con la réplica del puñal de Sandokán, o…"
 visits = 1547
 popularite = 0.2505558817611528

@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 133
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Estaba sensible. O sea bien. Pleno. Ese lugar es místico y vos , ahora, formás parte de eso. Sólo pienso en cómo sería ese paisaje con vos riendo. Las cuatro y veinte dice el monitor, y lo que cuenta la ventana parece…"
 visits = 0
 popularite = 0.0

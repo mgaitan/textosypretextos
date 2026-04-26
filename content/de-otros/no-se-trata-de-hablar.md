@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 388
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "No se trata de hablar, ni tampoco de callar: se trata de abrir algo entre la palabra y el silencio. Quizá cuando transcurra todo, también la palabra y el silencio, quede esa zona abierta como una esperanza hacia atrás…"
 visits = 4216
 popularite = 0.9061069810685893

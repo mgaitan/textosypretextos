@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 415
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Las lágrimas van al cielo Y vuelven a tus ojos desde el mar El tiempo se va, se va y no vuelve Y tu corazón va a sanar Va a sanar Va a sanar La tierra parece estar quieta Y el sol parece girar, Y aunque parezca mentira…"
 visits = 541
 popularite = 0.9090419688685463

@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 153
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "I En su grave rincón, los jugadores rigen las lentas piezas. El tablero los demora hasta el alba en su severo ámbito en que se odian dos colores. Adentro irradian mágicos rigores las formas: torre homérica, ligero…"
 visits = 5405
 popularite = 0.9092406411513844

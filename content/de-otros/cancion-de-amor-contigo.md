@@ -19,7 +19,7 @@ tags = [
 [extra]
 legacy_id = 181
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Si debo hacer una caricia, preferiría que fuera a ti. Si tengo que dar algún beso, busco tu boca y lo dejo allí Si es necesario hacer futuro, desde tu cuerpo lo inventaré. Si el mundo pide decisiones, las tomarás y las…"
 visits = 10886
 popularite = 0.3527275183064846

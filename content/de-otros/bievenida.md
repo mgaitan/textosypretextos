@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 438
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Se me ocurre que vas a llegar distinta no exactamente más linda ni más fuerte ni más dócil ni más cauta tan solo que vas a llegar distinta como si esta temporada de no verme te hubiera sorprendido a vos también quizá…"
 visits = 0
 popularite = 0.0

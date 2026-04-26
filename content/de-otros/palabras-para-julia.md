@@ -18,7 +18,7 @@ tags = [
 [extra]
 legacy_id = 191
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "A Julia Tú no puedes volver atrás porque la vida ya te empuja con un aullido interminable, interminable... Te sentirás acorralada te sentirás perdida o sola tal vez querrás no haber nacido, no haber nacido... Pero tú…"
 visits = 1585
 popularite = 0.9054805089956867

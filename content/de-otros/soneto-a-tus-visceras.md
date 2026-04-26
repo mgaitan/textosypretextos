@@ -16,7 +16,7 @@ tags = []
 [extra]
 legacy_id = 178
 section_slug = "de-otros"
-section_title = "De otros"
+section_title = "De otres"
 summary = "Harto ya de alabar tu piel dorada, tus externas y muchas perfecciones, canto al jardín azul de tus pulmones y a tu traquea elegante y anillada. Canto a tu masa intestinal rosada al brazo, al páncreas, a los epiplones…"
 visits = 6114
 popularite = 0.9064331433338957
