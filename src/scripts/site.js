@@ -19,11 +19,9 @@ function syncThemeToggle(theme) {
   if (!themeToggle) return;
   const isDark = theme === "dark";
   themeToggle.setAttribute("aria-pressed", String(isDark));
+  themeToggle.setAttribute("aria-label", isDark ? "Activar modo claro" : "Activar modo oscuro");
   themeToggle.dataset.theme = theme;
   themeToggle.querySelector("[data-theme-icon]")?.replaceChildren(document.createTextNode(isDark ? "☀" : "☾"));
-  themeToggle.querySelector("[data-theme-label]")?.replaceChildren(
-    document.createTextNode(isDark ? "Modo claro" : "Modo oscuro")
-  );
 }
 
 function applyTheme(theme) {
