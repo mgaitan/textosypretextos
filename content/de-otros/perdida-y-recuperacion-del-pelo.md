@@ -30,7 +30,7 @@ comment_count = 8
 legacy_url = "/de-otros/perdida-y-recuperacion-del-pelo/"
 surtitle = ""
 subtitle = "Julio Cortázar"
-deck = "Para luchar contra el pragmatismo y la horrible tendencia a la consecución de fines útiles, mi primo el mayor propugna el procedimiento de sacarse un buen pelo de la cabeza, hacerle un nudo en el medio y dejarlo caer suavemente por el agujero del lavabo. Si este pelo se engancha en la rejilla que suele cundir en dichos agujeros, bastará abrir un poco la canilla para que se pierda de vista."
+
 author_links = [
     { name = "Julio Cortázar", path = "/autores/julio-cortazar/" },
 ]
@@ -128,6 +128,8 @@ url_site = ""
 title = "Pérdida y recuperación del pelo"
 body = "Leo esto y me acuerdo de que cuando tenia 13 o 14 años anotaba en una libretita los numeros de los internos de los colectivos que me llevaban y traian de la escuela. Cuando se repetia el numero le ponia una x al lado. No tenia ningun sentido ni utilidad, pero lo hacia. En esa epoca era mas feliz que ahora que soy grande y no pierdo el tiempo en pavadas."
 +++
+
+Para luchar contra el pragmatismo y la horrible tendencia a la consecución de fines útiles, mi primo el mayor propugna el procedimiento de sacarse un buen pelo de la cabeza, hacerle un nudo en el medio y dejarlo caer suavemente por el agujero del lavabo. Si este pelo se engancha en la rejilla que suele cundir en dichos agujeros, bastará abrir un poco la canilla para que se pierda de vista.
 
 Sin malgastar un instante, hay que iniciar la tarea de recuperación del pelo. La primera operación se reduce a desmontar el sifón del lavabo para ver si el pelo se ha enganchado en alguna de las rugosidades del caño. Si no se lo encuentra, hay que poner en descubierto el tramo de caño que va del sifón a la cañería de desagüe principal. Es seguro que en esta parte aparecerán muchos pelos, y habrá que contar con la ayuda del resto de la familia para examinarlos uno a uno en busca del nudo. Si no aparece, se planteará el interesante problema de romper la cañería hasta la planta baja, pero esto significa un esfuerzo mayor, pues durante ocho o diez años habrá que trabajar en algún ministerio o casa de comercio para reunir el dinero que permita comprar los cuatro departamentos situados debajo del de mi primo el mayor, todo ello con la desventaja extraordinaria de que mientras se trabaja durante esos ocho o diez años no se podrá evitar la penosa sensación de que el pelo ya no está en la cañería y que sólo por una remota casualidad permanece enganchado en alguna saliente herrumbrada del caño.
 
