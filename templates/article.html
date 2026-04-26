@@ -36,13 +36,6 @@
       {% endif %}
       <div class="meta-row">
         <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
-        {% for author in page.extra.author_links %}
-          {% if author.path %}
-            <a href="{{ author.path }}" class="meta-link">{{ author.name }}</a>
-          {% else %}
-            <span>{{ author.name }}</span>
-          {% endif %}
-        {% endfor %}
         {% if page.extra.comment_count > 0 %}
           <a href="#comments" class="meta-link">{{ page.extra.comment_count }} comentarios</a>
         {% endif %}
