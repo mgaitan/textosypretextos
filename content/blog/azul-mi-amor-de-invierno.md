@@ -27,6 +27,7 @@ visits = 4437
 popularite = 0.8602885891708552
 hero_image = "/media/jpg/Azul.jpg"
 hero_alt = "Azul.jpg"
+hide_hero_in_listing = true
 comment_count = 12
 legacy_url = "/blog/azul-mi-amor-de-invierno/"
 surtitle = ""
