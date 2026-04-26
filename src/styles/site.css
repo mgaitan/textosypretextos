@@ -120,7 +120,7 @@
 
   .brand-title {
     font-family: var(--font-display);
-    @apply text-[3rem] leading-[0.9] tracking-[-0.04em] text-black sm:text-[4.8rem] lg:text-[6.5rem];
+    @apply pb-2 text-[3rem] leading-[0.9] tracking-[-0.04em] text-black sm:text-[4.8rem] lg:text-[6.5rem];
   }
 
   .brand-deck {
