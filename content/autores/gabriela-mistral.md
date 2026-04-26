@@ -10,6 +10,7 @@ article_paths = [
 ]
 image = "/media/auton11.jpg"
 is_owner = false
+gender = "f"
 +++
 
 "  Hay un lugar que no tiene adentro ni afuera. Una extrañeza encantada donde el tiempo suspende su lógica, la secuencia. Hay un entrar allí, un instante de gracia, cuando el yo retrocede, aunque acompaña, a la aprendiz. El régimen monocromo de las costumbres se fisura, y hay juego, hay sacro, un ritmo pulsional que arrebata convirtiéndose en sentido. Se es única, se es previa a toda diferencia que marca la entrada de las formas, de lo otro, de la infinita secuencia con que la vida se expresa. 

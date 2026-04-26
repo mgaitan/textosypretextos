@@ -20,7 +20,7 @@
                 <img src="{{ page.extra.image }}" alt="{{ page.title }}" loading="lazy">
               </a>
             {% endif %}
-            <p class="story-kicker">Autora / Autor</p>
+            <p class="story-kicker">{% if page.extra.gender == "f" %}Autora{% else %}Autor{% endif %}</p>
             <h2 class="story-title-xs"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
             <p class="mt-4 text-base leading-7 text-neutral-700">{{ page.extra.article_paths | length }} {% if page.extra.article_paths | length == 1 %}texto{% else %}textos{% endif %}</p>
           </article>
