@@ -52,7 +52,7 @@ date_display = "16.08.2009"
 depth = 0
 url_site = ""
 title = "Kaffe"
-body = "La verdad increible! muy buen aporte Martin."
+body = "La verdad increíble! muy buen aporte Martin."
 +++
 
 {{ video_embed(provider="youtube", id="1bWG-cGsAXw", title="1bWG-cGsAXw") }}

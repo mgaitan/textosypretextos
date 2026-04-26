@@ -3,7 +3,7 @@ title = "Música"
 template = "blog_subsection.html"
 
 [extra]
-subsection_slug = "musica"
+subsection_slug = "música"
 article_paths = [
     "blog/a-ver.md",
 ]

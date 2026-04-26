@@ -47,7 +47,7 @@ comments = []
  **Orson Welles** *
 {{% end %}}
 
-Sobre el Boulevard San Juan, cerquita del "Patiolmos"  (el Shopping Patio Olmos)  se encuentra un edificio antiguo con puertas altísimas de madera tallada y rampas para ingresar. Arriba, en un añejo bronce dice "Asociacione Italiana. In unione e libertá", pero a los costados caen dos carteles vinílicos grandes que aclaran la verdad de la milanesa: <a href="http://www.cineclubmunicipal.org.ar">Cine Club Municipal Hugo del Carril</a>. 
+Sobre el Boulevard San Juan, cerquita del "Patiolmos"  (el Shopping Patio Olmos)  se encuentra un edificio antiguo con puertas altísimas de madera tallada y rampas para ingresar. Arriba, en un añejo bronce dice "Asociaciones Italiana. In unione e libertá", pero a los costados caen dos carteles vinílicos grandes que aclaran la verdad de la milanesa: <a href="http://www.cineclubmunicipal.org.ar">Cine Club Municipal Hugo del Carril</a>. 
 
 Cuando vine por primera vez a Córdoba, en julio, encontré por casualidad ese lugar. Unas  fotocopias  bajo una vitrina anunciaban las tres fuciones del día.  Miré el reloj, eran las 6 de la tarde y estaba justo a tiempo para ver *El Milagro de P. Tinto*, la última proyección de una comedia que pasaban dentro de un ciclo de cine español. La película me gustó, me hizo reír mucho; pero del Cine Club me enamoré. 
 
@@ -59,4 +59,4 @@ En el hall de entrada hay un barcito donde casi siempre hay gente charlando. Ah�
 
 Estoy trabajando en mejorar y quitarle el regionalismo a <a href="http://www.cdclubaltovalle.com.ar" title="Cd Club del Altovalle"> mi sitio</a> de intercambio de cds . Cuando lo termine llevaré la idea consumada al Hugo, para ver que repercusión tiene e intentar que me ayuden en la difusión. 
 
-Ya hice mi listita de pelis que no he visto, e iré pidiendo en *Los 39 escalones* (así se llama la mediateca).  Blade Runner y Brazil,  para aprender por fin lo que es la ciencia ficción; Mundo Grúa, El Fondo del Mar y Felicidades, porque son algunas argentinas que se me pasaron; Recursos Humanos, Delicatessen y Asesinos, porque aguante el cine francés; Estación Central y La Virgen de los Sicarios, porque Latinoamerica arde.  Y eso que sólo miré el catálogo por arriba.
+Ya hice mi listita de pelis que no he visto, e iré pidiendo en *Los 39 escalones* (así se llama la mediateca).  Blade Runner y Brazil,  para aprender por fin lo que es la ciencia ficción; Mundo Grúa, El Fondo del Mar y Felicidades, porque son algunas argentinas que se me pasaron; Recursos Humanos, Delicatessen y Asesinos, porque aguante el cine francés; Estación Central y La Virgen de los Sicarios, porque Latinoamérica arde.  Y eso que sólo miré el catálogo por arriba.

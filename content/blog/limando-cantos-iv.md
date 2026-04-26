@@ -161,7 +161,7 @@ Por otro lado creo que la trasparencia del sistema informático se la tienen
 que dar justamente los ingenieros, ese es el reto, y esto es mucho dinero en juego.
 este sistema acabaria con la trampa que se usa durante la votación 
 con cosas como la cadena de sobres, donde hacen votar a todo un barrio 
-a un mismo candidato y así un monton de truquitos mas. de ultima el papel 
+a un mismo candidato y así un montón de truquitos mas. de ultima el papel 
 también es solo tecnología y con la que hace trampa desde su creación.
  
  
@@ -178,7 +178,7 @@ yo desconozco el tema pero quiero hacer una pregunta:
 mejor que el voto electrónico, no seria mejor el conteo electrónico? 
 es decir, votar con una papeleta con código de barra, 
 que el conteo q ahora se hace a mano, se haga cargando las papeletas 
-con un lector, se cierra el acta, se remite electronicamente, 
+con un lector, se cierra el acta, se remite electrónicamente, 
 pero queda una copia firmada por las autoridades de mesa para posible control....
 
 saludos
@@ -193,9 +193,9 @@ saludos
 Parte de lo que comenta Pedro es cierto, hay un gran negocio al medio.
 Pero NO se trata de sembrar "temor", si no de estar atentos y no dejarnos meter el pendrive en la disketera!
 
-Vía libre SI tiene una propuesta que suma, (ya la hicieron publica entre ellas en programas de televisión de córdoba)
+Vía libre SI tiene una propuesta que suma, (ya la hicieron pública entre ellas en programas de televisión de córdoba)
 Una de las propuestas es lo que básicamente dice Guido.
-Se trata de votar con papel, pero que el escrutinio se realice manualmente solo que con un control REAL TIME vía internet. Donde cualquier ciudadano pueda acceder a un sitio y ver la cantidad de mesas escrutadas, etc.  La autoridad pertinente controlaría que la info que se publica en la web sea la misma que la que se firma por los fiscales electorales.
+Se trata de votar con papel, pero que el escrutinio se realice manualmente solo que con un control REAL TIME vía internet. Donde cualquier ciudadano pueda acceder a un sitio y ver la cantidad de mesas escrutadas, etc.  La autoridad pertinente controlaría que la info que se pública en la web sea la misma que la que se firma por los fiscales electorales.
 Este método, involucra una mínima inversión y logra dejar en claro situaciones sospechosas (como en los escrutinios schiaretti-Juez)
 Naturalmente no es solución que resuelve todos los problemas, pero al menos deja en claro el escrutinio.
 
@@ -220,7 +220,7 @@ cada voto. Las personas, fiscales etc solo deben controlar que lo que hace
 el scanner sea lo correcto.
 Yo le sumaria un sistema de video streaming para que entonces si falla la 
 maquina, y encima el fiscal, al menos nosotros podamos darnos cuenta.
-No confio ni en la maquina, ni en el fiscal, y seguramente ni en el que 
+No confió ni en la maquina, ni en el fiscal, y seguramente ni en el que 
 aparece en la boleta.
 
 ----------
@@ -258,14 +258,14 @@ Fraude, vamos a tener en cualquier sistema.
 
 Lo que creo que cuenta mucho es que tan sencillo es y el nivel de
 capacitación necesario para auditar y recontar.
-También creo que debemos tener en cuenta el nivel de sofisticacion,
-costo y organizacion necesario para hacer fraude. Para realizar fraude
+También creo que debemos tener en cuenta el nivel de sofisticación,
+costo y organización necesario para hacer fraude. Para realizar fraude
 electrónico se necesita una poca cantidad de gente con muchos
 conocimientos. Para realizar fraude en papeles, se necesita mucha
 mayor cantidad de gente e influencias.
 
 Otro punto importante es el secreto de voto (yo a las computadoras no
-les confiaria eso: [http://en.wikipedia.org/wiki/Van_Eck_phreaking](http://en.wikipedia.org/wiki/Van_Eck_phreaking) )
+les confiaría eso: [http://en.wikipedia.org/wiki/Van_Eck_phreaking](http://en.wikipedia.org/wiki/Van_Eck_phreaking) )
 
 Si tenemos todo en papel, entonces cualquiera que sepa sumar puede
 auditar. Si tenemos un sistema informático complejo, ni siquiera la mayoría de
@@ -352,10 +352,10 @@ Martín,
 No estoy en condiciones de discutir la seguridad del voto electrónico, 
 creo que a pesar de haber leído y entender un poco el tema, 
 no soy un especialista ni un estudioso del área puntual. 
-Hay alguién en Córdoba que lo sea...??
+Hay alguien en Córdoba que lo sea...??
 
 SÍ veo que hay un juego de lobby que hace esta gente. Como lo hace y lo hará Indra 
-a su nivel. No creeras que son cruzados de la democracia en busca del s
+a su nivel. No creerás que son cruzados de la democracia en busca del s
 anto grial de la transparencia..!!
 
 Y si no, veamos este párrafo del [artículo](http://www.vialibre.org.ar/2010/09/20/el-diario-dia-a-dia-sobre-nuestra-propuesta-de-auditoria-del-escrutinio/):
@@ -424,7 +424,7 @@ type=\"application/x-shockwave-flash\">") }}
 > 2010/10/18 [Pedro Sanchez escribió](#ps3):
 >
 > Si veo que hay un juego de lobby que hace esta gente. Como lo hace y lo hará
-> Indra a su nivel. No creeras que son cruzados de la democracia en busca del
+> Indra a su nivel. No creerás que son cruzados de la democracia en busca del
 > santo grial de la transparencia..!!
 
 No me gusta la metáfora que usas, pero mas que confiar en esta gente
@@ -486,7 +486,7 @@ Es decir, si el Estado no paga el costo, el costo lo está pagando alguien más.
 Y si ese alguien que paga el costo, no es el Estado, es un privado. 
 
 Y si ese privado paga semejante costo, tengo derecho a dudar y a preguntarme por qué 
-un privado querria invertir semejante cantidad de dinero. 
+un privado querría invertir semejante cantidad de dinero. 
 Vos podes conocerlo/s y no dudar de sus intenciones, o estar filosoficamente mas 
 cerca de ellos que de otra empresa, pero NO ES SANO que un privado financie un Sistema 
 de la naturaleza de la que estamos hablando. Y los que plantean que acá hay un negocio 
@@ -500,7 +500,7 @@ la friolera de 41 millones de dólares en publicidad... ¿Altruismo o negocio?)
 
 Si lo rescatable de la propuesta que mencionas es que es SW Libre 
 yo creo que no habría ningún problema en hacer una licitación y 
-exigir que el Sistema esté hecho con SW Libre, seguramente habra 
+exigir que el Sistema esté hecho con SW Libre, seguramente habrá 
 varias empresas que se presentaran bajo esas condiciones.
 
 <span id="cristian2"></span>
@@ -515,7 +515,7 @@ Y la verdad que no tengo una posición tomada, pero agrego algunos tips a la dis
 <span id="cristian3"></span>
 
 Agregar tecnología solamente al escrutinio no le veo demasiado sentido. 
-Va a ayudar a conocer más rapidamente los resultados, pero le agrega 
+Va a ayudar a conocer más rápidamente los resultados, pero le agrega 
 cero transparencia desde el momento que las maniobras fraudulentas 
 se producen DURANTE la votación. Después de  la elección del gobernador 
 del 2007, se publicaron una serie de maniobras que se podían tranquilamente
@@ -524,10 +524,10 @@ no tenia fiscales en todas las mesas. Y ese tipo de maniobras son independientes
 del escrutinio. Si el voto sigue siendo sólo en papel, tranquilamente te pueden 
 reemplazar votos por mas que los votos los cuentes a mano o con un lector de 
 código de barras. Si quieren hacer desaparecer boletas de una determinada agrupación, 
-lo van a hacer independientemente de como escrutes la votacion. 
-En las presidenciales del 2009 fui fiscal en Cosquin y veia como desaparecian las 
+lo van a hacer independientemente de como escrutes la votación. 
+En las presidenciales del 2009 fui fiscal en Cosquin y veía como desaparecían las 
 boletas de una agrupación muy pequeña en estructura pero que terminó obteniendo 
-5x106 votos a un ritmo que no las podian reponer. Y eso pasó en muchos lugares del país.
+5x106 votos a un ritmo que no las podían reponer. Y eso pasó en muchos lugares del país.
 Ese tipo de cosas son las que se intentan solucionar con la boleta única, 
 pero un sistema mas informatizado de escrutinio no les hace ni 
 cosquillas a los fraudulentos de siempre.
@@ -571,7 +571,7 @@ cristian
 
 > 2010/10/18 [Cristian Mujica  escribió](#cristian1):
 >
-> Antes que nada Martín, yo creo que nadie pone el negocio ni los pesos por encima de la democracia, lo que me parece es que estas pecando de ingenuo con algunas cosas. NADIE PUEDE DESARROLLAR UN SISTEMA A COSTO CERO (y menos aún un Sistema de la magnitud de los que se está hablando).Es decir, si el Estado no paga el costo, el costo lo está pagando alguien más. Y si ese alguien que paga el costo, no es el Estado, es un privado. Y si ese privado paga semejante costo, tengo derecho a dudar y a preguntarme por qué un privado querria invertir semejante cantidad de dinero. Vos podes conocerlo/s y no dudar de sus intenciones, o estar filosoficamente mas cerca de ellos que de otra empresa, pero NO ES SANO que un privado financie un Sistema de la naturaleza de la que estamos hablando. Y los que plantean que acá hay un negocio de por medio, no están poniendo a la democracia por debajo de los negocios, simplemente están marcando una realidad, el hecho de que el Estado no ponga plata no quiere decir que otros no hagan su gran negocio.
+> Antes que nada Martín, yo creo que nadie pone el negocio ni los pesos por encima de la democracia, lo que me parece es que estas pecando de ingenuo con algunas cosas. NADIE PUEDE DESARROLLAR UN SISTEMA A COSTO CERO (y menos aún un Sistema de la magnitud de los que se está hablando).Es decir, si el Estado no paga el costo, el costo lo está pagando alguien más. Y si ese alguien que paga el costo, no es el Estado, es un privado. Y si ese privado paga semejante costo, tengo derecho a dudar y a preguntarme por qué un privado querría invertir semejante cantidad de dinero. Vos podes conocerlo/s y no dudar de sus intenciones, o estar filosoficamente mas cerca de ellos que de otra empresa, pero NO ES SANO que un privado financie un Sistema de la naturaleza de la que estamos hablando. Y los que plantean que acá hay un negocio de por medio, no están poniendo a la democracia por debajo de los negocios, simplemente están marcando una realidad, el hecho de que el Estado no ponga plata no quiere decir que otros no hagan su gran negocio.
 
 cristian, está bien que dudes, pero tenés toda la posiblidad de informarte. 
 No es "un privado", es una facultad  de una universidad pública (Famaf) dos fundaciones que 
@@ -691,7 +691,7 @@ de indagar cuáles son las motivaciones de los programadores de software libre,
 pero esto es otra discusión.
 
 > Si lo rescatable de la propuesta que mencionas es que es SW Libre yo creo que no habría
-> ningún problema en hacer una licitación y exigir que el Sistema esté hecho con SW Libre, seguramente habra varias empresas que se presentaran bajo esas condiciones.
+> ningún problema en hacer una licitación y exigir que el Sistema esté hecho con SW Libre, seguramente habrá varias empresas que se presentaran bajo esas condiciones.
 
  
 Claro, que sería mejor hacer una licitación para hacer este software libre y que lo pague el estado; 
@@ -713,7 +713,7 @@ sólo para difundir el resultado de cada mesa una vez hecha el acta, y firmada p
  
 
 Este tipo de maniobras por ejemplo, consiste en inflar las urnas, es decir hacer votar a gente que no votó realmente,
-¿con una urna electronica no se puede? en lugar de poner el sobre en una caja, sólo tendrán que apretar un botón.
+¿con una urna electrónica no se puede? en lugar de poner el sobre en una caja, sólo tendrán que apretar un botón.
 
 Me parece que el tema de la trasparencia sí podría ayudar, porque cada uno podría checkear si votó o no en la elección, por ejemplo.
 
@@ -752,7 +752,7 @@ Ara
 
 Gente,
 
-Me molesta que tiren alegremente este tipo de fraces 
+Me molesta que tiren alegremente este tipo de frases 
 *"..me ofrezco a trabajar gratis en este proyecto.."* y *"...se me ocurre que varios de esta misma lista estarían dispuestos.."*
 
 QUÉ ES ESO DE TRABAJAR GRATIS..??
@@ -766,7 +766,7 @@ salvo que no comas o vivas de caridad, lo cual me parece muy poco digno..!!
 No alquilas un departamento... a vivir con los viejos... pero ellos tampoco 
 pueden laburar gratis, sino ya no tienen como bancarte..!!
 
-Ropa ni hablemos, javon, dentifrico, desodorante.. gas para calentarme el agua 
+Ropa ni hablemos, javon, dentífrico, desodorante.. gas para calentarme el agua 
 cuando me baño...agua... me olvidaba... una opción sería ir a Cuesta Blanca 
 y vivir a la oriya del río...
 
@@ -803,9 +803,9 @@ Ing. Pedro Sanchez
 **Date:** 2010/10/18
 
 > Gente
-> Me molesta que tiren alegremente este tipo de fraces "..me ofrezco a trabajar gratis en este proyecto.." [(...)](#ps4)
+> Me molesta que tiren alegremente este tipo de frases "..me ofrezco a trabajar gratis en este proyecto.." [(...)](#ps4)
 
-Pedro, no te ofendas, pero no me/nos ofenda/s: yo como, bebo, me cepillo los dientes con dentifrico, 
+Pedro, no te ofendas, pero no me/nos ofenda/s: yo como, bebo, me cepillo los dientes con dentífrico, 
 no tengo auto pero tomo el colectivo (quizás mas que vos) y ando en bici porque la tengo 
 (ahora probablemente menos que vos, mi panza lo atestigua, ja!). 
 Todo eso lo puedo hacer porque trabajo con lo que sé, conocimiento en parte aprendido en la universidad.
@@ -851,7 +851,7 @@ Martin, Pedro y otros.
 Con Martin recordando [otras conversaciones](@/blog/limando-cantos-iii.md), 
 tenemos visiones opuestas en cuanto a la política, pero por otro lado quiero tirar algún comentario al respecto del trabajo gratuito.
 
-<span id="Martinez3"></span> yo creo se puede colaborar ayudar etc, desde nuestra profesion a quien lo necesite, 
+<span id="Martinez3"></span> yo creo se puede colaborar ayudar etc, desde nuestra profesión a quien lo necesite, 
 dentro de los limites de cada uno, tiempo, dinero etc.
 
 <span id="Martinez4"></span>
@@ -880,7 +880,7 @@ uno "logra" el objetivo, el beneficio es para sí y sólo para sí (y la
 familia de uno, digamos). Este sentido transaccional de la educación
 superior pública es algo que yo rechazo enfáticamente, porque no me
 limito a pensar que como profesionales debemos poder vivir y trabajar
-dignamente, siendo retribuidos economicamente de manera justa y
+dignamente, siendo retribuidos económicamente de manera justa y
 equitativa, sino que considero que ser profesional, y se ingeniero en
 particular, va mucho más allá del "cuanto ganaré" .
 
@@ -890,7 +890,7 @@ puede perjudicarse. Hay que dejar de pensar en términos de "vos o yo",
 de mirarse sólo el ombligo. Hay que pensarse como parte (importante) 
 de un pueblo que invirtió en nosotros y debemos intentar estar a la altura de eso. 
 
-> [(...)](#Martinez3) yo creo se puede colaborar ayudar etc, desde nuestra profesion a quien lo
+> [(...)](#Martinez3) yo creo se puede colaborar ayudar etc, desde nuestra profesión a quien lo
 > necesite, dentro de los limites de cada uno, tiempo, dinero etc.
 
 La poco sutil diferencia es que yo no sólo creo que se puede sino que
@@ -942,7 +942,7 @@ profesional propio, por más pequeño que sea en principio.
 >  dar confiabilidad a sus actos, en esto la UTN nos lleva varios millones de
 >  ventaja.
 
-Usted lo ha dicho. Lo que está a nuestro alcance críticar y mejorar es
+Usted lo ha dicho. Lo que está a nuestro alcance criticar y mejorar es
 que las universidades estén muy interesadas  en ser un sello acrítico
 que vale millones. En ese sentido, la "ventaja" que nos lleva la UTN
 es en la carrera de ver quien se cava la tumba más rápido.

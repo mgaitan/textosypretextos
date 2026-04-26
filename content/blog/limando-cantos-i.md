@@ -136,7 +136,7 @@ necesitan del aporte de la Universidad?
 -* Promover y publicitar que los estudiantes avanzados trabajen, más
 allá de las decisiones o necesidades que cada uno de nosotros pueda
 tener, ¿No es, de alguna manera, atentar contra la posibilidad de que
-esos estudiantes obtengan su grado lo antes posible (objetivo que parece existir), y en esas condiciones aspirar a un puesto de trabajo mejor? ¿No está ayudando la universidad a la  flexibilizacion/precarización del trabajo?
+esos estudiantes obtengan su grado lo antes posible (objetivo que parece existir), y en esas condiciones aspirar a un puesto de trabajo mejor? ¿No está ayudando la universidad a la  flexibilización/precarización del trabajo?
 
 -* y mis preguntas de siempre: ¿Para qué la Universidad forma
 profesionales? ¿Hay un compromiso con el conjunto de la sociedad
@@ -286,7 +286,7 @@ capacitarse a las empresas!
 > Con respecto al plan de estudios de la carrera, el mail proviene de la secretaria de graduados, por lo que me imagino que el curso debe contener temas que agregan al conocimiento adquirido por el graduado.
 
 Confieso que no sé de qué se trata la mentada capacitación por lo que
-no puedo responder. Sin embargo, dirimir si determinada formación debe estar o no en la formación de grado de un ingeniero (por ejemplo la nuestra) no deberia ser (ya lo he dicho) en función de cuál es la demanda de determinadas empresas, sino en función de un proyecto universitario que forme profesionales para un proyecto de país. Soy un desubicado, ya sé.
+no puedo responder. Sin embargo, dirimir si determinada formación debe estar o no en la formación de grado de un ingeniero (por ejemplo la nuestra) no debería ser (ya lo he dicho) en función de cuál es la demanda de determinadas empresas, sino en función de un proyecto universitario que forme profesionales para un proyecto de país. Soy un desubicado, ya sé.
 
 Fijate que tu pregunta resalta algo: si hace falta una capacitación
 que la carrera de grado no ofrece, que se brinde afuera, sea en el

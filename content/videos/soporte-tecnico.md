@@ -45,5 +45,3 @@ body = "Muy bueno!\nMe recuerda a algunos clientes \"especiales\" con los que un
 +++
 
 {{ video_embed(provider="youtube", id="K654kfJy9ZA") }}
-
-

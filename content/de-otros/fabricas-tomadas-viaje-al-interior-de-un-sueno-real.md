@@ -46,7 +46,7 @@ comments = []
 
 Cuando el lock out se utiliza para imponer ese tipo de medidas contra los empleados de una empresa, en términos jurídicos se lo califica como lock out ofensivo. Esa categoría legal, olvidada en el marco de una justicia cada vez mas comprometida con los intereses del poder, quedó enterrada en la historia de la jurisprudencia hasta hace poco más de un año, cuando los trabajadores de Cerámicas Zanon lograron demostrar frente a un juzgado laboral de Neuquen que los dueños de la fábrica estaban incurriendo en esa medida de presión extrema para lograr el despido de 200 operarios.
 
-En un fallo histórico, la Dra Tania Rivero de Taiana dictaminó que Cerámicas Zanon S.A. tenía que volver a abrir sus puertas respetando todos los derechos de los trabajadores, tanto desde el punto de vista de mantener la fuente laboral, como desde el punto de vista del salario y las condiciones de trabajo. El Tribunal Superior de Justicia de Neuquén, y la Corte Suprema de Jusctia, a su turno, ratificaron este fallo que no se conocía en el país en los últimos 20 años. La sentencia fue recibida y presentada con todo derecho como un triunfo y un reconocimiento a la lucha de los ceramistas.
+En un fallo histórico, la Dra Tania Rivero de Taiana dictaminó que Cerámicas Zanon S.A. tenía que volver a abrir sus puertas respetando todos los derechos de los trabajadores, tanto desde el punto de vista de mantener la fuente laboral, como desde el punto de vista del salario y las condiciones de trabajo. El Tribunal Superior de Justicia de Neuquén, y la Corte Suprema de Justicia, a su turno, ratificaron este fallo que no se conocía en el país en los últimos 20 años. La sentencia fue recibida y presentada con todo derecho como un triunfo y un reconocimiento a la lucha de los ceramistas.
 
 Pero nada importó para el grupo que lidera junto a un puñado de bancos extranjeros el empresario Luis Zanon. En noviembre del 2001, mientras mantenía la planta cerrada, mandó dos centenares de telegramas de despido, tratando de avanzar en su plan de reabrir la planta con menos de un tercio del personal.
 
@@ -89,7 +89,7 @@ Se puede considerar el relato como una experiencia personal, que intenta simplem
 " Podría abrazar a esa fábrica " leímos entre risas en un libro del cineasta ruso Ziga Vertov.
 
 ¿Podríamos abrazar a esa fábrica?. ¿Como expresar el sentimiento que se experimenta al entrar allí?. Luego de uno o dos días, parece que uno se mimetiza con el mundo, que siempre estuvo y que por siempre estará allí.
-¿Pero que palabras ponerle a la sensación que se siente en el pecho al cruzar el portón y descubrir que lo que fue una carcel es hoy una fortaleza de la libertad?.
+¿Pero que palabras ponerle a la sensación que se siente en el pecho al cruzar el portón y descubrir que lo que fue una cárcel es hoy una fortaleza de la libertad?.
 
 El tiempo que uno pasa afuera se convierte en el tiempo que falta para volver. Si bien uno entiende que es necesario, además de hacer la historia, escribirla, siempre prefiere estar allí.
 
@@ -207,7 +207,7 @@ La organización del trabajo también cambió muchísimo con la gestión obrera.
 
 Ese quizá sea el principal problema que afronte la gestión obrera; tantos años de recibir ordenes, y tanto rencor con los patrones produzcan emociones encontradas en cada uno de los trabajadores. Y como tuvieron que elegir como mantener algún tipo de "autoridad", los trabajadores de Zanon optaron por su propio método; la asamblea.
 
-Hay un ejemplo del régimen de trabajo que tendrá que ser recordado por los historiadores como símbolo de una época: la prohibición de tomar mate dentro del perímetro de la fábrica. Fue una de las primeras reglas absurdas que se derrumbaron con el control obrero: "Antes mate no podías tomar en ningún momento. Ahora todos podemos tomar mate. En todos los casos, en todos los sectores se puede tomar, porque no implica que te salgan mal las cosas. Estaba prohibido por una boludez, decian que la gente se reunía y descuidaba el trabajo. A mi me hicieron una carta documento por tomar mate. Es una de las cosas autoritarias que hizo la empresa. Como norma de conducta, la asamblea decidió lo de no jugar a las cartas durante el trabajo."
+Hay un ejemplo del régimen de trabajo que tendrá que ser recordado por los historiadores como símbolo de una época: la prohibición de tomar mate dentro del perímetro de la fábrica. Fue una de las primeras reglas absurdas que se derrumbaron con el control obrero: "Antes mate no podías tomar en ningún momento. Ahora todos podemos tomar mate. En todos los casos, en todos los sectores se puede tomar, porque no implica que te salgan mal las cosas. Estaba prohibido por una boludez, decían que la gente se reunía y descuidaba el trabajo. A mi me hicieron una carta documento por tomar mate. Es una de las cosas autoritarias que hizo la empresa. Como norma de conducta, la asamblea decidió lo de no jugar a las cartas durante el trabajo."
 
 El solo hecho de que se discuta en la asamblea la conveniencia o no de jugar a las cartas al mismo tiempo que se trabaja, basta para entender hasta donde llega la libertad que conquistaron. Solo aprendiendo de ella, los trabajadores lograron encontrar mecanismos eficaces para organizar la producción en línea: "Hace 3 semanas se planteó la idea de elegir coordinadores por sector, para encaminar la producción, porque estábamos produciendo sin un plan. A mi me propusieron como coordinador, y la gente me votó, y ahora tengo esa obligación. Hacemos reuniones los lunes, miércoles y viernes, donde vienen los coordinadores con un compañero de cada sector que va rotando, para que todo el mundo esté informado. Eso es lo que yo pretendo, lo que trato de hacer; que todo el mundo tenga la información, para eso hacemos asambleas informativas. Que te propongan como coordinador es un orgullo, pero seguís siendo uno mas; acá no hay niveles jerárquicos, simplemente sentís mas obligaciones."
 
@@ -227,7 +227,7 @@ La producción, sin embargo, alcanza para que todos cobren un salario digno. Los
 
 Los obreros tienen ambiciones. "El punto de equilibrio -sigue contando Manotas- serían hacer 300.000 metros, porque eso nos permitiría tener un stock importante y generar una cantidad de empleo, con eso estaríamos trabajando 270 personas abocadas a la producción."
 
-La ambición no es, hay que entenderlo, parecida a la del patrón; queremos que esto dé trabajo, es la consigna que mas se escucha decir entre los obreros concientes de lo que con esa fábrica en las manos se puede lograr.
+La ambición no es, hay que entenderlo, parecida a la del patrón; queremos que esto dé trabajo, es la consigna que mas se escucha decir entre los obreros conscientes de lo que con esa fábrica en las manos se puede lograr.
 
 ### 9
 
@@ -402,7 +402,7 @@ El que no tuvo un buen día fue el burócrata sindical Montes, uno de los pocos 
 
 "No los conozco, deben ser los compañeros de mis compañeros" declaró Sanmartín, otro de los rompehuelgas, cuando varios periodistas le preguntaron sobre por qué habían atacado a piedrazos una conferencia de prensa.
 
-Como broche final, el mismo Montes en persona negó que "su gente" haya golpeado al periodista de la agencia TELAM y de Radio Calf. En los diarios locales declaró que "se pusieron nerviosos porque saben que es un zurdo". La voz en off del antihéroe fue difundida junto con las imágenes que documentan la agresión. Ni siquiera la Mañana del sur, subsidiario del Ambito Financiero, pudo evitar referirse a los carneros como "independientes" entre comillas.
+Como broche final, el mismo Montes en persona negó que "su gente" haya golpeado al periodista de la agencia TELAM y de Radio Calf. En los diarios locales declaró que "se pusieron nerviosos porque saben que es un zurdo". La voz en off del antihéroe fue difundida junto con las imágenes que documentan la agresión. Ni siquiera la Mañana del sur, subsidiario del Ámbito Financiero, pudo evitar referirse a los carneros como "independientes" entre comillas.
 
 Hoy, cuando los provocadores intentaron hacer una conferencia de prensa, los trabajadores del periodismo les dieron otra lección; en solidaridad con el compañero agredido decidieron que nadie iba a concurrir a su llamado. Entre los periodistas también hay gestos de dignidad. Y que esta mañana hayan vuelto a amenazar a un compañero telefónicamente, es quizá un síntoma de que su impotencia política no encuentra todavía final en su caída.
 Pero los rompehuelgas, carneros y malandras son sólo el último eslabón de la cadena de mandos de los antiguos dueños de Cerámicas Zanon, que hoy volvieron a estar representados aquí por los síndicos sin nada en la mano mas que vagas declaraciones de "hacer una propuesta" y una futura reunión para dentro de dos semanas.
@@ -425,7 +425,7 @@ En los barrios pobres, camionetas blancas con hombres de traje reclutan gente, y
 
 En el barrio Parque Industrial, a pocos kilómetros de la fábrica, hay algunos problemas para reclutar gente. De allí son algunos de los jóvenes que habían ido a la fábrica por primera vez. Muchos que se sienten golpeados, aturdidos, engañados, no quieren volver.
 
-Un profesor de futbol de apellido Centurión, ligado al Movimiento Popular Neuquino (MPN, partido que detenta el poder) es el nuevo encargado de reclutar gente :
+Un profesor de fútbol de apellido Centurión, ligado al Movimiento Popular Neuquino (MPN, partido que detenta el poder) es el nuevo encargado de reclutar gente :
 
 --Ahora vamos a ir con los gordos de la CGT, así que esos ceramistas no van a poder aguantar ni un rato, los vamos a sacar de vuelo -- dice.
 

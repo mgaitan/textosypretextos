@@ -175,7 +175,7 @@ body = "JA! No se me hubiera ocurrido. Me encantó el post :)"
 
 En Córdoba es casi imposible jugar a las Carreras Secretas, esas que el Negro Dolina describía en [un cuento](http://microcuentosycuentos.blogspot.com/2012/03/carreras-secretas-alejandro-dolina.html):
 
-> Se trata de elegir en la calle a una persona de caminar ágil y proponerse alcanzarlo antes de llegar a un punto establecido. Esta rigurosamente prohibido correr. Antes del comienzo de cada justa, se deciden las recompensas y penalidades: si llego a la esquina antes que el pelado, aprobare el exámen de lingüística.
+> Se trata de elegir en la calle a una persona de caminar ágil y proponerse alcanzarlo antes de llegar a un punto establecido. Esta rigurosamente prohibido correr. Antes del comienzo de cada justa, se deciden las recompensas y penalidades: si llego a la esquina antes que el pelado, aprobare el examen de lingüística.
 
 Esto sucede no por falta de ágiles competidores, mucho menos por ausencia de deseos del corredor, ni por escaséz de pelados.  El impedimento es más simple y arduo: las veredas son tan angostas y tanta gente camina por ellas que sólo los inconscientes correrían semejante riesgo. Imaginen que Boquita pierda los próximos veinte superclásicos sólo porque ayer no llegué a Cañada y Duarte Quirós antes que la señora aquella, cuya silueta ocupaba todo el ancho de la pista y me impedía ganar la posición. 
 

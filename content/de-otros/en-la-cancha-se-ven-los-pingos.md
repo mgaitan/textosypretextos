@@ -95,11 +95,11 @@ Te invade en el baño por lo general. Se te mete en la ducha. Es muy de enjabona
 
 ### El porno star
 
-Es agotador. Por alguna razón tarda en acabar y en ese largo interin quiere hacer todas las poses en todos los ambientes. En el primer encuentro, por ejemplo, cuando te ponés en cuatro, el muy zarpado, en lugar de hacer de rodillas el aceptable perrito, te bombea en pose quarterback de futbol americano parado atrás tuyo con las gambas abiertas sobre tu tímido Suavestar. Un papelón. Puede ser bueno para una noche de hambre acumulado, pero en lo cotidiano terminás pidiendo por favor que alguien le dispare el dardo de Daktari.
+Es agotador. Por alguna razón tarda en acabar y en ese largo interin quiere hacer todas las poses en todos los ambientes. En el primer encuentro, por ejemplo, cuando te ponés en cuatro, el muy zarpado, en lugar de hacer de rodillas el aceptable perrito, te bombea en pose quarterback de fútbol americano parado atrás tuyo con las gambas abiertas sobre tu tímido Suavestar. Un papelón. Puede ser bueno para una noche de hambre acumulado, pero en lo cotidiano terminás pidiendo por favor que alguien le dispare el dardo de Daktari.
 
 ### El león
 
-Es medio sofocante. Aplastador. Mordedor de cuello. Prefiere cogerte boca abajo, mientras él se apoya con los puños sobre la cama. Para él, sexo y humor no se mezclan. Es solemne y soberano. Hace unas pausas raras: de pronto para de bombearte, te apuntala bajo su peso, y no sabés si te está cogiendo o si está esperando que des las últimas pataditas antes de devorarte. Es muy gritón cuando acaba, rugidor. Te puede traer problemas de consorcio.
+Es medio sofocante. aplastador. Mordedor de cuello. Prefiere cogerte boca abajo, mientras él se apoya con los puños sobre la cama. Para él, sexo y humor no se mezclan. Es solemne y soberano. Hace unas pausas raras: de pronto para de bombearte, te apuntala bajo su peso, y no sabés si te está cogiendo o si está esperando que des las últimas pataditas antes de devorarte. Es muy gritón cuando acaba, rugidor. Te puede traer problemas de consorcio.
 
 ### El mañanista
 

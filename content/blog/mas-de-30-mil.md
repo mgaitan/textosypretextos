@@ -73,7 +73,7 @@ date_display = "20.04.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "la verdad es que si eramos 30.000 personas ahi adentro y la verdad es que no estaba muy convencida de lo que decia porque es mi familia y me duele escuchar de la boca de ellos este tipo de cosas, es lidiar a diario con esto. Pero te equivocaste en algo, no estoy resignada.\nDe todas formas, gracias. Y la verdad es bueno que lo hayas comentado."
+body = "la verdad es que si eramos 30.000 personas ahi adentro y la verdad es que no estaba muy convencida de lo que decía porque es mi familia y me duele escuchar de la boca de ellos este tipo de cosas, es lidiar a diario con esto. Pero te equivocaste en algo, no estoy resignada.\nDe todas formas, gracias. Y la verdad es bueno que lo hayas comentado."
 
 [[extra.comments]]
 id = 1035
@@ -84,7 +84,7 @@ date_display = "15.08.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "Ta muy buena la pelicula, soy bostero,  y por eso me llego mucho al corazon... lo lamnento mucho , y gracias por acordarse de los guachos asesiando por la gorra ortiva, y como me encantaria q se planten pero sin fierros...GILES DE MIERDA.\nTOY CON MAXI UZ, paramo en la socie, y a todos eso bigote ortiva, le vamos a dar, porq lo q hicieron es giles gorrudo, cobarde..... y quiero hacer una preg... ADONDE VAMO ? ? PA LA SOCIEEEEEEE"
+body = "Ta muy buena la pelicula, soy bostero,  y por eso me llego mucho al corazon... lo lamnento mucho , y gracias por acordarse de los guachos asesiando por la gorra ortiva, y como me encantaría q se planten pero sin fierros...GILES DE MIERDA.\nTOY CON MAXI UZ, paramo en la socie, y a todos eso bigote ortiva, le vamos a dar, porq lo q hicieron es giles gorrudo, cobarde..... y quiero hacer una preg... ADONDE VAMO ? ? PA LA SOCIEEEEEEE"
 +++
 
 > Interrogamos el pasado para obtener la respuesta del futuro,
@@ -97,7 +97,7 @@ body = "Ta muy buena la pelicula, soy bostero,  y por eso me llego mucho al cora
 
 El Centro de Estudiantes de mi (nueva) facultad organizó esta semana un ciclo de video-debate sobre el Golpe Militar  y La Guerra de Malvinas.  El martes se vio un muy buen documental de historia argentina dirigido por Felipe Pigna (el vol4 - '76-'83).  El miércoles iba "Garage Olimpo" pero mutó sobre la hora a "La Noche de los Lápices". Y el jueves, más cerca del 2 de abril, pasaron "Hundan el Belgrano". 
 
-La convocatoria no fue impresionante, pero sin dudas que valió el esfuerzo de los organizadores. El debate se cambió, sin que nadie lo pidiera, por una ronda azarosa en la que cada uno contó,  como pudo y sintió, lo que las películas  le despertaron adentro.  La participacion de chicos (no militantes) que se acercaron espontáneamente fue lo más interesante.  
+La convocatoria no fue impresionante, pero sin dudas que valió el esfuerzo de los organizadores. El debate se cambió, sin que nadie lo pidiera, por una ronda azarosa en la que cada uno contó,  como pudo y sintió, lo que las películas  le despertaron adentro.  La participación de chicos (no militantes) que se acercaron espontáneamente fue lo más interesante.  
 
 -- *No puedo hablar, me pone muy mal. Yo la peli ya la había visto, pero esta vez es como que la sentí más adentro, y no puedo dejar de pensar que mi papá vivió algo así. Él no cuenta nada, pero yo sé que estuvo preso en esa época, y cuando pienso que seguro lo torturaron así....*-- cuenta la chica que estaba a mi lado y quiebra en un llanto que busca consuelo en el hombro de su amiga. 
 

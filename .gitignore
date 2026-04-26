@@ -8,3 +8,8 @@ static/assets/
 .env.local
 __pycache__/
 *.pyc
+
+# Temporary spell checker analysis files
+.spell_unknown.txt
+.spell_words_only.txt
+.allow_list_current.txt

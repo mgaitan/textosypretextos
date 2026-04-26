@@ -113,7 +113,7 @@ date_display = "20.10.2010"
 depth = 0
 url_site = ""
 title = "No pudieron"
-body = "increible...buscando otra noticia del tipo comercial, me encuentro con esta historia que me emociono...no pudieron y nunca podran con el amor, la base de todo y lo que nos mueve sin parar.\nMucha fuerza y gracias por la historia"
+body = "increíble...buscando otra noticia del tipo comercial, me encuentro con esta historia que me emocionó...no pudieron y nunca podran con el amor, la base de todo y lo que nos mueve sin parar.\nMucha fuerza y gracias por la historia"
 +++
 
 Abel tiene los bigotes canosos. Francisco todavía no, pero tiene la sonrisa grande, los pómulos punteagudos y las ojeras marcadas como su papá. La última vez que estuvieron juntos Francisco estaba en la panza de su mamá, Silvia, con cuatro meses de gestación. Era enero de 1977. 
@@ -143,7 +143,7 @@ Si uno busca en una hemeroteca o abre cualquier libro sobre la historia de Abuel
 -- Yo quiero encontrar a mi hijo. [Hasta que me muera lo voy a buscar](http://juiciocampodemayo.blogspot.com/2009/12/hasta-que-me-muera-lo-voy-buscar.html) -- dijo Abel en diciembre del año pasado. Siempre lo ha dicho: la felicidad de encontrar a cualquier nieto es inigualable, pero todo el esfuerzo de su labor lo motorizaba Francisco, que, estaba seguro, en algún lugar se encontraba. 
 
 El 2 de febrero de 2010, tras lograr que su apropiadora --hasta ese momento quien decía ser su madre-- le confesara que Gallo lo había traído del campo de concetración, 
-Francisco se presentó en la casa de Abuelas. Al otro día se hizo el análisis de ADN en el Banco de Datos Genéticos y dos semanas despúes le confirmaron que había dado positivo. No había encontrado a su abuela sino a su papá, Abel Madariaga, el señor de bigotes canosos que le había convidado un mate aquel martes. 
+Francisco se presentó en la casa de Abuelas. Al otro día se hizo el análisis de ADN en el Banco de Datos Genéticos y dos semanas después le confirmaron que había dado positivo. No había encontrado a su abuela sino a su papá, Abel Madariaga, el señor de bigotes canosos que le había convidado un mate aquel martes. 
 
 Abel estaba descansando en la quinta de unos amigos, en provincia. Cuando las Abuelas le contaron, el telefóno se le cayó de la mano, se sentó en el suelo del patio donde estaba y se echó a llorar y a reír. A soltar 32 años de emoción acumulada.
 

@@ -51,7 +51,7 @@ dulce.
 Miro la ventana e intento discriminar planetas de estrellas. Cuales de
 todas ellas podrías estar viendo ahora.  ¿Estarás durmiendo?
 ¿sentirías que cuento en tu espalda Mérope, Alcyone, Electra? ¿Dónde
-estás? ¿Por qué no venis? ¿Por qué te vas de nuevo?
+estás? ¿Por qué no venís? ¿Por qué te vas de nuevo?
 
 Voy a despertar antes de que amanezca, el cielo estará rojo como una
 raspadura en mi talón o tu piel azotada por el sol. Voy beber brevajes

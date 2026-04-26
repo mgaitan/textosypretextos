@@ -93,7 +93,7 @@ body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus agu
 >
 > Así como me emociona y me alegra todo lo que has aprendido y sentido en este viaje, no deja de preocuparme, (lo siento, soy tu padre), leo y me parece leer algún "documento" que yo escribiera cuando tenía 20 años. Siento en tus escritos la angustia y la necesidad de hacer algo que sentía yo en esa época.
 >
-> Mientras escribo me pregunto si ya no lo siento, la verdad es que sí, también me duele hasta las lagrimas las injusticias, el hambre la marginación y todas las putas injusticias que existen. Lo que pasa que ya he vivido unos cuantos años y he recorrido algunos caminos, muchos de los cuales fueron equivocados. De todos uno aprende algo y me gustaría,  (es más, es mi compromiso) que Uds puedan aprovechar algo de ese aprendizaje.
+> Mientras escribo me pregunto si ya no lo siento, la verdad es que sí, también me duele hasta las lágrimas las injusticias, el hambre la marginación y todas las putas injusticias que existen. Lo que pasa que ya he vivido unos cuantos años y he recorrido algunos caminos, muchos de los cuales fueron equivocados. De todos uno aprende algo y me gustaría,  (es más, es mi compromiso) que Uds puedan aprovechar algo de ese aprendizaje.
 >
 > Por eso, todo este tiempo en el que yo no "milito" en la forma tradicional, trato de hacerlo en la vida de todos los días, tratando de ser mejor,  de encontrar algún camino que ayude a ese cambio, por ahora solo lo hago desde buscar mi propio cambio que de alguna manera pueda irradiar a los mas cercanos.
 >
@@ -101,7 +101,7 @@ body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus agu
 >
 > Sé que con tu juventud es difícil aceptar consejos de "viejos", pero también sé de tu madurez, de tu capacidad de reflexión y sé que todo eso aportará a encontrar la manera. El servicio a nuestro pueblo debe ser también el servicio a vos mismo, debe ser alegría, debe ser paz interior. Tanto vos como tus hermanos han recorrido un camino muy importante, que no muchas personas han podido hacer: crecer escuchando de necesidad de cambios, de justicia, de lucha y de amor.
 >
-> También han podido acceder a una formacion intelectual con una conciencia distinta. Ustedes son portadores de muchas cosas que servirán a ese nuevo mundo. Eso hay que valorarlo y cuidarlo, para que pueda desarrollarse y algún día fructifiquen en una nueva sociedad.
+> También han podido acceder a una formación intelectual con una conciencia distinta. Ustedes son portadores de muchas cosas que servirán a ese nuevo mundo. Eso hay que valorarlo y cuidarlo, para que pueda desarrollarse y algún día fructifiquen en una nueva sociedad.
 >
 > Pequeño, no se si me enredé mucho. La verdad es que al leer lo que escribís me salen tantas cosas que quisiera decirte que no puedo transmitir escribiendo, quizás si te tuviera al lado podría abrazarte fuerte y vos me entenderías mejor.
 >
@@ -116,7 +116,7 @@ body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus agu
 Hola Pa.
 
 *"(...)quizás si te tuviera al lado podría abrazarte fuerte y vos me
-entenderias mejor"*. Abrazarse fuerte para entenderse mejor. Qué bonito es eso, cierto?
+entenderías mejor"*. Abrazarse fuerte para entenderse mejor. Qué bonito es eso, cierto?
 
 Te debía esta respuesta y voy a intentarla así, cortita, antes de que
 se pase más tiempo.  Me gusta escribir, pero seguido me salen las
@@ -136,7 +136,7 @@ Todo eso me da alegría y no angustia. Ojo, no quiere decir que al
 comprender algunas cosas de este mundo (de las poquitas que
 comprendo), no se me erice la piel y se me cierre un poco la garganta. 
 Pero eso no me detiene, claro, al contrario, me llama a seguir
-buscando más alegría, toda la necesaria para combartir la injusticia.
+buscando más alegría, toda la necesaria para compartir la injusticia.
 
 Hay un textito de Claudia Korol, que es una escritora argentina muy comprometida que me gusta mucho, que dice en una parte así:
 

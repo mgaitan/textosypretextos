@@ -17,7 +17,7 @@ tags = []
 legacy_id = 49
 section_slug = "blog"
 section_title = "Blog"
-summary = "De chiquilín te miraba de afuera como a esas cosas que nunca se alcanzan... Desde el Centro de Educación Física Nº 1 hasta el departamento en la calle Entre Rios donde viviamos debe haber unas 20 cuadras. Tres veces…"
+summary = "De chiquilín te miraba de afuera como a esas cosas que nunca se alcanzan... Desde el Centro de Educación Física Nº 1 hasta el departamento en la calle Entre Rios donde vivíamos debe haber unas 20 cuadras. Tres veces…"
 visits = 0
 popularite = 0.0
 hero_image = ""
@@ -39,4 +39,4 @@ comments = []
 como a esas cosas que nunca se alcanzan...*
 {{% end %}}
 
-Desde el Centro de Educación Física Nº 1 hasta el departamento en la calle Entre Rios donde viviamos debe haber unas 20 cuadras. Tres veces por semana, a la salida de mi "práctica" de atletismo y destreza ( las caminaba  y más o menos a mitad de camino
+Desde el Centro de Educación Física Nº 1 hasta el departamento en la calle Entre Rios donde vivíamos debe haber unas 20 cuadras. Tres veces por semana, a la salida de mi "práctica" de atletismo y destreza ( las caminaba  y más o menos a mitad de camino

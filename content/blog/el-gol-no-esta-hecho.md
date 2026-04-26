@@ -73,7 +73,7 @@ date_display = "14.08.2008"
 depth = 0
 url_site = ""
 title = "El gol no está hecho"
-body = "je, me cagué de risa...\n\n\"Menos el arquero contrario, que envuelto en una bufanda llena de tierra era una versión viva de Ramsés II, los otros 21 jugadores mirabamos todos para el mismo arco\"\n\nlo único que no me gustó fue que por el final el cuento quedó asociado a un hecho particular, perdiendo su atemporalidad... (quizás también porque soy de central y no me importó para nada ese descenlace del torneo)\n\nsaludos che,\n\nmuy bueno el blog!\n\npd: igual me parece que Boca (y generalmente la mayoria de los bosteros) siempre festeja por adelantando, supongo que por costumbre y exceso de confianza"
+body = "je, me cagué de risa...\n\n\"Menos el arquero contrario, que envuelto en una bufanda llena de tierra era una versión viva de Ramsés II, los otros 21 jugadores mirábamos todos para el mismo arco\"\n\nlo único que no me gustó fue que por el final el cuento quedó asociado a un hecho particular, perdiendo su atemporalidad... (quizás también porque soy de central y no me importó para nada ese descenlace del torneo)\n\nsaludos che,\n\nmuy bueno el blog!\n\npd: igual me parece que Boca (y generalmente la mayoria de los bosteros) siempre festeja por adelantando, supongo que por costumbre y exceso de confianza"
 
 [[extra.comments]]
 id = 53090
@@ -95,7 +95,7 @@ Luis Baeza, el técnico, acostumbraba a mentirnos como técnica de motivación. 
 
 -- Chicos, si ganamos este partido quedamos así de jugar el regional y después el patagónico. El año que viene es el Mundialito de Clubes en Brasil y nosotros ya estamos firmando con el esponsor que nos va a dar todo los equipos y los viajes para que lo vayamos a ganar. Así que pongansé las pilas, porque acá en Senillosa hay gente que observa jugadores para River y Boca.
 
-Cuando dio el equipo y supe que entraba desde el arranque sentí por primera vez esa alegría nerviosa tan especial, parecida a la del primer beso, la primera foto revelada, o el último poema. Igual no podía sonreír, no tanto por cuestión de imágen deportiva sino porque, con el viento que corría, abrir los labios era garantía de una palada de arena hasta la garganta.
+Cuando dio el equipo y supe que entraba desde el arranque sentí por primera vez esa alegría nerviosa tan especial, parecida a la del primer beso, la primera foto revelada, o el último poema. Igual no podía sonreír, no tanto por cuestión de imagen deportiva sino porque, con el viento que corría, abrir los labios era garantía de una palada de arena hasta la garganta.
 
 El arbitro --supongo que había uno-- pitó y la pelota empezó a rodar, incluso antes de que la patearan. En el primer tiempo teníamos viento en contra y cada pelota que los contrarios lograban patear --luego de encontrarla-- era un verdadero peligro para nuestro arquero, que visto desde la mitad de cancha parecía un globo aerostático apaisado. Llegó el entretiempo: dos a cero, nos hicieron precio.
 
@@ -107,7 +107,7 @@ Diez minutos después, Alguien que no era yo y tenía una camiseta como la mía 
 
 -- ¡¡¡Goool!!! -- gritó el técnico -- ¡Vamos carajo! ¡Un gol más y vamos a Brasil, a darles un baile a esos negros!
 
-Menos el arquero contrario, que envuelto en una bufanda llena de tierra era una versión viva de Ramsés II, los otros 21 jugadores mirabamos todos para el mismo arco. Los locales nos marcaban de espalda, y cuando alcanzaban a ver la pelota, con mucho esfuerzo corrian hacia atrás como cangrejos bípedos.
+Menos el arquero contrario, que envuelto en una bufanda llena de tierra era una versión viva de Ramsés II, los otros 21 jugadores mirábamos todos para el mismo arco. Los locales nos marcaban de espalda, y cuando alcanzaban a ver la pelota, con mucho esfuerzo corrían hacia atrás como cangrejos bípedos.
 
 Eran los últimos minutos y aunque inconscientemente sabíamos que el viaje a Brasil era una mentira, ninguno de nosotros deseaba otra cosa que no sea un gol. Después de todo, la mentira es una esperanza que ya se desnudó. Y la desnudez, en general, provoca el deseo.
 

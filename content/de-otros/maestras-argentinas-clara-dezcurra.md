@@ -124,7 +124,7 @@ date_display = "02.09.2009"
 depth = 0
 url_site = ""
 title = "Maestras Argentinas: Clara Dezcurra"
-body = "Si supieran, este no es un resumen. Es el texto completo. O sea, el texto en un libro comun son solo 5 hojas. Pedir un resumen de esto es de vago."
+body = "Si supieran, este no es un resumen. Es el texto completo. O sea, el texto en un libro común son solo 5 hojas. Pedir un resumen de esto es de vago."
 
 [[extra.comments]]
 id = 7592
@@ -201,7 +201,7 @@ date_display = "30.11.2009"
 depth = 0
 url_site = ""
 title = "Maestras Argentinas: Clara Dezcurra"
-body = "la historia es por demas de corta y entendible, un resumen es imposible porque todo es importante"
+body = "la historia es por demás de corta y entendible, un resumen es imposible porque todo es importante"
 
 [[extra.comments]]
 id = 8002
@@ -212,7 +212,7 @@ date_display = "16.12.2009"
 depth = 0
 url_site = ""
 title = "Maestras Argentinas: Clara Dezcurra"
-body = "buenisimo el resumen ese por dios no puede ser tan corto gracias!!!  la historia esta chomasa... pero bueno es lo que piden en el colegio"
+body = "buenísimo el resumen ese por dios no puede ser tan corto gracias!!!  la historia esta chomasa... pero bueno es lo que piden en el colegio"
 
 [[extra.comments]]
 id = 8003
@@ -399,7 +399,7 @@ date_display = "13.11.2010"
 depth = 0
 url_site = ""
 title = "Maestras Argentinas: Clara Dezcurra"
-body = "jajajjaja me cague mucho de risa, no puede ser qe esta boludes lleve a tantos insultos jajaja y mas me rei con ese comentario pajero ajjaja qe boludo el chabon se leyo todo el libro pensando qe era un resumen ajjaja noo te das cuenta que es un poquito largo?jajajjaja yo ya lo lei pero lo tengo qe repasar, asique ya que no esta el resumen lo tendre que leer de vuelta :s sigan asi qe es re divertidoo jaja byee"
+body = "jajajjaja me cague mucho de risa, no puede ser qe esta boludes lleve a tantos insultos jajaja y mas me rei con ese comentario pajero ajjaja qe boludo el chabón se leyo todo el libro pensando qe era un resumen ajjaja noo te das cuenta que es un poquito largo?jajajjaja yo ya lo lei pero lo tengo qe repasar, asique ya que no esta el resumen lo tendre que leer de vuelta :s sigan asi qe es re divertidoo jaja byee"
 
 [[extra.comments]]
 id = 39813
@@ -432,7 +432,7 @@ date_display = "03.12.2010"
 depth = 0
 url_site = ""
 title = "Maestras Argentinas: Clara Dezcurra"
-body = "no entendi una mierda alguien me lo puede explicar"
+body = "no entendí una mierda alguien me lo puede explicar"
 
 [[extra.comments]]
 id = 49649
@@ -454,7 +454,7 @@ date_display = "07.04.2011"
 depth = 0
 url_site = ""
 title = "Maestras Argentinas: Clara Dezcurra"
-body = "PENDEJOS HIJOS DE PUTA LEANLO Y DEJEN DE BUSCAR RESUMENES CORTOS DE MENTE, SIMIOS MALFORMADOS,no es un resumen es el libro entero y es corto, si no son burros podran comprenderlo pedazos de hijos de puta.\nY PARA LOS QUE SE CAGAN DE RISA CON LOS INSULTOS, COMO MIERDA LES PUEDE DAR RISA LA MEDIOCRIDAD DE LOS COMENTARIOS, A MI ME DA RiSA LO ENFERMO QUE ESTAN USTEDES.\nsaludos y ojala a sus viejas los fornique un burro con pene hicrocefalico. Todo por la educacion y el bien de la raza humana."
+body = "PENDEJOS HIJOS DE PUTA LEANLO Y DEJEN DE BUSCAR RESUMENES CORTOS DE MENTE, SIMIOS MALFORMADOS,no es un resumen es el libro entero y es corto, si no son burros podran comprenderlo pedazos de hijos de puta.\nY PARA LOS QUE SE CAGAN DE RISA CON LOS INSULTOS, COMO MIERDA LES PUEDE DAR RISA LA MEDIOCRIDAD DE LOS COMENTARIOS, A MI ME DA RiSA LO ENFERMO QUE ESTAN USTEDES.\nsaludos y ojala a sus viejas los fornique un burro con pene hicrocefalico. Todo por la educación y el bien de la raza humana."
 
 [[extra.comments]]
 id = 50280
@@ -608,7 +608,7 @@ date_display = "06.08.2012"
 depth = 0
 url_site = ""
 title = "Maestras Argentinas: Clara Dezcurra"
-body = "paola chupate una mandarina fea quien t cree q sho locaa \n\"soy iteligente soy intelectual\" fea shoy alto villero y como alto asado gila  y me veni con ensaladita gila shoy argintino locaaaaa despues te ago provar el chori pan pancha jua a rre lkoco \n        bueno besitos tkm pao te rre felicito loca de la cultura ha ha ha    el pais ta como yo y q nazi besos atentamente diegui aguante tu vieja tambien we haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+body = "paola chupate una mandarina fea quien t cree q sho locaa \n\"soy iteligente soy intelectual\" fea shoy alto villero y como alto asado gila  y me vení con ensaladita gila shoy argintino locaaaaa despues te ago provar el chori pan pancha jua a rre lkoco \n        bueno besitos tkm pao te rre felicito loca de la cultura ha ha ha    el pais ta como yo y q nazi besos atentamente diegui aguante tu vieja tambien we haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 
 [[extra.comments]]
 id = 53586
@@ -646,7 +646,7 @@ En realidad, poco y nada decía para sus alumnos la temática de la anterior com
 
     Clara no tiene tiempo ni de alegrarse. A la noche siguiente, una frágil figura desciende de una calesa frente a su escuela, siendo de inmediato rodeada por perros coléricos y becerros supervivientes. El nocturno visitante es don Benito Agudo Ersilbengoa, mano derecha del nuncio apostólico y amanuense del alguacil Ordóñez. "Hemos recibido las quejas de Monseñor Brizuela --comunica a Clara Dezcura-- con respecto al tipo de temas que uted está haciendo escribir a sus alumnos."
 
-    Clara conoce bien a monseñor Bizuela. Se corren muchos rumores en torno a su persona. Se decía de él que a su arribo a nuestras costas, cuatro años atrás, era un hombre afable y comprensivo. Pero que había sufrido un doloroso accidente durante las invasiones británicas, cuando transportaba trabajosamente un pilón con aciete hirviendo. Aquella desgracia, se comenta ahora, ha dado origen a la sabrosa fritura de pastelería puesta en boga por todos los panaderos: la "bola de fraile".
+    Clara conoce bien a monseñor Bizuela. Se corren muchos rumores en torno a su persona. Se decía de él que a su arribo a nuestras costas, cuatro años atrás, era un hombre afable y comprensivo. Pero que había sufrido un doloroso accidente durante las invasiones británicas, cuando transportaba trabajosamente un pilón con aceite hirviendo. Aquella desgracia, se comenta ahora, ha dado origen a la sabrosa fritura de pastelería puesta en boga por todos los panaderos: la "bola de fraile".
 
     "Es indigno --continúa don Benito Agudo Arsilbengoa-- que nuestros guardias federales, nuestros soldados, sean obligados a escribir sobre un tema tan poco épico y glorioso como el que usted les impone."
 

@@ -63,4 +63,4 @@ Julio Cortázar*
 
 Ojalá pudiera escribirte, pero no sé si me va salir. Este intento, al menos, servirá para saber si se venció el placer que antes me daba escribir. No te preocupes por posibles intoxicaciones, soy inmune a los productos vencidos. 
 
-¿Escribir para no pensar? Frio, frio. ¿Para escapar? Heladísimo. ¿Para enfrentar mis miedos? Algo más tibio. ¿Porque la angustia en mi no es un sustantivo abstracto, sino una pelota así de grande atravesada en mi garganta? Cuidado, que te quemás.
+¿Escribir para no pensar? Frio, frío. ¿Para escapar? Heladísimo. ¿Para enfrentar mis miedos? Algo más tibio. ¿Porque la angustia en mi no es un sustantivo abstracto, sino una pelota así de grande atravesada en mi garganta? Cuidado, que te quemás.

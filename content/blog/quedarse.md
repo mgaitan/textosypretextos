@@ -104,7 +104,7 @@ date_display = "25.12.2008"
 depth = 0
 url_site = ""
 title = "Quedarse"
-body = "Queridooo, me emocioné con ese final, lo emotivo de saberlo cierto y no ficción... la reciente... otro abrazo. fuerte."
+body = "Queridooo, me emocióné con ese final, lo emotivo de saberlo cierto y no ficción... la reciente... otro abrazo. fuerte."
 
 [[extra.comments]]
 id = 7068
@@ -126,7 +126,7 @@ date_display = "25.12.2008"
 depth = 0
 url_site = ""
 title = "Quedarse"
-body = "Leí el titulo con curiosidad, el primer parrafo con los ojos gigantes, y terminé de leerlo casi con la boca abierta. No somos grandes conocidos pero estoy feliz de que hallas podido festejar la navidad finalmente y de que esten bien. Te mando un abrazo y espero verte en la facu el año entrante.\nEl relato es buenisimo!\n\nCristian.-"
+body = "Leí el titulo con curiosidad, el primer parrafo con los ojos gigantes, y terminé de leerlo casi con la boca abierta. No somos grandes conocidos pero estoy feliz de que hallas podido festejar la navidad finalmente y de que esten bien. Te mando un abrazo y espero verte en la facu el año entrante.\nEl relato es buenísimo!\n\nCristian.-"
 
 [[extra.comments]]
 id = 7070
@@ -181,7 +181,7 @@ date_display = "26.12.2008"
 depth = 0
 url_site = ""
 title = "Quedarse"
-body = "Recién reviso los mails, primero me puse contento porque vi que recibiría noticias tuyas, en estos días pensába en uds. que seguro andarían por la región. Pero la verdad no esperaba ese tipo de noticias. La puta che... que te falta hacer. Pará con las anecdotas sorprendentes!! Adiero a los comentarios. Seguís escribiendo cada vez mejor, pero no es necesario que entres en este tipo de relatos. La verdad que me angustió bastante el relato. Es inevitable pensar en que esperaba verlos este verano y darles como siempre el parte de los últimos meses. Y eso por suerte ocurrirá seguramente, pero qué cerca estuvo de no suceder.\nCreo que me estremeció pensar en que sin saberlo, peligró la posibilidad de seguir disfrutando de su presencia.\nPero no voy a caer en el sentimentalismo. Espero ansioso el relato de Marian, y si renacieron, ahora son \"Los Mellizos Gaitán!!!\""
+body = "Recién reviso los mails, primero me puse contento porque vi que recibiría noticias tuyas, en estos días pensába en uds. que seguro andarían por la región. Pero la verdad no esperaba ese tipo de noticias. La puta che... que te falta hacer. Pará con las anécdotas sorprendentes!! Adiero a los comentarios. Seguís escribiendo cada vez mejor, pero no es necesario que entres en este tipo de relatos. La verdad que me angustió bastante el relato. Es inevitable pensar en que esperaba verlos este verano y darles como siempre el parte de los últimos meses. Y eso por suerte ocurrirá seguramente, pero qué cerca estuvo de no suceder.\nCreo que me estremeció pensar en que sin saberlo, peligró la posibilidad de seguir disfrutando de su presencia.\nPero no voy a caer en el sentimentalismo. Espero ansioso el relato de Marian, y si renacieron, ahora son \"Los Mellizos Gaitán!!!\""
 
 [[extra.comments]]
 id = 7075
@@ -318,7 +318,7 @@ Ahora sí, grite. Con ansias, tomando aire aunque trague polvo y el pecho le due
 
 Si su acompañante demora en responder, inevitablemente sufrirá. Una instantánea desesperación. Aunque sean décimas de segundo,  alcanzará para que los ojos intenten abrirse en busca de la respuesta que los oídos no encuentran. A la fuerza expulsará las lágrimas contenidas que inmediatamente se harán barro sobre sus pómulos. 
 
-— Perdoname, negrito, por favor, perdoname. Yo estoy bien. Por favor, perdoname. 
+— Perdóname, negrito, por favor, perdóname. Yo estoy bien. Por favor, perdóname. 
 
 Revise su cuerpo mentalmente. Empiece por los pies. Me duele el derecho, aunque los puedo mover. Ahora las piernas. Me tiemblan. Los brazos. Me raspé el antebrazo, me arde. Las manos. 
 Siguen apretadas. Intente ahora percibir algún dolor en particular. Me arde el cuello; sigo colgado del cinturón, y mi hombro derecho está sobre una mata con espinas. O sea, estamos volcados de mi lado. Está bien: usted está ileso. Respire. 

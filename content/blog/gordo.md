@@ -106,7 +106,7 @@ Fue en ese mismo salón donde lo conocí al gordo, hace como 4 años. Era un cic
 
 Mi memoria me lee los recuerdos  en voz alta pero no me deja ver lo que tiene escrito, y entonces hay cosas que no le creo mucho. Pero sé que fue una sorpresa grande cuando el tipo apareció en la siguiente reunión, doblando a varios en edad, entre tímido y respetuoso, queriendo ser uno más. Y claro que lo logró. 
 
-Varios años, muchisimas charlas, algunos vinos, grandes aprendizajes, algún mal trago y un buen poco de satisfacción nos hicieron amigos. Uno de los muchos que me regaló Córdoba, y con el que hoy comparto, entre muchas otras cosas, una casa. 
+Varios años, muchísimas charlas, algunos vinos, grandes aprendizajes, algún mal trago y un buen poco de satisfacción nos hicieron amigos. Uno de los muchos que me regaló Córdoba, y con el que hoy comparto, entre muchas otras cosas, una casa. 
  
 *"¿Que clase de coherencia mueve a un hombre a seguir, con tanta entrega, la búsqueda de cambios?"* preguntaba, retórico, Pablito. Hay tipos, este entre muchos, que desbaratan a fuerza de convicciones ese tristísimo adagio popular que condona el idealismo de los jóvenes porque los suponen natural en esta edad,  como si la rebeldía fuese una especie de acné de la razón, que se va con el tiempo o alguna pomadita. 
 

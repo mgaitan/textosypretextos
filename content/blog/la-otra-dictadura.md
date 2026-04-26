@@ -49,7 +49,7 @@ date_display = "16.03.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "Gracias, cada vez que busco algo de mi viejo me gusta saber que sigue conservando su espiritu de lucha y su coneccion comprometida con la realidad.\nAprovechalo, es muy buen profe y un tipo confianzudo y piola."
+body = "Gracias, cada vez que busco algo de mi viejo me gusta saber que sigue conservando su espíritu de lucha y su coneccion comprometida con la realidad.\nAprovechalo, es muy buen profe y un tipo confianzudo y piola."
 
 [[extra.comments]]
 id = 1101
@@ -71,7 +71,7 @@ Mi libro de baño predilecto de estos días es "INTRODUCCION A LA INFORMATICA, V
 
 Tuve oportunidad de conversar con él un rato, hace un par de semanas atrás.  El comienzo fue medio accidentado.  A pesar de que casi todos los días paso por la facultad, aún no ubico todas las oficinas, y por eso pregunto. Pero si preguntando se llega a Roma, ¿por qué me costó tanto encontrar el departamento de computación?
 
-Una de dos: era lunes o miercoles, y eso porque había salido de inglés un rato antes. Lo seguro es que era mediodía y hacia calor, chocolate por la noticia.  Llegué al aula "107"  justo cuando Bartó (que hasta ese momento yo no conocía) bajaba una escalera entre la oscuridad. 
+Una de dos: era lunes o miércoles, y eso porque había salido de inglés un rato antes. Lo seguro es que era mediodía y hacia calor, chocolate por la noticia.  Llegué al aula "107"  justo cuando Bartó (que hasta ese momento yo no conocía) bajaba una escalera entre la oscuridad. 
 
 *-- Hola,¿el departamento de informática es acá?*
 _ *--De computación, sí. Ahora no te puedo atender, pero ¿qué necesitás?*
@@ -82,7 +82,7 @@ Transpiré (más), la cosa no iba bien.  No tenía planeada una síntesis para d
 
 En el pasillo hasta llegar a la fotocopiadora ya pude ponerlo al tanto de que la suya es una de la materias que necesito rendir libre, que estoy en trámite de pase, y etcétera.  Me pidió un ratito cuando sacó fotocopias, luego compró una gaseosa y un sandwich y nos sentamos en una mesita del bar, mientras él almorzaba. 
 
-*-- Mirá, la materia es fácil, si tenés idea de programación no te va a costar. Este año hicimos un apunte sobre Octave, antes dabamos Matlab que es casi lo mismo*
+*-- Mirá, la materia es fácil, si tenés idea de programación no te va a costar. Este año hicimos un apunte sobre Octave, antes dábamos Matlab que es casi lo mismo*
 
 *-- Si, ya lo saqué al libro. *
 

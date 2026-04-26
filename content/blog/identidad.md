@@ -58,7 +58,7 @@ date_display = "13.10.2006"
 depth = 0
 url_site = "http://www.fotolog.com/juan_colgado"
 title = ""
-body = "Hola Martín!!! Te acordás de mí? Soy Juan Ricci, tu compañero de monografía acerca de software libre.\n\nLoco, pasaba a saludar. Escribís excelentemente, están muy buenas tus historias y aparte tienen ese toque de gracia permanente que las hace realmente divertidas. Te felicito!\n\nBueno, ahora yo tengo un flog así que si por ahí querés pasarte, ya sabés (ahí te dejé mi dirección)\n\nQue andés bien!! Para la proxima (cuando ande con más tiempo) te posteo algo mejor. Un abrazo."
+body = "Hola Martín!!! Te acordás de mí? Soy Juan Ricci, tu compañero de monografía acerca de software libre.\n\nLoco, pasaba a saludar. Escribís excelentemente, están muy buenas tus historias y aparte tienen ese toque de gracia permanente que las hace realmente divertidas. Te felicito!\n\nBueno, ahora yo tengo un flog así que si por ahí querés pasarte, ya sabés (ahí te dejé mi dirección)\n\nQue andés bien!! Para la próxima (cuando ande con más tiempo) te posteo algo mejor. Un abrazo."
 
 [[extra.comments]]
 id = 1398
@@ -105,7 +105,7 @@ No tener documento es un trastorno. Nadie me cree que soy yo. Y hasta me hacen d
 
 Hoy fue uno de esos días que tuve que intentarlo. El objetivo es convencer al cajero de que soy yo, y que yo soy el dueño de ese cheque. Lo primero es más o menos fácil si se tienen pocos escrúpulos para con uno mismo. Lo segundo depende de la sensibilidad del cajero, y para eso hay que saber elegirlo. Los pelados suelen ser bastante ingenuos y buenos. Y nunca elijas a una cajera linda.
 
-Basicamente el plan consiste en poner cara de uno mismo (o sea no poner cara de nada) y contar con precisión secretos muy íntimos, que aunque no acrediten el nombre que figura en el cheque, demuestra desesperación manoseando la cuerdas emotivas e inspirando lástima.
+Básicamente el plan consiste en poner cara de uno mismo (o sea no poner cara de nada) y contar con precisión secretos muy íntimos, que aunque no acrediten el nombre que figura en el cheque, demuestra desesperación manoseando la cuerdas emotivas e inspirando lástima.
 
 -- *Me gusta acostarme tarde, y levantarme temprano. Aunque también me gusta dormir, y entonces sufro de un problema existencial.* -- empiezo, autoconfesional.
 -- *A mi me pasa lo mismo *-- advierte, disimulando porque se acerca su jefe -- pero no por eso puedo cobrar este cheque.
@@ -121,9 +121,9 @@ Casi vencido, voy al todo o nada. El tiempo corre y están cambiando el cartel d
 -- *¿Cómo, no era que el licuado de banana con ravioles era para la merienda?* -- pregunta, memorioso, observando un pedazo de carne de estofado en mi muela.
 -- *Fue licuado de durazno con fideos, que va para el desayuno.* -- miento.
 -- *Bueno, sí, veo tus caries, pero no tengo registro en el sistema de que sean las caries de quien figura en el cheque.*
--- *Llamá, llamá.* -- lo increpo -- *Clínica Pasteur de Neuquén. Preguntá de quién fueron las amigdalas más grandes que hayan extraído allí. Las tienen en formol en un frasco de aceitunas de 5 kilos, en la vitrina de entrada, con mi nombre en una placa.*
+-- *Llamá, llamá.* -- lo increpo -- *Clínica Pasteur de Neuquén. Preguntá de quién fueron las amígdalas más grandes que hayan extraído allí. Las tienen en formol en un frasco de aceitunas de 5 kilos, en la vitrina de entrada, con mi nombre en una placa.*
 
-El tipo caza el teléfono y llama. Yo perplejo. Parte de lo que había dicho era verdad, y era verdad que yo era el dueño de  ese cheque, pero al tipo le bastaba con una pequeña parte que no coincidiera para sacarme a la calle, igual que a las profesoras de matématica con la demostración de un teorema en un exámen.
+El tipo caza el teléfono y llama. Yo perplejo. Parte de lo que había dicho era verdad, y era verdad que yo era el dueño de  ese cheque, pero al tipo le bastaba con una pequeña parte que no coincidiera para sacarme a la calle, igual que a las profesoras de matématica con la demostración de un teorema en un examen.
 
 Cuelga. Me mira con los ojos desafiantes y me dice:
 

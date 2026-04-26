@@ -38,7 +38,7 @@ comments = []
 
 En el 86 Bilardo prometió algo que nunca cumplió. NO es nuestro caso, pero unos amigos están convencidos de que la sequía posterior de Argentina en los mundiales tiene que ver con esa falta de palabra del Rey de las Cábalas.
 
-El director Nestor Buzzalino, junto a otros colaboradores y el pueblo Tilcareño  piden a la selección argentina de fútbol de 1986 que vuelvan a cumplir con su promesa. Algunos de los que participan  en el video fueron sparring de la selección que dirigía Carlos Bilardo, quien llevo a sus jugadores a prepararce alli para el mundial de México ya que Tilcara tiene la  misma altura que el Distrito Federal.
+El director Nestor Buzzalino, junto a otros colaboradores y el pueblo Tilcareño  piden a la selección argentina de fútbol de 1986 que vuelvan a cumplir con su promesa. Algunos de los que participan  en el video fueron sparring de la selección que dirigía Carlos Bilardo, quien llevo a sus jugadores a prepararce allí para el mundial de México ya que Tilcara tiene la  misma altura que el Distrito Federal.
 
 Se cuenta que el papa Francisco I intercederá en el pedido para que en abril de este año algunos jugadores de la actual selección junto a algunos del 86 visiten el pueblo norteño. 
 

@@ -60,7 +60,7 @@ date_display = "31.10.2004"
 depth = 0
 url_site = ""
 title = ""
-body = "este comentario no tiene nada que ver con lo que escribiste en la pagina, pero segun me entere vos preferis que te escribamos aca, asique alla vos.\nte vas a venir unos dias para aca? si queres venir avisame cuando, porque tengo que gestionar algunas cosas... porque en estos dias (no se bien cuando) venian clara con una amiga de la plata y el dpto de aylen iba a estar ocupado. igual te podrias quedar en lo de la sole, pero habria que ver."
+body = "este comentario no tiene nada que ver con lo que escribiste en la pagina, pero segun me entere vos preferis que te escribamos aca, asique alla vos.\nte vas a venir unos dias para aca? si queres venir avisame cuando, porque tengo que gestionar algunas cosas... porque en estos dias (no se bien cuando) venían clara con una amiga de la plata y el dpto de aylen iba a estar ocupado. igual te podrias quedar en lo de la sole, pero habria que ver."
 
 [[extra.comments]]
 id = 47
@@ -104,7 +104,7 @@ date_display = "20.09.2005"
 depth = 0
 url_site = ""
 title = ""
-body = "Pienso que el que no arriesga no gana y si la carrera que cursabas antes no era de tu total agrado quizas fue lo mejor cambiar, porque considero que no hay peor fracaso que el profesional en compañia del fracaso personal que quizas te causaria. Pon tu mejor esfuerzo y se mejor cada dia. Hasta luego."
+body = "Pienso que el que no arriesga no gana y si la carrera que cursabas antes no era de tu total agrado quizas fue lo mejor cambiar, porque considero que no hay peor fracaso que el profesional en compañía del fracaso personal que quizas te causaria. Pon tu mejor esfuerzo y se mejor cada dia. Hasta luego."
 
 [[extra.comments]]
 id = 1063
@@ -122,7 +122,7 @@ Las perspectivas de mi pase no son las que deseé y es lo único (es lo más imp
 
 Sucede que  además de ser un cambio de universidad es un cambio de carrera (de ingeniería electrónica a ingeniería en computación) y eso implica que no para todas las materias de los primeros años de acá (computación)  yo tengo una equivalente allá (electrónica). Mi plan era (es) rendir esas materias en condición libre,  para poder cursar integramente el tercer año, pero en caso de que los resultados del análisis de <sapn title="suena a enfermedad así, ¿no?"> equivalencias   demore mucho tiempo, no voy a tener esa posibilidad. 
 
-Estos días he estado muy bien, conmigo y con todos, pero temo me afecte esta falta  de "actividad oficial". Hay cientos de  "no oficiales" para hacer, y yo las busco y las encuentro: empecé inglés y <acronym title="hago RPM, que en argentino es andar en una bici sin ruedas una hora entera"> gimnasia</acronym>,  me anoté en un "taller de filosofia y pensamiento latinoamericano" en la Biblioteca Central, puse internet en el departamento para poder [laburar](http://nqnweb.com) (y leer, bajar música, pelis y más) , estoy leyendo bastante, salgo mucho a pasear, converso, escribo y sigo en búsqueda.  O sea, todo para lo que siempre anhelo tener tiempo, hoy puedo hacerlo, pero algo muy adentro me avisa que así no es lo mismo.  ¿por qué?
+Estos días he estado muy bien, conmigo y con todos, pero temo me afecte esta falta  de "actividad oficial". Hay cientos de  "no oficiales" para hacer, y yo las busco y las encuentro: empecé inglés y <acronym title="hago RPM, que en argentino es andar en una bici sin ruedas una hora entera"> gimnasia</acronym>,  me anoté en un "taller de filosofía y pensamiento latinoamericano" en la Biblioteca Central, puse internet en el departamento para poder [laburar](http://nqnweb.com) (y leer, bajar música, pelis y más) , estoy leyendo bastante, salgo mucho a pasear, converso, escribo y sigo en búsqueda.  O sea, todo para lo que siempre anhelo tener tiempo, hoy puedo hacerlo, pero algo muy adentro me avisa que así no es lo mismo.  ¿por qué?
 
 -- *"Quién te manda"*, me dijo El Chuleta, un flaco de Neuquén que conozco de la ENET 1 (hay muchos de Neuquén acá). Lo encontré en el bar de la facultad, y cruzamos dos palabras.  La  charla continuaba,  pero en segundo plano me quedé pensando en su pregunta-sentencia. Me mandan  la pasión que siento por aprender más de esto que me gusta, y esas ganas incontenibles de conocer y conocerme.
 

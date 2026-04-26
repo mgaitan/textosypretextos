@@ -82,7 +82,7 @@ Claro está que en las fotos en las que yo aparezco no fueron tomadas por mí. P
 
 {{ media_image(src="/media/jpg/DSC_0061.jpg", alt="Bajada de línea", caption="Bajada de línea", align="center") }}
 
-{{ media_image(src="/media/jpg/DSC_0119.jpg", alt="Rio (y pelo) revuelto", caption="Rio (y pelo) revuelto", align="center") }}
+{{ media_image(src="/media/jpg/DSC_0119.jpg", alt="Río (y pelo) revuelto", caption="Río (y pelo) revuelto", align="center") }}
 
 {{ media_image(src="/media/jpg/DSC_0122.jpg", alt="Rosario Yacht Club, gordo...", caption="Rosario Yacht Club, gordo...", align="center") }}
 

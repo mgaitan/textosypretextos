@@ -93,7 +93,7 @@ date_display = "04.05.2010"
 depth = 0
 url_site = ""
 title = "Historias de Esso Shop"
-body = "muy buena tarde me llamo miguel saldivar me gustaria un par de cosa si  ere tan amable p contestarme se trata de abrir una gasolinera que me recomendaria muchas gracias"
+body = "muy buena tarde me llamo miguel saldivar me gustaría un par de cosa si  ere tan amable p contestarme se trata de abrir una gasolinera que me recomendaria muchas gracias"
 
 [[extra.comments]]
 id = 8703

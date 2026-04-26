@@ -149,7 +149,7 @@ Cuando cruzamos la calle Cólon todo cambió: los peatones, las vidrieras, el co
 
 Ingresamos en una galería abierta cuya entrada era bastante angosta. El cartel del que hablaba era un pizarrón escrito con tizas de colores donde ya no se distinguía la oferta. Apoyados contra la pared, uno de cada lado, dos tipos también ofrecían zapatillas de marca a los que pasaban por la calle.
 
-A medida que avanzabamos la galería se curvaba, y pronto la entrada se dejó de ver. Llegamos al último local, el único que tenía luces encendidas, aunque con la persiana semibaja.
+A medida que avanzábamos la galería se curvaba, y pronto la entrada se dejó de ver. Llegamos al último local, el único que tenía luces encendidas, aunque con la persiana semibaja.
 
 -- *Cuidado con la cabeza* -- me dijo el vendedor mientras hacia un gesto con su brazo, cediendome el paso y señalando que me agachara. Pude haber corrido, pero sin botines . Ya estaba jugado.
 Una mujer desde la caja, un tipo gordo poniendo cordones desde atrás de un mostrador, y una chica que le mostraba unas rebooks a un flaco peinado con mucho gel nos miraron cuando entramos. El lugar era muy chico, y había zapatillas sueltas por todos lados, sin clasificación ni cajas a la vista.

@@ -44,5 +44,5 @@ Discurso de Hugo Chávez Frías del 11 de septiembre de 2008 anunciando el retir
 
 > Nosotros, ¡yanquis de mierda! ¡Sépanlo: estamos dispuesto a ser libres! Pase lo que pase, y cuéstenos lo que nos cueste!
 
-> No le voy a pedir a los demas gobiernos que hagan lo mismo que nosotros hacemos, no, cada quien es libre... pero, vaya, el día que nosotros los sudamericanos cantemos como un solo gallo nos respetaran. Ahí está el secreto
+> No le voy a pedir a los demás gobiernos que hagan lo mismo que nosotros hacemos, no, cada quien es libre... pero, vaya, el día que nosotros los sudamericanos cantemos como un solo gallo nos respetaran. Ahí está el secreto
 

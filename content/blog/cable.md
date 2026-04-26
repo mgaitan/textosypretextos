@@ -67,13 +67,13 @@ La lucecita del monitor que titila y el reflejo en la ventana de mi cara de sue�
 
 Sin embargo, como será de influyente la caja boba, que esta sección dedicada a escribir sobre las cosas que visité (léase lugares, eventos, fiestas y escondites secretos)  lo inauguro con un texto sobre algo que "yo lo vide" en la pantalla chica.  
 
-Son muchos años de divorcio con el *zapping*, ese ejercicio posmoderno  que se trata de estar  interesado en todo y en nada al mismo tiempo.  Imágen de la insatisfacción, noticias que no se quedan en ningún lado, publicidad que debe impactar si o si,  sedante de sillón roto y rayos catódicos.  Eso es hacer zapping. 
+Son muchos años de divorcio con el *zapping*, ese ejercicio posmoderno  que se trata de estar  interesado en todo y en nada al mismo tiempo.  Imagen de la insatisfacción, noticias que no se quedan en ningún lado, publicidad que debe impactar si o si,  sedante de sillón roto y rayos catódicos.  Eso es hacer zapping. 
 
 Lo digo porque hoy me sorprendi en un momento mirando hacia otro lado, mientras mi dedo continuaba a ritmo constante presionando el botón de cambiar canal. Patético.  
 
 A veces es otro el que está con "el poder" (control remoto) y en la pantalla se cruza una escena de alguna peli buena  (que casi siempre vi varias veces). Entonces intento aconsejar "esa peli es buena, dejala". Pero, en general, parece que mi gusto cinematográfico no es el más popular. 
 
-A lo estupidéz de la programación se le suman las publicidades. Tener más canales no significa tener mas opciones, sino estar expuesto a más bombardeos publicitarios. Y la manipulación es tal que se llegan a extremos de la contradicción más cruel que ahora les cuento: 
+A lo estupidez de la programación se le suman las publicidades. Tener más canales no significa tener mas opciones, sino estar expuesto a más bombardeos publicitarios. Y la manipulación es tal que se llegan a extremos de la contradicción más cruel que ahora les cuento: 
 
 Dos chicas, una rubia y otra morocha,  están en una tienda mirando diminutas prendas de ropa a las que se les ve las etiquetas XS.  La siguiente escena muestra a las chicas que van sonrientes por la calle con remeras que dicen "BULIMIA" y "ANOREXIA", ante la mirada lastimosa de la gente. La placa dice "TU VIDA NO ES TALLE UNICO. Córdoba, ciudad saludable". Media pedorra, pero bien la intención.
 

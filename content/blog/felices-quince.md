@@ -140,7 +140,7 @@ Un guaso --no hay otra forma de decirlo--, el tío de Dalma, que sale en el vide
 
 Y se corrieron nomás, primero las viejas y después las mesas. El papá debió echar algunos baldes de arena y hacer un canalcito para que drene un poco el agua que había vuelto el centro de "la pista" en un suculento barrial.
 
-Pero si el barro no amedrentó a los bailarines en el vals, mucho menos lo iba a hacer en el cuarteto. Chiquitos de 4 años, o quizás menos, canturreaban todas las canciones, y aguardaban ansiosos el momento de demostrar sus dotes de "[negros cuarteteros](http://www.musica.com/letras.asp?letra=1494263)", como rezaba una de las canciones más vitoreadas.
+Pero si el barro no amedrentó a los bailarines en el vals, mucho menos lo iba a hacer en el cuarteto. Chiquitos de 4 años, o quizás menos, canturreaban todas las canciones, y aguardaban ansiosos el momento de demostrar sus dotes de "[negros cuarteteros](http://www.música.com/letras.asp?letra=1494263)", como rezaba una de las canciones más vitoreadas.
 
 Tampoco se amedrentó Dalma ante la larga, tediosa y guionada ceremonia de las quince velas. Dice [Wikipedia](http://es.wikipedia.org/wiki/Fiesta_de_quince_a%C3%B1os#La_ceremonia_de_las_15_velas) (que sabe hasta de protocolo):
 

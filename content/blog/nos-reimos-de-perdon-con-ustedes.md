@@ -1,5 +1,5 @@
 +++
-title = "Nos reimos de... perdón, con ustedes."
+title = "Nos reímos de... perdón, con ustedes."
 slug = "nos-reimos-de-perdon-con-ustedes"
 date = 2008-08-02 02:10:52
 description = "\\\"Estúpidos hombres blancos\\\", un libro de Michael Moore publicado en 2001 poco después del atentado a las Torres Gemelas, es un látigo satírico que azota las espaldas…"

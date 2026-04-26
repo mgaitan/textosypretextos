@@ -65,7 +65,7 @@ El informe de UNICEF Argentina publicado esta semana dice que 6 de cada 10 niño
 
 En el *Dipló* de este mes hay un artículo, firmado por Norma Giarracca y Miguel Teubal, que aporta algunos datos tristemente esclarecedores de la paradoja argentina: *"(...) si la producción actual de leche, huevos, frutas de carozo, frutas secas, carne, cereales y legumbres fueran repartidas equitativamente, cada argentino recibiría varias veces sus necesidades nutricionales"*.  No existe hambre porque falten alimentos, sino porque vastos sectores no pueden acceder a ellos. 
 
-El Jefe de Servicio de Toxicologia del Hospital Rivadavia de Buenos aires relataba en una entrevista que escuché tiempo atrás por Radio Mitre, lo común que es para ellos tratar a chicos y jóvenes que se inyectan vino en la sangre. *"El poxirrán ya le es inaccesible, pero por el precio que tiene"*, decía. 
+El Jefe de Servicio de Toxicología del Hospital Rivadavia de Buenos aires relataba en una entrevista que escuché tiempo atrás por Radio Mitre, lo común que es para ellos tratar a chicos y jóvenes que se inyectan vino en la sangre. *"El poxirrán ya le es inaccesible, pero por el precio que tiene"*, decía. 
 
 Hace unas semanas se allanó una casa en medio de un barrio de Zárate . Resultó una dependencia del Servicio de Inteligencia del Ejército, que recababa información, como dice Osvaldo Bayer, de los sospechosos de siempre: obreros de actividad sindical, periodistas independientes, intelectuales que persiguen las huellas de los asesinos de nuestro país.  Se encontró hasta una picana eléctrica. 
 

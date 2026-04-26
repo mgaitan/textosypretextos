@@ -126,7 +126,7 @@ date_display = "18.06.2012"
 depth = 0
 url_site = ""
 title = "Pérdida y recuperación del pelo"
-body = "Leo esto y me acuerdo de que cuando tenia 13 o 14 años anotaba en una libretita los numeros de los internos de los colectivos que me llevaban y traian de la escuela. Cuando se repetia el numero le ponia una x al lado. No tenia ningun sentido ni utilidad, pero lo hacia. En esa epoca era mas feliz que ahora que soy grande y no pierdo el tiempo en pavadas."
+body = "Leo esto y me acuerdo de que cuando tenia 13 o 14 años anotaba en una libretita los números de los internos de los colectivos que me llevaban y traian de la escuela. Cuando se repetía el numero le ponia una x al lado. No tenia ningun sentido ni utilidad, pero lo hacia. En esa epoca era mas feliz que ahora que soy grande y no pierdo el tiempo en pavadas."
 +++
 
 Para luchar contra el pragmatismo y la horrible tendencia a la consecución de fines útiles, mi primo el mayor propugna el procedimiento de sacarse un buen pelo de la cabeza, hacerle un nudo en el medio y dejarlo caer suavemente por el agujero del lavabo. Si este pelo se engancha en la rejilla que suele cundir en dichos agujeros, bastará abrir un poco la canilla para que se pierda de vista.

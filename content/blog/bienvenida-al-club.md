@@ -70,7 +70,7 @@ Estoy en la poco existencial duda sobre si debí leer, y mas aún, responder a s
 
 Obviando tal insignificante omisión, deseo brindarle mi menos sentida lástima por la perdida de su aparatito* y mi más sentida bienvenida al Club.
 
-Vaya la aclaracion: el Club no sólo acepta miembros que hayan extraviado accidentalmente su móvil como es su caso. También acepta a quienes se lo revolearon a la pareja emulando al cenicero de Susana, a quienes tuvieron hasta 3 simultaneamente y estallaron en un ataque de stress por el que hoy están internados en un nosocomio, también a los que por problemas económicos lo dejaron de lado pa'poder comprar fideos y hasta a algunos pocos (los menos) que lo abandonaron por convicciones político-libertarias. Condición necesaria y suficiente para la admisión ha sido contundentemente superada por Ud., y notamos (yo, en nombre de la comision directiva del Club) la evidencia en la siguiente frase:
+Vaya la aclaración: el Club no sólo acepta miembros que hayan extraviado accidentalmente su móvil como es su caso. También acepta a quienes se lo revolearon a la pareja emulando al cenicero de Susana, a quienes tuvieron hasta 3 simultaneamente y estallaron en un ataque de stress por el que hoy están internados en un nosocomio, también a los que por problemas económicos lo dejaron de lado pa'poder comprar fideos y hasta a algunos pocos (los menos) que lo abandonaron por convicciones político-libertarias. Condición necesaria y suficiente para la admisión ha sido contundentemente superada por Ud., y notamos (yo, en nombre de la comisión directiva del Club) la evidencia en la siguiente frase:
 
 > <span lang="ES-TRAD"><font size="3"><font face="Times New Roman" /></font></span>"Liberación fue el único sentimiento que me invadió".
 

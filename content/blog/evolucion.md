@@ -104,7 +104,7 @@ Pero esto no siempre fue así. Me refiero a la didáctica de mi familia, porque 
 
 Con la boca un poco llena, y limpiándome con el babero la frente, yo me defendía diciendo que la mujer que me amara sabría distinguir las cosas que verdaderamente importan... y además de decirme cuáles son, me enseñaría a comer bien. 
 
-Casi diez años después soy un homo sapiens sapiens instruído, poseedor pleno de la técnica para usar cubiertos (¡incluyendo el cuchillo!), aunque sigo prefiriendo todo tipo de alimentos en formato sandwich (¡incluyendo los spaghettis!). Abandoné el babero, no por falta de repasadores ni de la cercanía de mi mamá como argumentan algunos, sino porque ya no lo necesito. Además, superando toda expectativa, uso servilleta, y no por falta de mantel. 
+Casi diez años después soy un homo sapiens sapiens instruido, poseedor pleno de la técnica para usar cubiertos (¡incluyendo el cuchillo!), aunque sigo prefiriendo todo tipo de alimentos en formato sandwich (¡incluyendo los spaghettis!). Abandoné el babero, no por falta de repasadores ni de la cercanía de mi mamá como argumentan algunos, sino porque ya no lo necesito. Además, superando toda expectativa, uso servilleta, y no por falta de mantel. 
 
 Pero hay más: también tengo novia. Es una mujer hermosa que sabe distinguir las cosas que verdaderamente importan. Me [las dice](/de-otros/una-mujer-y-un-hombre/#comment-7057). Y me las hace sentir.  
 

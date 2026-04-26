@@ -21,4 +21,4 @@ article_paths = [
 ]
 +++
 
-Textos intimamente publicos
+Textos intimamente públicos

@@ -74,7 +74,7 @@ body = "Che, ¿como es eso de que el promedio en una Ingeniería es 6? Tan sólo
 
 El lunes 14 de marzo pasado volví a ser estudiante universitario. Aún no está asentado en los papeles oficiales, pero chocolate por la noticia, se sabe que eso es así. La cosa es que empecé las clases: entré a un aula, me senté en un banco, saqué un cuaderno, puse la fecha y el nombre de la materia, y (lo más importante) conté y califiqué a las mujeres que había. Eran 5, y en promedio obtenían un 6, que es la media en una carrera de ingeniería. 
 
-Se hacía la una de la tarde, y el aula contemplaba un quilombo de gente contándose cuántas veces se metieron al mar en las vacaciones, y lo bronceado o gordo que estaban. Las conversaciones, todas en simultáneo y compitiendo por sonar más fuerte, eran de a grupos reducidos. También había otros de mi bando, o sea de los que no tenian bando y no hablaban con nadie. Hipótesis 1: no conocían a ninguno de los presentes, como yo;  hipótesis 2: conocían suficiente a los demás como para preferir ponerse los auriculares y escuchar LV3. 
+Se hacía la una de la tarde, y el aula contemplaba un quilombo de gente contándose cuántas veces se metieron al mar en las vacaciones, y lo bronceado o gordo que estaban. Las conversaciones, todas en simultáneo y compitiendo por sonar más fuerte, eran de a grupos reducidos. También había otros de mi bando, o sea de los que no tenían bando y no hablaban con nadie. Hipótesis 1: no conocían a ninguno de los presentes, como yo;  hipótesis 2: conocían suficiente a los demás como para preferir ponerse los auriculares y escuchar LV3. 
  
 El tiempo pasaba y mi mano (autarquicamente) seguía haciendo dibujitos en el margen de la hoja, una actividad que extrañaba desde la última vez que empuñé un lápiz,  hace ya bastante tiempo.  De paso, mi cuerpo transpiraba como de costumbre, echandole la culpa a la humedad para no  aceptar que estaba algo nervioso.  
 
@@ -96,7 +96,7 @@ En el pizarrón había un circulo de 30cm de diámetro que que pinté con la tiz
 
 Media hora más tarde de mi pifie horario empezó un tipo bien entrajado y de prolijos bigotitos  a hablar de lo difícil que será para nosotros llevar la materia de Economía, *"porque acá no hay que sacar muchas cuentas"* advirtió.  Muy adepto a los eufemismos, quedó claro que para él, nosotros no sabemos pensar. 
 
-La sanata introductoria habitual tuvo el toque de color cuando el Ingeniero (con Master en "Bussiness Management", enfatizó)  detalló los libros que nos pueden servir.  Unos cuantos de acá, otros pocos de allá, y para el final dejó uno que llevaba consigo y lo mostró a la audiencia. 
+La sanata introductoria habitual tuvo el toque de color cuando el Ingeniero (con Master en "Business Management", enfatizó)  detalló los libros que nos pueden servir.  Unos cuantos de acá, otros pocos de allá, y para el final dejó uno que llevaba consigo y lo mostró a la audiencia. 
 
 -- *Quedaría mal si les exijo este libro simplemente porque lo escribí yo* -- se atajó, pero sin poder contenerse opinó -- *pero el que lo tenga sabrá que le puede servir mucho, porque está todo lo que vemos en la materia*.  Y por supuesto, resulta que la clase se dicta copiándo todo de su libro. 
 

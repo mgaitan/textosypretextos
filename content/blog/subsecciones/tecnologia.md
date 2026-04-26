@@ -3,7 +3,7 @@ title = "Tecnología"
 template = "blog_subsection.html"
 
 [extra]
-subsection_slug = "tecnologia"
+subsection_slug = "tecnología"
 article_paths = [
     "blog/aprietes.md",
     "blog/hurgando-en-el-gmail.md",

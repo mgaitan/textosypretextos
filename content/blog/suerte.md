@@ -128,9 +128,9 @@ Todo eso, y muchísimo más, se vende en la calle.  La mayoría de estos vendedo
 
 Apenas uno se aleja de este barrio, el paisaje cambia rotundamente. El sol vuelve a pegar en la cara, y eso no es metáfora de nada, sólo que ya no hay edificios.  Los pibes en las esquinas, muy parecidos a los que cuadras atrás me ofrencíann flores "para tu enamorada o tu madre",  ahora patean una pelota deshilachada y me dicen algo parecido a un insulto porque yo visto una camiseta de Cipoletti, muy similar a la de Talleres, y ellos (intuyo) son de Belgrano. 
 
-Desde que estoy acá, dos accidentes fatales ocurrieron en las obras: la primer victima (un obrero cordobés) cayó desde un quinto piso junto a su compañero, quien quedó en gravisimo estado pero se salvó.  El otro accidente ocurrio anteayer, era un pintor de nacionalidad boliviana (contaba la cronista en el noticiero), y cayó desde un décimo piso cuando la soga que sostenia su arnés se cortó mientras revestía el ladrillo visto con sellador.  
+Desde que estoy acá, dos accidentes fatales ocurrieron en las obras: la primer víctima (un obrero cordobés) cayó desde un quinto piso junto a su compañero, quien quedó en gravísimo estado pero se salvó.  El otro accidente ocurrió anteayer, era un pintor de nacionalidad boliviana (contaba la cronista en el noticiero), y cayó desde un décimo piso cuando la soga que sostenía su arnés se cortó mientras revestía el ladrillo visto con sellador.  
 
-Me puso muy triste esto.  No puedo evitar acordarme de mis abuelos y de verles sus manos curtidas y sus caras arrugadas de laburar todo el día y todos los días, en codiciones miserables e injustas.  
+Me puso muy triste esto.  No puedo evitar acordarme de mis abuelos y de verles sus manos curtidas y sus caras arrugadas de laburar todo el día y todos los días, en condiciones miserables e injustas.  
 
 Sé que la rubia no tiene la culpa, pero es toda una postal mirada desde esta altura: sábado 4 de la tarde,  el sol satanizado contra el asfalto y nosotros pagando los platos de semejante calor.  La rubia toma sol boca arriba y se pone crema a cada instante. Mientras tanto, justo enfrente, en uno de los edificios en construcción, tres obreros acarrean en sus hombros bolsas de cemento y de cal. Como mi viejo, que también se rompe el lomo laburando, ellos tienen *"suerte"* de tener trabajo.
 

@@ -71,7 +71,7 @@ date_display = "17.09.2008"
 depth = 0
 url_site = ""
 title = "Yo, payaso"
-body = "Que bueno saber que hay  gente que se preocupa desinteresadamente por los demas ....\n\nFelicitaciones ....!!!!!!"
+body = "Que bueno saber que hay  gente que se preocupa desinteresadamente por los demás ....\n\nFelicitaciones ....!!!!!!"
 
 [[extra.comments]]
 id = 7052
@@ -115,7 +115,7 @@ date_display = "24.03.2010"
 depth = 0
 url_site = ""
 title = "Yo, payaso"
-body = "estaba tan triste que ni se como vine a para aqui\nojala fuera payasa, me iria a trabajar con uds y me aseguraria una sonrisa\ngracias"
+body = "estaba tan triste que ni se como vine a para aqui\nojala fuera payasa, me iría a trabajar con uds y me aseguraria una sonrisa\ngracias"
 
 [[extra.comments]]
 id = 8218
@@ -148,7 +148,7 @@ date_display = "28.07.2010"
 depth = 0
 url_site = ""
 title = "Yo, payaso"
-body = "esta buenisimo mano"
+body = "esta buenísimo mano"
 
 [[extra.comments]]
 id = 8652
@@ -247,7 +247,7 @@ date_display = "29.02.2012"
 depth = 0
 url_site = ""
 title = "Yo, payaso"
-body = "hola me gusta trabajar con payasos y ese numero esta bueno quisiera que me enviaran unos numeros a mi correo para yo trabajarlos con mis niños: este es mi correo elchuo78@gmail.com gracias"
+body = "hola me gusta trabajar con payasos y ese numero esta bueno quisiera que me enviaran unos números a mi correo para yo trabajarlos con mis niños: este es mi correo elchuo78@gmail.com gracias"
 
 [[extra.comments]]
 id = 52865
@@ -291,7 +291,7 @@ date_display = "21.01.2013"
 depth = 0
 url_site = ""
 title = "Yo, payaso"
-body = "etsa buenisimo"
+body = "etsa buenísimo"
 
 [[extra.comments]]
 id = 54119
@@ -313,7 +313,7 @@ date_display = "23.02.2013"
 depth = 0
 url_site = ""
 title = "Yo, payaso"
-body = "Hola Martín en Agosto 2010 hice la obrita con una amiga para el día del niño!!, fue un éxito total :)\nFue lo primero que hice para mi hijo y amiguitos, me gustó mucho verles las caritas sonrientes. Éste año me gustaría volver actuar para mis hijos (ahora son 2). Ténes algún texto para compartir?\nSaludos y muchisimas gracias!!"
+body = "Hola Martín en Agosto 2010 hice la obrita con una amiga para el día del niño!!, fue un éxito total :)\nFue lo primero que hice para mi hijo y amiguitos, me gustó mucho verles las caritas sonrientes. Éste año me gustaría volver actuar para mis hijos (ahora son 2). Ténes algún texto para compartir?\nSaludos y muchísimas gracias!!"
 +++
 
 Pero entre los amigos, entre la gente que me quiere y a la que quiero desde las tripas, siempre alguien quiere jugar, de día o de noche. Y hay uno en particular, el compañero actor [Gabriel Diovisalvi](http://www.alternativateatral.com/persona82608-gabriel-diovisalvi). 
@@ -334,7 +334,7 @@ A falta de dos días para el evento y con un sábado que se viene agitadito, aun
 
 *(Pochoclón entra en escena saludando al público) *
 
-**Pochoclón**: ¡Buenas tardes querido publico presente! Tengo el gusto de que tengan el gusto de que yo esté presente aquí, en este escenario junto con mi perro. 
+**Pochoclón**: ¡Buenas tardes querido público presente! Tengo el gusto de que tengan el gusto de que yo esté presente aquí, en este escenario junto con mi perro. 
 
 **Presentador**: Le contamos al público presente que Pochoclón ha venido con su gran amigo, el fiel y bien educado perro Firulai. 
 
@@ -346,9 +346,9 @@ A falta de dos días para el evento y con un sábado que se viene agitadito, aun
 
 *(Pochoclón lo reta la perro pero se ríe. Lo acomoda al costado del escenario)*
 
-**Presentador**: Vamos a pedirle silencio al publico, porque Pochoclón va realizar una prueba muy difícil y necesita máxima concentración.
+**Presentador**: Vamos a pedirle silencio al público, porque Pochoclón va realizar una prueba muy difícil y necesita máxima concentración.
 
-*(Pochoclón actua concentrado y camina sonámbulo por el escenario. El presentador lo interpela para que se despierte)*
+*(Pochoclón actúa concentrado y camina sonámbulo por el escenario. El presentador lo interpela para que se despierte)*
 
 **Presentador**: ¡Despiertése! ¡Qué hace, hombre! ¿No se da cuenta que está caminando dormido?
 
@@ -380,11 +380,11 @@ Dele... que se nos cae el número, tenemos todo preparado..
 
 *(El niñó trae el agua y Pochoclón le indica que prepare todo, que llene el vaso con agua y lo deje en el piso, y que acomode una silla frente al vaso)*
 
-**Pochoclón**: *(al público)* Por favor, señoras y señores, niñas y niños.... no intenten esto en su casa, es una prueba sólo apta para artistas experimentados, sólo para audaces y valientes, para temerarios  muy alta hombría, gente preparada, entrenada, artistas que dan la vida por su publico... Es por eso que con ustedes... ¡Mi ayudante! 
+**Pochoclón**: *(al público)* Por favor, señoras y señores, niñas y niños.... no intenten esto en su casa, es una prueba sólo apta para artistas experimentados, sólo para audaces y valientes, para temerarios  muy alta hombría, gente preparada, entrenada, artistas que dan la vida por su público... Es por eso que con ustedes... ¡Mi ayudante! 
 
 *(Pochoclón señala al niño). *
 
-**Presentador**: ¡Pochoclón! No se burle del publico, por favor. ¡Presente su número de una vez! ¿Qué es lo que va a hacer con todo esto? 
+**Presentador**: ¡Pochoclón! No se burle del público, por favor. ¡Presente su número de una vez! ¿Qué es lo que va a hacer con todo esto? 
  
 **Pochoclón**:  *(ofuscado)* No, no... no lo voy a hacer. No quiero, no quiero! Me da vértigo. 
 
@@ -430,7 +430,7 @@ Dele... que se nos cae el número, tenemos todo preparado..
 
 *(El payaso comienza a levantar  la pesa con movimientos desarticulados, perdiendo el equilibrio hasta que logra subirla a la altura del pecho con actitud de mucho esfuerzo. Mientras tanto entra a escena una señorita -- Vanina -- a entregarle unos papeles al presentador, pasando por adelante del payaso con caminada sensual)*
 
-**Vanina**: Presentador, aquí tiene los papeles que se olvidó en  el camarin.  
+**Vanina**: Presentador, aquí tiene los papeles que se olvidó en  el camarín.  
 
 **Presentador**: Muchas gracias señorita
 

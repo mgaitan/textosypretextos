@@ -19,7 +19,7 @@ tags = [
 legacy_id = 295
 section_slug = "videos"
 section_title = "Videos"
-summary = "Presto es un corto animado de Pixar, que se distribuyó junto al largometraje WALL-E tanto en el cine como en las ediciones en DVD. Su creador, Doug Sweetland, es uno de los animadores más antiguos de la compañia,"
+summary = "Presto es un corto animado de Pixar, que se distribuyó junto al largometraje WALL-E tanto en el cine como en las ediciones en DVD. Su creador, Doug Sweetland, es uno de los animadores más antiguos de la compañía,"
 visits = 3591
 popularite = 0.8668744821224152
 hero_image = ""
@@ -50,6 +50,6 @@ body = "Aqued se suscitan dos temas. El pemrrio es si puedo ver exclusivamente t
 
 {{ video_embed(provider="youtube", id="qp71kQZMRZM") }}
 
-Presto es un corto animado de Pixar, que se distribuyó junto al largometraje WALL-E tanto en el cine como en las ediciones en DVD. Su creador, [Doug Sweetland](http://en.wikipedia.org/wiki/Doug_Sweetland), es uno de los animadores más antiguos de la compañia,
+Presto es un corto animado de Pixar, que se distribuyó junto al largometraje WALL-E tanto en el cine como en las ediciones en DVD. Su creador, [Doug Sweetland](http://en.wikipedia.org/wiki/Doug_Sweetland), es uno de los animadores más antiguos de la compañía,
 
 

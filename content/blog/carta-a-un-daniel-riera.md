@@ -60,7 +60,7 @@ date_display = "12.07.2008"
 depth = 0
 url_site = ""
 title = "Carta a un Daniel Riera"
-body = "Tincho como siempre un groso!\n_ la proxima qeu pases por rosario chifla!"
+body = "Tincho como siempre un groso!\n_ la próxima qeu pases por rosario chifla!"
 
 [[extra.comments]]
 id = 6966
@@ -71,7 +71,7 @@ date_display = "17.07.2008"
 depth = 0
 url_site = ""
 title = "Carta a un Daniel Riera"
-body = "que bueno sos!!....y SI LLEGA A SER ÉL...QUE INCREIBLE!!!....ojala con el tiempo, cuando seas como el..yo pueda decir...yo conoci al GRANDE: MARTIN GAITAN...jaja........besos!!!varios"
+body = "que bueno sos!!....y SI LLEGA A SER ÉL...QUE INCREIBLE!!!....ojala con el tiempo, cuando seas como el..yo pueda decir...yo conocí al GRANDE: MARTIN GAITAN...jaja........besos!!!varios"
 
 [[extra.comments]]
 id = 8502
@@ -134,7 +134,7 @@ nombre hasta la séptima O. Estaba anonadado, tanto por el mensaje (que creí ci
 A la tarde, tratando de encontrar algún hilito que me permita saber si
 era posta o algún chiste ingenioso de alguno que conoce de mi curiosidad, lo comenté con un amigo por chat. Como también es bastante internauta, mi amigo llegó a tu minibiografia en un par de clicks, y más rápido y gracioso que ninguno, dejó otro comentario firmado por Gabriel García Marquez y con el email soyelverdaderogabo@gmail.com. Ja! Hete [aquí el chascarrillo](/blog/los-dientes-del-poder/#comment-6830).
 
-Fue. Linda anécdota. A otra cosa mariposa. Pero ahora que ya es madrugada de domingo, volví de una nueva joda pero con más autocontrol, y la rubita tarda en llamar, me pinchó la espinita de nuevo y decidi escribirte, a vos o al falso vos, para develar este misterio.
+Fue. Linda anécdota. A otra cosa mariposa. Pero ahora que ya es madrugada de domingo, volví de una nueva joda pero con más autocontrol, y la rubita tarda en llamar, me pinchó la espinita de nuevo y decidí escribirte, a vos o al falso vos, para develar este misterio.
 
 ¿Sos el Daniel Riera que estrechó la misma mano derecha con la
 que apretó Enter para dejar un comentario a mi texto?

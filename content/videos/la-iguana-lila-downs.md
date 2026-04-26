@@ -52,7 +52,7 @@ date_display = "01.04.2008"
 depth = 0
 url_site = ""
 title = "La Iguana - Lila Downs"
-body = "buena musica chabon..."
+body = "buena música chabón..."
 +++
 
 {{ video_embed(provider="youtube", id="Ww2EX0OdDeA", title="Ww2EX0OdDeA") }}

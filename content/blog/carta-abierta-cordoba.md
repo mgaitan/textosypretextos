@@ -21,7 +21,7 @@ tags = [
 legacy_id = 182
 section_slug = "blog"
 section_title = "Blog"
-summary = "El pasado martes, un dia antes de la ignominia del gobierno de Schiaretti, se realizó el acto fundacional del espacio Carta Abierta Córdoba. Aunque no pude participar del encuentro, consideroésta una iniciativa…"
+summary = "El pasado martes, un dia antes de la ignominia del gobierno de Schiaretti, se realizó el acto fundacional del espacio Carta Abierta Córdoba. Aunque no pude participar del encuentro, considero esta una iniciativa…"
 visits = 819
 popularite = 0.9056236476118877
 hero_image = ""
@@ -44,7 +44,7 @@ comments = []
 
 El pasado martes, un día antes de la [ignominia](http://argentina.indymedia.org/news/2008/07/617986.php) del gobierno de Schiaretti, se realizó el acto fundacional del espacio [Carta Abierta Córdoba](http://cartaabiertacordoba.blogspot.com/). 
 
-Aunque no pude participar del encuentro, consideroésta una iniciativa enriquecedora para la organización popular, en la medida que pueda articular acciones más allá de lo discursivo. 
+Aunque no pude participar del encuentro, considero esta una iniciativa enriquecedora para la organización popular, en la medida que pueda articular acciones más allá de lo discursivo. 
 
 Tristemente, los tiempos que se avecinan no parecen ser diáfanos, pero a favor tenemos que los enemigos van sacando sus caretas al tiempo que empuñan sus lanzagases. 
 

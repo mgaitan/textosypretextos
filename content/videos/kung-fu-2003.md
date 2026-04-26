@@ -46,5 +46,5 @@ KUNG FU 2003 , del norteamericano Tampico, es el autor de este excelente corto d
 
 Kung Fu 2003 surge a raíz de la segunda invasión de Estados Unidos en Irak en 2003, la visión de un norteamericano sobre esta inacabada guerra.
 
-Tampico es un director de documentales y cortos de ficción. Miembro de la Tampong Filmmaking Society en Europa, también es uno de los fundadores del Movimiento Internacional ShitArt que comenzó en Cuba con la intención de traer el surrealismo al arte del documental y cortometraje. En Cuba se graduó en la escuela de Cine y Televisión y estudió cinematografía en la Filmakademy de Alemania. También estudió Ciencias Politicas y economía en la Universidad de California.
+Tampico es un director de documentales y cortos de ficción. Miembro de la Tampong Filmmaking Society en Europa, también es uno de los fundadores del Movimiento Internacional ShitArt que comenzó en Cuba con la intención de traer el surrealismo al arte del documental y cortometraje. En Cuba se graduó en la escuela de Cine y Televisión y estudió cinematografía en la Filmakademy de Alemania. También estudió Ciencias Políticas y economía en la Universidad de California.
 

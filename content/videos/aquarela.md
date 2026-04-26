@@ -78,7 +78,7 @@ date_display = "27.10.2011"
 depth = 0
 url_site = ""
 title = "Aquarela"
-body = "eu      adoro      musica      aquaela"
+body = "eu      adoro      música      aquaela"
 +++
 
 ### Mi traducción 

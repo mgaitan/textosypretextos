@@ -50,12 +50,12 @@ boquita de rubí, dientes de nácar,
 le falta hablar, es Venus con ruleros
 Miss Universo. 
 
-Fosforecencia erótica nocturna
+Fosforescencia erótica nocturna
 chorreante de violines y amor mío
 bésame con un beso locamente
 televisado.
 
-Peñas, discursos, concecoraciones, 
+Peñas, discursos, condecoraciones, 
 muy señor mío lea Radiolandia.
 Galán fortuito en una encrucijada
 llena de cejas.

@@ -106,7 +106,7 @@ para hacerse de este mundo<br>
 Este aleteo de teclas<br>
 para combatir<br>
 el miedo,<br>
-  el frio<br>
+  el frío<br>
      la inefable incertidumbre<br>
  y sentirte más cerca<br>
 sólo le hace tachones al silencio<br>
@@ -128,8 +128,8 @@ cuando hace frío.<br>
 <br>
 <br>
 Si yo digo que te amo,<br>
-qué pensas que digo?<br>
-qué sentis que pienso ?<br>
+qué pensás que digo?<br>
+qué sentís que pienso ?<br>
 qué escuchas que siento?<br>
 Por todo eso, mujer.<br>
 Por escucharme,<br>

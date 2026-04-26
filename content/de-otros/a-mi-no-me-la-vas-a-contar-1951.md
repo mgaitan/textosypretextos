@@ -80,7 +80,7 @@ date_display = "11.11.2012"
 depth = 0
 url_site = ""
 title = "¡A mí no me la vas a contar! (1951)"
-body = "Me lo mando el señor Patricio Alfonso Roach desde Estados Unidos,y lo perdi, por suerte lo volvi a encontrar. Cuando lo lei se caian las lagrimas. Esta fabuloso,muchas gracias a todos"
+body = "Me lo mando el señor Patricio Alfonso Roach desde Estados Unidos,y lo perdi, por suerte lo volvi a encontrar. Cuando lo lei se caian las lágrimas. Esta fabuloso,muchas gracias a todos"
 
 [[extra.comments]]
 id = 54946

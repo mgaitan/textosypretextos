@@ -69,7 +69,7 @@ date_display = "30.11.2006"
 depth = 0
 url_site = ""
 title = ""
-body = "Hola amigo mío!! parece que ayer no fué un buen día para mucha gente... a mi me fué mal en un exámen... que va a ser, hay que seguir luchando, la vida tiene una sola dirección, para adelante... Le cuento que el 2 de diciembre (este sábado) bautizo a mi bebé Ignacio Gabriel L... ojalá salga todo bien, un abrazo enorme amigo, nos vemos pronto... GNL"
+body = "Hola amigo mío!! parece que ayer no fué un buen día para mucha gente... a mi me fué mal en un examen... que va a ser, hay que seguir luchando, la vida tiene una sola dirección, para adelante... Le cuento que el 2 de diciembre (este sábado) bautizo a mi bebé Ignacio Gabriel L... ojalá salga todo bien, un abrazo enorme amigo, nos vemos pronto... GNL"
 
 [[extra.comments]]
 id = 1259
@@ -87,7 +87,7 @@ body = "No, parece que diciembre no es el mes preferido. (somos unos cuantos)\nA
 
 No consigo dormir, tengo un examen atravesado entre los párpados. Le diría que se vaya, si pudiera, pero tengo un examen atravesado en la garganta.
 
-A Galeano le queda más lindo, sí. Porque a él, en sus noches de insomnio, se le cruzan mujeres en vez de exámenes. Además, infiriendo por el precio de sus libros, puede preocuparse por "el futuro" (de américa latina, del neoliberalismo o de las tribus del amazónas que usan flequillo los viernes por la tarde) porque no tiene que preocuparse por "su futuro".
+A Galeano le queda más lindo, sí. Porque a él, en sus noches de insomnio, se le cruzan mujeres en vez de exámenes. Además, infiriendo por el precio de sus libros, puede preocuparse por "el futuro" (de américa latina, del neoliberalismo o de las tribus del Amazonas que usan flequillo los viernes por la tarde) porque no tiene que preocuparse por "su futuro".
 Galeano, viagra de por medio o no, a esta hora seguro que está cogiendo.
 
 En cambio yo, el de estas últimas semanas, pobre infeliz pobre, infeliz pobre infeliz, no consigo dormir y no hay forma de hacer poesía con eso. Porque son tristes mis no-sueños.
@@ -97,7 +97,7 @@ En cambio yo, el de estas últimas semanas, pobre infeliz pobre, infeliz pobre i
 
 Una vez, hace mucho, supe que Graciela Alfano es ingeniera. Palabra. Pienso si a ella le habrá quedado lugar en la garganta para que se le atraviese un examen.
 
-¿Y al Ingeniero Blumberg? Seguro que si se le atrevesó alguno, lo cagó a tiros con el revólver de la mesita de luz, adujo que fue en defensa personal y exigió cadena perpetua para el titular de la cátedra.
+¿Y al Ingeniero Blumberg? Seguro que si se le atravesó alguno, lo cagó a tiros con el revólver de la mesita de luz, adujo que fue en defensa personal y exigió cadena perpetua para el titular de la cátedra.
 
 No consigo dormir, y mi cuerpo jura que es la última vez que me deja cursar seis materias en un cuatrimestre. Porque desde hace un tiempo mi cuerpo me habla, se burla de mí, me dice por ejemplo que dentro de poco se va a morfar mi calzoncillo a través del ombligo, y que sólo falta que la gravedad le ayude un poquito más. Y encima, pedazo de cínico, dice que en realidad lo que quiere es hacerme cosquillitas para que me ria un poco, y que por eso deja caer mechones de pelo por la espalda.
 

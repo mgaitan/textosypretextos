@@ -162,7 +162,7 @@ title = "Cómplices"
 body = "complises al rescate me parese un programa muy chebre que e visto en toda mi vida y quisiera  que lo volvieran a presentarpor que es fabuloso.                                                       chao.att andrea paola.          y no te olvidesde mi porque  soy tu fanarica andrea paola y saludes a todos los de complises al rescate   los recordare."
 +++
 
-Debe ser la cuarta vez que inicio este texto: estoy media hora frente al monitor y me voy a dormir sin nada escrito. Las oraciones se niegan a convivir, hay cruentos forcejeos entre los verbos y sus objetos directos, los adjetivos se empastan en la lengua como una manzana arenosa y terminan asesinados por la tecla "<--" que todo lo ajusticia.  No es que no sepa qué les quiero contar, es el destino el que actua: el quiere escribir sobre Celeste, que le cueste. 
+Debe ser la cuarta vez que inicio este texto: estoy media hora frente al monitor y me voy a dormir sin nada escrito. Las oraciones se niegan a convivir, hay cruentos forcejeos entre los verbos y sus objetos directos, los adjetivos se empastan en la lengua como una manzana arenosa y terminan asesinados por la tecla "<--" que todo lo ajusticia.  No es que no sepa qué les quiero contar, es el destino el que actúa: el quiere escribir sobre Celeste, que le cueste. 
 
 Nuestra amistad nació en el chat aunque ella seguro disentirá conmigo.  Antes nos conocíamos pero no éramos amigos. Cuando abandonamos el chat nuestra amistad ya sabía cruzar la calle sola. 
 

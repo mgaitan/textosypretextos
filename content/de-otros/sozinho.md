@@ -89,7 +89,7 @@ date_display = "07.09.2009"
 depth = 0
 url_site = ""
 title = "Sozinho"
-body = "gracias por la traduccion :)"
+body = "gracias por la traducción :)"
 
 [[extra.comments]]
 id = 7980
@@ -155,7 +155,7 @@ date_display = "09.12.2010"
 depth = 0
 url_site = ""
 title = "Sozinho"
-body = "es una hermosa cancion, es dificil encontrar una buena traduccion aunque hacerla literal es perder tambien el significado de la misma.\na mi opinion, habla de un amor, pero de esos de jala y estira, caetano piensa , sobre el y ella, se queja del modo en que le deja \"solo\"  del modo en que no le procura, pero a la vez e ironicamente , asevera que no esta listo para algo mas."
+body = "es una hermosa cancion, es dificil encontrar una buena traducción aunque hacerla literal es perder tambien el significado de la misma.\na mi opinion, habla de un amor, pero de esos de jala y estira, caetano piensa , sobre el y ella, se queja del modo en que le deja \"solo\"  del modo en que no le procura, pero a la vez e ironicamente , asevera que no esta listo para algo mas."
 
 [[extra.comments]]
 id = 50639
@@ -199,7 +199,7 @@ date_display = "30.06.2012"
 depth = 0
 url_site = ""
 title = "Sozinho"
-body = "esta de hecho cabe en mi coleccion...gracias peninha"
+body = "esta de hecho cabe en mi colección...gracias peninha"
 
 [[extra.comments]]
 id = 53372

@@ -3,7 +3,7 @@ title = "Anécdotas"
 template = "blog_subsection.html"
 
 [extra]
-subsection_slug = "anecdotas"
+subsection_slug = "anécdotas"
 article_paths = [
     "blog/bienvenida-al-club.md",
     "blog/carta-a-un-daniel-riera.md",

@@ -73,7 +73,7 @@ Tengo la sospecha que a las personas como Nachito le pasan esas cosas: dan tanto
 
 El próximo domingo habrá fiestón en el barrio. Festejaremos el día de los niños y las niñas, en el marco de las *Segundas Jornadas Populares y Comunitarias* que organizamos junto con muchos grupos y organizaciones compañeras. Las primeras jornadas fueron hace poquito, menos de un mes, cuando Nachito todavía no había decidido su viaje, pero sí lo imaginaba porque eso lo hizo desde siempre. 
 
-Aquel domingo reímos, bailamos, malabareamos, hicimos pulseritas y relatamos la semifinal del campeonato de fútbol juntos, incluyendo la definición por penales que no alcanzabamos a ver porque el público nos tapaba la visual formando un triángulo entre los palos y el punto penal. 
+Aquel domingo reímos, bailamos, malabareamos, hicimos pulseritas y relatamos la semifinal del campeonato de fútbol juntos, incluyendo la definición por penales que no alcanzábamos a ver porque el público nos tapaba la visual formando un triángulo entre los palos y el punto penal. 
 
 Este domingo no habrá relato a duo, pero Nachito andará por ahí, cosechando lo que supo sembrar. Sólo se soltó una mano. Con la otra nos lleva bien fuerte a dar algunas vueltas. Será el abrazo caracol más grande del mundo.
 

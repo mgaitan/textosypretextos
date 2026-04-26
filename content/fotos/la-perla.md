@@ -2,7 +2,7 @@
 title = "La Perla"
 slug = "la-perla"
 date = 2008-06-04 17:43:46
-description = "Fotos del Acto de Recuparación de La Perla, Córdoba, Sábado 24 de marzo de 2007. Publicadas originalmente aquí."
+description = "Fotos del Acto de Recuperación de La Perla, Córdoba, Sábado 24 de marzo de 2007. Publicadas originalmente aquí."
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 144
 section_slug = "fotos"
 section_title = "Fotos"
-summary = "Fotos del Acto de Recuparación de La Perla, Córdoba, Sábado 24 de marzo de 2007. Publicadas originalmente aquí."
+summary = "Fotos del Acto de Recuperación de La Perla, Córdoba, Sábado 24 de marzo de 2007. Publicadas originalmente aquí."
 visits = 2621
 popularite = 0.9843284392200226
 hero_image = "/media/jpg/DSC_0005.jpg"
@@ -47,7 +47,7 @@ date_display = "06.06.2008"
 depth = 0
 url_site = ""
 title = "La Perla"
-body = "que increible la transparencia y pureza de esa flor!!!...no se que a que le quisiste sacar o que quisiste poner...peor me transmitio una paz...hermosa...la verdad...MUY BUENA!!"
+body = "que increíble la transparencia y pureza de esa flor!!!...no se que a que le quisiste sacar o que quisiste poner...peor me transmitio una paz...hermosa...la verdad...MUY BUENA!!"
 
 [[extra.comments]]
 id = 6969
@@ -83,7 +83,7 @@ title = "La Perla"
 body = "Como bien dices todo radica en el prpoio autoconvencimiento de las cosas, a partir de ahi todo lo deme1s este1 por ver, pero desde luego que si no partes de esa base desde un primer momento pues mal lo llevas.En Revolutionary Road ademe1s de influir el hecho de conseguir o no un suef1o tb se marca mucho el tema de la perspectiva que se tiene sobre los deme1s, la imagen o la opinif3n que la gente marca o da sobre el resto. \"es una mierda eso de ir aparentando cosas por al mundo adelante, siempre lo dije\"En fin, esto por poner algo, como es la primera vez que entro aqui... (Abraham)Mira Slumdog Millionaire que es me1s entretenida :P"
 +++
 
-Fotos del Acto de Recuparación de *[La Perla](http://www.desaparecidos.org/arg/conadep/nuncamas/202.html)*, Córdoba, Sábado 24 de marzo de 2007. Publicadas originalmente [aquí](http://derechoshumanoscba.org.ar/spip.php?article434).
+Fotos del Acto de Recuperación de *[La Perla](http://www.desaparecidos.org/arg/conadep/nuncamas/202.html)*, Córdoba, Sábado 24 de marzo de 2007. Publicadas originalmente [aquí](http://derechoshumanoscba.org.ar/spip.php?article434).
 
 ### Galería
 

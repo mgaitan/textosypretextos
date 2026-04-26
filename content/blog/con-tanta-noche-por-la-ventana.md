@@ -86,7 +86,7 @@ Marcial que aún cree y espera<br>
 y el flaco Abel que se nos fue<br>
 pero aún me guía.</div>
 
-En esa pista, la del Don Bosco, corrí los 100 metros más rapidos de mi
+En esa pista, la del Don Bosco, corrí los 100 metros más rápidos de mi
 vida. Tenía 9 años y dos piernas fuertes para mi cuerpo pequeño.
 Tenías ganas de que la profe de gimnasia, que tenía --creo-- piernas
 más fuertes que las mías, me sonriera como todo premio.
@@ -135,7 +135,7 @@ entero que te bañas a la madrugada, a ver?
 -- Pero lo único que te digo es que vos decís que me tomo dos
 pastillas y eso no es así
 -- ¡Mami! vos misma dijiste "me tuve que tomar dos pastillas para dormir"
--- Bueno vos pensas eso, a mi se me ha olvidado, pero yo no tengo
+-- Bueno vos pensás eso, a mi se me ha olvidado, pero yo no tengo
 intención de mentirte. Quizás me tomé una y media. Sí, una y media me
 tomé.
 -- Es más me dijiste "la Elsa me dijo que tome alplax" y yo les dije

@@ -104,7 +104,7 @@ es un acto de dignidad. Tu valentía de aceptar las dudas: no te
 conformes nunca, mujer, con un amor que no te estremezca. Mi lucha, mi
 dolor, mi esperanza: que me sientas por allí donde vayas, que me
 busques cuando llegues, que yo esté allí, esperándote, y esta vez me
-beses en la boca. Porque no vas y venis, el camino es siempre hacia
+beses en la boca. Porque no vas y venís, el camino es siempre hacia
 adelante, y no hay regreso posible a las alegrías intensas de ayer,
 sino llegada a otras, parecidas pero más fuertes, cicatrizadas, llenas
 de vida, de nuevos proyectos, de preguntas de Milay, de poemas y
@@ -118,7 +118,7 @@ que te escribió, también, dándote su abrazo de mujer valiente, de
 mujer que sabe amar. Mi papá también, no sabés cuanto amor me hace
 sentir. Mis hermanos, me llaman, más cercanos que nunca, rompiendo
 costumbres de silencio idiota, para abrazarme y decirme que tienen sus
-casas abiertas siempre para mi. Me emociono y lagrimeo de nuevo.
+casas abiertas siempre para mi. Me emocionó y lagrimeo de nuevo.
 Enésima vez del findesemana.
 
 Pienso entonces en tu familia. En tus viejos, en tus abuelos. Cuánto

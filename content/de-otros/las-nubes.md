@@ -2,7 +2,7 @@
 title = "Las Nubes"
 slug = "las-nubes"
 date = 2009-05-19 22:18:45
-description = "Nube dejó caer una gota de lluvia sobre el cuerpo de una mujer. A los nueves meses, ella tuvo mellizos. Cuando crecieron, quisieron saber quién era su padre. -- Mañana…"
+description = "Nube dejó caer una gota de lluvia sobre el cuerpo de una mujer. A los nueve meses, ella tuvo mellizos. Cuando crecieron, quisieron saber quién era su padre. -- Mañana…"
 draft = false
 template = "article.html"
 authors = [
@@ -20,7 +20,7 @@ tags = [
 legacy_id = 272
 section_slug = "de-otros"
 section_title = "De otros"
-summary = "Nube dejó caer una gota de lluvia sobre el cuerpo de una mujer. A los nueves meses, ella tuvo mellizos. Cuando crecieron, quisieron saber quién era su padre. -- Mañana por la mañana --dijo ella­-- miren hacia el…"
+summary = "Nube dejó caer una gota de lluvia sobre el cuerpo de una mujer. A los nueve meses, ella tuvo mellizos. Cuando crecieron, quisieron saber quién era su padre. -- Mañana por la mañana --dijo ella-- miren hacia el…"
 visits = 14018
 popularite = 0.9077791310156823
 hero_image = ""
@@ -61,14 +61,13 @@ title = "Las Nubes"
 body = "la bibliografia del librooo"
 +++
 
-Nube dejó caer una gota de lluvia sobre el cuerpo de una mujer. A los nueves meses, ella tuvo mellizos. Cuando crecieron, quisieron saber quién era su padre.
+Nube dejó caer una gota de lluvia sobre el cuerpo de una mujer. A los nueve meses, ella tuvo mellizos. Cuando crecieron, quisieron saber quién era su padre.
 
--- Mañana por la mañana --dijo ella­-- miren hacia el oriente. Allá lo verán, erguido en el cielo como una torre.
+-- Mañana por la mañana --dijo ella-- miren hacia el oriente. Allá lo verán, erguido en el cielo como una torre.
 
 A través de la tierra y del cielo, los mellizos caminaron en busca de su padre.
 Nube desconfió y exigió:
 
 --Demuestren que son mis hijos.
 
-Uno de los mellizos envío a la tierra un relámpago. El otro, un trueno. Como Nube todavía dudaba, atravesaron una inundación y salieron intactos. Entonces Nube les hizo un lugar a su lado, entre sus muchos hermanos y sobrinos.
-
+Uno de los mellizos envió a la tierra un relámpago. El otro, un trueno. Como Nube todavía dudaba, atravesaron una inundación y salieron intactos. Entonces Nube les hizo un lugar a su lado, entre sus muchos hermanos y sobrinos.

@@ -47,7 +47,7 @@ date_display = "05.04.2013"
 depth = 0
 url_site = "http://www.facebook.com/profile.php?id=100003421584083"
 title = "Imposibl es nating"
-body = "Estoy de acuerdo,tengo las mamsis dudas.Me gustareca escuchar que el gobierno deja de subvensionar a la educacion privada e invierte esos recursos en mejorar la escuela publica, soy un laburante y tuve que sacar a mis hijos de la escuela publica no por falta de  netbook  sino por falta de seriedad,de diciplina en las aulas, de maestros bien pagos, de compromiso con el aprendizaje,etc. Me gustareca volver a una escuela publica digna y para todos, que nuestros gobernantes piesen seriamente en la educacion como herramienta de desarrollo colectivo para un pais mas justo.y eso va mas alla de una  netbook ."
+body = "Estoy de acuerdo,tengo las mamsis dudas.Me gustareca escuchar que el gobierno deja de subvensionar a la educación privada e invierte esos recursos en mejorar la escuela pública, soy un laburante y tuve que sacar a mis hijos de la escuela pública no por falta de  netbook  sino por falta de seriedad,de diciplina en las aulas, de maestros bien pagos, de compromiso con el aprendizaje,etc. Me gustareca volver a una escuela pública digna y para todos, que nuestros gobernantes piesen seriamente en la educación como herramienta de desarrollo colectivo para un pais mas justo.y eso va mas alla de una  netbook ."
 +++
 
 {{ video_embed(provider="youtube", id="R5HUQAb_vik") }}

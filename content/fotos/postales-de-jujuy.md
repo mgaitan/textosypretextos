@@ -47,7 +47,7 @@ date_display = "04.04.2008"
 depth = 0
 url_site = ""
 title = "Postales de Jujuy"
-body = "si venis a nqn verias algo similar ahora... que coincidencia!!\n\nmuy buenas las fotos."
+body = "si venís a nqn verias algo similar ahora... que coincidencia!!\n\nmuy buenas las fotos."
 
 [[extra.comments]]
 id = 6831
@@ -80,14 +80,14 @@ neuquén a cordoba era un coche cama premium whisky gratis, este me
 dejó sabor a poco. Me estoy aburguesando, che.
 
 El verdadero problema fue que no me dieron de morfar más que un
-alfajorcito, así que 7:30 am me vi en la obligacion moral y
+alfajorcito, así que 7:30 am me vi en la obligación moral y
 fisiológica de clavarme un lomito completo por la módica suma de $4.
 Me parece que me vengo a estudiar a jujuy.
 
 Ahora estuve paseando por el centro, y llegué a la gobernación. Están
 a punto de reprimir, para variar. Es un conflicto de los municipales
 de La Quiaca, que han luego de 10 días de lucha han iniciado una
-huelga de hambre enfrente de la gobernacion. No había mas de 100
+huelga de hambre enfrente de la gobernación. No había mas de 100
 personas, y seguro había mas de 100 policías con escudos, caballos,
 macanazos y fusiles a menos de 5 metros de los manifestantes, en clara
 actitud de provocación.

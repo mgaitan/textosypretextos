@@ -139,5 +139,5 @@ Bueno, el deseo es bajar todo este vuelo. Fijate,  él está laburando, yo tambi
 {{ video_embed(provider="youtube", id="sTbOE0L7jLo") }}
 
 {% postscript() %}
-Esta entrevista la hice para la revista Wayra del Centro de Estudiantes de la Facultad de Ciencias Exáctas, Físicas y Naturales de la Universidad Nacional de Córdoba (CEICiN), proyecto que cajoneamos por unos días, pero pronto resucitará. Porque el viento nunca deja de soplar.*
+Esta entrevista la hice para la revista Wayra del Centro de Estudiantes de la Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad Nacional de Córdoba (CEICiN), proyecto que cajoneamos por unos días, pero pronto resucitará. Porque el viento nunca deja de soplar.*
 {% end %}

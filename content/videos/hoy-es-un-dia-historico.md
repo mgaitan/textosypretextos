@@ -74,9 +74,7 @@ date_display = "06.10.2008"
 depth = 0
 url_site = ""
 title = "Hoy es un día histórico"
-body = "siempre tincho con informacion y cosas lindas, interesantes y alternativas.........\nrealmente que es muy positivo todo lo q esta pasando en ecuador, pero es una pena ver y escuchar a nuestros politicos........"
+body = "siempre tincho con información y cosas lindas, interesantes y alternativas.........\nrealmente que es muy positivo todo lo q esta pasando en ecuador, pero es una pena ver y escuchar a nuestros políticos........"
 +++
 
 {{ video_embed(provider="youtube", id="HG18kguB2zY") }}
-
-

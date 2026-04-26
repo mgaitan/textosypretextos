@@ -99,9 +99,9 @@ Hoy es el partido. ¿Lo podrás ver? Ojalá si, yo estoy algo ansioso, y ahora m
 
 Lo he intentado, pero esa parte mía aun no la encuentro. Es que me siento bastante tonto frente a la pantalla en blanco (la parte más nerd mía hizo que hace mucho perdiera el romanticismo de la "hoja en blanco"). 
 
-Temo que escribir no sea como andar en bicicleta, que aprendés una vez y ya no te olvidás más aunque nunca andes. O quizás sea, pero yo no aprendi a escribir. O  no me convencí del todo que lo más importante no es andar en bicicleta por andar, o para llegar al trabajo o a la facu, sino disfrutar el aire fresco y la energía de cada pedaleada.
+Temo que escribir no sea como andar en bicicleta, que aprendés una vez y ya no te olvidás más aunque nunca andes. O quizás sea, pero yo no aprendí a escribir. O  no me convencí del todo que lo más importante no es andar en bicicleta por andar, o para llegar al trabajo o a la facu, sino disfrutar el aire fresco y la energía de cada pedaleada.
 
-Yo quiero eso, el aire fresco y la energia. Escribiendote estas cartitas incoherentes lo siento un poco. El otro poco es que esta bicicleta sí me sirve para llegar a vos, o más bien... para que llegues un poco a mi.
+Yo quiero eso, el aire fresco y la energía. Escribiendote estas cartitas incoherentes lo siento un poco. El otro poco es que esta bicicleta sí me sirve para llegar a vos, o más bien... para que llegues un poco a mi.
 
 De alguna insomnia anterior que ya perdió fecha, conseguí estas líneas.
 
@@ -111,13 +111,13 @@ De alguna insomnia anterior que ya perdió fecha, conseguí estas líneas.
 >
 > (...)Desodorizame, oprimime, contraatatacame, reclamame, eclipsame, amaneceme. Todo esto me lo digo al espejo, con la pasta de dientes chorreándome en burbujas de la boca. Burbujeame. Es a la mañana, después del pis y antes de las medias que todavía están limpias. Y no es que me sonó el despertador, es la cama que te extraña y se venga conmigo.
 
-Me gustó tu carta anterior, la del doctorado en deglución postrera videando videos. Gracias. Los últimos que vi fueron con té y sin postre. A ver, que me acuerde y me hayan gustado: el secreto de la montaña (ya te la conté)... es la de los cowboys (no pistoleros sino cuidadores de ovejas) que se enamoran en la montaña... yo creo que si no la viste deberias, intuyo que te va a gustar mucho y te tiro un dato: es del mismo director que Sensatez y Sentimientos. He visto más pelis brasileras, todas buenisimas.
+Me gustó tu carta anterior, la del doctorado en deglución postrera videando videos. Gracias. Los últimos que vi fueron con té y sin postre. A ver, que me acuerde y me hayan gustado: el secreto de la montaña (ya te la conté)... es la de los cowboys (no pistoleros sino cuidadores de ovejas) que se enamoran en la montaña... yo creo que si no la viste deberías, intuyo que te va a gustar mucho y te tiro un dato: es del mismo director que Sensatez y Sentimientos. He visto más pelis brasileras, todas buenísimas.
 
 Así, bastante masturbacion (,) intelectual, bastante encerrado, suficientemente solo. El otro día me di cuenta que hacía mas de dos días que no salía de mi casa. Ni siquiera saqué la basura y esto no es un chiste para que alguno que no me quiere diga que es una redundancia.
 
 Ya falta menos para el partido pero yo no voy a llegar sin dormir. Hay uno que hace dos horas, o sea desde las 7, que está con la corneta dele que dele, me hace sentir en zoológico viendo a los elefantes. Ahí de nuevo. 
 
-Tengo ganas de que ganemos, pero jugando bien. Nada hay que temer, pues, por suerte es tan sólo un partido de futbol. Los que sí están preocupados son ellos, esos necios agentes del capital que inundan las pantallas con su creatividad gritona y patriotera.
+Tengo ganas de que ganemos, pero jugando bien. Nada hay que temer, pues, por suerte es tan sólo un partido de fútbol. Los que sí están preocupados son ellos, esos necios agentes del capital que inundan las pantallas con su creatividad gritona y patriotera.
 
 Creo que me voy a dormir un ratito. Te mando Pi besos. Uy, te dije que encontré mi parte nerd?
 
