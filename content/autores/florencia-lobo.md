@@ -10,4 +10,8 @@ image = ""
 is_owner = false
 +++
 
-Florencia Lobo es una poeta argentina nacida en Tierra del Fuego. Su escritura explora la naturaleza, la resistencia y la vida interior con imágenes precisas y una sensibilidad singular. Es autora de varios libros de poesía y forma parte de la escena literaria fueguina contemporánea.
+Florencia Lobo (Tucumán, 1984) es una poeta argentina que se crió Tierra del Fuego. Su escritura explora la naturaleza, la resistencia y la vida interior con imágenes precisas y una sensibilidad singular. 
+
+Es autora de varios libros de poesía y forma parte de la escena literaria argentina contemporánea.
+
+Es, además, una de mis cuñadas (la hermana "que le sigue" a Nati).
