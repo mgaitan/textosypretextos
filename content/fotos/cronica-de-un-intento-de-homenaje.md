@@ -56,7 +56,7 @@ Muchas de estas fotos logré sacarlar gracias al descubrimiento de mi amigo y co
 
 {% dialogo() %}
 — *Tincho, mirá, ahí están acreditando a la prensa* -- anotició Lea, y yo enfilé para la cola.
-— *Hola, acabo de llegar de Neuquén, cubro para el periódico [8300](http://www.8300.com.ar). * -- indiqué a la chica con total convicción.
+— *Hola, acabo de llegar de Neuquén, cubro para el periódico [8300](http://www.8300.com.ar).* -- indiqué a la chica con total convicción.
 — A ver, dejame buscar... -- contestó totalmente desbordada por la situación, la acreditadora -- Bueno, pasá.
 {% end %}
 

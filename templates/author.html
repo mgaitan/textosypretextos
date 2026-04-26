@@ -7,7 +7,7 @@
 {% block content %}
   <main class="pt-8">
     <section class="author-header editorial-rule">
-      <span class="section-ribbon">{% if page.extra.gender == "f" %}Autora{% else %}Autor{% endif %}</span>
+      <span class="section-ribbon">{% if page.extra.gender | default(value="m") == "f" %}Autora{% else %}Autor{% endif %}</span>
       <div class="author-header-grid mt-5">
         <div {% if page.extra.image %}class="author-portrait"{% endif %}>
           {% if page.extra.image %}
