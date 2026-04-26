@@ -29,7 +29,7 @@ comment_count = 2
 legacy_url = "/de-otros/cuatro-fantasticos/"
 surtitle = ""
 subtitle = "Fabián Casas"
-deck = "Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay tantas caras en el mundo que uno, tarde o temprano, termina siendo otro. Yo quisiera hablar acá de los que conocí. Ellos dejaron sus huellas en mi vida y pienso que una forma de retribuirles que me hayan pisado es contar quiénes eran, lo que me enseñaron. Esas cosas.\n\nPara esa época mamá trabajaba en la fábrica de corpiños Peter Pan. Un nombre glorioso. No sé si todavía sigue funcionando. Mamá, por lo que me cuentan todos, era una mujer despampanante, parecía una vedette. Piernas, culo, caderas. Vivíamos en un departamentito del barrio de Once, muy chiquito, yo pensaba que era como el caño de Hijitus: el dormitorio de mamá, el living donde yo dormía en un sofá cama y una kitchenet empotrada en la pared. Eso era todo. Mamá tenía ropa tirada por todas partes. Y cosméticos y revistas que se traía de la peluquería de su amiga. Mi madre era una gran lectora. A veces, cuando ella iba a bailar, yo me quedaba con la peluquera, una paraguaya que me hablaba de sus hijos quienes, decía, tenían casi mi misma edad y estaban con su padre en Asunción. Yo no asociaba Asunción con un lugar físico, mas bien me parecía un verbo."
+deck = ""
 author_links = [
     { name = "Fabián Casas", path = "/autores/fabian-casas/" },
 ]
@@ -60,6 +60,9 @@ url_site = "http://www.natymenstrual.blogspot.com"
 title = "Cuatro fantásticos"
 body = "me encanta me encanta me encanta. tan realista tan concreto tan tierno tan dulce tan simpatico... me encanta\ngracias\nnm"
 +++
+Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay tantas caras en el mundo que uno, tarde o temprano, termina siendo otro. Yo quisiera hablar acá de los que conocí. Ellos dejaron sus huellas en mi vida y pienso que una forma de retribuirles que me hayan pisado es contar quiénes eran, lo que me enseñaron. Esas cosas.
+
+Para esa época mamá trabajaba en la fábrica de corpiños Peter Pan. Un nombre glorioso. No sé si todavía sigue funcionando. Mamá, por lo que me cuentan todos, era una mujer despampanante, parecía una vedette. Piernas, culo, caderas. Vivíamos en un departamentito del barrio de Once, muy chiquito, yo pensaba que era como el caño de Hijitus: el dormitorio de mamá, el living donde yo dormía en un sofá cama y una kitchenet empotrada en la pared. Eso era todo. Mamá tenía ropa tirada por todas partes. Y cosméticos y revistas que se traía de la peluquería de su amiga. Mi madre era una gran lectora. A veces, cuando ella iba a bailar, yo me quedaba con la peluquera, una paraguaya que me hablaba de sus hijos quienes, decía, tenían casi mi misma edad y estaban con su padre en Asunción. Yo no asociaba Asunción con un lugar físico, mas bien me parecía un verbo.
 
 En mi memoria, el primero de todos fue Carmelo. Petiso, musculoso, ex boxeador. Mamá me lo presentó una noche cuando la pasó a buscar para salir. Yo estaba mirando algo en la tele muy chiquita, diminuta, que la peluquera nos había traído de Ciudad del Este. ¿Ven? Ciudad del Este sí me parecía un lugar.
 
