@@ -87,15 +87,15 @@ body = "¿Qué ocurre cuando las voces interiores son muchas, y encima mujeres?\
 
 Tengo un recuerdo bastante nítido del día que descubrí la potencia de las palabras. Yo tenía como 7 años y gasté en el quiosco 5000 australes en unos chicles horribles que pintaban la boca de negro y la dejaban con mal aliento, pero que venían con figuritas maravillosas: Los Basuritas, caricaturas que jugaban con un morbo torpe, muy efectivo para la risa de los chicos. Los Basuritas tenían nombres formados por un rudimental juego de palabras. Allí estaban Matías Queroso, José K. Lavera, y la difícil, Igor Dinflon.
 
-Fue un descubrimiento. Con la lengua renegrida y ácida, mis tías fueron bautizadas con ingeniosos seudónimos como Elsa Lame y Estela Ampazo, y mi papá  fue Walter Cado. Pero mi mamá tuvo el mejor: Elena Nito,  que les ganaba a los demás porque no sólo gozaba de cierta verosimiltud como nombre propio, sino que encajaba, desde la caricaturización infantil, con con la fisionomía materna.
+Fue un descubrimiento. Con la lengua renegrida y ácida, mis tías fueron bautizadas con ingeniosos seudónimos como Elsa Lame y Estela Ampazo, y mi papá fue Walter Cado. Pero mi mamá tuvo el mejor: Elena Nito, que les ganaba a los demás porque no sólo gozaba de cierta verosimiltud como nombre propio, sino que encajaba, desde la caricaturización infantil, con con la fisonomía materna.
 
 Elena Nito me enseñó muchas cosas, la mayoría sin que yo me enterara. Aprendí de ella la receta de los bombones de quaker, a tomar el colectivo solo y el poder desengransante del jabón neutro. Y también, por supuesto, aprendí la magia que tienen los libros. 
 
-Es que malabareando con su magro sueldito de maestra, Elena Nito siempre se las ingenió para que en nuestra casa haya libros. Libros de texto, sí, (que aprovechamos más cuando, ya barbudos, dimos clases particulares de algunas materias), pero sobre todo cuentos y novelas, pasando por toda la colección Del Quirquincho que tenían unos dibujos horribles pero eran fantásticos. 
+Es que malabareando con su magro sueldito de maestra, Elena Nito siempre se las ingenió para que en nuestra casa hubiera libros. Libros de texto, sí (que aprovechamos más cuando, ya barbudos, dimos clases particulares de algunas materias), pero sobre todo cuentos y novelas, pasando por toda la colección Del Quirquincho que tenían unos dibujos horribles pero eran fantásticos. 
 
 Entre esas adquisiciones de catálogo y descuento por planilla, los libros de Mario Benedetti se llevaron gran parte de la torta. Poco a poco, cuota a cuota, llegaron a casa las ediciones de bolsillo de muchos de sus libros de poemas y sus novelas. 
 
-Fue mi segundo descubrimiento literario, el profundo, el revelador.  Mario Benedetti me enseñó que la literatura no es belleza de cartón, pero tampoco un criptograma. Que las cosas que deben decirse hay que decirlas, mejor si bonito, mejor si para muchos.
+Fue mi segundo descubrimiento literario, el profundo, el revelador. Mario Benedetti me enseñó que la literatura no es belleza de cartón, pero tampoco un criptograma. Que las cosas que deben decirse hay que decirlas, mejor si bonito, mejor si para muchos.
 
 Desde esa pubertad (tuve varias), Benedetti me acompañó siempre. Los poemas que supe de memoria fueron encontrando sentido con los amores y los desamores, con los miedos y las rutinas, las militancias y las alegrías. Y en el medio de tanto descubrimiento, supe de su vida, de su coherencia de luchador incansable, de su amor por el pueblo y su coraje.
 
@@ -105,7 +105,7 @@ Desde esa pubertad (tuve varias), Benedetti me acompañó siempre. Los poemas qu
 
 Se lo admira, se lo respeta y se lo quiere. Por todo lo que hizo, y lo que sigue haciendo: 
 
-El domingo a las 3 de la tarde mis compañeros debían irse al [taller de serigrafía](http://www.agrupacionmazamorra.com.ar) que estamos haciendo con los chicos del barrio. Los compañeros del Movimiento Teresa Rodriguez nos hicieron un encargo, con la idea de que se convierta en la primera producción del taller: pañuelos con la cara del Che. Como corresponde a nuestra concepción de educación popular, antes que nada debíamos trabajar en torno a la figura del Che y me acordé del bello poema: 
+El domingo a las 3 de la tarde mis compañeros debían irse al [taller de serigrafía](http://www.agrupacionmazamorra.com.ar) que estamos haciendo con los chicos del barrio. Los compañeros del Movimiento Teresa Rodriguez nos hicieron un encargo, con la idea de que se convirtiera en la primera producción del taller: pañuelos con la cara del Che. Como corresponde a nuestra concepción de educación popular, antes que nada debíamos trabajar en torno a la figura del Che y me acordé del bello poema: 
 
 <div class="poetry">**Che 1997**<br>
 <br>
