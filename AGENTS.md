@@ -131,6 +131,25 @@ Audio/archivos:
 
 - Reusar los shortcodes de `templates/shortcodes/`.
 
+### Diálogos
+
+- Para bloques de diálogo con una intervención por línea, usar la macro `dialogo` en vez de `<br>` manuales:
+
+```md
+{% dialogo() %}
+— Primera intervención
+— Segunda intervención
+{% end %}
+```
+
+- Para detectar y corregir casos simples con `--`, usar:
+
+```bash
+uv run scripts/fix_dialogues.py --apply content/fotos/cronica-de-un-intento-de-homenaje.md
+```
+
+- Sin `--apply`, el script corre en modo dry-run e informa candidatos y casos ambiguos para revisión manual.
+
 ### Ortografía
 
 ```bash
