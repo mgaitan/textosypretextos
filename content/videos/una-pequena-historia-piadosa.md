@@ -34,7 +34,9 @@ tag_links = []
 comments = []
 +++
 
-<div align="right">A Sandra</div>
+{{% epigrafe() %}}
+A Sandra
+{{% end %}}
 
 Era enano, o mejor dicho debía llegar a serlo, aún era un niño (porque hasta para llegar a ser enano hay que crecer). Aún no hablaba, pero seguro que ya creía que llegaría a crecer, a ser grande como para él era su padre. Iba a ser difícil explicárselo, prepararlo para lo que la vida le deparaba, difícil aún para un enano y una enana, para su padre y su madre.
 

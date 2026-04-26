@@ -42,8 +42,10 @@ tag_links = [
 comments = []
 +++
 
-<div align="right">*El cine, esa cinta de sueños
- **Orson Welles** *</div>
+{{% epigrafe() %}}
+*El cine, esa cinta de sueños
+ **Orson Welles** *
+{{% end %}}
 
 Sobre el Boulevard San Juan, cerquita del "Patiolmos"  (el Shopping Patio Olmos)  se encuentra un edificio antiguo con puertas altísimas de madera tallada y rampas para ingresar. Arriba, en un añejo bronce dice "Asociacione Italiana. In unione e libertá", pero a los costados caen dos carteles vinílicos grandes que aclaran la verdad de la milanesa: <a href="http://www.cineclubmunicipal.org.ar">Cine Club Municipal Hugo del Carril</a>. 
 

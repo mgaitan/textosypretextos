@@ -34,7 +34,9 @@ tag_links = []
 comments = []
 +++
 
-<div align="right">A Lucas, que la canta caminando hacia el sol. 
-Y a Lea, que la baila tragando tierra y saliva</div>
+{{% epigrafe() %}}
+A Lucas, que la canta caminando hacia el sol. 
+Y a Lea, que la baila tragando tierra y saliva
+{{% end %}}
 
 {{ video_embed(provider="youtube", id="pmCR5z7PEYI") }}

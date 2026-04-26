@@ -38,11 +38,12 @@ tag_links = [
 comments = []
 +++
 
-<div align="right">*
+{{% epigrafe() %}}
+*
 Te seguiré hasta el final
 con el tesón del acero
 te buscaré por la lluvia
 para mojarme en tu beso.
 
 **De una canción de Pedro Guerra***
-</div>
+{{% end %}}

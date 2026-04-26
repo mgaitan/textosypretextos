@@ -34,7 +34,8 @@ tag_links = []
 comments = []
 +++
 
-<div align="right">*Todo lo que de vos quisiera
+{{% epigrafe() %}}
+*Todo lo que de vos quisiera
 es tan poco en el fondo
 porque en el fondo es todo
 
@@ -57,7 +58,8 @@ en la cara de un jefe de oficina,
 y que el placer que juntos inventamos
 sea otro signo de la libertad.
 
-Julio Cortázar*</div>
+Julio Cortázar*
+{{% end %}}
 
 Ojalá pudiera escribirte, pero no sé si me va salir. Este intento, al menos, servirá para saber si se venció el placer que antes me daba escribir. No te preocupes por posibles intoxicaciones, soy inmune a los productos vencidos. 
 

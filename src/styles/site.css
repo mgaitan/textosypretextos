@@ -301,6 +301,17 @@
     @apply border-l-2 border-black pl-5 italic text-neutral-700;
   }
 
+  .story-content .epigrafe,
+  .story-content > blockquote:first-child {
+    @apply border-l-0 pl-0 not-italic text-right mb-8;
+  }
+
+  .story-content .epigrafe p:last-child,
+  .story-content > blockquote:first-child p:last-child {
+    @apply mt-2 text-[0.95rem] not-italic text-neutral-500;
+    font-family: var(--font-ui);
+  }
+
   .story-content .poetry {
     @apply border-y border-black py-6 text-[1.02rem] leading-8;
   }
@@ -341,6 +352,15 @@
 
   .article-deck p {
     @apply my-2;
+  }
+
+  .article-deck blockquote {
+    @apply border-l-0 pl-0 not-italic text-right;
+  }
+
+  .article-deck blockquote p:last-child:not(:first-child) {
+    @apply mt-3 text-[0.95rem] not-italic text-neutral-500;
+    font-family: var(--font-ui);
   }
 
   .story-content .article-postscript {

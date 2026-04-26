@@ -61,7 +61,9 @@ title = "Nueva Constitución Política del Estado Boliviano"
 body = "uy, me olvidé de firmar, y me quiero hacer cargo del mensaje anterior y de mi muy-pobre patriotismo. Saludos! **Noe**"
 +++
 
-<div align="right"><em>Al valiente Pueblo Boliviano, que sabe de lucha, sudor y revoluciones</em></div>
+{{% epigrafe() %}}
+<em>Al valiente Pueblo Boliviano, que sabe de lucha, sudor y revoluciones</em>
+{{% end %}}
 
 En tiempos inmemoriales se erigieron montañas, se desplazaron ríos, se formaron lagos. Nuestra amazonia, nuestro chaco, nuestro altiplano y nuestros llanos y valles se cubrieron de verdores y flores.
 
