@@ -1,1 +1,2 @@
-<div class="dialogue-block">{{ body | safe }}</div>
+<div class="dialogue-block">{{ body | markdown | replace(from="
+", to="<br>") | safe }}</div>
