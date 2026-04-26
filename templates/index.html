@@ -9,7 +9,8 @@
   {% set featured_photo = fotos_section.pages | first %}
   {% set videos_section = get_section(path="videos/_index.md") %}
   {% set latest_video = videos_section.pages | first %}
-  {% set latest_other = get_page(path=section.extra.latest_other_path) %}
+  {% set de_otros_section = get_section(path="de-otros/_index.md") %}
+  {% set latest_other = de_otros_section.pages | first %}
   {% set blog_pages = blog.pages | slice(end=8) %}
 
   <main class="pt-8">
