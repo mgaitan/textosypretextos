@@ -347,7 +347,7 @@
     @apply border-l-0 pl-0 not-italic text-right;
   }
 
-  .article-deck blockquote p:last-child {
+  .article-deck blockquote p:last-child:not(:first-child) {
     @apply mt-3 text-[0.95rem] not-italic text-neutral-500;
     font-family: var(--font-ui);
   }
