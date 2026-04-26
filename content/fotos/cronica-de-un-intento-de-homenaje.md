@@ -54,9 +54,11 @@ body = "Estaba rebuscando este antsuo en particular mediante el uso de ask cuand
 
 Muchas de estas fotos logré sacarlar gracias al descubrimiento de mi amigo y compañero Leandro y a la aparaciencia profesional (para el que no tiene mucha idea) de mi cámara de fotos. 
 
--- *Tincho, mirá, ahí están acreditando a la prensa* -- anotició Lea, y yo enfilé para la cola. 
--- *Hola, acabo de llegar de Neuquén, cubro para el periódico [8300](http://www.8300.com.ar). * -- indiqué a la chica con total convicción. 
--- A ver, dejame buscar... -- contestó totalmente desbordada por la situación, la acreditadora -- Bueno, pasá. 
+{% dialogo() %}
+— *Tincho, mirá, ahí están acreditando a la prensa* -- anotició Lea, y yo enfilé para la cola.
+— *Hola, acabo de llegar de Neuquén, cubro para el periódico [8300](http://www.8300.com.ar). * -- indiqué a la chica con total convicción.
+— A ver, dejame buscar... -- contestó totalmente desbordada por la situación, la acreditadora -- Bueno, pasá.
+{% end %}
 
 Fácil. Ja. 
 

@@ -131,6 +131,39 @@ Audio/archivos:
 
 - Reusar los shortcodes de `templates/shortcodes/`.
 
+### Diálogos
+
+- Para bloques de diálogo con una intervención por línea, usar la macro `dialogo` en vez de `<br>` manuales:
+
+```md
+{% dialogo() %}
+— Primera intervención
+— Segunda intervención
+{% end %}
+```
+
+- Para detectar y corregir casos simples con `--`, usar:
+
+```bash
+uv run scripts/fix_dialogues.py --apply content/fotos/cronica-de-un-intento-de-homenaje.md
+```
+
+- Sin `--apply`, el script corre en modo dry-run e informa candidatos y casos ambiguos para revisión manual.
+
+### Poesía
+
+- Para poesía o texto con cortes de verso que haya que preservar, envolver el bloque con `<div class="poetry">`:
+
+```md
+<div class="poetry">
+Primer verso
+Segundo verso
+Tercer verso
+</div>
+```
+
+- No usar `<br>` para simular versos si el bloque completo puede resolverse con `poetry`.
+
 ### Ortografía
 
 ```bash

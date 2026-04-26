@@ -82,22 +82,15 @@ Y no llegaba y no llegaba, y nosotros pensamos que nos estaba asustando, o algo 
 
 Nosotros, lo único que teníamos que hacer era que cuando le iban a pegar a mi amigo, yo tenía que mirar nomás, y después él me miraba a mi cómo me pegaban. Y hasta que gozó, todo de pegarnos. Se cansó de pegarnos así, y agarró y mandó a los otros para arriba, para el cerro, porque supuestamente andaban tres ahí, en ese campo. Y él se quedó con nosotros, él y el hijo más chico, creo, no sé cuantos años tendrá, uno chiquitito así, debe tener como trece o catorce años. Y ahí nos empezó a huevear así, nos sacaron los reloj, todo. Nos sacó los reloj, las cadenitas así. Nosotros teníamos...teníamos unos hilos acá en el cuello, teníamos colgantes, y nos decían que nos saquemos esos porque parecíamos putos. Y nosotros no podíamos densatar los nudos, por ahí algunos que tenían, y los arrancaba así de un tirón, así ¡pá!. 
 
--- Del que estás hablando es Del Campo el apellido, ¿no?
-
--- Sí. 
-
--- Él qué creía, ¿que ustedes le estaban robando?
-
--- Claro porque nos decía chorros, de todo nos decía. 
-
--- ¿Y cómo termina todo allí?
-
--- ¿Qué?
-
--- ¿Cómo termina? ¿Pueden escapar? ¿Los libera?
-
--- No, después nos agarró de los pelos así, nos empezaba a tirar así y a decir que digamos que eramos trolos, putos, así, después se cansó de decirnos y dijo "bueno, vamos a hacer un trato" dijo, "ustedes se van por este cañadoncito, siempre mirando para la ruta" dijo, "y se quedan escondidos en aquel arbolito. Cuando pase el Ko-kó, el colectivo, no suban a la ruta, porque yo mandé a poner un policía. Después cuando pase, ahí salen ustedes y hacen dedo. Y si ven la policía ustedes dicen que no estaban en el campo, y que yo no los golpié, o sino yo a ustede los voy a meter preso no sé por cuanto" dijo. Nos dijo que era algo de rural, jefe rural, así. 
-
--- ¿Y qué hicieron ahí?
-
--- Y nosotros seguíamos nomás para allá, y de repente vimos que venía él, atrás en la camioneta y nosotros con amigo decíamos "para dónde disparamos" porque pensamos que nos iban a pegar ahí. Y nos quedamos, y viene así, y venía un policía. Y decimos "uh, estamos salvados", era como que habían llegado nuestro padre o alguien así que ya sabíamos que nos nos iban a pegar más. Y se bajó así, re caliente así Don Mario. Y agarró y dijo "¿por qué me mentiste?" dijo, "¿por qué no me dijiste que eras hijo de ese chorro, hijo de..,  el milico de la camioneta marrón", dijo, porque mi papá tiene una camioneta marrón con la que vamos a pescar. Y lo puteó de arriba a abajo así, y yo lo miraba al policía a ver si decía algo. Pero era un oficial y no decía nada, y agachó la cabeza así, y cambió de tema enseguida, y dijo "bueno vamos", y me indica dónde bajaban los otros. Cuando veníamos en el colectivo bajaron antes ellos. Eran tres. Y nosotros seguímos nomás.
+{% dialogo() %}
+— Del que estás hablando es Del Campo el apellido, ¿no?
+— Sí.
+— Él qué creía, ¿que ustedes le estaban robando?
+— Claro porque nos decía chorros, de todo nos decía.
+— ¿Y cómo termina todo allí?
+— ¿Qué?
+— ¿Cómo termina? ¿Pueden escapar? ¿Los libera?
+— No, después nos agarró de los pelos así, nos empezaba a tirar así y a decir que digamos que eramos trolos, putos, así, después se cansó de decirnos y dijo "bueno, vamos a hacer un trato" dijo, "ustedes se van por este cañadoncito, siempre mirando para la ruta" dijo, "y se quedan escondidos en aquel arbolito. Cuando pase el Ko-kó, el colectivo, no suban a la ruta, porque yo mandé a poner un policía. Después cuando pase, ahí salen ustedes y hacen dedo. Y si ven la policía ustedes dicen que no estaban en el campo, y que yo no los golpié, o sino yo a ustede los voy a meter preso no sé por cuanto" dijo. Nos dijo que era algo de rural, jefe rural, así.
+— ¿Y qué hicieron ahí?
+— Y nosotros seguíamos nomás para allá, y de repente vimos que venía él, atrás en la camioneta y nosotros con amigo decíamos "para dónde disparamos" porque pensamos que nos iban a pegar ahí. Y nos quedamos, y viene así, y venía un policía. Y decimos "uh, estamos salvados", era como que habían llegado nuestro padre o alguien así que ya sabíamos que nos nos iban a pegar más. Y se bajó así, re caliente así Don Mario. Y agarró y dijo "¿por qué me mentiste?" dijo, "¿por qué no me dijiste que eras hijo de ese chorro, hijo de..,  el milico de la camioneta marrón", dijo, porque mi papá tiene una camioneta marrón con la que vamos a pescar. Y lo puteó de arriba a abajo así, y yo lo miraba al policía a ver si decía algo. Pero era un oficial y no decía nada, y agachó la cabeza así, y cambió de tema enseguida, y dijo "bueno vamos", y me indica dónde bajaban los otros. Cuando veníamos en el colectivo bajaron antes ellos. Eran tres. Y nosotros seguímos nomás.
+{% end %}
