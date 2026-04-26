@@ -17,6 +17,7 @@ tags = [
 ]
 
 [extra]
+video_id = "3dt47iqLBfU"
 legacy_id = 360
 section_slug = "videos"
 section_title = "Videos"

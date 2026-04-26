@@ -14,6 +14,7 @@ categories = [
 tags = []
 
 [extra]
+video_id = "HG18kguB2zY"
 legacy_id = 228
 section_slug = "videos"
 section_title = "Videos"

@@ -123,6 +123,13 @@
     @apply pb-2 text-[3rem] leading-[0.9] tracking-[-0.04em] text-black sm:text-[4.8rem] lg:text-[6.5rem];
   }
 
+  @media (min-width: 1024px) {
+    .masthead .story-kicker {
+      margin-left: 2em;
+      margin-top: -0.6em;
+    }
+  }
+
   .brand-deck {
     font-family: var(--font-ui);
     @apply max-w-[34rem] text-sm leading-6 text-neutral-600;
@@ -224,6 +231,35 @@
 
   .media-frame.video iframe {
     @apply h-full w-full border-0;
+  }
+
+  .video-facade {
+    @apply block w-full h-full bg-cover bg-center bg-no-repeat border-0 cursor-pointer p-0;
+    position: relative;
+  }
+
+  .video-play-icon {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.3);
+    transition: background 0.2s;
+  }
+
+  .video-play-icon::after {
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 20px 0 20px 36px;
+    border-color: transparent transparent transparent white;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));
+  }
+
+  .video-facade:hover .video-play-icon {
+    background: rgba(0, 0, 0, 0.5);
   }
 
   .editorial-rule {

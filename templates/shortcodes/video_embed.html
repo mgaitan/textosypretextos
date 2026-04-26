@@ -1,13 +1,11 @@
 <figure class="align-center">
-  <div class="media-frame video">
+  <div class="media-frame video aspect-[16/9]">
     {% if provider == "youtube" %}
-      <iframe
-        src="https://www.youtube.com/embed/{{ id }}"
-        title="{{ title | default(value="Video") }}"
-        loading="lazy"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen
-      ></iframe>
+      <button class="video-facade" data-src="https://www.youtube.com/embed/{{ id }}?autoplay=1"
+              style="background-image:url('https://img.youtube.com/vi/{{ id }}/hqdefault.jpg')"
+              aria-label="{{ title | default(value='Reproducir video') }} — {{ title | default(value='YouTube') }}">
+        <span class="video-play-icon" aria-hidden="true"></span>
+      </button>
     {% elif provider == "vimeo" %}
       <iframe
         src="https://player.vimeo.com/video/{{ id }}"
