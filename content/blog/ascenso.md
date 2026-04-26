@@ -30,7 +30,7 @@ comment_count = 0
 legacy_url = "/blog/ascenso/"
 surtitle = ""
 subtitle = ""
-deck = "*A la memoria de Daniel Salzano*"
+deck = "*A la memoria de [Daniel Salzano](/autores/daniel-salzano/)*"
 author_links = [
     { name = "Martín Gaitán", path = "/autores/martin/" },
 ]
