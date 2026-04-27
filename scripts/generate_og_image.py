@@ -84,14 +84,20 @@ def build_html(site_css: Path, title: str, tagline: str, badge: str, width: int,
       .footer-row {{
         align-self: end;
         position: relative;
-        padding-top: 22px;
-        border-top: 2px solid #000;
         min-height: 50px;
+      }}
+      .footer-line {{
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 2px;
+        background: #000;
       }}
       .badge {{
         position: absolute;
         right: 0;
-        top: -22px;
+        bottom: 0;
         display: inline-flex;
         align-items: center;
         background: #000;
@@ -120,6 +126,7 @@ def build_html(site_css: Path, title: str, tagline: str, badge: str, width: int,
       </header>
       <div class="spacer"></div>
       <div class="footer-row">
+        <span class="footer-line" aria-hidden="true"></span>
         <span class="badge">{badge}</span>
       </div>
     </div>
