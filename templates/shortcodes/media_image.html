@@ -1,8 +1,14 @@
-{% if modal_id %}<a href="{{ src }}" data-image-modal-trigger="{{ modal_id }}" aria-controls="image-modal-{{ modal_id }}">{% endif %}<figure class="align-{{ align | default(value="center") }}">
+{% if modal_id %}
+<a href="{{ src }}" data-image-modal-trigger="{{ modal_id }}" aria-controls="image-modal-{{ modal_id }}">
+{% endif %}
+<figure class="align-{{ align | default(value="center") }}">
   <div class="media-frame">
     <img src="{{ src }}" alt="{{ alt | default(value="") }}" loading="lazy">
   </div>
   {% if caption %}
     <figcaption>{{ caption }}</figcaption>
   {% endif %}
-</figure>{% if modal_id %}</a>{% endif %}
+</figure>
+{% if modal_id %}
+</a>
+{% endif %}
