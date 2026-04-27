@@ -88,7 +88,7 @@ def build_html(site_css: Path, title: str, tagline: str, badge: str, width: int,
       }}
       .footer-line {{
         position: absolute;
-        left: 0;
+        left: 50%;
         right: 0;
         bottom: 0;
         height: 2px;
