@@ -1,6 +1,8 @@
 {% extends "base.html" %}
 
 {% block title %}Etiquetas · {{ config.title }}{% endblock title %}
+{% block canonical_url %}{{ section.permalink }}{% endblock canonical_url %}
+{% block og_url %}{{ section.permalink }}{% endblock og_url %}
 
 {% block content %}
   <main class="pt-8">

@@ -1,6 +1,8 @@
 {% extends "base.html" %}
 
 {% block title %}Buscar · {{ config.title }}{% endblock title %}
+{% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
+{% block og_url %}{{ page.permalink }}{% endblock og_url %}
 
 {% block content %}
   <main class="pt-8 mx-auto max-w-[980px]">

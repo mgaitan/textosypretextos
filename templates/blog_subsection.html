@@ -3,6 +3,8 @@
 
 {% block title %}{{ page.title }} · Blog · {{ config.title }}{% endblock title %}
 {% block meta_description %}{{ page.content | striptags | truncate(length=160) | default(value="Subsección del blog") }}{% endblock meta_description %}
+{% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
+{% block og_url %}{{ page.permalink }}{% endblock og_url %}
 
 {% block content %}
   {% set subsections = get_section(path="blog/subsecciones/_index.md") %}

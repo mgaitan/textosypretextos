@@ -25,12 +25,18 @@
     <script type="module" src="/assets/site.js"></script>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path='atom.xml') }}">
-    <meta property="og:type" content="website">
+    <link rel="canonical" href="{% block canonical_url %}{{ config.base_url }}/{% endblock canonical_url %}">
+    <meta property="og:type" content="{% block og_type %}website{% endblock og_type %}">
+    <meta property="og:site_name" content="{{ config.title }}">
+    <meta property="og:locale" content="es_AR">
     <meta property="og:url" content="{% block og_url %}{{ config.base_url }}/{% endblock og_url %}">
     <meta property="og:title" content="{% block og_title %}{{ config.title }}{% endblock og_title %}">
     <meta property="og:description" content="{% block og_description %}{{ config.description }}{% endblock og_description %}">
     <meta property="og:image" content="{% block og_image %}{{ config.base_url }}/og-image.png{% endblock og_image %}">
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{% block twitter_title %}{{ config.title }}{% endblock twitter_title %}">
+    <meta name="twitter:description" content="{% block twitter_description %}{{ config.description }}{% endblock twitter_description %}">
+    <meta name="twitter:image" content="{% block twitter_image %}{{ config.base_url }}/og-image.png{% endblock twitter_image %}">
   </head>
   <body>
     <div class="page-shell">

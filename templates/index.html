@@ -2,8 +2,9 @@
 {% import "partials/macros.html" as macros %}
 
 {% block title %}{{ config.title }}{% endblock title %}
-
+{% block meta_description %}Un weblog de Martín Gaitán{% endblock meta_description %}
 {% block og_description %}Un weblog de Martín Gaitán{% endblock og_description %}
+{% block twitter_description %}Un weblog de Martín Gaitán{% endblock twitter_description %}
 
 {% block content %}
   {% set blog = get_section(path="blog/_index.md") %}

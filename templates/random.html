@@ -2,6 +2,8 @@
 
 {% block title %}Aleatorio · {{ config.title }}{% endblock title %}
 {% block meta_description %}Llevame a cualquier texto del sitio al azar.{% endblock meta_description %}
+{% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
+{% block og_url %}{{ page.permalink }}{% endblock og_url %}
 
 {% block content %}
   {% set blog = get_section(path="blog/_index.md") %}
