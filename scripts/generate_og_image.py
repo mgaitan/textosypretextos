@@ -90,7 +90,7 @@ def build_html(site_css: Path, title: str, tagline: str, badge: str, width: int,
       }}
       .badge {{
         position: absolute;
-        left: 0;
+        right: 0;
         top: -22px;
         display: inline-flex;
         align-items: center;
