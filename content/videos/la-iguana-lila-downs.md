@@ -14,7 +14,7 @@ categories = [
 tags = []
 
 [extra]
-video_id = "Ww2EX0OdDeA"
+video_id = "MkHCWoR5GoQ"
 legacy_id = 92
 section_slug = "videos"
 section_title = "Videos"
@@ -56,5 +56,5 @@ title = "La Iguana - Lila Downs"
 body = "buena música chabón..."
 +++
 
-{{ video_embed(provider="youtube", id="Ww2EX0OdDeA", title="Ww2EX0OdDeA") }}
+{{ video_embed(provider="youtube", id="MkHCWoR5GoQ", title="La Iguana - Lila Downs") }}
 
