@@ -108,15 +108,6 @@ Allí estaba, aunque Gorgory no lo supiera, toda la impotencia y sentimiento de 
 
 Logré pedirle disculpas haciéndole notar que probablemente tenía razón pero  que hay formas mejores de decir las cosas. Con los ojos brillosos, entre la agustia y el desasosiego, me pidió que tuviese más cuidado y que *circule, circule*, haciendo un gesto desganado con la mano derecha.
 
-### Galería
-
-{{ media_image(src="/media/jpg/kit.jpg", alt="kit de protectores", caption="", align="center", modal_id="kit") }}
-
-{{ media_image(src="/media/jpg/meditar.jpg", alt="libro de meditación", caption="", align="center", modal_id="meditar") }}
-
-{{ media_image(src="/media/jpg/1044229845_aurorita_suspension.jpg", alt="bici negra", caption="", align="center", modal_id="aurorita") }}
-
-{{ media_image(src="/media/png/jefe-gorgory.png", alt="Jefe Gorgory", caption="", align="center", modal_id="gorgory") }}
 
 <div class="image-modal" id="image-modal-kit" data-image-modal hidden aria-hidden="true">
   <div class="image-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="image-modal-kit-title">
