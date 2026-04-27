@@ -67,11 +67,11 @@ body = "Estimado Primo, (tan abandonado que me tenes), para las fiestas , te reg
 
 Divagar y pedalear son cosas que me salen con cierta facilidad. Son buenas virtudes, si uno las evalúa desde el placer y la salud y no desde el tiempo perdido y el olor a chivo.  Lo nocivo, lo peligroso de estas actividades está en hacerlas al mismo tiempo. Pobre de mí: estoy en riesgo. 
 
-Voy a hacer una aclaración inmediata porque sé que mi viejo leerá esto y a la voz de "*hijito...*" enviará una encomienda con <a href="http://www.textosypretextos.com.ar/IMG/jpg/kit.jpg" rel="encomienda" title="kit de protectores" class="thickbox">algunas</a> <a href="http://www.textosypretextos.com.ar/IMG/jpg/meditar.jpg" rel="encomienda" title="libro de meditación" class="thickbox">cositas</a>: no es que me suba a la bicicleta y me olvide del mundo (ni tampoco del tráfico que suele haber en las ciudades que hay sobre este), sino que simplemente naturalizo el ritmo, a razón de una idea nueva por cada revolución de cadena.
+Voy a hacer una aclaración inmediata porque sé que mi viejo leerá esto y a la voz de "*hijito...*" enviará una encomienda con <a href="/media/jpg/kit.jpg" data-image-modal-trigger="kit" aria-controls="image-modal-kit">algunas</a> <a href="/media/jpg/meditar.jpg" data-image-modal-trigger="meditar" aria-controls="image-modal-meditar">cositas</a>: no es que me suba a la bicicleta y me olvide del mundo (ni tampoco del tráfico que suele haber en las ciudades que hay sobre este), sino que simplemente naturalizo el ritmo, a razón de una idea nueva por cada revolución de cadena.
 
 Aprendí a andar en bicicleta de viejo, a los 9 años. Un amigo de la infancia, Gerardo se llamaba, tenía una casa con patio grande, gallinas y bicicletas abandonadas. A cambio de una caja de madera que debía hacer mi papá (y no recuerdo si pagamos), me dio una de sus bicletas jubiladas y las primeras lecciones de conducir. 
 
-Era una <a href="http://www.textosypretextos.com.ar/IMG/jpg/1044229845_aurorita_suspension.jpg" class="thickbox" title="era como esta pero sin suspención">bici negra</a>, con llantas rígidas,  asiento con respaldo y muchos kilos de metal. Las lecciones se reducían a empujarme a gran velocidad por la calle Petróleo del Barrio La Sirena (en ese entonces, aún de tierra y piedras seleccionadamente filosas) durante unos 50 metros y esperar a que la inercia me diera tiempo a recibir, como si fuese una epifanía, el equilibrio y la motricidad ausentes de mi cuerpo. Aún tengo piedrecillas incrustadas en los codos de aquella dulce --y dolorosa-- infancia. 
+Era una <a href="/media/jpg/1044229845_aurorita_suspension.jpg" data-image-modal-trigger="aurorita" aria-controls="image-modal-aurorita">bici negra</a>, con llantas rígidas,  asiento con respaldo y muchos kilos de metal. Las lecciones se reducían a empujarme a gran velocidad por la calle Petróleo del Barrio La Sirena (en ese entonces, aún de tierra y piedras seleccionadamente filosas) durante unos 50 metros y esperar a que la inercia me diera tiempo a recibir, como si fuese una epifanía, el equilibrio y la motricidad ausentes de mi cuerpo. Aún tengo piedrecillas incrustadas en los codos de aquella dulce --y dolorosa-- infancia. 
 
 La cuestión es que aprendí y ya nunca dejé de pedalear. Tuve muchas bicicletas: nuevas y usadas, con más o menos antigüedad antes de que fueran robadas, con las que viajé por la montaña y con la que salté rampas de la muerte hechas por nosotros mismos, los pibes del barrio, compactando basura entre los eucaliptos.
 
@@ -79,7 +79,7 @@ En todos estos años de manos engrasadas y ruedos rotos casi no sufrí accidente
 
 Era un sábado a la tarde. Salí apurado, sucumbiendo una vez más a mi absurda especulación: no sé de qué manera me convenzo de que llego a cualquier lado en quince minutos. Iba al [barrio](http://www.agrupacionmazamorra.com.ar), y según se me acusó después, parece que doblé en rojo de Belgrano a Pueyrredón. 
 
-En la esquina siguiente, sobre Velez Sarfield, el semáforo era más evidente o el tráfico más amedrentador, porque me detuve sobre la senda peatonal. Un 504 destartaldo se paró a mi derecha (evidentemente yo iba por el medio de la calle) y el policía de uniforme igualito al <a href="http://www.textosypretextos.com.ar/IMG/png/jefe-gorgory.png" class="thickbox" title="juro que no miento">Jefe Gorgory</a> que lo conduciá empezó a increparme. 
+En la esquina siguiente, sobre Velez Sarfield, el semáforo era más evidente o el tráfico más amedrentador, porque me detuve sobre la senda peatonal. Un 504 destartaldo se paró a mi derecha (evidentemente yo iba por el medio de la calle) y el policía de uniforme igualito al <a href="/media/png/jefe-gorgory.png" data-image-modal-trigger="gorgory" aria-controls="image-modal-gorgory">Jefe Gorgory</a> que lo conduciá empezó a increparme. 
 
 -- *¿No sabés que los semáforos están para respetarlos?* -- inició, tibio, su campaña de concientización vial. 
 -- *¿No ves que estoy esperando el semáforo igual que vos?* -- respondí, sobrador e ingenuo
@@ -110,10 +110,50 @@ Logré pedirle disculpas haciéndole notar que probablemente tenía razón pero 
 
 ### Galería
 
-{{ media_image(src="/media/jpg/kit.jpg", alt="", caption="", align="center") }}
+{{ media_image(src="/media/jpg/kit.jpg", alt="kit de protectores", caption="", align="center", modal_id="kit") }}
 
-{{ media_image(src="/media/jpg/meditar.jpg", alt="", caption="", align="center") }}
+{{ media_image(src="/media/jpg/meditar.jpg", alt="libro de meditación", caption="", align="center", modal_id="meditar") }}
 
-{{ media_image(src="/media/jpg/1044229845_aurorita_suspension.jpg", alt="", caption="", align="center") }}
+{{ media_image(src="/media/jpg/1044229845_aurorita_suspension.jpg", alt="bici negra", caption="", align="center", modal_id="aurorita") }}
 
-{{ media_image(src="/media/png/jefe-gorgory.png", alt="", caption="", align="center") }}
+{{ media_image(src="/media/png/jefe-gorgory.png", alt="Jefe Gorgory", caption="", align="center", modal_id="gorgory") }}
+
+<div class="image-modal" id="image-modal-kit" data-image-modal hidden aria-hidden="true">
+  <div class="image-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="image-modal-kit-title">
+    <button type="button" class="image-modal-close" data-image-modal-close aria-label="Cerrar imagen">Cerrar</button>
+    <figure class="image-modal-figure">
+      <img src="/media/jpg/kit.jpg" alt="kit de protectores" loading="lazy">
+      <figcaption id="image-modal-kit-title" class="sr-only">kit de protectores</figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="image-modal" id="image-modal-meditar" data-image-modal hidden aria-hidden="true">
+  <div class="image-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="image-modal-meditar-title">
+    <button type="button" class="image-modal-close" data-image-modal-close aria-label="Cerrar imagen">Cerrar</button>
+    <figure class="image-modal-figure">
+      <img src="/media/jpg/meditar.jpg" alt="libro de meditación" loading="lazy">
+      <figcaption id="image-modal-meditar-title" class="sr-only">libro de meditación</figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="image-modal" id="image-modal-aurorita" data-image-modal hidden aria-hidden="true">
+  <div class="image-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="image-modal-aurorita-title">
+    <button type="button" class="image-modal-close" data-image-modal-close aria-label="Cerrar imagen">Cerrar</button>
+    <figure class="image-modal-figure">
+      <img src="/media/jpg/1044229845_aurorita_suspension.jpg" alt="bici negra" loading="lazy">
+      <figcaption id="image-modal-aurorita-title" class="sr-only">bici negra</figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="image-modal" id="image-modal-gorgory" data-image-modal hidden aria-hidden="true">
+  <div class="image-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="image-modal-gorgory-title">
+    <button type="button" class="image-modal-close" data-image-modal-close aria-label="Cerrar imagen">Cerrar</button>
+    <figure class="image-modal-figure">
+      <img src="/media/png/jefe-gorgory.png" alt="Jefe Gorgory" loading="lazy">
+      <figcaption id="image-modal-gorgory-title" class="sr-only">Jefe Gorgory</figcaption>
+    </figure>
+  </div>
+</div>
