@@ -2,6 +2,8 @@
 
 {% block title %}Subsecciones · Blog · {{ config.title }}{% endblock title %}
 {% block meta_description %}{{ section.extra.summary | default(value="Subsecciones del blog") }}{% endblock meta_description %}
+{% block canonical_url %}{{ section.permalink }}{% endblock canonical_url %}
+{% block og_url %}{{ section.permalink }}{% endblock og_url %}
 
 {% block content %}
   <main class="pt-8">
