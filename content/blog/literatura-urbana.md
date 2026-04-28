@@ -481,7 +481,7 @@ title = "Literatura Urbana"
 body = "En realidad  hay pocas evidencias con respecto a la literatura urbana, pero queda  en claro  segun el texto trata  sobre  la realidad  de una ciudad y el contacto con la naturaleza."
 +++
 
-Caminar por la calle transmite sensaciones de todos los colores y gustos, pero uno debe estar atento para percibirlos. En general sucede que vamos nerviosos, apurados, con hambre, pensando en la mala racha de Boca o en esa mujer que no nos da bola, y entonces nos perdemos todas esas historias que la calle nos regala por sólo estar ahí, mirando. 
+Caminar por la calle transmite sensaciones de todos los colores y gustos, pero uno debe estar atento para percibirlos. En general sucede que vamos nerviosos, apurados, con hambre, pensando en la mala racha de Boca o en esa mujer que no nos da bola y entonces nos perdemos todas esas historias que la calle nos regala por sólo estar ahí, mirando. 
 
 La calle no es sólo el asfalto y la vereda, entiendasé. Tampoco se completa si sumamos los cordones y las esquinas. La calle es todo lo que hay afuera: los peatones que visten celulares de mil pesos, los obreros de la construcción que piropean profesionalmente, las vidrieras con maniquies de cintura diminuta, los miles de pibitos que manguean o venden alguna chuchería en cada esquina, los policías sospechandome violador en el parque,  las minas hiperproducidas que van a comprar arroz de oferta al Disco, los artistas callejeros tantas veces mejores que los otros e igual o más postergados. Hay infinitas historias en la calle,  sólo falta contarlas. 
 
@@ -499,9 +499,10 @@ No todo son carteles; también presto atención a la gente que labura. En la esq
 
 Hasta ahora no he jugado ni siquiera un partido de fútbol, y eso no es por falta de oportunidades. Basta ir al Parque a cualquier hora, y acercarse al picadito de turno. Hay guasos chivando tras la redonda a cualquier hora,  y es corriendo por esos lugares cuando estuve más cerca de cordobeses de pura cepa.  
 
-- *Paasala chepaipudo, negro hediondo, hasta mi agüela lo hacía a ese gol*  - le recrimina uno. 
-
-- *Andáaa, si vó sabé meno e fulbo que tu hermana de virginidá* - se defiende el otro con estilo. 
+{% dialogo() %}
+-- *Paasala che paipudo, negro hediondo, hasta mi agüela lo hacía a ese gol*  -- le recrimina uno. 
+-- *Andáaa, si vó sabé meno e fulbo que tu hermana de virginidá* -- se defiende el otro con estilo. 
+{% end %}
 
 El fin de semana aparecieron pegados por  la ciudad unos afiches tamaño A3 . Comparado con la cantidad de publicidad gráfica que hay, estos son chiquitos y menos vistosos por ser en blanco y negro, pero yo me quedé gratamente sorprendido. Se trata de una Revista Mural (que acusa el Nº 2) llamada **Aldea Primitiva**.  Les transcribo uno de sus texto, que copié en mi agenda parado en una esquina, mientras los transeúntes me esquivaban como a un estorbo: 
 
