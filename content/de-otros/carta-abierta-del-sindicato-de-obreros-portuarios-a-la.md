@@ -31,7 +31,7 @@ surtitle = ""
 subtitle = "Luis Pescetti"
 deck = ""
 author_links = [
-    { name = "Luis Pescetti", path = "" },
+    { name = "Luis Pescetti", path = "/autores/luis-pescetti/" },
 ]
 tag_links = [
     { name = "Amistad", path = "/etiquetas/amistad/" },
