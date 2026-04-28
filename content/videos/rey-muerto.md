@@ -38,14 +38,8 @@ tag_links = [
 comments = []
 +++
 
-{{ external_embed(provider="googlevideo", url="<embed id=\"VideoPlayback\" src=\"http://video.google.com/googleplayer.swf?docid=-4346354069328780196&hl=es&fs=true\" style=\"width:500px;height:410px\" allowFullScreen=\"true\" allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\">") }}
-
- </embed>
+{{ video_embed(provider="youtube", id="6EyCEheYolc") }}
 
 {% postscript() %}
 Cortometraje de ficción de la realizadora Lucrecia Martel incluido en la compilación Historias Breves I
 {% end %}
-
-### Galería
-
-{{ external_embed(provider="googlevideo", url="http://video.google.com/googleplayer.swf?docid=-4346354069328780196", title="googleplayer.swf") }}
