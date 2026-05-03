@@ -17,7 +17,7 @@ tags = []
 legacy_id = 178
 section_slug = "de-otros"
 section_title = "De otres"
-summary = "Harto ya de alabar tu piel dorada, tus externas y muchas perfecciones, canto al jardín azul de tus pulmones y a tu traquea elegante y anillada. Canto a tu masa intestinal rosada al brazo, al páncreas, a los epiplones…"
+summary = "Harto ya de alabar tu piel dorada, tus externas y muchas perfecciones, canto al jardín azul de tus pulmones y a tu traquea elegante y anillada. Canto a tu masa intestinal rosada al bazo, al páncreas, a los epiplones…"
 visits = 6114
 popularite = 0.9064331433338957
 hero_image = ""
@@ -72,7 +72,7 @@ canto al jardín azul de tus pulmones<br>
 y a tu traquea elegante y anillada.<br>
 <br>
 Canto a tu masa intestinal rosada<br>
-al brazo, al páncreas, a los epiplones,<br>
+al bazo, al páncreas, a los epiplones,<br>
 al doble filtro gris de tus riñones.<br>
 Y a tu matriz profunda y renovada.<br>
 <br>
