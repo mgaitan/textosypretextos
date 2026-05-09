@@ -1,208 +1,282 @@
-{% extends "base.html" %}
-{% import "partials/macros.html" as macros %}
+{% extends "base.html" %} {% import "partials/macros.html" as macros %} {% block
+title %}{{ page.title }} · {{ config.title }}{% endblock title %} {% block
+meta_description %}{{ page.description | default(value=page.extra.summary |
+default(value=config.description)) }}{% endblock meta_description %} {% block
+canonical_url %}{{ page.permalink }}{% endblock canonical_url %} {% block
+og_type %}article{% endblock og_type %} {% block og_url %}{{ page.permalink }}{%
+endblock og_url %} {% block og_title %}{{ page.title }} · {{ config.title }}{%
+endblock og_title %} {% block og_description %}{{ page.description |
+default(value=page.extra.summary | default(value=config.description)) }}{%
+endblock og_description %} {% block og_image %} {%- if page.extra.hero_image -%}
+{{ config.base_url }}{{ page.extra.hero_image }} {%- elif
+page.extra.section_slug == "videos" and page.extra.video_id -%}
+https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg {%- else -%}
+{{ config.base_url }}/og-image.png {%- endif -%} {% endblock og_image %} {%
+block twitter_title %}{{ page.title }} · {{ config.title }}{% endblock
+twitter_title %} {% block twitter_description %}{{ page.description |
+default(value=page.extra.summary | default(value=config.description)) }}{%
+endblock twitter_description %} {% block twitter_image %} {%- if
+page.extra.hero_image -%} {{ config.base_url }}{{ page.extra.hero_image }} {%-
+elif page.extra.section_slug == "videos" and page.extra.video_id -%}
+https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg {%- else -%}
+{{ config.base_url }}/og-image.png {%- endif -%} {% endblock twitter_image %} {%
+block content %} {% set use_subcat = page.extra.section_slug in ["blog",
+"de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
 
-{% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
-{% block meta_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock meta_description %}
-{% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
-{% block og_type %}article{% endblock og_type %}
-{% block og_url %}{{ page.permalink }}{% endblock og_url %}
-{% block og_title %}{{ page.title }} · {{ config.title }}{% endblock og_title %}
-{% block og_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock og_description %}
-{% block og_image %}
-  {%- if page.extra.hero_image -%}
-    {{ config.base_url }}{{ page.extra.hero_image }}
-  {%- elif page.extra.section_slug == "videos" and page.extra.video_id -%}
-    https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg
-  {%- else -%}
-    {{ config.base_url }}/og-image.png
-  {%- endif -%}
-{% endblock og_image %}
-{% block twitter_title %}{{ page.title }} · {{ config.title }}{% endblock twitter_title %}
-{% block twitter_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock twitter_description %}
-{% block twitter_image %}
-  {%- if page.extra.hero_image -%}
-    {{ config.base_url }}{{ page.extra.hero_image }}
-  {%- elif page.extra.section_slug == "videos" and page.extra.video_id -%}
-    https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg
-  {%- else -%}
-    {{ config.base_url }}/og-image.png
-  {%- endif -%}
-{% endblock twitter_image %}
-
-{% block content %}
-  {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
-
-  <main
+<main
     class="article-shell"
     data-track-article-view
     data-article-slug="{{ page.slug }}"
-  >
+>
     <header class="article-header reveal">
-      <h1 class="story-title">{{ page.title }}</h1>
-      {% if page.extra.subtitle %}
+        <h1 class="story-title">{{ page.title }}</h1>
+        {% if page.extra.subtitle %}
         <p class="article-subtitle">
-          {%- if page.extra.author_links and page.extra.author_links[0].name == page.extra.subtitle and page.extra.author_links[0].path -%}
-            <a href="{{ page.extra.author_links[0].path }}" class="meta-link">{{ page.extra.subtitle }}</a>
-          {%- else -%}
-            {{ page.extra.subtitle }}
-          {%- endif -%}
+            {%- if page.extra.author_links and page.extra.author_links[0].name
+            == page.extra.subtitle and page.extra.author_links[0].path -%}
+            <a href="{{ page.extra.author_links[0].path }}" class="meta-link"
+                >{{ page.extra.subtitle }}</a
+            >
+            {%- else -%} {{ page.extra.subtitle }} {%- endif -%}
         </p>
-      {% endif %}
-      {% if page.extra.deck %}
-        <div class="article-deck">{{ page.extra.deck | markdown(inline=false) | safe }}</div>
-      {% endif %}
-      <div class="meta-row">
-        <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
-        {% if page.extra.comment_count | default(value=0) > 0 %}
-          <a href="#comments" class="meta-link">{{ page.extra.comment_count }} comentarios</a>
+        {% endif %} {% if page.extra.deck %}
+        <div class="article-deck">
+            {{ page.extra.deck | markdown(inline=false) | safe }}
+        </div>
         {% endif %}
-      </div>
+        <div class="meta-row">
+            <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
+            {% if page.extra.comment_count | default(value=0) > 0 %}
+            <a href="#comments" class="meta-link"
+                >{{ page.extra.comment_count }} comentarios</a
+            >
+            {% endif %}
+        </div>
     </header>
 
     <article class="article-body story-content reveal">
-      {{ page.content | safe }}
+        {{ page.content | safe }}
     </article>
 
-    {% if use_subcat %}{% set tag_start = 1 %}{% else %}{% set tag_start = 0 %}{% endif %}
-    {% if page.extra.tag_links and page.extra.tag_links | length > tag_start %}
-      <div class="article-tags reveal">
+    {% if use_subcat %}{% set tag_start = 1 %}{% else %}{% set tag_start = 0
+    %}{% endif %} {% if page.extra.tag_links and page.extra.tag_links | length >
+    tag_start %}
+    <div class="article-tags reveal">
         <span class="story-kicker mr-3">Etiquetas</span>
         <div class="flex flex-wrap gap-2">
-          {% for tag in page.extra.tag_links %}
-            {% if loop.index0 >= tag_start %}
-              {% if tag.path %}
-                <a href="{{ tag.path }}" class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-700 hover:bg-black hover:text-white">{{ tag.name }}</a>
-              {% else %}
-                <span class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag.name }}</span>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
+            {% for tag in page.extra.tag_links %} {% if loop.index0 >= tag_start
+            %} {% if tag.path %}
+            <a
+                href="{{ tag.path }}"
+                class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-700 hover:bg-black hover:text-white"
+                >{{ tag.name }}</a
+            >
+            {% else %}
+            <span
+                class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600"
+                >{{ tag.name }}</span
+            >
+            {% endif %} {% endif %} {% endfor %}
         </div>
-      </div>
+    </div>
     {% endif %}
 
     <div class="article-comment-cta reveal">
-      <a href="#comment-form" class="more-link" data-comment-focus>Dejá un comentario</a>
+        <a href="#comment-form" class="more-link" data-comment-focus
+            >Dejá un comentario</a
+        >
     </div>
 
-    {% if config.extra.github_repo and page.relative_path %}
-      {% set edit_url = "https://github.com/" ~ config.extra.github_repo ~ "/edit/" ~ config.extra.github_branch ~ "/content/" ~ page.relative_path %}
-      {% set history_url = "https://github.com/" ~ config.extra.github_repo ~ "/commits/" ~ config.extra.github_branch ~ "/content/" ~ page.relative_path %}
-      {% set issue_permalink = page.permalink | urlencode %}
-      {% set issue_source_path = "content/" ~ page.relative_path %}
-      {% set issue_source = issue_source_path | urlencode %}
-      {% set issue_path = page.relative_path | replace(from=".md", to="") %}
-      {% set issue_title = "problema en " ~ issue_path %}
-      {% set issue_title_encoded = issue_title | urlencode %}
-      {% set issue_url = "https://github.com/" ~ config.extra.github_repo ~ "/issues/new?template=reporte_problema.yml&title=" ~ issue_title_encoded ~ "&url=" ~ issue_permalink ~ "&source=" ~ issue_source %}
-      <div class="article-contribute reveal">
-        <a href="{{ edit_url }}" class="article-contribute-link" rel="noopener" target="_blank">Editar en GitHub</a>
+    {% if config.extra.github_repo and page.relative_path %} {% set edit_url =
+    "https://github.com/" ~ config.extra.github_repo ~ "/edit/" ~
+    config.extra.github_branch ~ "/content/" ~ page.relative_path %} {% set
+    history_url = "https://github.com/" ~ config.extra.github_repo ~ "/commits/"
+    ~ config.extra.github_branch ~ "/content/" ~ page.relative_path %} {% set
+    issue_permalink = page.permalink | urlencode %} {% set issue_source_path =
+    "content/" ~ page.relative_path %} {% set issue_source = issue_source_path |
+    urlencode %} {% set issue_path = page.relative_path | replace(from=".md",
+    to="") %} {% set issue_title = "problema en " ~ issue_path %} {% set
+    issue_title_encoded = issue_title | urlencode %} {% set issue_url =
+    "https://github.com/" ~ config.extra.github_repo ~
+    "/issues/new?template=reporte_problema.yml&title=" ~ issue_title_encoded ~
+    "&url=" ~ issue_permalink ~ "&source=" ~ issue_source %}
+    <div class="article-contribute reveal">
+        <a
+            href="{{ edit_url }}"
+            class="article-contribute-link"
+            rel="noopener"
+            target="_blank"
+            >Editar en GitHub</a
+        >
         <span class="article-contribute-sep" aria-hidden="true">·</span>
-        <a href="{{ history_url }}" class="article-contribute-link" rel="noopener" target="_blank">Ver historial</a>
+        <a
+            href="{{ history_url }}"
+            class="article-contribute-link"
+            rel="noopener"
+            target="_blank"
+            >Ver historial</a
+        >
         <span class="article-contribute-sep" aria-hidden="true">·</span>
-        <a href="{{ issue_url }}" class="article-contribute-link" rel="noopener" target="_blank">Reportar un problema</a>
-      </div>
-    {% endif %}
-
-    {% if page.lower or page.higher %}
-      <nav class="article-nav reveal" aria-label="Navegación entre artículos">
+        <a
+            href="{{ issue_url }}"
+            class="article-contribute-link"
+            rel="noopener"
+            target="_blank"
+            >Reportar un problema</a
+        >
+    </div>
+    {% endif %} {% if page.lower or page.higher %}
+    <nav class="article-nav reveal" aria-label="Navegación entre artículos">
         <div class="article-nav-prev">
-          {% if page.lower %}
-            <span class="story-kicker">← Anterior</span>
-            <a href="{{ page.lower.permalink }}" class="story-title-xs block mt-1">{{ page.lower.title }}</a>
-          {% endif %}
+            {% if page.lower %}
+            <span class="story-kicker shrink-0">← Anterior</span>
+            <a
+                href="{{ page.lower.permalink }}"
+                class="story-title-xs sm:block sm:mt-1 min-w-0 truncate"
+                >{{ page.lower.title }}</a
+            >
+            {% endif %}
         </div>
         <div class="article-nav-next">
-          {% if page.higher %}
-            <span class="story-kicker">Siguiente →</span>
-            <a href="{{ page.higher.permalink }}" class="story-title-xs block mt-1">{{ page.higher.title }}</a>
-          {% endif %}
+            {% if page.higher %}
+            <span class="story-kicker shrink-0">Siguiente →</span>
+            <a
+                href="{{ page.higher.permalink }}"
+                class="story-title-xs sm:block sm:mt-1 min-w-0 truncate"
+                >{{ page.higher.title }}</a
+            >
+            {% endif %}
         </div>
-      </nav>
-    {% endif %}
-
-    {% if config.extra.github_repo and page.relative_path %}
-      {% set comment_issue_base = "https://github.com/" ~ config.extra.github_repo ~ "/issues/new?template=moderar_comentario.yml" %}
-      {% set comment_source_path = "content/" ~ page.relative_path %}
-    {% endif %}
+    </nav>
+    {% endif %} {% if config.extra.github_repo and page.relative_path %} {% set
+    comment_issue_base = "https://github.com/" ~ config.extra.github_repo ~
+    "/issues/new?template=moderar_comentario.yml" %} {% set comment_source_path
+    = "content/" ~ page.relative_path %} {% endif %}
 
     <section
-      id="comments"
-      class="comment-list reveal"
-      {% if comment_issue_base %}
+        id="comments"
+        class="comment-list reveal"
+        {%
+        if
+        comment_issue_base
+        %}
         data-comment-report-base="{{ comment_issue_base }}"
         data-comment-report-article-url="{{ page.permalink }}"
         data-comment-report-article-slug="{{ page.slug }}"
         data-comment-report-source="{{ comment_source_path }}"
-      {% endif %}
+        {%
+        endif
+        %}
     >
-      <div class="pt-8">
-        <span class="section-ribbon">Comentarios</span>
-      </div>
+        <div class="pt-8">
+            <span class="section-ribbon">Comentarios</span>
+        </div>
 
-      {% set static_comments = page.extra.comments | default(value=[]) %}
-      {% if static_comments | length > 0 %}
+        {% set static_comments = page.extra.comments | default(value=[]) %} {%
+        if static_comments | length > 0 %}
         <div class="comments-existing">
-          {% for comment in static_comments %}
-            <article class="comment-card" id="{{ comment.anchor }}" data-depth="{{ comment.depth }}">
-              <div class="meta-row">
-                <span>{{ comment.author | default(value="Anónimo") }}</span>
-                <div class="comment-meta-actions">
-                  <span>{{ comment.date_display }}</span>
-                  {% if comment_issue_base and comment.id %}
-                    {% set comment_issue_title_raw = "moderar comentario " ~ comment.id ~ " en " ~ page.slug %}
-                    {% set comment_issue_title = comment_issue_title_raw | urlencode %}
-                    {% set comment_url_raw = page.permalink ~ "#" ~ comment.anchor %}
-                    {% set comment_url = comment_url_raw | urlencode %}
-                    {% set comment_source = comment_source_path | urlencode %}
-                    {% set comment_article_url = page.permalink | urlencode %}
-                    {% set comment_article_slug = page.slug | urlencode %}
-                    {% set report_url = comment_issue_base
-                      ~ "&title=" ~ comment_issue_title
-                      ~ "&article_url=" ~ comment_article_url
-                      ~ "&comment_url=" ~ comment_url
-                      ~ "&article_slug=" ~ comment_article_slug
-                      ~ "&comment_id=" ~ comment.id
-                      ~ "&source=" ~ comment_source %}
-                    <a href="{{ report_url }}" class="comment-report-link" rel="noopener" target="_blank">Reportar</a>
-                  {% endif %}
+            {% for comment in static_comments %}
+            <article
+                class="comment-card"
+                id="{{ comment.anchor }}"
+                data-depth="{{ comment.depth }}"
+            >
+                <div class="meta-row">
+                    <span>{{ comment.author | default(value="Anónimo") }}</span>
+                    <div class="comment-meta-actions">
+                        <span>{{ comment.date_display }}</span>
+                        {% if comment_issue_base and comment.id %} {% set
+                        comment_issue_title_raw = "moderar comentario " ~
+                        comment.id ~ " en " ~ page.slug %} {% set
+                        comment_issue_title = comment_issue_title_raw |
+                        urlencode %} {% set comment_url_raw = page.permalink ~
+                        "#" ~ comment.anchor %} {% set comment_url =
+                        comment_url_raw | urlencode %} {% set comment_source =
+                        comment_source_path | urlencode %} {% set
+                        comment_article_url = page.permalink | urlencode %} {%
+                        set comment_article_slug = page.slug | urlencode %} {%
+                        set report_url = comment_issue_base ~ "&title=" ~
+                        comment_issue_title ~ "&article_url=" ~
+                        comment_article_url ~ "&comment_url=" ~ comment_url ~
+                        "&article_slug=" ~ comment_article_slug ~ "&comment_id="
+                        ~ comment.id ~ "&source=" ~ comment_source %}
+                        <a
+                            href="{{ report_url }}"
+                            class="comment-report-link"
+                            rel="noopener"
+                            target="_blank"
+                            >Reportar</a
+                        >
+                        {% endif %}
+                    </div>
                 </div>
-              </div>
-              <div class="comment-body">{{ comment.body | escape | replace(from="\n", to="<br>") | safe }}</div>
+                <div class="comment-body">
+                    {{ comment.body | escape | replace(from="\n", to="<br />") |
+                    safe }}
+                </div>
             </article>
-          {% endfor %}
+            {% endfor %}
         </div>
-      {% else %}
-        <p id="no-comments-placeholder" class="no-comments-placeholder">Aún no hay comentarios. ¡Dejá el primero!</p>
-      {% endif %}
+        {% else %}
+        <p id="no-comments-placeholder" class="no-comments-placeholder">
+            Aún no hay comentarios. ¡Dejá el primero!
+        </p>
+        {% endif %}
 
-      <div id="dynamic-comments" data-article-slug="{{ page.slug }}"></div>
+        <div id="dynamic-comments" data-article-slug="{{ page.slug }}"></div>
 
-      <form id="comment-form" class="comment-form" data-article-slug="{{ page.slug }}">
-        <h3 class="module-title">Dejar un comentario</h3>
-        <div class="grid gap-4">
-          <label class="comment-field">
-            <span>Nombre</span>
-            <input type="text" name="author" required maxlength="80" autocomplete="name">
-          </label>
-          <label class="comment-field">
-            <span>Email (opcional, no se publica)</span>
-            <input type="email" name="email" maxlength="120" autocomplete="email">
-          </label>
-          <label class="comment-field">
-            <span>Comentario</span>
-            <textarea id="comment-body" name="body" required minlength="2" maxlength="4000" rows="5"></textarea>
-          </label>
-          <label class="hp-field" aria-hidden="true">
-            <span>No completar</span>
-            <input type="text" name="website" tabindex="-1" autocomplete="off">
-          </label>
-          <div class="flex items-center gap-4">
-            <button type="submit" class="btn-submit">Enviar</button>
-            <p class="comment-form-status" data-status></p>
-          </div>
-        </div>
-      </form>
+        <form
+            id="comment-form"
+            class="comment-form"
+            data-article-slug="{{ page.slug }}"
+        >
+            <h3 class="module-title">Dejar un comentario</h3>
+            <div class="grid gap-4">
+                <label class="comment-field">
+                    <span>Nombre</span>
+                    <input
+                        type="text"
+                        name="author"
+                        required
+                        maxlength="80"
+                        autocomplete="name"
+                    />
+                </label>
+                <label class="comment-field">
+                    <span>Email (opcional, no se publica)</span>
+                    <input
+                        type="email"
+                        name="email"
+                        maxlength="120"
+                        autocomplete="email"
+                    />
+                </label>
+                <label class="comment-field">
+                    <span>Comentario</span>
+                    <textarea
+                        id="comment-body"
+                        name="body"
+                        required
+                        minlength="2"
+                        maxlength="4000"
+                        rows="5"
+                    ></textarea>
+                </label>
+                <label class="hp-field" aria-hidden="true">
+                    <span>No completar</span>
+                    <input
+                        type="text"
+                        name="website"
+                        tabindex="-1"
+                        autocomplete="off"
+                    />
+                </label>
+                <div class="flex items-center gap-4">
+                    <button type="submit" class="btn-submit">Enviar</button>
+                    <p class="comment-form-status" data-status></p>
+                </div>
+            </div>
+        </form>
     </section>
-  </main>
+</main>
 {% endblock content %}
