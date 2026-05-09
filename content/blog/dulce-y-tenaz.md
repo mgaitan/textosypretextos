@@ -1,91 +1,13 @@
-+++
-title = "Dulce y tenaz"
-slug = "dulce-y-tenaz"
-date = 2009-05-19 01:08:24
-description = "Tengo un recuerdo bastante nítido del día que descubrí la potencia de las palabras. Yo tenía como 7 años y gasté en el quiosco 5000 australes en unos chicles horribles…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Desde el ombligo",
-    "Memoria",
-    "Familia",
-]
-
-[extra]
-legacy_id = 314
-section_slug = "blog"
-section_title = "Blog"
-summary = "Tengo un recuerdo bastante nítido del día que descubrí la potencia de las palabras. Yo tenía como 7 años y gasté en el quiosco 5000 australes en unos chicles horribles que pintaban la boca de negro y la dejaban con mal…"
-visits = 1887
-popularite = 0.3611122985440825
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/dulce-y-tenaz/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-
-[[extra.comments]]
-id = 7225
-anchor = "comment-7225"
-author = "Fernando"
-date = "2009-05-19 05:43:45"
-date_display = "19.05.2009"
-depth = 0
-url_site = ""
-title = "Dulce y tenaz"
-body = "¡Martín Gaitán!\n\nVenía super entusiasmado con el texto y... plop... se corta ¿Hay un \"Dulce y tenaz II, el regreso de Mario\"?\n\nEn tu relato se hicieron las 3 de la tarde del domingo... faltan un par de horas más para que nos cuentes como flasheaste la partida del viejo\n\n¡Coito interrumpido! Ni siquiera tendre la delicadeza de ponerlo en latín..."
-
-[[extra.comments]]
-id = 7226
-anchor = "comment-7226"
-author = "Fernando"
-date = "2009-05-19 05:45:47"
-date_display = "19.05.2009"
-depth = 0
-url_site = ""
-title = "Dulce y tenaz"
-body = "Y no me venga que dice las seis de la tarde...\n\n¡¡¡¡Son tres oraciones!!!!"
-
-[[extra.comments]]
-id = 7562
-anchor = "comment-7562"
-author = "María del Mar"
-date = "2009-08-20 07:40:28"
-date_display = "20.08.2009"
-depth = 0
-url_site = ""
-title = "Dulce y tenaz"
-body = "chabonn.. hay gente q es inmortal\nQ sigue latiendo en nosotros, q nos impulsa, q nos\nzamarrea.. q nos invita a soñar con realidades, a creer\nen utopías.. \nmuuy lindo texto ;)"
-
-[[extra.comments]]
-id = 7580
-anchor = "comment-7580"
-author = "Miss otras y yo"
-date = "2009-08-31 10:23:56"
-date_display = "31.08.2009"
-depth = 0
-url_site = ""
-title = "Dulce y tenaz"
-body = "¿Qué ocurre cuando las voces interiores son muchas, y encima mujeres?\n\nwww.missotrasyyo.blogspot.com"
-+++
-
+---
+title: Dulce y tenaz
+slug: dulce-y-tenaz
+date: 2009-05-19 01:08:24
+tags: Desde el ombligo, Memoria, Familia
+author: Martín Gaitán
+---
 Tengo un recuerdo bastante nítido del día que descubrí la potencia de las palabras. Yo tenía como 7 años y gasté en el quiosco 5000 australes en unos chicles horribles que pintaban la boca de negro y la dejaban con mal aliento, pero que venían con figuritas maravillosas: Los Basuritas, caricaturas que jugaban con un morbo torpe, muy efectivo para la risa de los chicos. Los Basuritas tenían nombres formados por un rudimental juego de palabras. Allí estaban Matías Queroso, José K. Lavera, y la difícil, Igor Dinflon.
+
+<!-- TEASER_END -->
 
 Fue un descubrimiento. Con la lengua renegrida y ácida, mis tías fueron bautizadas con ingeniosos seudónimos como Elsa Lame y Estela Ampazo, y mi papá fue Walter Cado. Pero mi mamá tuvo el mejor: Elena Nito, que les ganaba a los demás porque no sólo gozaba de cierta verosimiltud como nombre propio, sino que encajaba, desde la caricaturización infantil, con con la fisonomía materna.
 
@@ -142,4 +64,3 @@ sigue bregando dulce y tenaz por la dicha del hombre.</div>
 
 <p>
 A las seis de la tarde, mientras una voz militante leía su poema en un barrio pobre de Córdoba, su cuerpo moría en una habitación de Montevideo. En ese instante, no lo detuvo la distancia ni la despedida. Como ayer, como siempre, sigue bregando, dulce y tenaz, por la dicha del hombre.</p>
-

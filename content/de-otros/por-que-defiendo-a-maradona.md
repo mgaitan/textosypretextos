@@ -1,87 +1,14 @@
-+++
-title = "Por qué defiendo a Maradona"
-slug = "por-que-defiendo-a-maradona"
-date = 2009-10-20 14:03:15
-description = ""
-draft = false
-template = "article.html"
-authors = [
-    "Alejandro Dolina",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Humor",
-    "Tecnología",
-]
+---
+title: Por qué defiendo a Maradona
+slug: por-que-defiendo-a-maradona
+date: 2009-10-20 14:03:15
+tags: Humor, Tecnología
+author: Alejandro Dolina
+subtitle: Alejandro Dolina
+---
+{{% media_audio src="/media/mp3/Dolina_maradona.mp3" title="Dolina_maradona.mp3" %}}
 
-[extra]
-legacy_id = 341
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "En \"La Venganza será terrible\" del lunes 19 de octubre, Alejandro Dolina, ante el mensaje de una oyente, se expidió con vehemencia sobre las declaraciones de Maradona. \"Ingrid Hammer dice: 'Estimado Dolina, ¿ya no…"
-visits = 1789
-popularite = 0.36018891815256276
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/de-otros/por-que-defiendo-a-maradona/"
-surtitle = ""
-subtitle = "Alejandro Dolina"
-deck = "{{ media_audio(src=\"/media/mp3/Dolina_maradona.mp3\", title=\"Dolina_maradona.mp3\") }}"
-author_links = [
-    { name = "Alejandro Dolina", path = "/autores/alejandro-dolina/" },
-]
-tag_links = [
-    { name = "Humor", path = "/etiquetas/humor/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-
-[[extra.comments]]
-id = 7779
-anchor = "comment-7779"
-author = "Luis"
-date = "2009-10-20 15:59:28"
-date_display = "20.10.2009"
-depth = 0
-url_site = ""
-title = "Por qué defiendo a Maradona"
-body = "Muy bueno Martín! te lo re-twitié. :) (por favor, dejame abrir las páginas en una ventana normal!!, es muy molesto el script que pusiste, acordate... si amas a alguien... déjalo abrir otra página!... :P )"
-
-[[extra.comments]]
-id = 7782
-anchor = "comment-7782"
-author = "Quique"
-date = "2009-10-21 12:07:22"
-date_display = "21.10.2009"
-depth = 0
-url_site = ""
-title = "Por qué defiendo a Maradona"
-body = "Cuanto cipayo suelto hay en los medios!\n\nSaludos\nQuique"
-
-[[extra.comments]]
-id = 7784
-anchor = "comment-7784"
-author = "Luis"
-date = "2009-10-23 10:37:19"
-date_display = "23.10.2009"
-depth = 0
-url_site = ""
-title = "Por qué defiendo a Maradona"
-body = "Igual creo que no tiene absolutamente nada que ver publicar la foto o link de Ingrid, ella es uno de los tantísimos que comen la comida de Clarín."
-
-[[extra.comments]]
-id = 7785
-anchor = "comment-7785"
-author = "juan domingo"
-date = "2009-10-23 15:24:48"
-date_display = "23.10.2009"
-depth = 0
-url_site = ""
-title = "Por qué defiendo a Maradona"
-body = "Aplausos y más aplausos Aplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausosAplausos y más aplausos\nPARA DOLINA"
-+++
+<!-- TEASER_END -->
 
 En "La Venganza será terrible" del lunes 19 de octubre, Alejandro Dolina, ante el mensaje de una oyente, se expidió con vehemencia sobre las declaraciones de Maradona. 
 
@@ -99,7 +26,6 @@ En "La Venganza será terrible" del lunes 19 de octubre, Alejandro Dolina, ante 
 >
 > Así que sí, lo defiendo a Maradona. Ante usted lo voy a defender siempre".
 
-{% postscript() %}
+{{% postscript %}}
 Visto en [No Te vayas, estúpida](https://web.archive.org/web/2009/http://notevayasestupida.blogspot.com/2009/10/sabe-por-que-defiendo-maradona-por.html). El audio lo saqué de [Venganzas del Pasado](http://venganzasdelpasado.com.ar/)
-{% end %}
-
+{{% /postscript %}}

@@ -1,46 +1,13 @@
-+++
-title = "A ver..."
-slug = "a-ver"
-date = 2012-02-03 21:51:00
-description = "...si puedo explicar todo esto que ando sintiendo y que al tratar de decirte por teléfono se reduce a un \"te extraño\" y... no es solo eso. Estar acá en Ushuaia, lejos…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Música",
-    "Cine",
-]
-
-[extra]
-legacy_id = 403
-section_slug = "blog"
-section_title = "Blog"
-summary = "...si puedo explicar todo esto que ando sintiendo y que al tratar de decirte por teléfono se reduce a un \"te extraño\" y... no es solo eso. Estar acá en Ushuaia, lejos tuyo, me lleva irremediablemente a recordar otros…"
-visits = 4928
-popularite = 0.9927101286804109
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/a-ver/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-]
-comments = []
-+++
-
+---
+title: A ver...
+slug: a-ver
+date: 2012-02-03 21:51:00
+tags: Música, Cine
+author: Martín Gaitán
+---
 ...si puedo explicar todo esto que ando sintiendo y que al tratar de decirte por teléfono se reduce a un "te extraño" y... no es solo eso.
+
+<!-- TEASER_END -->
 
 Estar acá en Ushuaia, lejos tuyo, me lleva irremediablemente a recordar otros tiempos en que estuve sola en esta ciudad. Tiempos lejanos y no tanto. Estoy todo el día embriagada de recuerdos, buenos y malos. Es como estar viendo todo el día la película de mi vida. Y aparecen los personajes de mi vida, y las sensaciones experimentadas, las alegrías y las desolaciones, los miedos y las esperanzas. 
 
@@ -77,6 +44,6 @@ Tener paz sin alegría, sin emociones, es una tragedia que la literatura ha trat
 Te amo mucho.
 _ Martín
 
-{% postscript() %}
+{{% postscript %}}
 Ushuaia y Neuquén, 17 y 18 de enero de 2011
-{% end %}
+{{% /postscript %}}

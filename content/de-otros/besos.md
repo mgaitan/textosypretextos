@@ -1,45 +1,11 @@
-+++
-title = "Besos"
-slug = "besos"
-date = 2008-08-01 02:30:54
-description = "Hay besos que pronuncian por sí solos la sentencia de amor condenatoria, hay besos que se dan con la mirada hay besos que se dan con la memoria. Hay besos silenciosos…"
-draft = false
-template = "article.html"
-authors = [
-    "Gabriela Mistral",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Amor",
-    "Memoria",
-]
-
-[extra]
-legacy_id = 121
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Hay besos que pronuncian por sí solos la sentencia de amor condenatoria, hay besos que se dan con la mirada hay besos que se dan con la memoria. Hay besos silenciosos, besos nobles hay besos enigmáticos, sinceros hay…"
-visits = 4186
-popularite = 0.2504463719784405
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/besos/"
-surtitle = ""
-subtitle = "Gabriela Mistral"
-deck = ""
-author_links = [
-    { name = "Gabriela Mistral", path = "/autores/gabriela-mistral/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
-+++
-
+---
+title: Besos
+slug: besos
+date: 2008-08-01 02:30:54
+tags: Amor, Memoria
+author: Gabriela Mistral
+subtitle: Gabriela Mistral
+---
 <div class="poetry">Hay besos que pronuncian por sí solos<br>
 la sentencia de amor condenatoria,<br>
 hay besos que se dan con la mirada<br>
@@ -104,3 +70,5 @@ Yo te enseñe a besar: los besos fríos<br>
 son de impasible corazón de roca,<br>
 yo te enseñé a besar con besos míos<br>
 inventados por mí, para tu boca.</div>
+
+<!-- TEASER_END -->

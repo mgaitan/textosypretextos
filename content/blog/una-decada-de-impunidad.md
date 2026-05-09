@@ -1,69 +1,13 @@
-+++
-title = "Una década de impunidad"
-slug = "una-decada-de-impunidad"
-date = 2008-06-22 00:48:18
-description = "Cuando Camila cumplió 10 años hace algunas semanas, Mariano y yo cumplímos una década siendo tios. Lo dije: es una de las cosas más bonitas que me han pasado; ese…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Desde el ombligo",
-    "Humor",
-    "Amistad",
-]
-
-[extra]
-legacy_id = 147
-section_slug = "blog"
-section_title = "Blog"
-summary = "Cuando Camila cumplió 10 años hace algunas semanas, Mariano y yo cumplímos una década siendo tios. Lo dije: es una de las cosas más bonitas que me han pasado; ese vínculo afectivo desde el que se puede gozar con la…"
-visits = 1129
-popularite = 0.42425317477661134
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/una-decada-de-impunidad/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 6919
-anchor = "comment-6919"
-author = "Juanete"
-date = "2008-06-23 00:59:33"
-date_display = "23.06.2008"
-depth = 0
-url_site = ""
-title = "Una década de impunidad"
-body = "Dentro de dos semanas y tres días, cumple cinco primaveras la mayor de mis sobrinas. Si, estimado colega, asi como lo lee, PRIMAVERA EN JULIO. ¿Sabe que pasa?, hace cinco años (menos dos semanas y tres dias) la primavera se adelantó, al menos para mí y los que estamos aca cerquita de ella.\n\nAca cerquita en mi mente recordando el día que, junto con la otra tía zoqueta, pasamos horas y horas entrenado para dar los primeros  pasos, o aca cerquita recordando las lecciones de burbujas de baba frente al espejo, o aca cerquita en mis brazos, recibiendo uno de esos abrazos que de tanto estrujar se siente que el corazón cruje y se hincha; se hincha, se hincha y se hincha como una piñata que casi se sale del pecho porque quiere estar ahi, con el de ella, bien cerquita.\n \n \nComo contarle, sin temor a ser envidiado, que hace dieciocho meses menos un par de horas se me multiplicaron las primaveras, ahora tengo otra en diciembre. \n \nEn mi casa ya no festejamos la llegada de un panzon sobreabrigado y albino, el panzon sobreabrigado llega, claro, con regalos para las dos y muchas ganas de entretener a un público que le teme. \n \nPero para el resto nada, y no es que se entere que nos portamos mal, nosotros ya tenemos un regalo, nosotros tenemos una carota de pure que nos mira desde su sillita sonriendo, hablando en su propio lenguaje y, si el albino no asustó demasiado, nos llevamos de yapa unas naricitas. ¡Ha señor, que naricitas!... digame, ¿quien podria pedir más?\n \n \nBueno, se hace tarde, me voy a ver si morfeo me regala una tarde de juego con ellas. Le dejo un abrazo grande, y me voy esperando tener algo mas para leer pronto, hace bien."
-
-[[extra.comments]]
-id = 6935
-anchor = "comment-6935"
-author = "Sandrina"
-date = "2008-07-01 13:51:43"
-date_display = "01.07.2008"
-depth = 0
-url_site = ""
-title = "Una década de impunidad"
-body = "Buenísimo que puedas disfrutar de esa manera a tus sobrinos!Yo tengo cuatro manipuladores de primera categoría (ya que saben como comprarme!).\n Besos\npd. te envidio la creatividad"
-+++
-
+---
+title: Una década de impunidad
+slug: una-decada-de-impunidad
+date: 2008-06-22 00:48:18
+tags: Desde el ombligo, Humor, Amistad
+author: Martín Gaitán
+---
 Cuando Camila cumplió 10 años hace algunas semanas, Mariano  y yo cumplímos una década siendo tios. [Lo dije](@/blog/querida-cami.md): es una de las cosas más bonitas que me han pasado; ese vínculo afectivo desde el que se puede gozar con la impunidad que los papás no pueden permitirse. 
+
+<!-- TEASER_END -->
 
 Me acuerdo patente y patético de mis rezos ateos para que el *"pan bajo el brazo"* fuese el mundial, el de Francia, que se empezó a jugar un mes después de que Camila nació.  No sé si por la falacia de mi religiosidad o porque Cami ya era suficiente regalo, se sabe, el panadero del cielo bajo el brazo no mandó ni una miguita y en cambio, me quizo conformar con un [cabezazo bajo la mandíbula](http://www.youtube.com/watch?v=xdHtsSIM7HM). 
 
@@ -131,4 +75,3 @@ enfatizar que caminan. En la mitad de una pasada Ripolito se dirige hacia el pú
 **Gata Machata**: ¡Eso, eso! ¡Echalo, echalo! ¡Si se comió hasta mis ratones!
 
 *-FIN- *
-

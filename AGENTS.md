@@ -8,9 +8,9 @@ Esta guía documenta el flujo editorial, el theme y la operación del sitio para
 
 ### Requisitos
 
-- `zola`
 - `node` / `npm`
 - `uv`
+- Nikola ejecutado con `uvx --from 'nikola[extras]' nikola`
 - `hunspell` + diccionario `es_AR` (para el checker ortográfico)
 - `prek` o `pre-commit` (opcional, para correr el hook antes de cada commit)
 
@@ -21,14 +21,14 @@ npm install
 npm run dev
 ```
 
-- `npm run dev` recompila assets y levanta `zola serve` sin drafts.
-- `npm run dev:drafts` hace lo mismo pero incluye borradores.
-- `npm run build` genera `public/`.
+- `npm run dev` recompila assets y levanta `nikola auto`.
+- `npm run dev:drafts` queda como alias operativo del dev server.
+- `npm run build` genera `public/` con Vite + Nikola.
 - `npm run preview` levanta una preview local con Wrangler sobre el build.
 
 ### Crear un artículo nuevo
 
-Zola no trae un comando nativo para scaffold de contenido individual. En este repo usar:
+En este repo usar:
 
 ```bash
 uv run scripts/new_article.py blog "Título del artículo"
@@ -36,7 +36,7 @@ uv run scripts/new_article.py fotos "Título de la foto" --author "Martín Gait�
 uv run scripts/new_article.py videos "Título del video" --tags "Cine, Música"
 ```
 
-Eso genera un Markdown con front matter TOML y campos `extra` alineados al sitio.
+Eso genera un Markdown con front matter alineado al sitio.
 
 ### Secciones editoriales
 
@@ -60,16 +60,8 @@ Campos clave del front matter:
 - `slug`
 - `date`
 - `draft`
-- `template = "article.html"`
-- `authors`
-- `categories`
+- `author`
 - `tags`
-
-Y en `[extra]`:
-
-- `section_slug`
-- `section_title`
-- `summary`
 - `hero_image`
 - `hero_alt`
 - `subtitle`
@@ -77,30 +69,34 @@ Y en `[extra]`:
   dentro del deck se muestra como epígrafe alineado a la derecha.
   El último párrafo del blockquote se interpreta como atribución:
 
-  ```toml
-  deck = """
+  ```yaml
+  deck: |
   > La línea del poema o cita.
   >
   > — Nombre del autor o fuente
-  """
   ```
 
   Alternativamente, usar el shortcode `epigrafe` en el body cuando el
   epígrafe es multilineal o no encaja en el campo deck:
 
   ```
-  {{% epigrafe() %}}
+  {{% epigrafe %}}
   Verso o cita.
 
   **— Fuente o autor**
-  {{% end %}}
+  {{% /epigrafe %}}
   ```
 
   Los blockquotes markdown al comienzo del body también se renderizan
   como epígrafes automáticamente.
 
-- `author_links`
-- `tag_links`
+No usar campos legacy o inferibles como `legacy_id`, `legacy_url`, `summary`,
+`visits`, `popularite`, `author_links`, `tag_links`, `section_slug`,
+`section_title` o `comment_count`. Autores y etiquetas se declaran en el
+artículo y Nikola genera las páginas públicas automáticamente.
+
+Los comentarios importados desde el sitio anterior viven en `data/comments.json`
+indexados por `seccion/slug`; no van dentro del front matter del artículo.
 
 ### Etiquetas y criterio editorial
 
@@ -129,17 +125,17 @@ Videos:
 
 Audio/archivos:
 
-- Reusar los shortcodes de `templates/shortcodes/`.
+- Reusar los shortcodes de `shortcodes/`.
 
 ### Diálogos
 
-- Para bloques de diálogo con una intervención por línea, usar la macro `dialogo` en vez de `<br>` manuales:
+- Para bloques de diálogo con una intervención por línea, usar el shortcode `dialogo` en vez de `<br>` manuales:
 
 ```md
-{% dialogo() %}
+{{% dialogo %}}
 — Primera intervención
 — Segunda intervención
-{% end %}
+{{% /dialogo %}}
 ```
 
 - Para detectar y corregir casos simples con `--`, usar:
@@ -152,17 +148,17 @@ uv run scripts/fix_dialogues.py --apply content/fotos/cronica-de-un-intento-de-h
 
 ### Poesía
 
-- Para poesía o texto con cortes de verso que haya que preservar, envolver el bloque con `<div class="poetry">`:
+- Para poemas o textos con cortes de verso que haya que preservar, usar el shortcode `poetry`:
 
 ```md
-<div class="poetry">
+{{% poetry %}}
 Primer verso
 Segundo verso
 Tercer verso
-</div>
+{{% /poetry %}}
 ```
 
-- No usar `<br>` para simular versos si el bloque completo puede resolverse con `poetry`.
+- No usar `<br>` manuales si el bloque completo puede resolverse con el shortcode.
 
 ### Ortografía
 
@@ -226,11 +222,11 @@ Origen del sistema:
 
 ### Archivos principales del theme
 
-- `templates/base.html`: estructura global, header, nav y footer.
-- `templates/index.html`: home.
-- `templates/article.html`: artículos.
-- `templates/section.html`: listados de sección.
-- `templates/partials/macros.html`: cards/listados reutilizables.
+- `themes/textosypretextos/templates/base.tmpl`: estructura global, header, nav y footer.
+- `themes/textosypretextos/templates/index.tmpl`: home.
+- `themes/textosypretextos/templates/post.tmpl`: artículos.
+- `themes/textosypretextos/templates/list.tmpl`: listados de sección.
+- `themes/textosypretextos/templates/macros.tmpl`: cards/listados reutilizables.
 - `src/styles/site.css`: estilos del theme.
 - `src/scripts/site.js`: comportamiento del cliente.
 

@@ -1,69 +1,14 @@
-+++
-title = "Cartas de amor efímero III"
-slug = "cartas-de-amor-efimero-iii"
-date = 2008-04-28 20:27:39
-description = "Compañera poetisa: Probablemente no te pase, pero para mi no hay nada más amedrentador que una cajita de texto en blanco cuando quiero escribirle algo especial a…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Desde el ombligo",
-    "Amor",
-    "Amistad",
-]
-
-[extra]
-legacy_id = 116
-section_slug = "blog"
-section_title = "Blog"
-summary = "Compañera poetisa: Probablemente no te pase, pero para mi no hay nada más amedrentador que una cajita de texto en blanco cuando quiero escribirle algo especial a alguien especial. Bueno, sí, quizas un papel en blanco…"
-visits = 2439
-popularite = 0.989769869058243
-hero_image = "/media/jpg/DSC_0301.jpg"
-hero_alt = "DSC_0301.jpg"
-comment_count = 2
-legacy_url = "/blog/cartas-de-amor-efimero-iii/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 6871
-anchor = "comment-6871"
-author = "Mr. X"
-date = "2008-05-03 00:05:14"
-date_display = "03.05.2008"
-depth = 0
-url_site = "http://deliriosemocionales.com.ar/"
-title = "Cartas de amor efímero III"
-body = "Ahora sí leí tu entrada. Creo que, al menos con la mujer promedio, funcionaría a la perfección. Claro, habría que achurarle el párrafo en el que te declarás nerd. Es muy redundante, y la mujer promedio tiene una especie de defensa natural contra la redundancia. Un tecnicismo, diríamos."
-
-[[extra.comments]]
-id = 7196
-anchor = "comment-7196"
-author = "sofi"
-date = "2009-05-05 18:14:03"
-date_display = "05.05.2009"
-depth = 0
-url_site = ""
-title = "Cartas de amor efímero III"
-body = "LA PERSONA QUE ME LO ENVIO ESTA TODAVIA ASOMBRADA DE LO OCURRIDO, YA QUE ELLA DICE QUE LO HIZO POR HACERLO Y QUE PIDIO ALGO QUE CREIA CASI IMPOSIBLE DE LOGRAR PROBEMOS.\n* Para ti mismo di el nombre de la unica persona del sexo opuesto con quien quieras estar (tres veces...)...\n* Piensa en algo que quieras lograr dentro de la próxima semana y repitelo para ti mismo(a) (seis veces)... \n* Piensa en algo que quieras que pase entre tu y la persona especial (que dijiste en el no. 1) y dilo a ti mismo/a (doce veces)... \n* Ahora haz un ultimo y final deseo acerca del deseo que escogiste. \n* Despues de leer esto tienes 1 hora para mandarlo a 15 temas y lo que pediste se te hara realidad en 1 semana.\nA la mayor cantidad de gente a quien lo mandes mas fuerte se hara tu deseo. \nSi tu escoges ignorar esta carta lo contrario del deseo te sucedera,\no esto no sucedera jamas..............\nQue tus días estén llenos de logros y tus noches de sueñ"
-+++
-
+---
+title: Cartas de amor efímero III
+slug: cartas-de-amor-efimero-iii
+date: 2008-04-28 20:27:39
+tags: Desde el ombligo, Amor, Amistad
+author: Martín Gaitán
+hero_image: /media/jpg/DSC_0301.jpg
+---
 Compañera poetisa:
+
+<!-- TEASER_END -->
 
 Probablemente no te pase, pero para mi no hay nada más amedrentador
 que una cajita de texto en blanco cuando quiero escribirle algo 
@@ -121,9 +66,8 @@ Escribo mails largos que, como debe ser, nunca son respondidos. A veces me doy c
 Un beso. 
 Martín. 
 
-{{ media_image(src="/media/jpg/DSC_0301.jpg", alt="", caption="", align="center") }}
+{{% media_image src="/media/jpg/DSC_0301.jpg" alt="" caption="" align="center" %}}
 
-{% postscript() %}
+{{% postscript %}}
 Completan la trilogía [Cartas de amor efímero I](@/blog/cartas-de-amor-efimero-i.md) y [Cartas de amor efímero II](@/blog/cartas-de-amor-efimero-ii.md).
-{% end %}
-
+{{% /postscript %}}

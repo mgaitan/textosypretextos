@@ -1,80 +1,13 @@
-+++
-title = "Cuatro fragmentos de una muerte"
-slug = "cuatro-fragmentos-de-una-muerte"
-date = 2010-10-30 16:32:50
-description = "Uno: Abrazar al desconocido La plaza. Lugar de encuentro del pueblo. De allá, de acá, de todos y de cualquier lado, el pueblo que llora llega y los cantitos de los que…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Opinión o piñón",
-    "Política",
-    "Tecnología",
-]
-
-[extra]
-legacy_id = 369
-section_slug = "blog"
-section_title = "Blog"
-summary = "Uno: Abrazar al desconocido La plaza. Lugar de encuentro del pueblo. De allá, de acá, de todos y de cualquier lado, el pueblo que llora llega y los cantitos de los que aun pueden cantar son como una bienvenida: ¡Nestor…"
-visits = 3439
-popularite = 0.9837644102180908
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/cuatro-fragmentos-de-una-muerte/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Opinión o piñón", path = "/etiquetas/opinion-o-pinon/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-
-[[extra.comments]]
-id = 24370
-anchor = "comment-24370"
-author = "Ele"
-date = "2010-10-30 17:13:43"
-date_display = "30.10.2010"
-depth = 0
-url_site = ""
-title = "Cuatro fragmentos de una muerte"
-body = "Elena Del Balzo\nMi cabeza quema de contradicciones!! No paro de leer editoriales en diarios a los que adhiero por No gorilas. Escucho todo, miro todo, analizo hasta donde mis neuronas permiten, estoy para mi adentro clara respecto de lo QUE NO QUIERO NUNCA... MAS. No me nace ser o no ser Kirchnerista... me cayó mal y me entristeció la muerte repentina de Néstor, sin idolatrarlo. Vibré, lloré, conmocioné y admiré a los miles que se veían en la plaza, en Gallegos, en el programa de 678... No sé como sigue... pero \"Ayer\" la historia cambió; la manifestación masiva del pueblo en la calle no es joda, marca rumbo y como se sabe en los MOVIMIENTOS el rumbo no es rectilineo; hay matices, intereses, sectores, contradicciones. Estabamos tan MAL que esto parece la revolucion, por qué habremos de poner palos, peros, Ni, Noes. Creo, que conviene SUMAR,ADherir a todo lo que viene Muy Bueno!!! En mi caso, el paso posterior será asumir algún compromiso militante, todavía no me veo. Será que los 70 están en mi piel?? Abrazo TE QUIERO"
-
-[[extra.comments]]
-id = 28289
-anchor = "comment-28289"
-author = "Maereaurbana"
-date = "2010-11-01 18:56:57"
-date_display = "01.11.2010"
-depth = 0
-url_site = ""
-title = "Cuatro fragmentos de una muerte"
-body = "Excelente post, Martín! Muy bueno, sentido, me encantó lo de \"anti-anti-K\" a mi me pasó lo mismo el miércoles pasado, pero ya no me conforma ser solo \"no-K\". Confiemos en que de una vez por todas el gobierno se plantee incentivar la participación colectiva, única garantía de que perdure ante tanto buitre suelto."
-
-[[extra.comments]]
-id = 51921
-anchor = "comment-51921"
-author = "Nadie quiere a Milhouse"
-date = "2011-09-22 21:28:08"
-date_display = "22.09.2011"
-depth = 0
-url_site = ""
-title = "Cuatro fragmentos de una muerte"
-body = "Bahhh... Escribí un texto de al menos 100 líneas. Pero no quiero que se me mal interprete.\n\nSimplemente ese día vi mucha miseria. No puedo creer (me repugnó) que haya habido tanta gente que se haya regocijado con el hecho.\n\nTampoco entiendo tanta empatía. Será el paternalismo acaso? \n\nEn fin, sólo quería decir que muy indignado con las personas estoy. No sólo pasa en la política. Este tipo de reacción (por mi considerada morbo) hay por todos lados. En la facu pasó hace días.\n\nIndignado con la poca conciencia de los otros que hay en el mundo. Me entristece mucho. A nadie le importa realmente el otro. Realmente me hace llorar."
-+++
-
+---
+title: Cuatro fragmentos de una muerte
+slug: cuatro-fragmentos-de-una-muerte
+date: 2010-10-30 16:32:50
+tags: Opinión o piñón, Política, Tecnología
+author: Martín Gaitán
+---
 ### Uno: Abrazar al desconocido
+
+<!-- TEASER_END -->
 
 La plaza. Lugar de encuentro del pueblo. De allá, de acá, de todos y de 
 cualquier lado, el pueblo que llora llega y los cantitos de los que aun pueden cantar son como una bienvenida: 
@@ -202,7 +135,7 @@ Envié sólo este mensaje:
 >
 >
 >
-> {{ video_embed(provider="youtube", id="euvM7jG15w0") }}
+> {{% video_embed provider="youtube" id="euvM7jG15w0" %}}
 >
 >
 >
@@ -256,4 +189,3 @@ Pero ahora, elucubraciones estúpidas del nuevo tablero político, el barro se h
 canallas de adentro y afuera, sedientos, hábiles buceadores de la mierda y el lodo.
 
 Y habrá que saber que ya no alcanzará con ser tibios, aplaudir desde casa y putear bajito. Aunque sigamos sin darle carta blanca a nadie (de eso se trata) y nuestros sueños sigan siendo grandes, perfectos, deberemos aceptar que lo poquito puede volver a ser nada. O peor que nada: puede volver a ser pesadilla.
-

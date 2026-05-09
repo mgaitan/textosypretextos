@@ -1,76 +1,16 @@
-+++
-title = "#8N: Yo no voy"
-slug = "8n-yo-no-voy"
-date = 2012-11-09 15:15:51
-description = "Yo no voy. Claro que no voy. Que no vaya no significa que piense que está todo bien, que no hay nada que criticar o que cambiar. No significa que yo no esté también…"
-draft = false
-template = "article.html"
-authors = [
-    "Bruno Bimbi",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Política",
-    "Amistad",
-]
+---
+title: '#8N: Yo no voy'
+slug: 8n-yo-no-voy
+date: 2012-11-09 15:15:51
+tags: Política, Amistad
+author: Bruno Bimbi
+subtitle: Bruno Bimbi
+---
+Yo no voy. Claro que no voy.
 
-[extra]
-legacy_id = 439
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Yo no voy. Claro que no voy. Que no vaya no significa que piense que está todo bien, que no hay nada que criticar o que cambiar. No significa que yo no esté también enojado por algunas cosas. Significa que creo que…"
-visits = 2741
-popularite = 0.3541938898641551
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/de-otros/8n-yo-no-voy/"
-surtitle = ""
-subtitle = "Bruno Bimbi"
-deck = "Yo no voy. Claro que no voy.\n\nQue no vaya no significa que piense que está todo bien, que no hay nada que criticar o que cambiar. No significa que yo no esté también enojado por algunas cosas. Significa que creo que este país de hoy es mucho mejor que los distintos países hipotéticos que me proponen los que me invitan a marchar contra el gobierno — tanto los dirigentes que lo hacen públicamente como muchos conocidos de Facebook, o las cadenas de mails que recibo, o los personajes públicos más representativos que sé que estarán ahí tratando de capitalizar la protesta. La mayoría, en realidad, no me propone nada más que el antikaísmo, pero los pocos que dicen qué quieren me asustan. Que no vaya significa también que en los últimos casi diez años vi al país yendo en una dirección muy parecida a la que siempre quise y por la que milité muchos años, con aciertos y errores, con marchas y contramarchas. Y que hoy siento que estamos mucho mejor que antes de 2003. Significa, también, que no creo que las opciones que se presentan —no una abstracción idealizada, sino las realmente existentes y disponibles— sean mejores. Al contrario, creo que son nefastas."
-author_links = [
-    { name = "Bruno Bimbi", path = "" },
-]
-tag_links = [
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
+Que no vaya no significa que piense que está todo bien, que no hay nada que criticar o que cambiar. No significa que yo no esté también enojado por algunas cosas. Significa que creo que este país de hoy es mucho mejor que los distintos países hipotéticos que me proponen los que me invitan a marchar contra el gobierno — tanto los dirigentes que lo hacen públicamente como muchos conocidos de Facebook, o las cadenas de mails que recibo, o los personajes públicos más representativos que sé que estarán ahí tratando de capitalizar la protesta. La mayoría, en realidad, no me propone nada más que el antikaísmo, pero los pocos que dicen qué quieren me asustan. Que no vaya significa también que en los últimos casi diez años vi al país yendo en una dirección muy parecida a la que siempre quise y por la que milité muchos años, con aciertos y errores, con marchas y contramarchas. Y que hoy siento que estamos mucho mejor que antes de 2003. Significa, también, que no creo que las opciones que se presentan —no una abstracción idealizada, sino las realmente existentes y disponibles— sean mejores. Al contrario, creo que son nefastas.
 
-[[extra.comments]]
-id = 53544
-anchor = "comment-53544"
-author = "javi"
-date = "2012-11-09 18:33:50"
-date_display = "09.11.2012"
-depth = 0
-url_site = ""
-title = "#8N: Yo no voy"
-body = "coincido en mucho tin. Me gusta leer cosas así."
-
-[[extra.comments]]
-id = 53545
-anchor = "comment-53545"
-author = "waldo"
-date = "2012-11-09 22:38:24"
-date_display = "09.11.2012"
-depth = 0
-url_site = ""
-title = "#8N: Yo no voy"
-body = "Coincido en casi todo, Tin. Yo tampoco voy, y no voy por muchas de las cosas que decís a través de la letra de Bruno Bimbi.\nLo que a mí no me cierra del todo, es que hay muchas cosas que están mal: muchas de ellas mencionadas acá, muchas de ellas con las que concuerdo que están mal. Pero, siento yo, que resulta que por algún motivo no está bien hacer esa crítica, porque es parte de caer en la bolsa de \"ese universo heterogéneo 'anti K'\".\nSiento que no necesariamente si nos gusta el durazno tenemos que aguantarnos la pelusa. Siento que todo lo bien que hizo este gobierno no necesariamente debe permitir que Larroque y Moreno patoteen, que no se maneje la corrupción, que los trenes sean un desastre, que haya los niveles de inflación que hay, o por la seguridad bien explicada.\nPorque, haya o no votado por Cristina, es de quien ahora espero estas respuestas. Lo espero de ella y no de la oposición. Y porque para las cosas que están mal, yo personalmente siento esa \"soberbia, negación o desprecio\". Y no es tirarle la pelota, sino partir de la sensación que es muy dificil criticar (valorando todo lo bueno) sin caer en esa bolsa.\n\nGracias por compartir esto."
-
-[[extra.comments]]
-id = 54835
-anchor = "comment-54835"
-author = ""
-date = "2013-04-15 03:59:10"
-date_display = "15.04.2013"
-depth = 0
-url_site = ""
-title = "#8N: Yo no voy"
-body = "Estoy de acuerdo con Javi, un placer, Gracias! \n\nPedro [Vibro](http://godes.info/vibro/)"
-+++
+<!-- TEASER_END -->
 
 Y las opciones en política no son: esto o el ideal puro que no está ahí, sino esto o las alternativas que están ahí o que nos proponemos seriamente construir. La mayoría de la gente con la que construiría algo está más cerca que lejos del gobierno, aunque cerca haya, también, algunos con los que no construiría nada. Por eso lo miro medio de afuera. Pero no de la vereda de enfrente.
 
@@ -100,8 +40,7 @@ Después del #8N, la vida sigue, como seguirá después del #7D. Y habrá proble
 
 Menos fechas marketineras y más política. Digo, me parece.
 
-{% postscript() %}
+{{% postscript %}}
 Bruno Bimbi (34) es periodista, profesor de portugués, máster en Letras por la Pontifícia Universidade Católica do Río de Janeiro y doctorando en Estudios del Lenguaje en la misma universidad. Actualmente coordina la campaña por el matrimonio igualitario en Brasil. Es activista de la FALGBT y autor del libro "Matrimonio igualitario" (Planeta, 2010). 
 Escribe el blog [Tod@s en la web de TN](http://blogs.tn.com.ar/todxs/) . / Tw: [@bbimbi](http://twitter.com/bbimbi)
-{% end %}
-
+{{% /postscript %}}

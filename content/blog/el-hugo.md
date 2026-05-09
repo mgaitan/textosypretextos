@@ -1,53 +1,18 @@
-+++
-title = "El Hugo"
-slug = "el-hugo"
-date = 2004-11-20 18:37:53
-description = "El cine, esa cinta de sueños Orson Welles Sobre el Boulevard San Juan, cerquita del \"Patiolmos\" (el Shopping Patio Olmos) se encuentra un edificio antiguo con puertas…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "El resto",
-    "Cine",
-    "Córdoba",
-]
-
-[extra]
-legacy_id = 16
-section_slug = "blog"
-section_title = "Blog"
-summary = "El cine, esa cinta de sueños Orson Welles Sobre el Boulevard San Juan, cerquita del \"Patiolmos\" (el Shopping Patio Olmos) se encuentra un edificio antiguo con puertas altísimas de madera tallada y rampas para…"
-visits = 651
-popularite = 0.9064362303900785
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/el-hugo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-comments = []
-+++
-
-{{% epigrafe() %}}
+---
+title: El Hugo
+slug: el-hugo
+date: 2004-11-20 18:37:53
+tags: El resto, Cine, Córdoba
+author: Martín Gaitán
+---
+{{{% epigrafe %}}}
 *El cine, esa cinta de sueños
  **Orson Welles** *
-{{% end %}}
+{{{% /epigrafe %}}}
 
 Sobre el Boulevard San Juan, cerquita del "Patiolmos"  (el Shopping Patio Olmos)  se encuentra un edificio antiguo con puertas altísimas de madera tallada y rampas para ingresar. Arriba, en un añejo bronce dice "Asociaciones Italiana. In unione e libertá", pero a los costados caen dos carteles vinílicos grandes que aclaran la verdad de la milanesa: <a href="http://www.cineclubmunicipal.org.ar">Cine Club Municipal Hugo del Carril</a>. 
+
+<!-- TEASER_END -->
 
 Cuando vine por primera vez a Córdoba, en julio, encontré por casualidad ese lugar. Unas  fotocopias  bajo una vitrina anunciaban las tres fuciones del día.  Miré el reloj, eran las 6 de la tarde y estaba justo a tiempo para ver *El Milagro de P. Tinto*, la última proyección de una comedia que pasaban dentro de un ciclo de cine español. La película me gustó, me hizo reír mucho; pero del Cine Club me enamoré. 
 

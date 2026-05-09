@@ -1,44 +1,15 @@
-+++
-title = "Bala en el cerebro"
-slug = "bala-en-el-cerebro"
-date = 2009-08-14 20:04:51
-description = "Anders llegó al banco poco antes de la hora de cierre, así que por supuesto la cola era interminable y quedó ubicado detrás de dos mujeres que, con su estridente y…"
-draft = true
-template = "article.html"
-authors = [
-    "Tobias Wolff",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Cuento",
-]
-
-[extra]
-legacy_id = 330
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Anders llegó al banco poco antes de la hora de cierre, así que por supuesto la cola era interminable y quedó ubicado detrás de dos mujeres que, con su estridente y estúpida conversación, lo pusieron de un humor…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/bala-en-el-cerebro/"
-surtitle = ""
-subtitle = "Tobias Wolff"
-deck = ""
-author_links = [
-    { name = "Tobias Wolff", path = "" },
-]
-tag_links = [
-    { name = "Cuento", path = "/etiquetas/cuento/" },
-]
-comments = []
-+++
-
+---
+title: Bala en el cerebro
+slug: bala-en-el-cerebro
+date: 2009-08-14 20:04:51
+draft: true
+tags: Cuento
+author: Tobias Wolff
+subtitle: Tobias Wolff
+---
 Anders llegó al banco poco antes de la hora de cierre, así que por supuesto la cola era interminable y quedó ubicado detrás de dos mujeres que, con su estridente y estúpida conversación, lo pusieron de un humor asesino. De cualquier manera nunca estaba del mejor humor, Anders—un crítico literario conocido por el cansado y elegante salvajismo con el que despachaba casi todo lo que reseñaba.
+
+<!-- TEASER_END -->
 
 Aunque la cola serpenteaba siguiendo la cuerda, una de las cajeras puso un cartel de "caja cerrada" en su ventanilla, caminó hacia la parte de atrás del banco, se apoyó contra un escritorio y empezó a hacer tiempo con un hombre que ordenaba papeles. Las mujeres delante de Anders interrumpieron su conversación y observaron a la cajera con odio. "Ah, qué bien", dijo una de ellas. Se volvió hacia Anders y agregó, confiada en su complicidad, "Uno de esos toquecitos humanos que nos hacen volver por más."
 
@@ -120,6 +91,6 @@ Entonces llegan los últimos dos muchachos, Coyle y un primo de él de Mississip
 
 La bala ya está en el cerebro; no será demorada por siempre, su avance no se detendrá. Al final hará su trabajo y dejará el cráneo agujereado, arrastrando una cola de cometa de memoria y esperanza y talento y amor hacia el mármol del salón. Y eso no podrá evitarse. Pero por ahora Anders todavía puede hacer tiempo. Tiempo para que las sombras que se alarguen en el pasto, tiempo para que el perro le ladre a la pelota que vuela, tiempo para que el muchacho en el sector izquierdo del campo golpetee su guante negro de transpiración y suavemente entone, Que es, que es, que es.
 
-{% postscript() %}
+{{% postscript %}}
 Traducción de Christian Rodriguez
-{% end %}
+{{% /postscript %}}

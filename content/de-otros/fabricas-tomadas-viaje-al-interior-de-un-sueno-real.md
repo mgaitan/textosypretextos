@@ -1,46 +1,14 @@
-+++
-title = "Fábricas tomadas: viaje al interior de un sueño real"
-slug = "fabricas-tomadas-viaje-al-interior-de-un-sueno-real"
-date = 2011-11-21 00:45:46
-description = "INTRODUCCIÓN: El cerámico y los retratos \"Lock out\" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus \"demandas\" a los…"
-draft = false
-template = "article.html"
-authors = [
-    "Sebastian Hacher",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Política",
-    "Amistad",
-]
-
-[extra]
-legacy_id = 382
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "INTRODUCCIÓN: El cerámico y los retratos \"Lock out\" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus \"demandas\" a los trabajadores; baja de salarios, despidos, suspensiones o…"
-visits = 945
-popularite = 0.5796679912664636
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/fabricas-tomadas-viaje-al-interior-de-un-sueno-real/"
-surtitle = ""
-subtitle = "Sebastian Hacher"
-deck = ""
-author_links = [
-    { name = "Sebastian Hacher", path = "" },
-]
-tag_links = [
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-comments = []
-+++
-
+---
+title: 'Fábricas tomadas: viaje al interior de un sueño real'
+slug: fabricas-tomadas-viaje-al-interior-de-un-sueno-real
+date: 2011-11-21 00:45:46
+tags: Política, Amistad
+author: Sebastian Hacher
+subtitle: Sebastian Hacher
+---
 **INTRODUCCIÓN: El cerámico y los retratos**
+
+<!-- TEASER_END -->
 
 "Lock out" es el sinónimo de huelga patronal y es utilizada por los patrones para imponer sus "demandas" a los trabajadores; baja de salarios, despidos, suspensiones o condiciones indignas de trabajo.
 
@@ -447,6 +415,6 @@ La metodología que utilizan estos ex-dirigentes sindicales ligados a la CGT es 
 
 Este tipo de "laburitos", como se los llaman en el mundo del clientelismo y la mafia política local, es comúnmente utilizada para engrosar actos políticos, realizar apretadas a opositores, hacer robos por encargo, etc. En la marginalidad, en el reparto político de la ayuda social, en los comité de campaña, en las estructuras vetustas de los viejos aparatos estatales, el trabajo de matonaje y la provocación es una fuente de empleo para todo aquel que haya perdido hasta el mínimo grado de valores humanos.
 
-{% postscript() %}
+{{% postscript %}}
 [Publicado originalmente](http://argentina.indymedia.org/news/2002/12/73034.php) el 30 de diciembre de 2002 en Indymedia Argentina.
-{% end %}
+{{% /postscript %}}

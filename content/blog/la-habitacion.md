@@ -1,67 +1,13 @@
-+++
-title = "La habitación"
-slug = "la-habitacion"
-date = 2005-07-08 20:59:50
-description = "Entre muchos tachones y una caligrafía que a fuerza de teclado está cada vez más horrible, sobreviven los últimos textos que hice para el taller de escritura. Antes de…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Ficciones",
-    "Tecnología",
-]
-
-[extra]
-legacy_id = 46
-section_slug = "blog"
-section_title = "Blog"
-summary = "Entre muchos tachones y una caligrafía que a fuerza de teclado está cada vez más horrible, sobreviven los últimos textos que hice para el taller de escritura. Antes de que pierda el cuaderno o, más probable, el coraje…"
-visits = 684
-popularite = 0.9063096358403006
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/la-habitacion/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-
-[[extra.comments]]
-id = 1030
-anchor = "comment-1030"
-author = ""
-date = "2005-07-12 09:06:26"
-date_display = "12.07.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "puta boludo, me ponés triste..."
-
-[[extra.comments]]
-id = 1032
-anchor = "comment-1032"
-author = "camila"
-date = "2005-08-14 23:16:38"
-date_display = "14.08.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "escribime un cuentito para mi . besos cami"
-+++
-
+---
+title: La habitación
+slug: la-habitacion
+date: 2005-07-08 20:59:50
+tags: Ficciones, Tecnología
+author: Martín Gaitán
+---
 Entre muchos tachones y una caligrafía que a fuerza de teclado está cada vez más horrible, sobreviven los últimos textos que hice para [el taller de escritura](@/blog/el-taller-gimnasio-de-la-neurona.md).
+
+<!-- TEASER_END -->
 
 Antes de que pierda el cuaderno o, más probable, el coraje de mostrarlos, voy a ir publicando acá algunos de ellos, acompañados de la consigna que los parió (por cesárea).
 
@@ -82,4 +28,3 @@ Acá va el primero.
 > Mientras yo intentaba destrabar la ventana para que entre algo de luz, él se acercó al escritorio. Cuantas veces habremos visto a tu viejo sentado allí, rodeado de esa interminable biblioteca de la que hoy sólo quedan huellas en la pared descascarada.
 >
 > Tu hermano me dio esta carta para vos, es de tu viejo. Estaba en el segundo cajón.
-

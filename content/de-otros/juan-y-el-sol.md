@@ -1,44 +1,20 @@
-+++
-title = "Juan y el sol"
-slug = "juan-y-el-sol"
-date = 2008-11-10 09:19:14
-description = "Llovía tanto que parecía que el mundo entero se estaba licuando. Hacía un mes que no paraba. Y cuando paraba era por un ratito, algunas horas, a lo mucho amainaba medio…"
-draft = false
-template = "article.html"
-authors = [
-    "Mampo Giardinelli",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Amistad",
-    "Cine",
-]
+---
+title: Juan y el sol
+slug: juan-y-el-sol
+date: 2008-11-10 09:19:14
+tags: Amistad, Cine
+author: Mampo Giardinelli
+subtitle: Mempo Giardinelli
+---
+Llovía tanto que parecía que el mundo entero se estaba licuando. Hacía un mes que no paraba. Y cuando paraba era por un ratito, algunas horas, a lo mucho amainaba medio día o toda una tarde, pero enseguida se largaba otra vez. Un mes así. Un mes y pico.
 
-[extra]
-legacy_id = 240
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Llovía tanto que parecía que el mundo entero se estaba licuando. Hacía un mes que no paraba. Y cuando paraba era por un ratito, algunas horas, a lo mucho amainaba medio día o toda una tarde, pero enseguida se largaba…"
-visits = 974
-popularite = 0.6805399277000869
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/juan-y-el-sol/"
-surtitle = ""
-subtitle = "Mempo Giardinelli"
-deck = "Llovía tanto que parecía que el mundo entero se estaba licuando. Hacía un mes que no paraba. Y cuando paraba era por un ratito, algunas horas, a lo mucho amainaba medio día o toda una tarde, pero enseguida se largaba otra vez. Un mes así. Un mes y pico.\n\n--*Tendríamos que ir a verlo*--dijo Mingo, con la vista clavada en la laguna en que se había convertido la calle, por la que cada tanto pasaba un coche haciendo oleaje.\n  Venancio, con el codo izquierdo sobre la mesa y el mentón apoyado sobre la palma de su mano, asintió rítmicamente, despacito, como preguntándose que sentía. Hasta que se dio cuenta de lo que sentía, y se le humedecieron los ojos.\n--*Pobre Juan*--dijo, en voz baja--* Tendríamos que ir a verlo, sí*. \n\nHacía cinco meses que el amigo Juan Saravia estaba enfermo y eso los tenía muy preocupados."
-author_links = [
-    { name = "Mampo Giardinelli", path = "/autores/mampo-giardinelli/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-]
-comments = []
-+++
+--*Tendríamos que ir a verlo*--dijo Mingo, con la vista clavada en la laguna en que se había convertido la calle, por la que cada tanto pasaba un coche haciendo oleaje.
+  Venancio, con el codo izquierdo sobre la mesa y el mentón apoyado sobre la palma de su mano, asintió rítmicamente, despacito, como preguntándose que sentía. Hasta que se dio cuenta de lo que sentía, y se le humedecieron los ojos.
+--*Pobre Juan*--dijo, en voz baja--* Tendríamos que ir a verlo, sí*. 
+
+Hacía cinco meses que el amigo Juan Saravia estaba enfermo y eso los tenía muy preocupados.
+
+<!-- TEASER_END -->
 
 Juan Saravia era un salteño avecindado en la zona de Puerto Bermejo, a unos cien kilómetros de Resistencia, sobre el río, y vivía en una casa que había construido con sus propias manos, años atrás, cuando se vino de Salta con un empleo de viajante para la Anderson Clayton. Se habían hecho amigos en un hotelito de Samuhu, una noche en que los tres coincidieron por culpa de otras lluvias que anegaban los caminos, en los tiempos en que Mingo era viajante de Nestlé y Venancio de Terrabusi. Ahora, la tuberculosis lo estaba matando.
   
@@ -121,6 +97,6 @@ Venancio y Mingo se sentaron a su lado a tomar mates, ineficaces pero fieles. Ca
 --*¿Le viste la sonrisa anoche? Ni que se hubiera muerto soñándolo.*
 --*Carajo con el sol*--dijo Mingo.
 
-{% postscript() %}
+{{% postscript %}}
 De *"El castigo de Dios"*, 1993
-{% end %}
+{{% /postscript %}}

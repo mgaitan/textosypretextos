@@ -1,41 +1,11 @@
-+++
-title = "Hey you - Pink Floyd"
-slug = "hey-you-pink-floyd"
-date = 2008-04-06 11:57:37
-description = "Hey tu, Allí afuera en el frío, Quedándote solo, haciéndote viejo, ¿Puedes sentirme? Hey tu, Parado en el pasillo Con la picazón en tu pie y una sonrisa que se…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Videos",
-]
-tags = []
-
-[extra]
-video_id = "lRcQZ2tnWeg"
-legacy_id = 100
-section_slug = "videos"
-section_title = "Videos"
-summary = "Hey tu, Allí afuera en el frío, Quedándote solo, haciéndote viejo, ¿Puedes sentirme? Hey tu, Parado en el pasillo Con la picazón en tu pie y una sonrisa que se desvanece ¿Puedes sentirme? Hey tu, No les ayudes a…"
-visits = 245
-popularite = 0.9066027926696145
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/hey-you-pink-floyd/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
-+++
-
-{{ video_embed(provider="youtube", id="lRcQZ2tnWeg") }}
+---
+title: Hey you - Pink Floyd
+slug: hey-you-pink-floyd
+date: 2008-04-06 11:57:37
+author: Martín Gaitán
+video_id: lRcQZ2tnWeg
+---
+{{% video_embed provider="youtube" id="lRcQZ2tnWeg" %}}
 
 <div class="poetry">Hey tu,<br>
 Allí afuera en el frío,<br>
@@ -77,3 +47,4 @@ Hey tu,<br>
 No me digas que no hay nada de esperanzas.<br>
 Juntos estamos parados, divididos nos caemos</div>
 
+<!-- TEASER_END -->

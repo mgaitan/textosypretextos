@@ -1,0 +1,17 @@
+{# Shortcode: media_image
+   Uso: {{% media_image src="/media/jpg/foto.jpg" alt="descripción" caption="pie" align="center" %}}
+   Portado desde templates/shortcodes/media_image.html (Zola) #}
+{% if modal_id %}
+<a href="{{ src }}" data-image-modal-trigger="{{ modal_id }}" aria-controls="image-modal-{{ modal_id }}">
+{% endif %}
+<figure class="align-{{ align | default('center') }}">
+  <div class="media-frame">
+    <img src="{{ src }}" alt="{{ alt | default('') }}" loading="lazy">
+  </div>
+  {% if caption %}
+    <figcaption>{{ caption }}</figcaption>
+  {% endif %}
+</figure>
+{% if modal_id %}
+</a>
+{% endif %}

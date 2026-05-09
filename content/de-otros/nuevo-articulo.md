@@ -1,43 +1,16 @@
-+++
-title = "Nuevo artículo"
-slug = "nuevo-articulo"
-date = 2008-05-11 14:55:56
-description = "Estaba sensible. O sea bien. Pleno. Ese lugar es místico y vos , ahora, formás parte de eso. Sólo pienso en cómo sería ese paisaje con vos riendo. Las cuatro y veinte…"
-draft = true
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "De otros",
-]
-tags = []
-
-[extra]
-legacy_id = 133
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Estaba sensible. O sea bien. Pleno. Ese lugar es místico y vos , ahora, formás parte de eso. Sólo pienso en cómo sería ese paisaje con vos riendo. Las cuatro y veinte dice el monitor, y lo que cuenta la ventana parece…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/nuevo-articulo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
-+++
-
+---
+title: Nuevo artículo
+slug: nuevo-articulo
+date: 2008-05-11 14:55:56
+draft: true
+author: Martín Gaitán
+---
 Estaba sensible. O sea bien. Pleno. Ese lugar es místico y vos
 , ahora, formás parte de eso.  Sólo pienso en cómo sería ese
 paisaje con vos riendo. Las cuatro y veinte dice el monitor, y lo que cuenta la ventana parece de otro lugar. Marte, por ejemplo. Pero el calor
 sólo puede ser de Córdoba y este desvelo sólo mio
+
+<!-- TEASER_END -->
 
 Quiero una canción que diga que sos el paisaje más soñado, que
 sacudiste las más sólidas tristezas, que respondiste cada vez que te

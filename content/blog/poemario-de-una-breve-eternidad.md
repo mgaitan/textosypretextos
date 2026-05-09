@@ -1,43 +1,11 @@
-+++
-title = "Poemario de una breve eternidad"
-slug = "poemario-de-una-breve-eternidad"
-date = 2012-06-11 04:13:00
-description = "Busco tu voz, tu hola, tu estás ahi, una seña, un estoy bien un seremos fuertes, siéndolo. Quiero que llegue, minutos dias siglos el momento de extenderte mis brazos…"
-draft = true
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Poesía",
-]
-
-[extra]
-legacy_id = 428
-section_slug = "blog"
-section_title = "Blog"
-summary = "Busco tu voz, tu hola, tu estás ahi, una seña, un estoy bien un seremos fuertes, siéndolo. Quiero que llegue, minutos dias siglos el momento de extenderte mis brazos mis almitas en ellos y que dejes caer tu piel en mi…"
-visits = 2
-popularite = 0.9303283540875
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/poemario-de-una-breve-eternidad/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Poesía", path = "/etiquetas/poesia/" },
-]
-comments = []
-+++
-
+---
+title: Poemario de una breve eternidad
+slug: poemario-de-una-breve-eternidad
+date: 2012-06-11 04:13:00
+draft: true
+tags: Poesía
+author: Martín Gaitán
+---
 <div class="poetry">Busco tu voz, tu hola, tu estás ahí,<br>
 una seña, un estoy bien<br>
 un seremos fuertes,<br>
@@ -143,3 +111,5 @@ es que quiero con vos<br>
 como el primer día, compañera<br>
   o más<br>
 mi lugar en la tierra</div>
+
+<!-- TEASER_END -->

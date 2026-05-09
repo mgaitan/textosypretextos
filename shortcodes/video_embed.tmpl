@@ -1,0 +1,25 @@
+{# Shortcode: video_embed
+   Uso: {{% video_embed provider="youtube" id="XYZ" title="Título" %}}
+   Portado desde templates/shortcodes/video_embed.html (Zola) #}
+<figure class="align-center">
+  <div class="media-frame video aspect-[16/9]">
+    {% if provider == "youtube" %}
+      <button class="video-facade"
+              data-src="https://www.youtube.com/embed/{{ id }}?autoplay=1"
+              style="background-image:url('https://img.youtube.com/vi/{{ id }}/hqdefault.jpg')"
+              aria-label="{{ title | default('Reproducir video') }}">
+        <span class="video-play-icon" aria-hidden="true"></span>
+      </button>
+    {% elif provider == "vimeo" %}
+      <iframe src="https://player.vimeo.com/video/{{ id }}"
+              title="{{ title | default('Video') }}"
+              loading="lazy"
+              allow="autoplay; fullscreen; picture-in-picture"
+              allowfullscreen></iframe>
+    {% elif provider == "dailymotion" %}
+      <iframe src="https://www.dailymotion.com/embed/video/{{ id }}"
+              title="{{ title | default('Video') }}"
+              loading="lazy" allowfullscreen></iframe>
+    {% endif %}
+  </div>
+</figure>

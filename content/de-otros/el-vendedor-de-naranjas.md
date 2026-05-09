@@ -1,44 +1,11 @@
-+++
-title = "El vendedor de naranjas"
-slug = "el-vendedor-de-naranjas"
-date = 2009-01-09 09:47:59
-description = "El hombre que maneja la niveladora de terreno, mira el banderín azul con ansiedad. Tiene las manos al volante, y un cigarrillo apagado en la boca. El sol brilla con…"
-draft = false
-template = "article.html"
-authors = [
-    "Jorge Lanata",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Política",
-    "Amistad",
-]
-
-[extra]
-legacy_id = 264
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "El hombre que maneja la niveladora de terreno, mira el banderín azul con ansiedad. Tiene las manos al volante, y un cigarrillo apagado en la boca. El sol brilla con desenfado y entonces el hombre se seca una gota que…"
-visits = 1126
-popularite = 0.9066396752886733
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-vendedor-de-naranjas/"
-surtitle = ""
-subtitle = "Jorge Lanata"
-deck = ""
-author_links = [
-    { name = "Jorge Lanata", path = "/autores/jorge-lanata/" },
-]
-tag_links = [
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-comments = []
-+++
+---
+title: El vendedor de naranjas
+slug: el-vendedor-de-naranjas
+date: 2009-01-09 09:47:59
+tags: Política, Amistad
+author: Jorge Lanata
+subtitle: Jorge Lanata
+---
 El hombre que maneja la niveladora de terreno, mira
 el banderín azul con ansiedad. Tiene las manos al volante, y un cigarrillo apagado en la boca. El sol brilla con 
 desenfado y entonces el hombre se seca una gota que le
@@ -47,6 +14,8 @@ está a quinientos metros. Hace seis meses que, junto a
 una cuadrilla, el hombre trabaja para ensanchar la ruta
 a Gaza. Ha visto pasar camiones de soldados, móviles de la
 televisión, micros con colonos. 
+
+<!-- TEASER_END -->
 
 Sin embargo, todas las mañanas desde las cinco, con la exactitud del destino, el hombre se sube a su niveladora de terreno, espera que la cuadrilla baldee la banquina de pavimento caliente y luego descuenta los metros hasta el banderín. A veces lleva consigo una pequeña radio japonesa que hace equilibrio cerca de la caja de cambios. Hoy el hombre escuchó que suman mas de dos mil los detenidos. Se han expulsado a diecisiete personas, y se han destruido y bloqueado trescientas casas.
 

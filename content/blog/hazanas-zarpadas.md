@@ -1,81 +1,14 @@
-+++
-title = "Hazañas zarpadas"
-slug = "hazanas-zarpadas"
-date = 2008-04-25 13:08:34
-description = "La barra brava va pa' la cancha. Canallas, casaca a rayas. Las caras marcadas, las gargantas raspadas. Mala facha. Baranda a cancha baja atrás. La chala daña, la pasan…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Ficciones",
-    "Música",
-    "Humor",
-]
-
-[extra]
-legacy_id = 119
-section_slug = "blog"
-section_title = "Blog"
-summary = "La barra brava va pa' la cancha. Canallas, casaca a rayas. Las caras marcadas, las gargantas raspadas. Mala facha. Baranda a cancha baja atrás. La chala daña, la pasan mal. Pasada la valla, la barra da masa. ¡Batalla…"
-visits = 3307
-popularite = 0.9159315412501867
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/hazanas-zarpadas/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-
-[[extra.comments]]
-id = 6862
-anchor = "comment-6862"
-author = "Marina"
-date = "2008-04-26 07:36:46"
-date_display = "26.04.2008"
-depth = 0
-url_site = ""
-title = "Hazañas zarpadas"
-body = "Que bueno Martin! me encantó. Siga publicando nomás ! disfruto mucho leyéndote.\n\nbeso\nMarina"
-
-[[extra.comments]]
-id = 6869
-anchor = "comment-6869"
-author = "Agustin"
-date = "2008-05-01 02:09:06"
-date_display = "01.05.2008"
-depth = 0
-url_site = "http://www.agustinogando.blogspot.com"
-title = "Hazañas zarpadas"
-body = "si, muy bueno Martin, al mejor estilo capusoto o esa forma de narrar, Rescato la consonancia con la realidad, eso nos identifica. segui en ese camino."
-
-[[extra.comments]]
-id = 50373
-anchor = "comment-50373"
-author = "Alejo"
-date = "2011-04-28 01:30:32"
-date_display = "28.04.2011"
-depth = 0
-url_site = ""
-title = "Hazañas zarpadas"
-body = "Muy buenas tus palabras, nunca disfrute tanto leer algo asi, aparte de c... de risa. Monumental lo tuyo, por lo que significa esa palabra para mi, un gol de media cancha. Un saludo."
-+++
-
+---
+title: Hazañas zarpadas
+slug: hazanas-zarpadas
+date: 2008-04-25 13:08:34
+tags: Ficciones, Música, Humor
+author: Martín Gaitán
+---
 La barra brava va pa' la cancha. Canallas, casaca a rayas. Las caras marcadas, las gargantas raspadas. Mala facha.
 Baranda a cancha baja atrás. La chala daña, la pasan mal.
+
+<!-- TEASER_END -->
 
 Pasada la valla, la barra da masa. ¡Batalla Campal! Tras la avalancha falta paz: Paf! Paf! Ahhhh!!! Pará, ¡pará!. Pachá, fana canalla, faja a maracas para sacar plata. Más allá 'taba Larva, flashada a rama, calzaba navaja. Facaba, mataba...'taba para atrás. 
 
@@ -132,11 +65,10 @@ Allá las masas alaban a Pachá. Las pancartas aclaran: *"Pachá aplastará al A
 
 La trama acaba acá. ¡Basta ya! ¡Pará la cháchara!. Las palabras, cansadas ya, nada más acatan narrar .
 
-{% postscript() %}
+{{% postscript %}}
 Este texto lo escribí en el año 2000, en viaje a un congreso estudiantil en Rosario. En el secundario, en Neuquén, tuve a un *Larva* y a un *Pachá* como compañeros, y ambos eran rosarinos, aunque El Larva era fanático hincha de Newell's. 
 
 Apareció originalmente en la revista Eppur Si Muove, publicación del Centro de Estudiantes de la Facultad de Ingeniería de la Universidad Nacional del Comahue. 
 
 Luego escribí [Verdes menesteres](@/blog/verdes-menesteres.md) para la revista El Cascotazo y, más adelante, uno que tiene ausencia deliberada de la vocal "e": [Los mimos y las masas](@/blog/los-mimos-y-las-masas.md).
-{% end %}
-
+{{% /postscript %}}

@@ -1,69 +1,13 @@
-+++
-title = "Semana"
-slug = "semana"
-date = 2004-11-13 20:19:22
-description = "Hace más de una semana que no escribo aquí, y no es mi intención dejarlos así, con esas ansiosas ganas de saber de ese hijo, hermano, amigo, amante, conocido o extraño…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "El resto",
-    "Córdoba",
-    "Amor",
-]
-
-[extra]
-legacy_id = 14
-section_slug = "blog"
-section_title = "Blog"
-summary = "Hace más de una semana que no escribo aquí, y no es mi intención dejarlos así, con esas ansiosas ganas de saber de ese hijo, hermano, amigo, amante, conocido o extraño que ahora leen en internet. Queria contarles…"
-visits = 614
-popularite = 0.9064363138877998
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/semana/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-
-[[extra.comments]]
-id = 56
-anchor = "comment-56"
-author = "david"
-date = "2004-11-15 17:27:44"
-date_display = "15.11.2004"
-depth = 0
-url_site = ""
-title = ""
-body = "No seas chanta y responde los mails (aunque te lleve menos trabajo escribir una vez y para todos)."
-
-[[extra.comments]]
-id = 58
-anchor = "comment-58"
-author = "marcia"
-date = "2004-11-19 13:39:23"
-date_display = "19.11.2004"
-depth = 0
-url_site = ""
-title = ""
-body = "che primo, no quiero otro sobrino por el momento y menos tan lejos, plise, cuidado!!fijate bien de que cama te levantas.\nbesosssss"
-+++
-
+---
+title: Semana
+slug: semana
+date: 2004-11-13 20:19:22
+tags: El resto, Córdoba, Amor
+author: Martín Gaitán
+---
 Hace más de una semana que no escribo aquí, y no es mi intención dejarlos así, con esas ansiosas ganas de saber de  ese hijo, hermano, amigo, amante, conocido o extraño que ahora leen en  internet.  
+
+<!-- TEASER_END -->
 
 Quería contarles algunas cosas de esta semana y disculpen si no soy coherente con la cronología de los sucesos y me voy por las ramas, pero (muy mal lo mio)  ni siquiera tomé apuntes para cuando me sentara a escribir. Entonces ese será el papel de este texto, suplir en una breve reseña los temas que alguna vez explayaré, no vaya a ser cosa que queden perdidos y silenciados en la nebulosa de mi pasado. 
 
@@ -156,4 +100,3 @@ Los viernes pasadas las tres de la tarde es un horario clave para la vida de un 
 A la noche hubo anécdota que podría intitularse "Cumpleaños de Nico Lolo, segunda parte", con puntos salientes para comentar  como El Rodri, un hilarante cordobés con diente de lata; Carolina, la hermanita del cumpleañero; los nerds compañeros de trabajo que se hacían chistes de computación (Nico estudia Ingeniería Informática, y trabaja de programador); y, en fin, mi regreso triunfal en la madrugada de una noche agitada.  Pero eso será tema para otros relatos. 
 
 Los dejo, e intentaré  escribir mas corto y mas seguido. Hasta la victoria, siempre!
-

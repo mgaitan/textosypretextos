@@ -1,0 +1,24 @@
+{% extends "base.tmpl" %}
+
+{% block title %}Buscar · {{ blog_title }}{% endblock %}
+{% block meta_description %}Buscar textos en el sitio.{% endblock %}
+
+{% block content %}
+  <main class="pt-8 mx-auto max-w-[980px]" data-search-page>
+    <section class="editorial-rule">
+      <span class="section-ribbon">Buscar</span>
+      <div class="mt-5">
+        <h1 class="story-title">Buscar en el sitio</h1>
+        <form id="search-page-form" class="mt-6" role="search" data-search-form>
+          <label class="sr-only" for="q">Buscar</label>
+          <input id="q" name="q" type="search" autofocus autocomplete="off" data-search-input
+                 placeholder="Palabras, autores, frases..."
+                 class="w-full border border-black px-4 py-3 text-lg focus:outline-none focus:border-[var(--color-link)]">
+        </form>
+        <p id="search-status" class="mt-4 text-sm text-neutral-500" role="status" data-search-status></p>
+      </div>
+    </section>
+
+    <section id="search-results" class="listing mt-10" data-search-results></section>
+  </main>
+{% endblock %}

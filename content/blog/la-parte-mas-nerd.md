@@ -1,93 +1,13 @@
-+++
-title = "La parte más nerd"
-slug = "la-parte-mas-nerd"
-date = 2006-09-11 21:00:16
-description = "Queridísima Cronopia : Ocho de la mañana de un viernes, y el cielo sufre de esquizofrenia. Como no está seguro de ser negro de noche, y se siente perseguido por la…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Desde el ombligo",
-    "huellas",
-    "Tecnología",
-    "Humor",
-]
-
-[extra]
-legacy_id = 65
-section_slug = "blog"
-section_title = "Blog"
-summary = "Queridísima Cronopia : Ocho de la mañana de un viernes, y el cielo sufre de esquizofrenia. Como no está seguro de ser negro de noche, y se siente perseguido por la claridad de día, se disfraza de gris con el sombrero…"
-visits = 2012
-popularite = 0.9077493946106868
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/la-parte-mas-nerd/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "huellas", path = "/etiquetas/huellas/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-
-[[extra.comments]]
-id = 1122
-anchor = "comment-1122"
-author = "Lou Cid"
-date = "2006-09-12 05:08:45"
-date_display = "12.09.2006"
-depth = 0
-url_site = "http://sigueparticipando.wordpress.com/"
-title = ""
-body = "Tin,\nun placer volver a leerte. Yo tambien programo bastante en mi trabajo y, de cuando en cuando, el nerd domina. Pero cuando sale el escritor, se llevan bien. Y yo los quiero a los dos por igual. \nSaludos."
-
-[[extra.comments]]
-id = 1149
-anchor = "comment-1149"
-author = "Aiti"
-date = "2006-10-09 22:05:21"
-date_display = "09.10.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "Qué cosas lindas por acá, digo, todas juntas segregando como cromosoma en plena metafase, te mando 3,1415treinta y un millones cuatrocientos cuarenta y nueve mil novecientos ochenta: besos."
-
-[[extra.comments]]
-id = 7337
-anchor = "comment-7337"
-author = "carolina"
-date = "2009-07-23 15:59:31"
-date_display = "23.07.2009"
-depth = 0
-url_site = ""
-title = "La parte más nerd"
-body = "No soi nerd pero vos sos un reberendo pelotudo"
-
-[[extra.comments]]
-id = 53861
-anchor = "comment-53861"
-author = "mPiTBfTGAhX"
-date = "2012-12-28 06:04:03"
-date_display = "28.12.2012"
-depth = 0
-url_site = "http://www.facebook.com/profile.php?id=100003407251283"
-title = "La parte más nerd"
-body = "Eu improvisei uma peritadeena para mim tb. A gente ia mandar fazer mas aed as prioridades ($$$) se3o outras tb e eu me lembrei que tinha um mf3vel na casa da minha tia que foi da minha me3e que de repente dava um caldo. Ne3o e9 que contra a expectativa de todo mundo a minha peritadeena ficou bem da charmosa? Sf3 faz uma luz legal. Mudane7a e9 assim mesmo, principalmente quando juntamos as escovas de dentes. Ate9 hoje eu reclamo de ter perdido espae7o no closet para o Erick e tem coisas que ainda este3o em caixa que eram do enxoval - como estavam sobrando na e9poca achei melhor deixar encaixotadas do que ter \"80\" panos de prato sem lugar para guardar! As vezes eu tenho a sensae7e3o que nunca vou conseguir acabar de arrumar a casa como eu gostaria =)Beijos!"
-+++
-
+---
+title: La parte más nerd
+slug: la-parte-mas-nerd
+date: 2006-09-11 21:00:16
+tags: Desde el ombligo, huellas, Tecnología, Humor
+author: Martín Gaitán
+---
 Queridísima Cronopia :
+
+<!-- TEASER_END -->
 
 Ocho de la mañana de un viernes, y el cielo sufre de esquizofrenia. Como no está seguro de ser negro de noche, y se siente perseguido por la claridad de día, se disfraza de gris con el sombrero de Natalio Ruiz.  Yo me pasé una noche más sin dormir, o sea que ya voy mejorando. Es que, vos me conocés Cronopia: a la noche, cuando el cielo es oscuro y el silencio innunda, yo respiro con los ojos y las neuronas más abiertas que nunca. Seguro que en mi anterior vida fui japonés, y algo me quedó.  Excusa vaga: como el cielo sigue esquizoide y se aclara cada vez más (o se sonroja porque lo nombro mucho)  puede que algunas neuronas vayan terminando su jornada mientras escribo esta carta.
 
@@ -122,4 +42,3 @@ Tengo ganas de que ganemos, pero jugando bien. Nada hay que temer, pues, por sue
 Creo que me voy a dormir un ratito. Te mando Pi besos. Uy, te dije que encontré mi parte nerd?
 
 tin
-

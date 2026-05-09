@@ -1,113 +1,13 @@
-+++
-title = "Tres grageas para mamá"
-slug = "tres-grageas-para-mama"
-date = 2006-10-16 05:47:22
-description = "UNO En pleno microcentro, entre bancos y casas de cambio, hay una tienda de artículos para el hogar en cuya entrada hay un televisor de plasma de muchas pulgadas…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "El resto",
-    "Familia",
-    "Música",
-]
-
-[extra]
-legacy_id = 79
-section_slug = "blog"
-section_title = "Blog"
-summary = "UNO En pleno microcentro, entre bancos y casas de cambio, hay una tienda de artículos para el hogar en cuya entrada hay un televisor de plasma de muchas pulgadas. Siempre que paso por ahí me llaman la atención dos…"
-visits = 1932
-popularite = 0.9589888851380636
-hero_image = ""
-hero_alt = ""
-comment_count = 6
-legacy_url = "/blog/tres-grageas-para-mama/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-
-[[extra.comments]]
-id = 1154
-anchor = "comment-1154"
-author = "elena"
-date = "2006-10-16 19:24:27"
-date_display = "16.10.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "Mi abrazo !!!\nCon tostadas, manteca, restos de picadillo  de carne, un poco de queso cremoso, la mermelada casera de manzana,la leche desnatada burbujeante y un café intenso...o más bien chocolatada para el negrito. Gracias por SER así, como sos. Mami."
-
-[[extra.comments]]
-id = 1166
-anchor = "comment-1166"
-author = "patrcia"
-date = "2006-11-02 15:56:59"
-date_display = "02.11.2006"
-depth = 0
-url_site = "http://barbie"
-title = ""
-body = "me ha parecido precioso kiero una de esas con mi nonbre y el de ruben."
-
-[[extra.comments]]
-id = 7041
-anchor = "comment-7041"
-author = "martin"
-date = "2008-10-19 08:44:54"
-date_display = "19.10.2008"
-depth = 0
-url_site = ""
-title = "Tres grageas para mamá"
-body = "Vale hacer trampa? Despues, de todo, es el mismo amor. Feliz dia de la madre, 2008."
-
-[[extra.comments]]
-id = 10082
-anchor = "comment-10082"
-author = "Jugolito"
-date = "2010-10-17 12:01:14"
-date_display = "17.10.2010"
-depth = 0
-url_site = ""
-title = "Tres grageas para mamá"
-body = "Perfecto para mamá. Peermiso lo público en mi muro del F.\nAbrazos"
-
-[[extra.comments]]
-id = 51964
-anchor = "comment-51964"
-author = "elena"
-date = "2011-10-16 17:23:28"
-date_display = "16.10.2011"
-depth = 0
-url_site = ""
-title = "Tres grageas para mamá"
-body = "Gracias Hijo Querido!!\nTal vez, cuando nos reecontremos, agregaremos a tu mesa-mi mesa/ a tu cena desayuno, mi encuentro deseado con cada hijo, un vasito de tequila añejo que acabo de comprar para ti. Acà llueve tanto, tanto,  que optamos por entrar a un supermercado y allí estaba una linda botella diciendome llevame con martin. Te quiero"
-
-[[extra.comments]]
-id = 51965
-anchor = "comment-51965"
-author = "titela"
-date = "2011-10-16 18:19:49"
-date_display = "16.10.2011"
-depth = 0
-url_site = ""
-title = "Tres grageas para mamá"
-body = "las tías también pueden robarlo? me encantó Martín, UN ABRAZO GIGANTE !! con tostadas manteca tortitas aceitunas salame queso y hasta un asadito del tío Eduardo si querés  ja ja !!"
-+++
-
+---
+title: Tres grageas para mamá
+slug: tres-grageas-para-mama
+date: 2006-10-16 05:47:22
+tags: El resto, Familia, Música
+author: Martín Gaitán
+---
 ### UNO
+
+<!-- TEASER_END -->
 
 En pleno microcentro, entre bancos y casas de cambio, hay una tienda de artículos para el hogar en cuya entrada hay un televisor de plasma de muchas pulgadas. Siempre que paso por ahí me llaman la atención dos cosas: lo mal que se ven los teles de plasma si no estás lejos, y cómo todo tipo de gente se detiene para ver, sea lo que sea que estén dando. Tipos de traje y corbata, mujeres con niños de la mano, canillitas y jubilados forman una medialuna inmóvil, sólo concentrada en la pantalla.
 
@@ -157,7 +57,6 @@ Donde corre el agua,<br>
 donde duerme el tiempo,<br>
 puedo ver a través de tus ojos.</div>
 
-{{ video_embed(provider="youtube", id="8Xl5ZaInIc8") }}
+{{% video_embed provider="youtube" id="8Xl5ZaInIc8" %}}
 
 Te amo.
-

@@ -1,69 +1,13 @@
-+++
-title = "Limando cantos I"
-slug = "limando-cantos-i"
-date = 2008-08-12 20:30:13
-description = "En marzo pasado, a través de la Secretaria de Graduados, mi facultad promocionaba un Curso de Capacitación en Desarrollo de Software que brindaría (muy gentilmente) la…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Universo universitario",
-    "Tecnología",
-    "Córdoba",
-]
-
-[extra]
-legacy_id = 188
-section_slug = "blog"
-section_title = "Blog"
-summary = "En marzo pasado, a través de la Secretaria de Graduados, mi facultad promocionaba un Curso de Capacitación en Desarrollo de Software que brindaría (muy gentilmente) la multinacional de capitales españoles Indra . La…"
-visits = 1079
-popularite = 0.9191366248382079
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/limando-cantos-i/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Universo universitario", path = "/etiquetas/universo-universitario/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-
-[[extra.comments]]
-id = 6989
-anchor = "comment-6989"
-author = "LA VIEJI"
-date = "2008-08-13 05:03:56"
-date_display = "13.08.2008"
-depth = 0
-url_site = ""
-title = "Limando cantos I"
-body = "Tin, no es novedad que la educación pública, dígase escuela, universidad, es funcional al modelo capitalista y por ende a las multinacionales. Todos los proyectos educativos, en la historia del país, sirvieron a un objetivo económico...  Tampoco es novedad que \"lo nacional\" desde el punto de vista de la globalización fue. Lo que quiero expresarte es que no sólo la universidad abre las puertas a las empresas extranjeras y entrega a cambio ingenieros, cerebros. También desaparecieron las economías regionales, se privatizaron los servicios y los recursos naturales. Entonces tu lucha, la mía, la de otros no debería centrarse en un hecho puntual, quedarse en el pataleo y en el debate si es justo o no, es una vieja practica de la militancia clásica ( por ponerle un nombre). Sin querer, con esta reivindicación tan sectorial dejás afuera a los que no estudiamos ingeniería en computación en Córdoba. sin embargo, percibo en tu apasionamiento que, juntos a muchos de otros lares, se podría encarar una discusión a largo aliento \"Un nuevo modelo social, político, económico\" y no solo nacional, sino latinoamericano. Abrazo"
-
-[[extra.comments]]
-id = 6990
-anchor = "comment-6990"
-author = "noe"
-date = "2008-08-13 08:57:46"
-date_display = "13.08.2008"
-depth = 0
-url_site = ""
-title = "Limando cantos I"
-body = "Sin embargo pienso que el debate es útil porque en las cuestiones particulares como estas queda en evidencia lo naturalizado que está o lo poco crítico que sigue siendo el estudiantado en términos generales. Sigue siendo necesario marcar cosas para mostrarlas.\n\nEn mi facu eso no pasa mucho porque nadie quiere trabajadores sociales para organizar a los sectores populares, pero estoy pensando el planteo en términos de Universidad.\n\nPor ahí pienso que hay algunas facultades que no van a dar pasos diferentes por si solas, por pura maduración, el caso extremo podría ser la facultad de economía. Y que en esos espacios la única salida que veo es la activación de lxs estudiantes, tal vez para exigir una política universitaria en favor de un proyecto de país consensuado pensando en las mayorías, tal vez para motivar a las organizaciones sociales pertinentes, a exigir junto con lxs estudiantes que la universidad cumpla esa función(se puede hacer eso y otras ideas que tienen ustedes). Y así contribuir al fortalecimiento de otros sectores de la sociedad que lo necesitan.\n\nPero creo que la palabra es la única herramienta que tenemos para aportar a esa activación de la comunidad estudiantil.\n\nEntonces sigamos debatiendo e invitando a otros al debate, está buena la iniciativa.\nun beso"
-+++
-
+---
+title: Limando cantos I
+slug: limando-cantos-i
+date: 2008-08-12 20:30:13
+tags: Universo universitario, Tecnología, Córdoba
+author: Martín Gaitán
+---
 En marzo pasado, a través de la Secretaria de Graduados, mi facultad promocionaba un Curso de Capacitación en Desarrollo de Software que brindaría (muy gentilmente) la multinacional de capitales españoles [Indra](http://www.indra.es) .
+
+<!-- TEASER_END -->
 
 La secretaría, mediante la base de datos de correos, hizo llegar la invitación a los estudiantes de todos los años y carreras, incluídos quienes no podían postularse.
 
@@ -304,7 +248,6 @@ me dijo alguien una vez.
 Fuerte abrazo.
 Martin.
 
-{% postscript() %}
+{{% postscript %}}
 Hay otra discusión en la lista de computación publicada en el blog: [Limando cantos II](@/blog/limando-cantos-ii.md).
-{% end %}
-
+{{% /postscript %}}

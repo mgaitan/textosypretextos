@@ -1,44 +1,14 @@
-+++
-title = "El dólar de los ranchos"
-slug = "el-dolar-de-los-ranchos"
-date = 2012-06-03 19:17:08
-description = "En 1998, el país parecía vivir un tiempo de vacas gordas. Era el tiempo del despilfarro procaz del dólar. Pero había también, en el interior del país, sobre todo, otra…"
-draft = false
-template = "article.html"
-authors = [
-    "Marcos Zimmermann",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Amor",
-]
-
-[extra]
-legacy_id = 423
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "En 1998, el país parecía vivir un tiempo de vacas gordas. Era el tiempo del despilfarro procaz del dólar. Pero había también, en el interior del país, sobre todo, otra Argentina. Por entonces, yo estaba terminando mi…"
-visits = 470
-popularite = 0.9060722089944736
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-dolar-de-los-ranchos/"
-surtitle = ""
-subtitle = "Marcos Zimmermann"
-deck = ""
-author_links = [
-    { name = "Marcos Zimmermann", path = "" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
-+++
-
+---
+title: El dólar de los ranchos
+slug: el-dolar-de-los-ranchos
+date: 2012-06-03 19:17:08
+tags: Amor
+author: Marcos Zimmermann
+subtitle: Marcos Zimmermann
+---
 En 1998, el país parecía vivir un tiempo de vacas gordas. Era el tiempo del despilfarro procaz del dólar. Pero había también, en el interior del país, sobre todo, otra Argentina.
+
+<!-- TEASER_END -->
 
 Por entonces, yo estaba terminando mi libro Norte Argentino y había ido a fotografiar la gran inundación que había afectado a gran parte de la provincia de Corrientes, con idea de incluir algunas imágenes del desastre en el libro. Corrían allí muchas historias. En la Isla de las Damas, que queda frente a Goya, por ejemplo, sobre uno de los techos que surgían como islotes solitarios en el medio del río, Nemesio Sanabria se había refugiado con su abuela Obdulia de Aguirre. Después de tres días sin ayuda ni comida, el muchacho dormitaba. Y, en su sueño, recordaba el pasado: los dibujos que dejaban en su rostro las ramas del monte en época de seca y los cortes en las manos producidos por los bordes de las riendas endurecidas por el sol en el verano. Pero, sobre todo, recordaba cómo era el patio de su rancho y los dos árboles frutales, de los cuales ahora sólo se veían sus copas.
 
@@ -58,6 +28,6 @@ Tres años después de este episodio, el país se convirtió en un infierno. Sob
 
 Quizás haya sido porque, entonces, cotizaba muy bajo el dólar de los ranchos.
 
-{% postscript() %}
+{{% postscript %}}
 [Publicado](http://www.pagina12.com.ar/diario/suplementos/radar/9-7976-2012-06-03.html) el domingo 3 de junio de 2012 en el suplemento Radar de Página/12 . Marcos Zimmerman es uno de los más grandes fotógrafos argentinos.
-{% end %}
+{{% /postscript %}}

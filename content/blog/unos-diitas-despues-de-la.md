@@ -1,47 +1,10 @@
-+++
-title = "Unos diítas después de la filantropía"
-slug = "unos-diitas-despues-de-la"
-date = 2006-02-15 19:20:43
-description = "Martín, sobre el dibujito favorito, supongo que era Frutillitas, no sé si la conocés, pero era una cabezona, flaca, con cara, perfume y color del pelo, frutilla. Si la…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "huellas",
-    "Familia",
-    "Memoria",
-]
-
-[extra]
-legacy_id = 58
-section_slug = "blog"
-section_title = "Blog"
-summary = "Martín, sobre el dibujito favorito, supongo que era Frutillitas, no sé si la conocés, pero era una cabezona, flaca, con cara, perfume y color del pelo, frutilla. Si la ves por ahí algún día decíle que venga a visitarme…"
-visits = 1372
-popularite = 0.9511066301536247
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/unos-diitas-despues-de-la/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "huellas", path = "/etiquetas/huellas/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
-+++
-
+---
+title: Unos diítas después de la filantropía
+slug: unos-diitas-despues-de-la
+date: 2006-02-15 19:20:43
+tags: huellas, Familia, Memoria
+author: Martín Gaitán
+---
 > Martín, sobre el dibujito favorito, supongo que era Frutillitas, no sé si la conocés, pero era una cabezona, flaca, con cara, perfume y color del pelo, frutilla. Si la ves por ahí algún día decíle que venga a visitarme porque yo no me acuerdo de ella, sólo sé que me gustaba, pero no cómo era ni qué decía. Y esas cosas a una la marcan, son como un ejemplo de vida, una especie deeeeeeeeee… ¿que hubiera dicho Frutillitas del uno a uno?Ahora sólo tengo la nostalgia, y el recuerdo de su nombre, más tarde la pesadilla de despertar a la noche con la duda de si ¿era feminista? ¿o yo estoy yendo por el mal camino?
 >
 > Y también ya te he contado que me gustaban las películas, las de Reyes y Princesas son las que más tengo en la memoria, hadas, fantasía, mitología. Entonces conocí los unicornios, me gustaban demasiado.
@@ -67,3 +30,5 @@ comments = []
 > Hoy sí ha hecho mi papá la fiesta de su cumple, hace un rato se han ido todos. Y para terminar el arrorró un último comentario que no puedo dejar de comentar. A 89 páginas del "campamento, plenario, cena de presentación… multiusos del ABM" y a 98 días de las historias de los cronopios la <a target="_blank" title="Filantropía" href="http://www.literaberinto.com/CORTAZAR/filantropia.htm">Filantropía</a> nos ha encontrado, que si no hubiera sido por ella todavía seguís siendo mi primo y en vez de escuchar a Cortazar yo estaría quemándome con hielo de tanto poner el primer capítulo de Cien Años de Soledad, uuuuuuna y oooootra vez, leído por García Márquez… pero en vinilo. Así que, como en algún momento quise decirte, pero no me animé "Gracias por el fuego"….
 >
 > [email recibido el 01/07/05]
+
+<!-- TEASER_END -->

@@ -1,42 +1,36 @@
-+++
-title = "Uno nunca sabe"
-slug = "uno-nunca-sabe"
-date = 2008-11-27 06:00:35
-description = "Lo primero que le preguntó Mario apenas el Mochila se sentó, fue \"¿La conoces a esa mina?\". -- ¿Cuál? -- La que saludastes recién. Mochila giró apenas la cabeza hacia…"
-draft = false
-template = "article.html"
-authors = [
-    "Roberto Fontanarrosa",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Cine",
-]
+---
+title: Uno nunca sabe
+slug: uno-nunca-sabe
+date: 2008-11-27 06:00:35
+tags: Cine
+author: Roberto Fontanarrosa
+subtitle: Roberto Fontanarrosa
+---
+Lo primero que le preguntó Mario apenas el Mochila se sentó, fue "¿La conoces a esa mina?".
+-- ¿Cuál?
+-- La que saludastes recién.
+Mochila giró apenas la cabeza hacia atrás.
+-- ¿La flaca?
+-- Sí.
+-- Sí, la conozco. Es amiga de mi jermu.
+-- Me emputece esa mina --dijo Mario en voz baja.
+-- ¿Mi jermu?
+-- No, boludo. La Flaca, la que saludastes.
+-- Ah... ¡Mirá qué boludo que sos vos! A todo el mundo lo enloquece la Flaca. ¡Qué te parece!
+-- ¿Qué? --se alarmó Mario--. ¿Vos también estás jugado en ese palo? ¿Te anotás ahí también?
+-- No. Yo no. ¿No te digo que es amiga de mi jermu? Estudiaban juntas en la Cultural. Tendría que ser muy loco para tirarme en esa. Pero... te digo...
+-- Que ganas no te faltan.
+-- Ganas no me faltan....
+Se quedaron en silencio. Mochila controlando las otras mesas, viendo quién había. Mario tocándose cuidadosamente los dientes de adelante con la uña del dedo pulgar de la mano derecha.
+-- Me tiene loco esa mina --repitió, como para sí mismo. Como si el tema fuese demasiado íntimo como para compartirlo y debatirlo en una mesa de cafe. Y asustado, quizá, por haber ido tan lejos.
+-- Está buena la Flaca --dijo Mochila, que la tenía sentada a sus espaldas--. Y es una mina piola te cuento... Piola, inteligente. Anda suelta, además...
+-- Medio histérica debe ser...
+-- Sí. Eso sí... Lógico... --Mochila seguía sin meterse demasiado en la conversación, en tanto pasaba lista a los presentes-- ¡Bah! --se animó de pronto, ya terminado el control--. Como todas.
+-- Esa jeta que tiene... --medio por sobre el hombro de Mochila, Mario la espiaba--. Los ojos...
+-- Y encarala, boludo... ¿qué esperas? --lo animó Mochila, cruzándose de piernas, acomodándose en la silla para quedar de espaldas a la calle Santa Fe, mirando al mostrador. Mario hizo un gesto vago con la cabeza, negativo.
+-- Está sola, boludo --apretó Mochila--. Andá... Si te quedas esperando, por ahí aparece algun vago, o alguna amiga, y se sienta con ella y cagaste.
 
-[extra]
-legacy_id = 246
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Lo primero que le preguntó Mario apenas el Mochila se sentó, fue \"¿La conoces a esa mina?\". -- ¿Cuál? -- La que saludastes recién. Mochila giró apenas la cabeza hacia atrás. -- ¿La flaca? -- Sí. -- Sí, la conozco. Es…"
-visits = 9995
-popularite = 0.9045439066782933
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/uno-nunca-sabe/"
-surtitle = ""
-subtitle = "Roberto Fontanarrosa"
-deck = "Lo primero que le preguntó Mario apenas el Mochila se sentó, fue \"¿La conoces a esa mina?\".\n-- ¿Cuál?\n-- La que saludastes recién.\nMochila giró apenas la cabeza hacia atrás.\n-- ¿La flaca?\n-- Sí.\n-- Sí, la conozco. Es amiga de mi jermu.\n-- Me emputece esa mina --dijo Mario en voz baja.\n-- ¿Mi jermu?\n-- No, boludo. La Flaca, la que saludastes.\n-- Ah... ¡Mirá qué boludo que sos vos! A todo el mundo lo enloquece la Flaca. ¡Qué te parece!\n-- ¿Qué? --se alarmó Mario--. ¿Vos también estás jugado en ese palo? ¿Te anotás ahí también?\n-- No. Yo no. ¿No te digo que es amiga de mi jermu? Estudiaban juntas en la Cultural. Tendría que ser muy loco para tirarme en esa. Pero... te digo...\n-- Que ganas no te faltan.\n-- Ganas no me faltan....\nSe quedaron en silencio. Mochila controlando las otras mesas, viendo quién había. Mario tocándose cuidadosamente los dientes de adelante con la uña del dedo pulgar de la mano derecha.\n-- Me tiene loco esa mina --repitió, como para sí mismo. Como si el tema fuese demasiado íntimo como para compartirlo y debatirlo en una mesa de cafe. Y asustado, quizá, por haber ido tan lejos.\n-- Está buena la Flaca --dijo Mochila, que la tenía sentada a sus espaldas--. Y es una mina piola te cuento... Piola, inteligente. Anda suelta, además...\n-- Medio histérica debe ser...\n-- Sí. Eso sí... Lógico... --Mochila seguía sin meterse demasiado en la conversación, en tanto pasaba lista a los presentes-- ¡Bah! --se animó de pronto, ya terminado el control--. Como todas.\n-- Esa jeta que tiene... --medio por sobre el hombro de Mochila, Mario la espiaba--. Los ojos...\n-- Y encarala, boludo... ¿qué esperas? --lo animó Mochila, cruzándose de piernas, acomodándose en la silla para quedar de espaldas a la calle Santa Fe, mirando al mostrador. Mario hizo un gesto vago con la cabeza, negativo.\n-- Está sola, boludo --apretó Mochila--. Andá... Si te quedas esperando, por ahí aparece algun vago, o alguna amiga, y se sienta con ella y cagaste."
-author_links = [
-    { name = "Roberto Fontanarrosa", path = "/autores/roberto-fontanarrosa/" },
-]
-tag_links = [
-    { name = "Cine", path = "/etiquetas/cine/" },
-]
-comments = []
-+++
+<!-- TEASER_END -->
 
 Mario se encogió de hombros, mirando ahora hacia afuera, como desentendiéndose del problema.
 -- ¿No lo viste al Sobo? -preguntó, cambiando de tema. Mochila negó con la cabeza--. Este boludo... --musitó Mario--. Le tengo que pedir un certificado y justo hoy no aparece.

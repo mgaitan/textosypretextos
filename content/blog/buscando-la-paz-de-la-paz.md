@@ -1,91 +1,13 @@
-+++
-title = "Buscando la paz de La Paz"
-slug = "buscando-la-paz-de-la-paz"
-date = 2008-04-06 19:13:28
-description = "[La Paz, 24 de enero de 2008] Encontrar la paz de La Paz no es tarea sencilla, creanmé. ¿Estará en los olores de cada puestito de comida callejera? ¿Entre los libros de…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Viajero",
-    "Amistad",
-    "Humor",
-]
-
-[extra]
-legacy_id = 99
-section_slug = "blog"
-section_title = "Blog"
-summary = "[La Paz, 24 de enero de 2008] Encontrar la paz de La Paz no es tarea sencilla, creanmé. ¿Estará en los olores de cada puestito de comida callejera? ¿Entre los libros de edición pirata del librero de la plaza? --gran…"
-visits = 1837
-popularite = 0.9071199408727773
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/buscando-la-paz-de-la-paz/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Viajero", path = "/etiquetas/viajero/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-
-[[extra.comments]]
-id = 6834
-anchor = "comment-6834"
-author = "Mr. X"
-date = "2008-04-06 22:22:32"
-date_display = "06.04.2008"
-depth = 0
-url_site = "http://deliriosemocionales.blogspot.com/"
-title = "Buscando la paz de La Paz"
-body = "Inspirado, loquito... se nota de lejos."
-
-[[extra.comments]]
-id = 6839
-anchor = "comment-6839"
-author = "Puta se nace"
-date = "2008-04-09 18:00:52"
-date_display = "09.04.2008"
-depth = 0
-url_site = "http://putasenace.blogspot.com"
-title = "Buscando la paz de La Paz"
-body = "Gracias por el link (y por la comparación). Estoy trabajando en un nuevo blog."
-
-[[extra.comments]]
-id = 6840
-anchor = "comment-6840"
-author = "Puta se hace"
-date = "2008-04-09 19:38:02"
-date_display = "09.04.2008"
-depth = 0
-url_site = ""
-title = "Buscando la paz de La Paz"
-body = "Estito, también, se come así, con las manitos..."
-
-[[extra.comments]]
-id = 6843
-anchor = "comment-6843"
-author = "tin"
-date = "2008-04-14 06:23:38"
-date_display = "14.04.2008"
-depth = 0
-url_site = "http://textosypretextos.com.ar"
-title = "Buscando la paz de La Paz"
-body = "insinuás que puedo estar embarazado?"
-+++
-
+---
+title: Buscando la paz de La Paz
+slug: buscando-la-paz-de-la-paz
+date: 2008-04-06 19:13:28
+tags: Viajero, Amistad, Humor
+author: Martín Gaitán
+---
 *[La Paz, 24 de enero de 2008]*
+
+<!-- TEASER_END -->
 
 Encontrar la paz de La Paz no es tarea sencilla, creanmé. 
 
@@ -112,4 +34,3 @@ Cuando por fin me cree me dice que ya está, como queriendo decir que soy un gil
 Un guagua gatea entre mis piernas mientras su mamá habla por teléfono en la cabina. Ella habla en quechua. Él me sonrié desde el suelo, enredado entre los cables.
 
 Ahora lo entiendo: la paz está en mi.
-

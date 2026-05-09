@@ -1,47 +1,11 @@
-+++
-title = "Zamba de usted"
-slug = "zamba-de-usted"
-date = 2012-04-22 14:16:27
-description = "Yo no sé si podrá esta zamba llegar a usted, bajo los luceros va por la noche buscando el pueblito donde la dejé Por oir otra vez la tonadita de su voz, niña de los…"
-draft = false
-template = "article.html"
-authors = [
-    "Felix Luna y Ariel Ramirez",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "canción",
-    "Memoria",
-    "Amor",
-]
-
-[extra]
-legacy_id = 381
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Yo no sé si podrá esta zamba llegar a usted, bajo los luceros va por la noche buscando el pueblito donde la dejé Por oir otra vez la tonadita de su voz, niña de los ojos color de olivo me iré tras la zamba, romero de…"
-visits = 2242
-popularite = 0.9075009308418274
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/zamba-de-usted/"
-surtitle = ""
-subtitle = "Felix Luna y Ariel Ramirez"
-deck = ""
-author_links = [
-    { name = "Felix Luna y Ariel Ramirez", path = "" },
-]
-tag_links = [
-    { name = "canción", path = "/etiquetas/cancion/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
-+++
-
+---
+title: Zamba de usted
+slug: zamba-de-usted
+date: 2012-04-22 14:16:27
+tags: Canción, Memoria, Amor
+author: Felix Luna y Ariel Ramirez
+subtitle: Felix Luna y Ariel Ramirez
+---
 <div class="poetry">Yo no sé<br>
 si podrá<br>
 esta zamba llegar a usted,<br>
@@ -75,8 +39,10 @@ la hice con nostalgias de piel y de voz,<br>
 cuando usted la escuche crecida en sombra,<br>
 recuérdeme un poco, tan lejos que estoy.</div>
 
-{% postscript() %}
+<!-- TEASER_END -->
+
+{{% postscript %}}
 Interpretación por Micaela Vita y Willy Gonzalez 
 
-{{ video_embed(provider="youtube", id="K2eTxsHLa2o") }}
-{% end %}
+{{% video_embed provider="youtube" id="K2eTxsHLa2o" %}}
+{{% /postscript %}}

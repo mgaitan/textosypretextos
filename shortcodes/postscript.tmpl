@@ -1,0 +1,6 @@
+{# Shortcode: postscript
+   Uso: {{% postscript %}}Texto de posdata.{{% /postscript %}} #}
+<div class="article-postscript">
+  <p class="article-postscript-label">Posdata</p>
+  <p>{{ data | trim | replace("\n\n", "</p><p>") | replace("\n", "<br>") | safe }}</p>
+</div>

@@ -1,39 +1,11 @@
-+++
-title = "Aurorita"
-slug = "aurorita"
-date = 2014-11-10 10:57:46
-description = "Invierno en la avenida Juan B. Justo y el viejo pedaleando en la Aurorita rosada de la nena. Un pullover y otro y camiseta, la campera del Shopping Abasto está muy…"
-draft = true
-template = "article.html"
-authors = [
-    "Pedro Mairal",
-]
-categories = [
-    "De otros",
-]
-tags = []
-
-[extra]
-legacy_id = 449
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Invierno en la avenida Juan B. Justo y el viejo pedaleando en la Aurorita rosada de la nena. Un pullover y otro y camiseta, la campera del Shopping Abasto está muy cara, la motito alemana está muy cara, la bici con…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/aurorita/"
-surtitle = ""
-subtitle = "Pedro Mairal"
-deck = ""
-author_links = [
-    { name = "Pedro Mairal", path = "/autores/pedro-mairal/" },
-]
-tag_links = []
-comments = []
-+++
-
+---
+title: Aurorita
+slug: aurorita
+date: 2014-11-10 10:57:46
+draft: true
+author: Pedro Mairal
+subtitle: Pedro Mairal
+---
 <div class="poetry">Invierno en la avenida Juan B. Justo<br>
 y el viejo pedaleando en la Aurorita<br>
 rosada de la nena.<br>
@@ -62,3 +34,5 @@ y el padre, el inmigrante,<br>
 pelado y jubilado,<br>
 trepado a la Aurorita,<br>
 se aleja pedaleando.</div>
+
+<!-- TEASER_END -->

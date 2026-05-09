@@ -1,39 +1,11 @@
-+++
-title = "La enamorada"
-slug = "la-enamorada"
-date = 2011-12-01 03:27:19
-description = "Esta lúgubre manía de vivir esta recóndita humorada de vivir te arrastra alejandra no lo niegues. Hoy te miraste en el espejo y te fue triste estabas sola la luz rugía…"
-draft = true
-template = "article.html"
-authors = [
-    "Alejandra Pizarnik",
-]
-categories = [
-    "De otros",
-]
-tags = []
-
-[extra]
-legacy_id = 386
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Esta lúgubre manía de vivir esta recóndita humorada de vivir te arrastra alejandra no lo niegues. Hoy te miraste en el espejo y te fue triste estabas sola la luz rugía el aire cantaba pero tu amado no volvió Enviarás…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/la-enamorada/"
-surtitle = ""
-subtitle = "Alejandra Pizarnik"
-deck = ""
-author_links = [
-    { name = "Alejandra Pizarnik", path = "/autores/alejandra-pizarnik/" },
-]
-tag_links = []
-comments = []
-+++
-
+---
+title: La enamorada
+slug: la-enamorada
+date: 2011-12-01 03:27:19
+draft: true
+author: Alejandra Pizarnik
+subtitle: Alejandra Pizarnik
+---
 <div class="poetry">Esta lúgubre manía de vivir<br>
 esta recóndita humorada de vivir<br>
 te arrastra alejandra no lo niegues.<br>
@@ -63,6 +35,8 @@ te duele la vida tanto tanto<br>
 desesperada ¿adónde vas?<br>
 desesperada ¡nada más!</div>
 
-{% postscript() %}
+<!-- TEASER_END -->
+
+{{% postscript %}}
 de *La última inocencia* (1956)
-{% end %}
+{{% /postscript %}}

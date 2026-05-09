@@ -1,91 +1,13 @@
-+++
-title = "De alegrías y de abrazos"
-slug = "de-alegrias-y-de-abrazos"
-date = 2008-05-18 21:46:59
-description = "Un email de mi viejo, como respuesta al [que envié a mi regreso de Bolivia. ] Querido hijo: Que lindo leer tu mensaje, me llena de emoción, siento en mi corazón tu…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Desde el ombligo",
-    "Amor",
-    "Familia",
-]
-
-[extra]
-legacy_id = 136
-section_slug = "blog"
-section_title = "Blog"
-summary = "Un email de mi viejo, como respuesta al [que envié a mi regreso de Bolivia. ] Querido hijo: Que lindo leer tu mensaje, me llena de emoción, siento en mi corazón tu misma emoción, me estremece tu sensibilidad, tu amor…"
-visits = 1994
-popularite = 0.9827585763388897
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/de-alegrias-y-de-abrazos/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-
-[[extra.comments]]
-id = 6891
-anchor = "comment-6891"
-author = "elena"
-date = "2008-05-19 15:25:49"
-date_display = "19.05.2008"
-depth = 0
-url_site = ""
-title = "De alegrías y de abrazos"
-body = "Tín. No puedo \"decir\" solo caben ABRAZOS !!!! No aflojes... Te amo . La vieja"
-
-[[extra.comments]]
-id = 7169
-anchor = "comment-7169"
-author = "marilina"
-date = "2009-04-18 19:28:35"
-date_display = "18.04.2009"
-depth = 0
-url_site = ""
-title = "De alegrías y de abrazos"
-body = "Hola Martín... no se bien como caí en tu página. No se de donde sos, ni porque te escribo. Creo que llegue buscando unas letras de silvio y... GRACIAS por regalarme un rato para pasear por tu mundo. Lindo leer esas cartas con tu viejo desde bolivia... lindo encontrar pibes con ideales. Espero tu respuesta en mi mail.\nSaludos desde Mendoza.\nMarilina"
-
-[[extra.comments]]
-id = 7174
-anchor = "comment-7174"
-author = "LeAndro"
-date = "2009-04-21 09:05:03"
-date_display = "21.04.2009"
-depth = 0
-url_site = ""
-title = "De alegrías y de abrazos"
-body = "este sistema se empecina en entristecernos...\npor ahi leí \"sonreir es resistir\"\ny en esa estamos cumpa :D.\nUn \"Abrazo\" con mayúscula.\n\nLeAndro"
-
-[[extra.comments]]
-id = 7265
-anchor = "comment-7265"
-author = "L."
-date = "2009-06-08 17:07:42"
-date_display = "08.06.2009"
-depth = 0
-url_site = ""
-title = "De alegrías y de abrazos"
-body = "Desde hace unos días ocupo mis recreos leyendo desordenadamente tus aguafuertes. Esta me pegó; el color familia de tus relatos me estremece, logra detenerme, me hace sonreír. \n\ngracias. \n\n(tu mamá, Elena, una ídola)"
-+++
-
+---
+title: De alegrías y de abrazos
+slug: de-alegrias-y-de-abrazos
+date: 2008-05-18 21:46:59
+tags: Desde el ombligo, Amor, Familia
+author: Martín Gaitán
+---
 *[Un email de mi viejo, como respuesta al [que envié](@/blog/waliki.md) a mi regreso de Bolivia. ]*
+
+<!-- TEASER_END -->
 
 > Querido hijo:
 >
@@ -154,4 +76,3 @@ quiénes vengo y hacia dónde quiero ir.
 Un abrazo para que entiendas mejor.
 
 Martín
-

@@ -1,44 +1,14 @@
-+++
-title = "Niños: Corea 1952"
-slug = "ninos-corea-1952"
-date = 2009-01-13 11:28:31
-description = "Esto que tengo de niño fundamental se me rebela, quiere llorar en los rincones, desgarrarse la frente, la mejilla, olvidar el cuaderno donde dice mamá con letras…"
-draft = false
-template = "article.html"
-authors = [
-    "Juan Gelman",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Memoria",
-]
-
-[extra]
-legacy_id = 269
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Esto que tengo de niño fundamental se me rebela, quiere llorar en los rincones, desgarrarse la frente, la mejilla, olvidar el cuaderno donde dice mamá con letras tiernas y hay una dulce vaca de tres patas. Hermanitos…"
-visits = 1538
-popularite = 0.9076165375324229
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/ninos-corea-1952/"
-surtitle = ""
-subtitle = "Juan Gelman"
-deck = """
+---
+title: 'Niños: Corea 1952'
+slug: ninos-corea-1952
+date: 2009-01-13 11:28:31
+tags: Memoria
+author: Juan Gelman
+subtitle: Juan Gelman
+---
 > A Nati, que me acompaña en esta dolorosa tarea de intentar abrir los ojos propios.
-"""
-author_links = [
-    { name = "Juan Gelman", path = "/autores/juan-gelman/" },
-]
-tag_links = [
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
-+++
+
+<!-- TEASER_END -->
 
 <div class="poetry">Esto que tengo de niño fundamental<br>
 se me rebela, quiere<br>
@@ -88,6 +58,6 @@ Porque puedas y digas<br>
 mamá con letras tiernas<br>
 bajo una dulce vaca de tres patas.</div>
 
-{% postscript() %}
+{{% postscript %}}
 Juan Gelman, *Violín y otras cuestiones*, Buenos Aires, 1956.
-{% end %}
+{{% /postscript %}}

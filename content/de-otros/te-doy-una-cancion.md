@@ -1,45 +1,73 @@
-+++
-title = "Te doy una canción"
-slug = "te-doy-una-cancion"
-date = 2008-08-25 22:40:01
-description = "Cómo gasto papeles recordándote Cómo me haces hablar en el silencio Y cómo no te me quitas de las ganas Aunque nadie me vea nunca contigo Y cómo pasa el tiempo Que de…"
-draft = false
-template = "article.html"
-authors = [
-    "Silvio Rodríguez",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Música",
-]
+---
+title: Te doy una canción
+slug: te-doy-una-cancion
+date: 2008-08-25 22:40:01
+tags: Música
+author: Silvio Rodríguez
+subtitle: Silvio Rodríguez
+---
+<div class="poetry">Cómo gasto papeles recordándote<br>
+Cómo me haces hablar en el silencio<br>
+Y cómo no te me quitas de las ganas<br>
+Aunque nadie me vea nunca contigo<br>
+<br>
+Y cómo pasa el tiempo<br>
+Que de pronto son años<br>
+Sin pasar tú por mí<br>
+Detenida<br>
+<br>
+Te doy una canción<br>
+Si abro una puerta<br>
+Y de las sombras sales tú<br>
+<br>
+Te doy una canción<br>
+De madrugada<br>
+Cuando más quiero tu luz<br>
+<br>
+Te doy una canción<br>
+Cuando apareces<br>
+el misterio del amor<br>
+<br>
+Y si no lo apareces<br>
+No me importa<br>
+Yo te doy una canción<br>
+<br>
+Si miro un poco afuera<br>
+Me detengo<br>
+La ciudad se derrumba<br>
+Y yo cantando<br>
+<br>
+La gente que me odia<br>
+Y que me quiere<br>
+No me va a perdonar<br>
+Que me distraiga<br>
+<br>
+Creen que lo digo todo<br>
+Que me juego la vida<br>
+Porque no te conocen<br>
+Ni te sienten<br>
+<br>
+Te doy una canción<br>
+Y hago un discurso<br>
+Sobre mi derecho a hablar<br>
+<br>
+Te doy una canción<br>
+Con mis dos manos<br>
+Con las mismas de matar<br>
+<br>
+Te doy una canción<br>
+Y digo: Patria<br>
+Y sigo hablando para ti<br>
+<br>
+Te doy una canción<br>
+Como un disparo, como un libro<br>
+Una palabra, una guerrilla<br>
+Como doy el amor</div>
 
-[extra]
-legacy_id = 204
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Cómo gasto papeles recordándote Cómo me haces hablar en el silencio Y cómo no te me quitas de las ganas Aunque nadie me vea nunca contigo Y cómo pasa el tiempo Que de pronto son años Sin pasar tú por mí Detenida Te doy…"
-visits = 780
-popularite = 0.9045912332169311
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/te-doy-una-cancion/"
-surtitle = ""
-subtitle = "Silvio Rodríguez"
-deck = "<div class=\"poetry\">Cómo gasto papeles recordándote<br>\nCómo me haces hablar en el silencio<br>\nY cómo no te me quitas de las ganas<br>\nAunque nadie me vea nunca contigo<br>\n<br>\nY cómo pasa el tiempo<br>\nQue de pronto son años<br>\nSin pasar tú por mí<br>\nDetenida<br>\n<br>\nTe doy una canción<br>\nSi abro una puerta<br>\nY de las sombras sales tú<br>\n<br>\nTe doy una canción<br>\nDe madrugada<br>\nCuando más quiero tu luz<br>\n<br>\nTe doy una canción<br>\nCuando apareces<br>\nel misterio del amor<br>\n<br>\nY si no lo apareces<br>\nNo me importa<br>\nYo te doy una canción<br>\n<br>\nSi miro un poco afuera<br>\nMe detengo<br>\nLa ciudad se derrumba<br>\nY yo cantando<br>\n<br>\nLa gente que me odia<br>\nY que me quiere<br>\nNo me va a perdonar<br>\nQue me distraiga<br>\n<br>\nCreen que lo digo todo<br>\nQue me juego la vida<br>\nPorque no te conocen<br>\nNi te sienten<br>\n<br>\nTe doy una canción<br>\nY hago un discurso<br>\nSobre mi derecho a hablar<br>\n<br>\nTe doy una canción<br>\nCon mis dos manos<br>\nCon las mismas de matar<br>\n<br>\nTe doy una canción<br>\nY digo: Patria<br>\nY sigo hablando para ti<br>\n<br>\nTe doy una canción<br>\nComo un disparo, como un libro<br>\nUna palabra, una guerrilla<br>\nComo doy el amor</div>"
-author_links = [
-    { name = "Silvio Rodríguez", path = "/autores/silvio-rodriguez/" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-comments = []
-+++
+<!-- TEASER_END -->
 
-{{ video_embed(provider="youtube", id="G1KZOxS7i9Q") }}
+{{% video_embed provider="youtube" id="G1KZOxS7i9Q" %}}
 
-{% postscript() %}
+{{% postscript %}}
 Del disco *Mujeres*, de 1978.
-{% end %}
+{{% /postscript %}}

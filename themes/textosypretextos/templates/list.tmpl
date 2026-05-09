@@ -1,0 +1,41 @@
+{% extends "base.tmpl" %}
+{% from "macros.tmpl" import story_card with context %}
+
+{% block title %}{{ title }} · {{ blog_title }}{% endblock %}
+{% block meta_description %}{{ description | default(blog_description) }}{% endblock %}
+{% block og_url %}{{ abs_link(permalink) }}{% endblock %}
+{% block og_title %}{{ title }} · {{ blog_title }}{% endblock %}
+{% block og_description %}{{ description | default(blog_description) }}{% endblock %}
+{% block twitter_title %}{{ title }} · {{ blog_title }}{% endblock %}
+{% block twitter_description %}{{ description | default(blog_description) }}{% endblock %}
+
+{% block content %}
+  <main class="pt-8">
+    <section class="editorial-rule">
+      <div class="mt-5 max-w-[52rem]">
+        <h1 class="story-title">{{ title }}</h1>
+        {% if description %}
+          <p class="story-deck">{{ description }}</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <section class="listing mt-10">
+      {% for post in posts %}
+        {{ story_card(post, variant="list") }}
+      {% endfor %}
+    </section>
+
+    {# Paginación #}
+    {% if prevlink or nextlink %}
+      <nav class="pagination editorial-rule mt-10 flex gap-6 pt-6">
+        {% if prevlink %}
+          <a href="{{ prevlink }}" class="more-link">← Más recientes</a>
+        {% endif %}
+        {% if nextlink %}
+          <a href="{{ nextlink }}" class="more-link">Más antiguos →</a>
+        {% endif %}
+      </nav>
+    {% endif %}
+  </main>
+{% endblock %}

@@ -1,0 +1,5 @@
+{# Shortcode: dialogo
+   Uso en Markdown: {{% dialogo %}}— línea 1\n— línea 2{{% /dialogo %}}
+   Portado desde templates/shortcodes/dialogo.html (Zola)
+   Se preserva una intervención por línea. #}
+<div class="dialogue-block">{{ data | trim | replace("\n", "<br>") | safe }}</div>

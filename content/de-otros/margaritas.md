@@ -1,65 +1,26 @@
-+++
-title = "Margaritas"
-slug = "margaritas"
-date = 2010-03-01 22:07:52
-description = "Octubre 25, 2007. --Hola María Rosa. ¿Cómo te va? --Mal. --¿Qué tenés? --Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y…"
-draft = false
-template = "article.html"
-authors = [
-    "Emanuel Rodriguez",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Familia",
-    "Amistad",
-]
+---
+title: Margaritas
+slug: margaritas
+date: 2010-03-01 22:07:52
+tags: Familia, Amistad
+author: Emanuel Rodriguez
+subtitle: Emanuel Rodriguez
+---
+### Octubre 25, 2007.
 
-[extra]
-legacy_id = 365
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Octubre 25, 2007. --Hola María Rosa. ¿Cómo te va? --Mal. --¿Qué tenés? --Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y que necesito que me pagues la deuda. Un día después…"
-visits = 3509
-popularite = 0.3527181314761368
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/de-otros/margaritas/"
-surtitle = ""
-subtitle = "Emanuel Rodriguez"
-deck = "### Octubre 25, 2007.\n\n--Hola María Rosa. ¿Cómo te va?\n--Mal.\n--¿Qué tenés?\n--Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y que necesito que me pagues la deuda.\n\nUn día después del diagnóstico mi mamá ya le estaba sacando rédito.\nYo tuve que dejar el diario y todo lo demás para venir a verla. Cuando llegué estaba sonriendo. No va a pasar nada, nene. El problema es que la palabra es muy fea. \"Cáncer\". Es horrible.\n\n--Le digamos \"margaritas\".\n\nLa segunda rectoscopia la agarró canchera. Le llevó un presente a la doctora. Una estampita de San Expedito. \"Si se la pasan oliendo gases…\". Mis hermanos y yo estamos cinco veces más asustados que ella."
-author_links = [
-    { name = "Emanuel Rodriguez", path = "" },
-]
-tag_links = [
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
+--Hola María Rosa. ¿Cómo te va?
+--Mal.
+--¿Qué tenés?
+--Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y que necesito que me pagues la deuda.
 
-[[extra.comments]]
-id = 8173
-anchor = "comment-8173"
-author = "agus"
-date = "2010-03-02 19:47:49"
-date_display = "02.03.2010"
-depth = 0
-url_site = ""
-title = "Margaritas"
-body = "estoy sin palabras... pero no quería dejar de decirte gracias por compartir otra lección de vida"
+Un día después del diagnóstico mi mamá ya le estaba sacando rédito.
+Yo tuve que dejar el diario y todo lo demás para venir a verla. Cuando llegué estaba sonriendo. No va a pasar nada, nene. El problema es que la palabra es muy fea. "Cáncer". Es horrible.
 
-[[extra.comments]]
-id = 8184
-anchor = "comment-8184"
-author = "soy yo"
-date = "2010-03-13 02:06:02"
-date_display = "13.03.2010"
-depth = 0
-url_site = ""
-title = "Margaritas"
-body = "me acorde de tu vieja, alguna vez la vi como de la familia.sigo amandote."
-+++
+--Le digamos "margaritas".
+
+La segunda rectoscopia la agarró canchera. Le llevó un presente a la doctora. Una estampita de San Expedito. "Si se la pasan oliendo gases…". Mis hermanos y yo estamos cinco veces más asustados que ella.
+
+<!-- TEASER_END -->
 
 La van a operar, la tienen que operar con urgencia. Le dijeron que por favor no se mueva, que haga reposo. Pero está haciendo de comer. No puede parar de cocinar. La casa hierve. Afuera, la capital de La Rioja es un infierno, y la casa de mi madre es un sauna dentro de ese infierno.
 
@@ -147,9 +108,8 @@ Según la biopsia a mi mamá le extirparon 16 cm de intestino. Un chinchulín la
 Según la biopsia no quedó nada de todo eso dentro del cuerpo de mi mamá, y eso es una buena noticia. No hay que hacer rayos, ni quimioterapia. Mi mamá creía que se iba a quedar pelada y ya tenía vistas algunas pelucas: la que más le gustaba era frondosa como el pelo de una Barbie. La llamé y le conté. Se puso contenta y su voz parecía un parque de diversiones. Se levantó de la cama y se fue a su jardín: las margaritas están donde tienen que estar. Fui a pasar navidad con ella y la encontré como era antes del cáncer: demandante, hincha pelotas, ciclotímica, alegre. Pura vitalidad. El apellido de mi mamá es muy italiano y ella es como dice la gente que son los italianos: gritones, alegres, puteadores, desordenados, pasionales. El apellido de mi mamá y de mis tíos es muy italiano, los domingos mi abuelo come tallarines o no come. Y no los corta, los enrolla, los moja en una salsa roja y pulposa. Hacen ruido cuando comen, los italianos. Yo también. De vez en cuando la pasan bien: miran alrededor y ven una familia, se emocionan con eso. Comen mucho, los italianos. Igual algo cambió en esos meses en los que convivimos con el miedo a que se muera: el miedo es una oportunidad que mi mamá aprovechó. Ahora está contenta, mira las margaritas que plantó, las margaritas con las que decoró el árbol de navidad y las margaritas con las que pintó sus manteles: son un poco obsesivos, los italianos. Yo heredé eso pero en la forma de una ignorancia afectiva calamitosa. Mi mamá lo sabe y siempre me pregunta si aprendí a dejar ir. Está leyendo libros de autoayuda que le enseñan a decirme cosas como "hay que dejar ir". Yo hace mucho que no leo nada que no sea para el trabajo. Cuando tengo tiempo libre escucho a Jeff Buckley.
 Well your faith was strong but you needed proof You saw her bathing on the roof Her beauty and the moonlight overthrew you She tied you to her kitchen chair She broke your throne and she cut your hair And from your lips she drew the hallelujah.
 
-{% postscript() %}
+{{% postscript %}}
 Emanuel Rodríguez es uno de los mejores escritores cordobeses vivos. Aún no ha publicado ningún libro y duda si alguna vez lo hará. Pero tiene un [blog](http://aguadeoro.wordpress.com/). 
 
 También escribe en el suplemento de cultura del diario La Voz del Interior y dirige la [Revista Diccionario](http://www.revistadiccionario.com/).
-{% end %}
-
+{{% /postscript %}}

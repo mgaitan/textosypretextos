@@ -1,44 +1,14 @@
-+++
-title = "actitudes"
-slug = "actitudes"
-date = 2025-06-23 18:08:57
-description = "La vida apesta cuando: En pleno invierno avizorás que el próximo buen motivo para depilarte es el casamiento de tu hermano en octubre. Tu ropa de dormir más presentable…"
-draft = true
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "El resto",
-]
-
-[extra]
-legacy_id = 76
-section_slug = "blog"
-section_title = "Blog"
-summary = "La vida apesta cuando: En pleno invierno avizorás que el próximo buen motivo para depilarte es el casamiento de tu hermano en octubre. Tu ropa de dormir más presentable es una remera con el logo de Entel. El mejor…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/actitudes/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-]
-comments = []
-+++
-
+---
+title: actitudes
+slug: actitudes
+date: 2025-06-23 18:08:57
+draft: true
+tags: El resto
+author: Martín Gaitán
+---
 La vida apesta cuando:
+
+<!-- TEASER_END -->
 
 En pleno invierno avizorás que el próximo buen motivo para depilarte es el casamiento de tu hermano en octubre. Tu ropa de dormir más presentable es una remera con el logo de Entel. El mejor programa que podés imaginar para un sábado a la noche es medio kilo de dulce de leche granizado y una película de besos, enjogginada, en tu living.
 Sólo se te puede ver bien vestida, con el pelo limpio y maquillada de lunes a viernes, en horario laboral.

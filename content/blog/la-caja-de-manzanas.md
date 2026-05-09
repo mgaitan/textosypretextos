@@ -1,71 +1,13 @@
-+++
-title = "La caja de manzanas"
-slug = "la-caja-de-manzanas"
-date = 2005-03-21 01:18:05
-description = "Regresé a Córdoba hace algunas semanas. Atrás quedaron mis vacaciones bien disfrutadas, aunque apocopadas por un febrero de trabajo frente al monitor. La vuelta fue…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Yo lo vide",
-    "Anécdotas",
-    "Amistad",
-    "Córdoba",
-]
-
-[extra]
-legacy_id = 31
-section_slug = "blog"
-section_title = "Blog"
-summary = "Regresé a Córdoba hace algunas semanas. Atrás quedaron mis vacaciones bien disfrutadas, aunque apocopadas por un febrero de trabajo frente al monitor. La vuelta fue forzada por más trámites inconclusos en oficinas…"
-visits = 1085
-popularite = 0.5752117106471704
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/la-caja-de-manzanas/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-
-[[extra.comments]]
-id = 975
-anchor = "comment-975"
-author = "Saskia"
-date = "2005-03-23 10:20:45"
-date_display = "23.03.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Me gustó mucho tu post, hace bastante que te leo en efecto tábano. Yo llevo diez años viajando de La Rioja a Bariloche y viceversa cada verano y cada invierno y me recordaste tantas historias que escuché. Una historia cualquiera, bien contada, es una buena historia."
-
-[[extra.comments]]
-id = 1097
-anchor = "comment-1097"
-author = "Tin"
-date = "2006-02-16 22:23:31"
-date_display = "16.02.2006"
-depth = 0
-url_site = "http://"
-title = ""
-body = "probando..."
-+++
-
+---
+title: La caja de manzanas
+slug: la-caja-de-manzanas
+date: 2005-03-21 01:18:05
+tags: Yo lo vide, Anécdotas, Amistad, Córdoba
+author: Martín Gaitán
+---
 Regresé a Córdoba hace algunas semanas. Atrás quedaron mis vacaciones bien disfrutadas, aunque apocopadas por un febrero de trabajo frente al monitor. La vuelta fue forzada por más trámites inconclusos en oficinas universitarias que no dan respuestas ni buenos tratos, pero ya me aburrí de contarles sobre eso y temo que sea contagioso para ustedes. 
+
+<!-- TEASER_END -->
 
 -- Flecha Bus con destino Córdoba, parte de Neuquén 17hs,  asiento 38 pasillo. Graciaaaas -- recitó la chica de ventanilla con ritmo de jingle, mientras hacia garabatos con una fibra roja sobre mi pasaje. 
 
@@ -101,4 +43,3 @@ Mujeres, fútbol, pasado, futuro, geografía y producción de Catamarca, teoría
 su humildad tropezaba con fantásticas conquistas en el colegio nocturno, aquella vez que intentó empezar el secundario. 
 
 Cuando llegamos a Córdoba lo invité a mi departamento. Eran las 8 de la mañana y recién a las 2 de la tarde tomaba el Chevallier a su casa. La razón de semejante desvío --en vez de ir directo por Mendoza y San Juan--  era sencilla: la caja de manzanas que el Ingeniero le había autorizado a llevar iba junto a su escaso equipaje. Según le habían advertido, por Mendoza no dejaban pasar frutas ni verduras y no era cuestión que un inspector boicotee el regalo para su madre.
-

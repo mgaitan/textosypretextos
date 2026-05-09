@@ -1,83 +1,18 @@
-+++
-title = "Trescientos metros"
-slug = "trescientos-metros"
-date = 2012-02-03 21:53:00
-description = "¿Estarás pensando en mi en este momento ? Salgo al balcón y el ruido de ciudad me cachetea. Miro hacia el sur, calle abajo, estirando el cuello todo lo que puedo…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Familia",
-    "Amor",
-]
-
-[extra]
-legacy_id = 404
-section_slug = "blog"
-section_title = "Blog"
-summary = "¿Estarás pensando en mi en este momento ? Salgo al balcón y el ruido de ciudad me cachetea. Miro hacia el sur, calle abajo, estirando el cuello todo lo que puedo, anhelando que la física no exista para que estos…"
-visits = 5000
-popularite = 0.9993880291559218
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/trescientos-metros/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-
-[[extra.comments]]
-id = 53578
-anchor = "comment-53578"
-author = "ele"
-date = "2012-11-20 12:07:43"
-date_display = "20.11.2012"
-depth = 0
-url_site = ""
-title = "Trescientos metros"
-body = "que hermoso... lloro mientras leo y reconozco mi propia historia. Un abrazo"
-
-[[extra.comments]]
-id = 54158
-anchor = "comment-54158"
-author = ""
-date = "2013-02-05 18:57:40"
-date_display = "05.02.2013"
-depth = 0
-url_site = "http://caca"
-title = "Trescientos metros"
-body = "gracias por el texto :)"
-
-[[extra.comments]]
-id = 54908
-anchor = "comment-54908"
-author = "Avelino."
-date = "2013-04-22 01:23:34"
-date_display = "22.04.2013"
-depth = 0
-url_site = ""
-title = "Trescientos metros"
-body = "Precioso, conciso y somero; me recuerda a la Zenaida (cuatrocientos kilómetros tiene la ciudad donde vive Zenaida, voy a ver si la encuentro para ver si me da su palabra...), Aquí la palabra ya está dada y se trata solamente de 300 metros, por lo que hay más esperanzas de ya pronto estar juntos... y ver realizados los sueños de los ayeres y de todos los tiempos..."
-+++
-
+---
+title: Trescientos metros
+slug: trescientos-metros
+date: 2012-02-03 21:53:00
+tags: Familia, Amor
+author: Martín Gaitán
+---
 ¿Estarás pensando en mi en este momento ? Salgo al balcón y el ruido
 de ciudad me cachetea. Miro hacia el sur, calle abajo, estirando el
 cuello todo lo que puedo, anhelando que la física no exista para que
 estos trescientos metros que nos separan se hagan un centímetro, donde
 el mundo es mucho más lindo, para poder verte sonreír y abrazarnos un
 instante eterno.
+
+<!-- TEASER_END -->
 
 Voy por la calle, ojos tras lentes oscuros sobre zurcos salados,
 intentando no pensar.  *"Hay ayeres y hay mañanas / pero no hay hoyes"*
@@ -170,7 +105,6 @@ alguna vez imaginé una compañera, esa imagen quedó sonrojada al verte
 a vos, y al vernos a vos y a mi juntos. Sé que lo sabés, mi vida. Lo
 sentirás del otro lado de las nubes. Donde te espero.
 
-{% postscript() %}
+{{% postscript %}}
 Córdoba, 5 de diciembre de 2011
-{% end %}
-
+{{% /postscript %}}

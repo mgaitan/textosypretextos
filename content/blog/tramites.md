@@ -1,48 +1,13 @@
-+++
-title = "Trámites"
-slug = "tramites"
-date = 2004-10-24 20:44:52
-description = "\"PASES Y EQUIVALENCIAS: ATENCION SOLO MIERCOLES Y VIERNES DE 15 a 18 hs\". Leía ese cartel en un pasillo, el jueves por la mañana, una hora después de haber bajado del…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "El resto",
-    "Amistad",
-    "Córdoba",
-]
-
-[extra]
-legacy_id = 6
-section_slug = "blog"
-section_title = "Blog"
-summary = "\"PASES Y EQUIVALENCIAS: ATENCION SOLO MIERCOLES Y VIERNES DE 15 a 18 hs\". Leía ese cartel en un pasillo, el jueves por la mañana, una hora después de haber bajado del colectivo. Visto que iba a ser complicado…"
-visits = 219
-popularite = 0.9807151048646703
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/tramites/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-comments = []
-+++
-
+---
+title: Trámites
+slug: tramites
+date: 2004-10-24 20:44:52
+tags: El resto, Amistad, Córdoba
+author: Martín Gaitán
+---
 "PASES Y EQUIVALENCIAS: ATENCION SOLO MIERCOLES Y VIERNES DE 15 a 18 hs". Leía ese cartel en un pasillo,  el jueves por la mañana, una hora después de haber bajado del colectivo.  Visto que iba a ser complicado saltearme los limites impuestos por el cartel, sólo pregunté por ventanilla si, dado que 'se me complicaba el viernes por la tarde', podía ir ese mismo jueves a las 15hs. El hombre con cara de triste en el mostrador levanto sus hombros sincronizadamente, apretó los labios y sin separarlos bajó el mentón lentamente. Intuí que no tenia idea. 
+
+<!-- TEASER_END -->
 
 Esa tarde fui a saludar a algunos amigos para advertirles de mi presencia, luego fuimos al supermercado porque mis compañeros de depto estaban en la miseria absoluta esperando mi llegada con capital y entonces decidí no ir a 'probar suerte'.
 

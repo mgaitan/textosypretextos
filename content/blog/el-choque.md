@@ -1,102 +1,13 @@
-+++
-title = "El choque"
-slug = "el-choque"
-date = 2005-05-17 03:04:54
-description = "Ayer a la tarde, en el programa radial de Jorge Guinzburg se produjo la recurrente discusión sobre cómo conducen las mujeres; si mejor o peor que los hombres. Ese…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Anécdotas",
-    "Amor",
-    "Memoria",
-]
-
-[extra]
-legacy_id = 41
-section_slug = "blog"
-section_title = "Blog"
-summary = "Ayer a la tarde, en el programa radial de Jorge Guinzburg se produjo la recurrente discusión sobre cómo conducen las mujeres; si mejor o peor que los hombres. Ese debate siempre tiene como punto de partida la noticia…"
-visits = 2490
-popularite = 0.9010065837896497
-hero_image = ""
-hero_alt = ""
-comment_count = 5
-legacy_url = "/blog/el-choque/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-
-[[extra.comments]]
-id = 1004
-anchor = "comment-1004"
-author = "Gabriel N. L."
-date = "2005-05-17 08:33:17"
-date_display = "17.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "ja ja ja que grande el gatooo!! esa anécdota no la conocía amigo... y ahora que lo pienso Ud. es un visionario, imagínense UN SEGURO SENTIMENTAL... hoy por hoy nos haríamos millonarios, con la soledad que invade a tanta gente, con los desencuentros, la pérdida de valores, los pandilleros como nosotros que nos encargamos (prolijamente) de ilusionar gratuitamente, para no terminar en nada serio... etc. etc... lo voy pensando, ¿algún socio para mi empresa? abrazos Tin, que sigas bien! Yo."
-
-[[extra.comments]]
-id = 1005
-anchor = "comment-1005"
-author = "Gabriel N. L."
-date = "2005-05-17 08:38:11"
-date_display = "17.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "OJO!! me olvida... siempre que no haya sentimientos verdaderos de por medio... ahí precisamente nos volvemos \"idiotas\" ja ja ja y necesitamos el Seguro Sentimental... chauuuu!! no jodo más..."
-
-[[extra.comments]]
-id = 1006
-anchor = "comment-1006"
-author = "Bele"
-date = "2005-05-17 10:00:12"
-date_display = "17.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Martínazo:\nQUE PASION, QUE HISTORIA, QUE ARTE...QUE GRANDE este \"Cacho Castaña de suburbios neuquinos\" (con onda)... Muchos Besos.\nBele"
-
-[[extra.comments]]
-id = 1007
-anchor = "comment-1007"
-author = "Leo Guala"
-date = "2005-05-17 19:39:37"
-date_display = "17.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "No puedo creerlo gato, yo pensé que era el único cuya adolescencia neuquina le jugaba malas pasadas producto de los delirios de una mente calenturienta. No te das una idea de cuan parecidas han sido digamos... unas 5 historias mías. Te agradezco haberme hecho reencontrar con el joven perdedor pre-rastoso que era (lo de perdedor lo conservo desgraciadamente....solo el pelo se fué).\nSaludos gato, ya nos contarás mas detalles."
-
-[[extra.comments]]
-id = 1009
-anchor = "comment-1009"
-author = "Esteban Glas"
-date = "2005-05-19 07:36:07"
-date_display = "19.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Por empezar no pude evitar leer el blog... se que pediste explícitamente que no lo hiciera; pero bien sabido es que no somos aferrados a las normas (tal vez solo, y de vez en cuando, a alguna del w3c). La historia es excelente; como muchos tuve alguna también parecida y también patética (en el mejor de los sentidos; pobre de aquel que no haya quedado como un estúpido por amor!) solo que sin choque, pero con gastos económicos. \n\nAhora bien, las cosas mejoran, estoy felizmente (casi) casado, pero solo despues de que me hicieran ir y venir udrante 8 meses... las cosas \"regaladas\" nunca me gustaron. \n\nFelicitaciones por el blog, el desamor y la web, que nunca (jamás!!) me voy a cansar de ponderar."
-+++
-
+---
+title: El choque
+slug: el-choque
+date: 2005-05-17 03:04:54
+tags: Anécdotas, Amor, Memoria
+author: Martín Gaitán
+---
 Ayer a la tarde, en el programa radial de Jorge Guinzburg se produjo la recurrente discusión sobre cómo conducen las mujeres; si mejor o peor que los hombres. Ese debate siempre tiene como punto de partida la noticia sobre un *"nuevo estudio realizado por investigadores de un País X"*. Esta vez el país X era Alemania, pero como sucede con esta discusión, a nadie le importa.
+
+<!-- TEASER_END -->
 
 Sin embargo, el tema me hizo reflexionar un instante: *Yo...¿Cómo conduzco?*. Inmediatamente me respondí *"muy bien"*, y seguí rumbo, walkman en mano, siempre a gusto con mi subjetividad. Pero ya no iba sólo. Ahí estaba, empolvado, casi marchito, el resucitado recuerdo de mi único accidente de tránsito. 
 
@@ -144,4 +55,3 @@ Por alguna fuerza extraña no me rendí a la tentación de callarla con un beso 
 Siguió hablando, pero ya no sé bien qué. Todo se volvió lento, no había sonidos ni voces, y comenzó a hacer muchísimo frío. Saqué mi billetera, le di su dinero, pagué los dos cafés, saludé y me fui.
 
 Lo triste es que no existen pólizas de seguro para este tipo de choques. Que injusticia.
-

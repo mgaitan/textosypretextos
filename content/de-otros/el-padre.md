@@ -1,43 +1,12 @@
-+++
-title = "El padre"
-slug = "el-padre"
-date = 2009-08-14 20:01:02
-description = "El bebé estaba en una canasta al lado de la cama, y llevaba puesto un osito y un gorro blanco. La canasta de mimbre estaba recién pintada, acolchada con pequeños…"
-draft = true
-template = "article.html"
-authors = [
-    "Raymond Carver",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Cuento breve",
-]
-
-[extra]
-legacy_id = 329
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "El bebé estaba en una canasta al lado de la cama, y llevaba puesto un osito y un gorro blanco. La canasta de mimbre estaba recién pintada, acolchada con pequeños edredones azules y sujeta con cintas de color azul…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-padre/"
-surtitle = ""
-subtitle = "Raymond Carver"
-deck = ""
-author_links = [
-    { name = "Raymond Carver", path = "/autores/raymond-carver/" },
-]
-tag_links = [
-    { name = "Cuento breve", path = "/etiquetas/cuento-breve/" },
-]
-comments = []
-+++
-
+---
+title: El padre
+slug: el-padre
+date: 2009-08-14 20:01:02
+draft: true
+tags: Cuento breve
+author: Raymond Carver
+subtitle: Raymond Carver
+---
 El bebé estaba en una canasta al lado de la cama, y llevaba puesto un osito y un gorro blanco. La
 canasta de mimbre estaba recién pintada, acolchada con pequeños edredones azules y sujeta con
 cintas de color azul claro. Las tres hermanitas y la madre, que se acababa de levantar de la cama y
@@ -45,6 +14,8 @@ aún no se había despertado del todo, y la abuela rodeaban al bebé y observaba
 fijeza y de cuando en cuando se llevaba el puño a la boca. No sonreía ni reía, pero a veces
 parpadeaba y movía la lengua entre los labios cuando una de las niñas le pasaba la mano por la
 barbilla.
+
+<!-- TEASER_END -->
 
 El padre estaba en la cocina y les oía jugar con el bebé.
 --  ¿A quién quieres tú pequeñín? --  dijo Phyllis-- , y le hizo cosquillas en la barbilla.

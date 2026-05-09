@@ -1,91 +1,13 @@
-+++
-title = "El pibe del pool"
-slug = "el-pibe-del-pool"
-date = 2009-02-07 01:15:30
-description = "En la calle San Luis, cruzando la ruta 22, a la salida del Taller o en alguna rateada espontánea, quedaba el Green Bar. Era un antro con mesas de pool donde la mitad de…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Anécdotas",
-    "Desde el ombligo",
-    "Amistad",
-]
-
-[extra]
-legacy_id = 285
-section_slug = "blog"
-section_title = "Blog"
-summary = "En la calle San Luis, cruzando la ruta 22, a la salida del Taller o en alguna rateada espontánea, quedaba el Green Bar. Era un antro con mesas de pool donde la mitad de la Enet Nº 1, tres pungas, un dealer a la…"
-visits = 960
-popularite = 0.9829269073648116
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/el-pibe-del-pool/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 7116
-anchor = "comment-7116"
-author = "Facu"
-date = "2009-02-07 06:46:02"
-date_display = "07.02.2009"
-depth = 0
-url_site = ""
-title = "El pibe del pool"
-body = "Eeessaaaaa!!!!!!"
-
-[[extra.comments]]
-id = 7117
-anchor = "comment-7117"
-author = "Facu"
-date = "2009-02-07 06:48:10"
-date_display = "07.02.2009"
-depth = 0
-url_site = ""
-title = "El pibe del pool"
-body = "Mire la cara de sonzo que tiene!!! clinudo, hay él!!"
-
-[[extra.comments]]
-id = 7118
-anchor = "comment-7118"
-author = "Ich"
-date = "2009-02-07 08:13:05"
-date_display = "07.02.2009"
-depth = 0
-url_site = ""
-title = "El pibe del pool"
-body = "A mí también me salen torcidas y cursis las palabras, y hasta las que pido prestadas a veces, de tan cursis, te parecen tristes. Pero no tengo, lamentablemente, tu habilidad para decir las cosas de otra manera.\nGracias. Me hiciste reír. Y también temblar."
-
-[[extra.comments]]
-id = 8223
-anchor = "comment-8223"
-author = "soy yo"
-date = "2010-05-07 15:45:43"
-date_display = "07.05.2010"
-depth = 0
-url_site = ""
-title = "El pibe del pool"
-body = "yo también iba al green bar cuando estaba en plena adolescencia, agitada por mis hormonas, cansada de la rutina institucional.no recuerdo en que año pero si que me rateaba del colegio (comercial) y me iba a las 8 de la mañana a jugar al pool con amigos...que imágenes aquellas, que antro, que buenas epocas!"
-+++
-
+---
+title: El pibe del pool
+slug: el-pibe-del-pool
+date: 2009-02-07 01:15:30
+tags: Anécdotas, Desde el ombligo, Amistad
+author: Martín Gaitán
+---
 En la calle San Luis, cruzando la ruta 22, a la salida del Taller o en alguna rateada espontánea, quedaba el Green Bar. Era un antro con mesas de pool donde la mitad de la Enet Nº 1, tres pungas, un dealer a la tardecita y algunos travas, se juntaban a pasar el rato de lunes a domingo.
+
+<!-- TEASER_END -->
 
 La *rockola*, algo ecléctica y siempre a todo volumen, abarcaba desde Hermética a Gilda, pasando por Isabel Pantoja y Soda Estéreo. Como nadie le ponía moneditas, era el modo aleatorio el que mezclaba, sistemática y vilmente, con el único propósito de que alguien le lanzara un botellazo.
 
@@ -108,4 +30,3 @@ Era sublime: la satisfacción de saber que había al menos un ser capaz de volve
 Mirá lo que te vengo a contar, que ridículo. Me acordé del pibe del pool, y ya sé que te vas reír. Mejor. Es que hace justo cinco meses que nos acariciamos para siempre por primera vez y quería regalarte unas palabritas que siento muy adentro, pero  me salen torcidas y pifiadas, y de tan cursis corro peligro de romper el paño. 
 
 Con su habilidad todo sería más fácil. Haría un 'pic' sutil, bien suave, y las palabras más maravillosas, las más dulces, esas que aún nadie inventó, susurrarían cuanto te amo.
-

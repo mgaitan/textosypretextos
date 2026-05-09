@@ -1,0 +1,5 @@
+{# Shortcode: epigrafe
+   Uso: {{% epigrafe %}}Verso o cita.\n\n**— Fuente**{{% /epigrafe %}} #}
+<blockquote class="epigrafe">
+{{ data | trim | replace("\n\n", "</p><p>") | replace("\n", "<br>") | safe }}
+</blockquote>

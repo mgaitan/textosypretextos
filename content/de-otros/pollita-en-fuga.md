@@ -1,49 +1,15 @@
-+++
-title = "Pollita en Fuga"
-slug = "pollita-en-fuga"
-date = 2009-11-10 17:37:12
-description = "No se le notaba. La última vez que Silvina cayó presa –el 5 de mayo pasado – estaba en la cama con su novio, embarazada y desnuda, pero no se le notaba. La brigada…"
-draft = false
-template = "article.html"
-authors = [
-    "Josefina Licitra",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Crónica",
-    "Música",
-    "Humor",
-]
-
-[extra]
-legacy_id = 347
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "No se le notaba. La última vez que Silvina cayó presa –el 5 de mayo pasado – estaba en la cama con su novio, embarazada y desnuda, pero no se le notaba. La brigada bonaerense la encontró a quince cuadras de la Villa…"
-visits = 1697
-popularite = 0.9070598051785029
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/pollita-en-fuga/"
-surtitle = ""
-subtitle = "Josefina Licitra"
-deck = ""
-author_links = [
-    { name = "Josefina Licitra", path = "/autores/josefina-licitra/" },
-]
-tag_links = [
-    { name = "Crónica", path = "/etiquetas/cronica/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-comments = []
-+++
-
+---
+title: Pollita en Fuga
+slug: pollita-en-fuga
+date: 2009-11-10 17:37:12
+tags: Crónica, Música, Humor
+author: Josefina Licitra
+subtitle: Josefina Licitra
+---
 <intro>
 No se le notaba. La última vez que Silvina cayó presa –el 5 de mayo pasado – estaba en la cama con su novio, embarazada y desnuda, pero no se le notaba. La brigada bonaerense la encontró a quince cuadras de la Villa Hidalgo, en el partido de San Martín, en una casa chica de cemento blanqueado, jardín reseco en la entrada y una segunda construcción al fondo. Silvina estaba encerrada en un cuarto con Jorge, uno de sus novios, cogiendo bajo el aire de un ventilador de techo. La brigada entró en el cuarto con modales bonaerenses y la sacó a patadas.
+
+<!-- TEASER_END -->
 
 -- Rati puto-- saludó Silvina. Le pegaban más fuerte y no la dejaban vestirse.
 -- Rati la conchadetumadre dame la ropa–. La brigada le pateó los riñones, el
@@ -323,8 +289,8 @@ Prende un Philip Morris y lo calza en la juntura de los dedos. Fuma raro. Fuma c
 
 Traga el humo hasta el filtro, prende otro. Vuelve a tragar hasta que no quede más nada.
 
-{% postscript() %}
+{{% postscript %}}
 Publicado en Rolling Stones, en julio de 2003. Esta nota fue distinguida con el Premio Nuevo Periodismo CEMEX-FNPI 2004, que concede la Fundación Nuevo Periodismo dirigida por Gabriel García Márquez.
 
 Antes lo publiqué en el [blog no oficial de Josefina Licitra](http://josefinalicitra.wordpress.com) que pergeñé el año pasado. [Señorita Li](http://senoritali.blogspot.com/) es su blog personal.
-{% end %}
+{{% /postscript %}}

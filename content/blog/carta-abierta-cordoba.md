@@ -1,48 +1,13 @@
-+++
-title = "Carta Abierta Córdoba"
-slug = "carta-abierta-cordoba"
-date = 2008-08-01 04:57:12
-description = "El pasado martes, un dia antes de la ignominia del gobierno de Schiaretti, se realizó el acto fundacional del espacio Carta Abierta Córdoba. Aunque no pude participar…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Opinión o piñón",
-    "Política",
-    "Córdoba",
-]
-
-[extra]
-legacy_id = 182
-section_slug = "blog"
-section_title = "Blog"
-summary = "El pasado martes, un dia antes de la ignominia del gobierno de Schiaretti, se realizó el acto fundacional del espacio Carta Abierta Córdoba. Aunque no pude participar del encuentro, considero esta una iniciativa…"
-visits = 819
-popularite = 0.9056236476118877
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/carta-abierta-cordoba/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Opinión o piñón", path = "/etiquetas/opinion-o-pinon/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-comments = []
-+++
-
+---
+title: Carta Abierta Córdoba
+slug: carta-abierta-cordoba
+date: 2008-08-01 04:57:12
+tags: Opinión o piñón, Política, Córdoba
+author: Martín Gaitán
+---
 El pasado martes, un día antes de la [ignominia](http://argentina.indymedia.org/news/2008/07/617986.php) del gobierno de Schiaretti, se realizó el acto fundacional del espacio [Carta Abierta Córdoba](http://cartaabiertacordoba.blogspot.com/). 
+
+<!-- TEASER_END -->
 
 Aunque no pude participar del encuentro, considero esta una iniciativa enriquecedora para la organización popular, en la medida que pueda articular acciones más allá de lo discursivo. 
 

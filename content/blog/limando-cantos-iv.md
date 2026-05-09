@@ -1,105 +1,17 @@
-+++
-title = "Limando cantos IV"
-slug = "limando-cantos-iv"
-date = 2010-10-21 12:24:00
-description = "Intercambio sobre voto electrónico y escrutinio en la lista de Ingeniería en Computación. El hilo reúne argumentos técnicos, políticos y éticos sobre transparencia electoral…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Universo universitario",
-    "Tecnología",
-    "Política",
-]
-
-[extra]
-legacy_id = 368
-section_slug = "blog"
-section_title = "Blog"
-summary = "Intercambio sobre voto electrónico y escrutinio en la lista de Ingeniería en Computación. El hilo reúne argumentos técnicos, políticos y éticos sobre transparencia electoral…"
-visits = 18932
-popularite = 0.666447177952851
-hero_image = ""
-hero_alt = ""
-comment_count = 5
-legacy_url = "/blog/limando-cantos-iv/"
-surtitle = ""
-subtitle = "Del voto electrónico y las distintas concepciones sobre qué es ser profesional"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Universo universitario", path = "/etiquetas/universo-universitario/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-]
-
-[[extra.comments]]
-id = 11500
-anchor = "comment-11500"
-author = "ra"
-date = "2010-10-20 21:36:20"
-date_display = "20.10.2010"
-depth = 0
-url_site = ""
-title = "Limando cantos IV"
-body = "Auch. Hay varias cosas de este hilo que dan verdadero miedo. Esta gente es docente de tu carrera? O sea que la UNC no sólo los formó, sino que además ahora les paga un sueldo para enseñarles a otros? omg omg omg :(\n\nLo de que no se puede trabajar gratis porque le quitás a otro la posibilidad de cobrar por ese trabajo es sencillamente... aterrador :|"
-
-[[extra.comments]]
-id = 17557
-anchor = "comment-17557"
-author = "Martin"
-date = "2010-10-25 20:18:48"
-date_display = "25.10.2010"
-depth = 0
-url_site = ""
-title = "Limando cantos IV"
-body = "Este un comentario para probar si el sistema funciona correctamente."
-
-[[extra.comments]]
-id = 18880
-anchor = "comment-18880"
-author = "Yo"
-date = "2010-10-26 20:44:34"
-date_display = "26.10.2010"
-depth = 0
-url_site = ""
-title = "Limando cantos IV"
-body = "Una muestra de por qué esto es poco serio.\nUna muestra de que esto no es el grupo."
-
-[[extra.comments]]
-id = 18887
-anchor = "comment-18887"
-author = "Martin"
-date = "2010-10-26 20:45:54"
-date_display = "26.10.2010"
-depth = 0
-url_site = ""
-title = "Limando cantos IV"
-body = "ra... no sos parte del grupo, no conoces su dinámica y no sabes nada de las personas que hablaron... no te gastes en opinar."
-
-[[extra.comments]]
-id = 50031
-anchor = "comment-50031"
-author = "Lu"
-date = "2011-03-22 12:25:08"
-date_display = "22.03.2011"
-depth = 0
-url_site = ""
-title = "Limando cantos IV"
-body = "Ja! \n1) Justo Salta implementó el bendito voto electrónico para las internas de todos los partidos en búsqueda de quienes se presentarían para Intendente (no recuerdo si para gobernador también). Por esas cosas de la vida, mi tía trabaja dentro del PJ, apoyando a una lista en particular. Ella me contó las  trampas que se mandaban con total impunidad, y que aunque ella armaba lío y se quejaba de la situación, nada se hizo. \nEn Salta hay una gran población de ancianos,que como se sabe les cuesta adaptarse a los cambios. Los jefes de mesa los acompañaban para explicarle, yan cuidadosamente que hasta les indicaban que botón había que presionar al momento del voto efectivo.\nConclusión: Pa hacer trampa no sólo está el software.... y sí, esté sistema deja mucho que desear y muchos baches pa que el diablo meta la cola, porque si quien tiene que controlar es quien quiere ganar......\n\n2- Ese tema del rédito económico vs, horas trabajadas, de querer ganar no menos de $5000 y de que nuestra profesión esta sub-valuada, que no respetan nuestro trabajo, que en el exterior sí y que se yo cuanto más...AARRGGGHHH!!! Porque siempre el ser humano quiere todo??Es decir, no se conforma con una vida cómoda, quiere una vida de lujos y confort; no quiere un trabajo que le de sus libertades o que lo permita exlorar, quiere el mejor trabajo: el cargo más alto..... Desde el ámbito más simple se ve esa lucha y ncesidad de poder y ambición, después uno se queja de USA y de cómo los poderosos no pueden para de destruir todo; y por aquí abajo??? Por qué no poder trabajar GRATIS ( que en realidad no lo creo asi, porque recibís un montón de conocimiento, contactos, etc.) para mejorar algo, para aportar algo a la sociedad, o simplemente para mejoramiento personal??? Por qué la vida tiene que ser una continua persecución del vil metal???\nEsas cosas no entiendo, y coincido con que si uno es joven porque no hacerlo, sí justamente no tiene encima un montón de responsabilidades ni obligaciones que lo aten o hagan peligrar su \"status\"... aparte ningún proyecto te consume las 24 hs de día...... todo, siempre, es cuestión de organización de tiempos.\nEs más, corregíme si me equivoco, pero en su momento la práctica no podía o era ad honorem???"
-+++
-
+---
+title: Limando cantos IV
+slug: limando-cantos-iv
+date: 2010-10-21 12:24:00
+tags: Universo universitario, Tecnología, Política
+author: Martín Gaitán
+subtitle: Del voto electrónico y las distintas concepciones sobre qué es ser profesional
+---
 **From:** Juan Perez<br>
 **to:** Grupo Ing Computación<br>
 **date:** 2010/10/17<br>
 **subject:** [OT] Voto Electrónico
+
+<!-- TEASER_END -->
 
 Hoy en una charla Relámpago de la [Pycon](http://ar.pycon.org/2010), Federico Heinz, presidente de la [Fundación Vía Libre](http://www.vialibre.org) nos invita a colaborar generando software con malas intensiones, que tenga todo tipo de engaños, fraudes, maldades de cualquier tipo y factor
 
@@ -115,7 +27,7 @@ Me pareció una propuesta muy original que desgraciadamente les queda como últi
 
 Para quienes no tengan ganas de leer, acá va un video reportaje con un ejemplo.
 
-{{ video_embed(provider="youtube", id="c8-TQbuEUQs") }}
+{{% video_embed provider="youtube" id="c8-TQbuEUQs" %}}
 
 Muchísima info en:
 
@@ -408,9 +320,9 @@ Lo que [dice Juan](#juan2) me recuerda a un documental que vi hace unos
 meses en el canal Infinito llamado *"HACKING
 DEMOCRACY"*
 
-{{ external_embed(provider="googlevideo", url="<embed id=\"VideoPlayback\" src=\"http://video.google.com/googleplayer.swf?docid=3558928184519856419&hl=en&fs=true\" 
+{{% external_embed provider="googlevideo" url="<embed id=\"VideoPlayback\" src=\"http://video.google.com/googleplayer.swf?docid=3558928184519856419&hl=en&fs=true\" 
 style=\"width:400px;height:326px\" allowFullScreen=\"true\" allowScriptAccess=\"always\" 
-type=\"application/x-shockwave-flash\">") }}
+type=\"application/x-shockwave-flash\">" %}}
 
  </embed>
 
@@ -952,7 +864,6 @@ Espero que haya podido terminar su proyecto a tiempo.
 Saludos.
 _Martín
 
-{% postscript() %}
+{{% postscript %}}
 Hay más limaduras de cantos. Sólo tenés que [buscarlas](spip.php?page=recherche&recherche=limando+cantos)
-{% end %}
-
+{{% /postscript %}}

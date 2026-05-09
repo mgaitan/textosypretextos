@@ -1,44 +1,14 @@
-+++
-title = "Sobre el autor"
-slug = "sobre-el-autor"
-date = 2006-02-10 12:21:51
-description = "Martín Gaitán, estudiante de Ingeniería en Computación en la Universidad Nacional de Córdoba, desarrollador web y feliz usuario de GNU/Linux y Software Libre en…"
-draft = true
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "El resto",
-]
-
-[extra]
-legacy_id = 55
-section_slug = "blog"
-section_title = "Blog"
-summary = "Martín Gaitán, estudiante de Ingeniería en Computación en la Universidad Nacional de Córdoba, desarrollador web y feliz usuario de GNU/Linux y Software Libre en general, debería estar destinado a los ateojos, la…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/sobre-el-autor/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-]
-comments = []
-+++
-
+---
+title: Sobre el autor
+slug: sobre-el-autor
+date: 2006-02-10 12:21:51
+draft: true
+tags: El resto
+author: Martín Gaitán
+---
 Martín Gaitán, estudiante de Ingeniería en Computación en la Universidad Nacional de Córdoba, <a href="http://www.nqnwebs.com">desarrollador web</a> y feliz usuario de GNU/Linux y Software Libre en general, debería estar destinado a los ateojos, la introversión y conocer al detalle toda la saga de Star Wars. Un nerd, va.
+
+<!-- TEASER_END -->
 
 Pero algún cromosoma de menos o de más hubo en la receta, y el pastel nació marmolado con sabores variopintos y distantes. Las palabras y las fotos, las mujeres y el amor, el fútbol y la política, la ciencia y la revolución. Un chanta, va.
 

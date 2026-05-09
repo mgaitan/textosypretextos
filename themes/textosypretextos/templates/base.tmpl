@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ blog_title }}{% endblock %}</title>
+    <meta name="description" content="{% block meta_description %}{{ blog_description }}{% endblock %}">
+    <script>
+      (() => {
+        const storageKey = "typ:theme";
+        const fallbackTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        try {
+          const saved = localStorage.getItem(storageKey);
+          const theme = saved === "dark" || saved === "light" ? saved : fallbackTheme;
+          document.documentElement.dataset.theme = theme;
+        } catch (_error) {
+          document.documentElement.dataset.theme = fallbackTheme;
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="/assets/site.css">
+    <script type="module" src="/assets/site.js"></script>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="alternate" type="application/atom+xml" title="{{ blog_title }}" href="{{ abs_link('/atom.xml') }}">
+    <link rel="canonical" href="{% block canonical_url %}{{ abs_link(permalink) }}{% endblock %}">
+
+    {# Open Graph / Twitter Card #}
+    <meta property="og:type"        content="{% block og_type %}website{% endblock %}">
+    <meta property="og:site_name"   content="{{ blog_title }}">
+    <meta property="og:locale"      content="es_AR">
+    <meta property="og:url"         content="{% block og_url %}{{ abs_link(permalink) }}{% endblock %}">
+    <meta property="og:title"       content="{% block og_title %}{{ blog_title }}{% endblock %}">
+    <meta property="og:description" content="{% block og_description %}{{ blog_description }}{% endblock %}">
+    <meta property="og:image"       content="{% block og_image %}{{ abs_link('/og-image.png') }}{% endblock %}">
+    <meta property="og:image:width"  content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card"        content="summary_large_image">
+    <meta name="twitter:title"       content="{% block twitter_title %}{{ blog_title }}{% endblock %}">
+    <meta name="twitter:description" content="{% block twitter_description %}{{ blog_description }}{% endblock %}">
+    <meta name="twitter:image"       content="{% block twitter_image %}{{ abs_link('/og-image.png') }}{% endblock %}">
+  </head>
+  <body>
+    <div class="page-shell">
+      <div class="utility-bar">
+        <div class="utility-links"></div>
+        <div class="utility-actions">
+          <form class="search-form" action="/buscar/" method="get" role="search">
+            <label class="sr-only" for="site-search">Buscar</label>
+            <input id="site-search" type="search" name="q" placeholder="Buscar…" autocomplete="off">
+            <button type="submit" aria-label="Buscar">⌕</button>
+          </form>
+          <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label="Modo oscuro">
+            <span class="theme-toggle-icon" data-theme-icon aria-hidden="true">☾</span>
+          </button>
+        </div>
+      </div>
+
+      <header class="masthead">
+        <div class="masthead-grid">
+          <div>
+            <h1 class="brand-title"><a href="/">{{ blog_title }}</a></h1>
+            <p class="story-kicker">de {{ blog_author }}</p>
+          </div>
+        </div>
+      </header>
+
+      <nav class="main-nav">
+        <div class="flex items-center justify-between gap-4 py-4">
+          <div class="main-nav-inner">
+            {% for url, name in navigation_links[lang] %}
+              <a class="nav-link {% if permalink == url %}active{% endif %}" href="{{ url }}">{{ name }}</a>
+            {% endfor %}
+          </div>
+          <button class="nav-toggle" type="button" aria-expanded="false" data-nav-toggle>
+            <span class="sr-only">Abrir navegación</span>
+            <span class="text-xl">+</span>
+          </button>
+        </div>
+        <div class="nav-panel" data-nav-panel data-open="false">
+          <div class="grid gap-3">
+            {% for url, name in navigation_links[lang] %}
+              <a class="nav-link" href="{{ url }}">{{ name }}</a>
+            {% endfor %}
+          </div>
+        </div>
+      </nav>
+
+      {% block content %}{% endblock %}
+
+      <footer class="page-footer">
+        <p>{{ blog_title }} · {{ site_owner }} · {{ start_year }}–{{ now.year }}</p>
+      </footer>
+    </div>
+  </body>
+</html>

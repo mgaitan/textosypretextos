@@ -1,47 +1,15 @@
-+++
-title = "Veinte minutos"
-slug = "veinte-minutos"
-date = 2009-12-21 16:06:52
-description = "Papá nunca deja rastros. Incluso ahora, que trataba de evitar el mal humor durmiendo, está tirado sin desarmar la cama. Hace un rato le gritó a mamá desde el pasillo…"
-draft = false
-template = "article.html"
-authors = [
-    "Jorge Lanata",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Humor",
-    "Amor",
-]
-
-[extra]
-legacy_id = 357
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Papá nunca deja rastros. Incluso ahora, que trataba de evitar el mal humor durmiendo, está tirado sin desarmar la cama. Hace un rato le gritó a mamá desde el pasillo: --Lilí, llamame en veinte minutos. Papá puede…"
-visits = 3133
-popularite = 0.9438263225838504
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/veinte-minutos/"
-surtitle = ""
-subtitle = "Jorge Lanata"
-deck = ""
-author_links = [
-    { name = "Jorge Lanata", path = "/autores/jorge-lanata/" },
-]
-tag_links = [
-    { name = "Humor", path = "/etiquetas/humor/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
-+++
-
+---
+title: Veinte minutos
+slug: veinte-minutos
+date: 2009-12-21 16:06:52
+tags: Humor, Amor
+author: Jorge Lanata
+subtitle: Jorge Lanata
+---
 Papá nunca deja rastros. Incluso ahora, que trataba de evitar el mal humor durmiendo,
 está tirado sin desarmar la cama. Hace un rato le gritó a mamá desde el pasillo:
+
+<!-- TEASER_END -->
 
 --Lilí, llamame en veinte minutos.
 

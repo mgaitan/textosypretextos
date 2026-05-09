@@ -1,43 +1,10 @@
-+++
-title = "Defensa de la alegría"
-slug = "defensa-de-la-alegria"
-date = 2008-11-06 09:18:28
-description = "Defender la alegría como una trinchera defenderla del escándalo y la rutina de la miseria y los miserables de las ausencias transitorias y las definitivas defender la…"
-draft = false
-template = "article.html"
-authors = [
-    "Mario Benedetti",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Humor",
-]
-
-[extra]
-legacy_id = 236
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Defender la alegría como una trinchera defenderla del escándalo y la rutina de la miseria y los miserables de las ausencias transitorias y las definitivas defender la alegría como un principio defenderla del pasmo y…"
-visits = 12736
-popularite = 0.9056624156109147
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/defensa-de-la-alegria/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Mario Benedetti", path = "/autores/mario-benedetti/" },
-]
-tag_links = [
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-comments = []
-+++
-
+---
+title: Defensa de la alegría
+slug: defensa-de-la-alegria
+date: 2008-11-06 09:18:28
+tags: Humor
+author: Mario Benedetti
+---
 <div class="poetry">Defender la alegría como una trinchera<br>
 defenderla del escándalo y la rutina<br>
 de la miseria y los miserables<br>
@@ -74,3 +41,5 @@ de las mayúsculas y de la muerte<br>
 de los apellidos y las lástimas<br>
 del azar<br>
 y también de la alegría.</div>
+
+<!-- TEASER_END -->

@@ -1,0 +1,29 @@
+{% extends "base.tmpl" %}
+
+{% block title %}Autoras y autores · {{ blog_title }}{% endblock %}
+{% block og_url %}{{ abs_link(permalink) }}{% endblock %}
+
+{% block content %}
+  <main class="pt-8">
+    <section class="editorial-rule">
+      <span class="section-ribbon">Autoras y autores</span>
+      <div class="mt-5 max-w-[48rem]">
+        <h2 class="story-title">Autoras y autores</h2>
+      </div>
+    </section>
+
+    <section class="taxonomy-grid mt-10">
+      {% for author, posts in items | sort(attribute=0) %}
+        <article class="taxonomy-card reveal">
+          <p class="story-kicker">Autor/a</p>
+          <h2 class="story-title-xs">
+            <a href="{{ taxonomy_url('autores', author) }}">{{ author }}</a>
+          </h2>
+          <p class="mt-4 text-base leading-7 text-neutral-700">
+            {{ posts | length }} {% if posts | length == 1 %}texto{% else %}textos{% endif %}
+          </p>
+        </article>
+      {% endfor %}
+    </section>
+  </main>
+{% endblock %}

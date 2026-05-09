@@ -1,45 +1,11 @@
-+++
-title = "Rostro de vos"
-slug = "rostro-de-vos"
-date = 2012-05-09 01:14:49
-description = "Tengo una soledad tan concurrida tan llena de nostalgias y de rostros de vos de adioses hace tiempo y besos bienvenidos de primeras de cambio y de último vagón. Tengo…"
-draft = false
-template = "article.html"
-authors = [
-    "Mario Benedetti",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Memoria",
-    "Amor",
-]
-
-[extra]
-legacy_id = 411
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Tengo una soledad tan concurrida tan llena de nostalgias y de rostros de vos de adioses hace tiempo y besos bienvenidos de primeras de cambio y de último vagón. Tengo una soledad tan concurrida que puedo organizarla…"
-visits = 3477
-popularite = 0.9076700618274073
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/rostro-de-vos/"
-surtitle = ""
-subtitle = "Mario Benedetti"
-deck = ""
-author_links = [
-    { name = "Mario Benedetti", path = "/autores/mario-benedetti/" },
-]
-tag_links = [
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
-+++
-
+---
+title: Rostro de vos
+slug: rostro-de-vos
+date: 2012-05-09 01:14:49
+tags: Memoria, Amor
+author: Mario Benedetti
+subtitle: Mario Benedetti
+---
 <div class="poetry">Tengo una soledad<br>
 tan concurrida<br>
 tan llena de nostalgias<br>
@@ -97,3 +63,5 @@ Ya mi rostro de vos<br>
 cierra los ojos<br>
 y es una soledad<br>
 tan desolada.</div>
+
+<!-- TEASER_END -->

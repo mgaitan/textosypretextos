@@ -1,45 +1,13 @@
-+++
-title = "Fico assim sem você"
-slug = "fico-assim-sem-voce"
-date = 2008-08-16 19:57:30
-description = "Avião sem asa, fogueira sem brasa, sou eu assim sem você. Futebol sem bola, Piu-piu sem Frajola, sou eu assim sem você. Por que é que tem que ser assim se o meu desejo…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Videos",
-]
-tags = [
-    "Amor",
-]
-
-[extra]
-video_id = "iojYDSjKK00"
-legacy_id = 194
-section_slug = "videos"
-section_title = "Videos"
-summary = "Avião sem asa, fogueira sem brasa, sou eu assim sem você. Futebol sem bola, Piu-piu sem Frajola, sou eu assim sem você. Por que é que tem que ser assim se o meu desejo não tem fim. Eu te quero a todo instante nem mil…"
-visits = 671
-popularite = 0.9096039841872052
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/fico-assim-sem-voce/"
-surtitle = ""
-subtitle = "Adriana Calcanhoto"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
-+++
-
-{{ video_embed(provider="youtube", id="iojYDSjKK00") }}
+---
+title: Fico assim sem você
+slug: fico-assim-sem-voce
+date: 2008-08-16 19:57:30
+tags: Amor
+author: Martín Gaitán
+video_id: iojYDSjKK00
+subtitle: Adriana Calcanhoto
+---
+{{% video_embed provider="youtube" id="iojYDSjKK00" %}}
 
 <div class="poetry">Avião sem asa,<br>
 fogueira sem brasa,<br>
@@ -95,3 +63,5 @@ e a solidão é o meu pior castigo.<br>
 <br>
 Eu conto as horas pra poder te ver<br>
 mas o relógio tá de mal comigo.</div>
+
+<!-- TEASER_END -->

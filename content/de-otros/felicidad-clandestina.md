@@ -1,44 +1,15 @@
-+++
-title = "Felicidad clandestina"
-slug = "felicidad-clandestina"
-date = 2009-08-14 20:10:11
-description = "lla era gorda, baja, pecosa y de pelo excesivamente crespo, medio amarillento. Tenía un busto enorme, mientras que todas nosotras todavía eramos chatas. Como si no…"
-draft = true
-template = "article.html"
-authors = [
-    "Clarice Lispector",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Cuento breve",
-]
-
-[extra]
-legacy_id = 331
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "lla era gorda, baja, pecosa y de pelo excesivamente crespo, medio amarillento. Tenía un busto enorme, mientras que todas nosotras todavía eramos chatas. Como si no fuese suficiente, por encima del pecho se llenaba de…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/felicidad-clandestina/"
-surtitle = ""
-subtitle = "Clarice Lispector"
-deck = ""
-author_links = [
-    { name = "Clarice Lispector", path = "/autores/clarice-lispector/" },
-]
-tag_links = [
-    { name = "Cuento breve", path = "/etiquetas/cuento-breve/" },
-]
-comments = []
-+++
-
+---
+title: Felicidad clandestina
+slug: felicidad-clandestina
+date: 2009-08-14 20:10:11
+draft: true
+tags: Cuento breve
+author: Clarice Lispector
+subtitle: Clarice Lispector
+---
 lla era gorda, baja, pecosa y de pelo excesivamente crespo, medio amarillento. Tenía un busto enorme, mientras que todas nosotras todavía eramos chatas. Como si no fuese suficiente, por encima del pecho se llenaba de caramelos los dos bolsillos de la blusa. Pero poseía lo que a cualquier niña devoradora de historietas le habría gustado tener: un padre dueño de una librería.
+
+<!-- TEASER_END -->
 
 No lo aprovechaba mucho. Y nosotras todavía menos: incluso para los cumpleaños, en vez de un librito barato por lo menos, nos entregaba una postal de la tienda del padre. Encima siempre era un paisaje de Recife, la ciudad donde vivíamos, con sus puentes más que vistos.
 

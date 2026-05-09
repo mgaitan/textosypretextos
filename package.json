@@ -4,11 +4,13 @@
   "type": "module",
   "scripts": {
     "build:assets": "vite build",
-    "build": "npm run build:assets && zola build",
+    "build": "npm run build:assets && uvx --from 'nikola[extras]' nikola build",
     "dev:assets": "vite build --watch --mode development",
-    "dev": "npm run build:assets && zola serve --open",
-    "dev:drafts": "npm run build:assets && zola serve --drafts --open",
+    "dev": "npm run build:assets && uvx --from 'nikola[extras]' nikola auto",
+    "dev:drafts": "npm run build:assets && uvx --from 'nikola[extras]' nikola auto",
     "new:article": "uv run scripts/new_article.py",
+    "migrate": "uv run scripts/migrate_to_nikola.py",
+    "migrate:apply": "uv run scripts/migrate_to_nikola.py --apply",
     "preview": "npm run build && npx wrangler pages dev public --compatibility-date=2026-04-24",
     "deploy": "npm run build && npx wrangler pages deploy public --project-name textosypretextos"
   },
@@ -16,5 +18,8 @@
     "@tailwindcss/vite": "^4.2.0",
     "tailwindcss": "^4.2.0",
     "vite": "^7.1.0"
+  },
+  "dependencies": {
+    "flexsearch": "^0.8.212"
   }
 }

@@ -1,48 +1,13 @@
-+++
-title = "Relato de un narrador"
-slug = "relato-de-un-narrador"
-date = 2008-05-24 00:04:27
-description = "Prólogo Lengua y Literatura en un colegio técnico es, para la absoluta mayoría de la comunidad educativa, como una mesa de plástico en medio de un living art decó…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "El resto",
-    "Amistad",
-    "Memoria",
-]
-
-[extra]
-legacy_id = 114
-section_slug = "blog"
-section_title = "Blog"
-summary = "Prólogo Lengua y Literatura en un colegio técnico es, para la absoluta mayoría de la comunidad educativa, como una mesa de plástico en medio de un living art decó. Esto, mal que nos pese, incluye a gran parte de los…"
-visits = 982
-popularite = 0.9094806329812095
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/relato-de-un-narrador/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
-+++
-
+---
+title: Relato de un narrador
+slug: relato-de-un-narrador
+date: 2008-05-24 00:04:27
+tags: El resto, Amistad, Memoria
+author: Martín Gaitán
+---
 ### Prólogo
+
+<!-- TEASER_END -->
 
 *Lengua y Literatura* en un colegio técnico es, para la absoluta mayoría de la comunidad educativa, como una mesa de plástico en medio de un living art decó. Esto, mal que nos pese, incluye a gran parte de los profesores de dicha asignatura. Sin embargo yo, en el balance global, tuve suerte. 
 
@@ -70,7 +35,7 @@ Que viaje en estas palabras mi más profunda admiración por los que tienen el m
 ### Relato de un narrador
 _ *Víctor Jara*
 
-{{ media_audio(src="/media/mp3/041012_Victor_Jara_de_Junin_de_los_Andes.mp3", title="041012_Victor_Jara_de_Junin_de_los_Andes.mp3") }}
+{{% media_audio src="/media/mp3/041012_Victor_Jara_de_Junin_de_los_Andes.mp3" title="041012_Victor_Jara_de_Junin_de_los_Andes.mp3" %}}
 
 Salimos en el colectivo, en el Ko-Ko, a las nueve de la mañana. Íbamos al puente Collón Cura, que queda de La Rinconada bien para allá. Y bueno, nosotros íbamos mirando para todos lados así, y de repente antes de llegar al puente, vimos una cuevas allá arriba y dijimos "eh, allá son las cuevas que te dijeron a vos que habían cosas de indios y qué se yo" así que nos bajamos así, y nos fuimos a la orilla de la ruta porque habíamos llevado pan y un termo con té y dos largavistas. 
 
@@ -82,7 +47,7 @@ Y no llegaba y no llegaba, y nosotros pensamos que nos estaba asustando, o algo 
 
 Nosotros, lo único que teníamos que hacer era que cuando le iban a pegar a mi amigo, yo tenía que mirar nomás, y después él me miraba a mi cómo me pegaban. Y hasta que gozó, todo de pegarnos. Se cansó de pegarnos así, y agarró y mandó a los otros para arriba, para el cerro, porque supuestamente andaban tres ahí, en ese campo. Y él se quedó con nosotros, él y el hijo más chico, creo, no sé cuantos años tendrá, uno chiquitito así, debe tener como trece o catorce años. Y ahí nos empezó a huevear así, nos sacaron los reloj, todo. Nos sacó los reloj, las cadenitas así. Nosotros teníamos...teníamos unos hilos acá en el cuello, teníamos colgantes, y nos decían que nos saquemos esos porque parecíamos putos. Y nosotros no podíamos densatar los nudos, por ahí algunos que tenían, y los arrancaba así de un tirón, así ¡pá!. 
 
-{% dialogo() %}
+{{% dialogo %}}
 — Del que estás hablando es Del Campo el apellido, ¿no?
 — Sí.
 — Él qué creía, ¿que ustedes le estaban robando?
@@ -93,4 +58,4 @@ Nosotros, lo único que teníamos que hacer era que cuando le iban a pegar a mi 
 — No, después nos agarró de los pelos así, nos empezaba a tirar así y a decir que digamos que eramos trolos, putos, así, después se cansó de decirnos y dijo "bueno, vamos a hacer un trato" dijo, "ustedes se van por este cañadoncito, siempre mirando para la ruta" dijo, "y se quedan escondidos en aquel arbolito. Cuando pase el Ko-kó, el colectivo, no suban a la ruta, porque yo mandé a poner un policía. Después cuando pase, ahí salen ustedes y hacen dedo. Y si ven la policía ustedes dicen que no estaban en el campo, y que yo no los golpié, o sino yo a ustede los voy a meter preso no sé por cuanto" dijo. Nos dijo que era algo de rural, jefe rural, así.
 — ¿Y qué hicieron ahí?
 — Y nosotros seguíamos nomás para allá, y de repente vimos que venía él, atrás en la camioneta y nosotros con amigo decíamos "para dónde disparamos" porque pensamos que nos iban a pegar ahí. Y nos quedamos, y viene así, y venía un policía. Y decimos "uh, estamos salvados", era como que habían llegado nuestro padre o alguien así que ya sabíamos que nos nos iban a pegar más. Y se bajó así, re caliente así Don Mario. Y agarró y dijo "¿por qué me mentiste?" dijo, "¿por qué no me dijiste que eras hijo de ese chorro, hijo de..,  el milico de la camioneta marrón", dijo, porque mi papá tiene una camioneta marrón con la que vamos a pescar. Y lo puteó de arriba a abajo así, y yo lo miraba al policía a ver si decía algo. Pero era un oficial y no decía nada, y agachó la cabeza así, y cambió de tema enseguida, y dijo "bueno vamos", y me indica dónde bajaban los otros. Cuando veníamos en el colectivo bajaron antes ellos. Eran tres. Y nosotros seguímos nomás.
-{% end %}
+{{% /dialogo %}}

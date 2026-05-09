@@ -1,0 +1,196 @@
+{% extends "base.tmpl" %}
+{% from "macros.tmpl" import story_card with context %}
+
+{# ──── meta blocks ──── #}
+{% block title %}{{ post.title() }} · {{ blog_title }}{% endblock %}
+{% block meta_description %}{{ post.description() | default(post.text(teaser_only=True) | striptags | truncate(160)) }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block og_url %}{{ abs_link(post.permalink()) }}{% endblock %}
+{% block og_title %}{{ post.title() }} · {{ blog_title }}{% endblock %}
+{% block og_description %}{{ post.description() | default(post.text(teaser_only=True) | striptags | truncate(160)) }}{% endblock %}
+{% block og_image %}
+  {%- set hero = post.meta('hero_image') or '' -%}
+  {%- set vid  = post.meta('video_id') or '' -%}
+  {%- if hero -%}
+    {{ abs_link(hero) }}
+  {%- elif post_section_slug(post) == 'videos' and vid -%}
+    https://img.youtube.com/vi/{{ vid }}/hqdefault.jpg
+  {%- else -%}
+    {{ abs_link('/og-image.png') }}
+  {%- endif -%}
+{% endblock %}
+{% block twitter_title %}{{ post.title() }} · {{ blog_title }}{% endblock %}
+{% block twitter_description %}{{ post.description() | default(post.text(teaser_only=True) | striptags | truncate(160)) }}{% endblock %}
+{% block twitter_image %}{{ self.og_image() }}{% endblock %}
+
+{% block content %}
+  {% set section_slug = post_section_slug(post) %}
+  {% set tags = post_tags(post) %}
+  {% set authors = post_authors(post) %}
+  {% set slug = post.meta('slug') %}
+  {% set use_subcat   = section_slug in ["blog", "de-otros"] and tags %}
+
+  <main
+    class="article-shell"
+    data-track-article-view
+    data-article-slug="{{ slug }}"
+  >
+    <header class="article-header reveal">
+      <h1 class="story-title">{{ post.title() }}</h1>
+
+      {% set subtitle = post.meta('subtitle') or '' %}
+      {% if subtitle %}
+        <p class="article-subtitle">
+          {%- set first_author = authors[0] if authors else '' -%}
+          {%- if first_author and first_author == subtitle -%}
+            <a href="{{ taxonomy_url('autores', first_author) }}" class="meta-link">{{ subtitle }}</a>
+          {%- else -%}
+            {{ subtitle }}
+          {%- endif -%}
+        </p>
+      {% endif %}
+
+      {# deck: epígrafe/subtítulo del artículo; soporta Markdown #}
+      {% set deck = post.meta('deck') or '' %}
+      {% if deck %}
+        <div class="article-deck">{{ deck | markdown }}</div>
+      {% endif %}
+
+      <div class="meta-row">
+        <span>{{ post.date.strftime('%d.%m.%Y') }}</span>
+        {% set comment_count = post_comment_count(post) %}
+        {% if comment_count > 0 %}
+          <a href="#comments" class="meta-link">{{ comment_count }} comentarios</a>
+        {% endif %}
+      </div>
+    </header>
+
+    <article class="article-body story-content reveal">
+      {{ post.text() }}
+    </article>
+
+    {# Etiquetas #}
+    {% set tag_start = 1 if use_subcat else 0 %}
+    {% if tags and tags | length > tag_start %}
+      <div class="article-tags reveal">
+        <span class="story-kicker mr-3">Etiquetas</span>
+        <div class="flex flex-wrap gap-2">
+          {% for tag in tags %}
+            {% if loop.index0 >= tag_start %}
+              <a href="{{ taxonomy_url('etiquetas', tag) }}"
+                 class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-700 hover:bg-black hover:text-white">
+                {{ tag }}
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+
+    <div class="article-comment-cta reveal">
+      <a href="#comment-form" class="more-link" data-comment-focus>Dejá un comentario</a>
+    </div>
+
+    {# Contribuir / GitHub #}
+    {% if github_repo and post.source_path %}
+      {% set rel_path    = post.source_path %}
+      {% set edit_url    = "https://github.com/" ~ github_repo ~ "/edit/" ~ github_branch ~ "/" ~ rel_path %}
+      {% set history_url = "https://github.com/" ~ github_repo ~ "/commits/" ~ github_branch ~ "/" ~ rel_path %}
+      {% set issue_path  = rel_path | replace(".md", "") %}
+      {% set issue_title = "problema en " ~ issue_path %}
+      {% set issue_url   = "https://github.com/" ~ github_repo
+                           ~ "/issues/new?template=reporte_problema.yml&title="
+                           ~ (issue_title | urlencode)
+                           ~ "&url=" ~ (abs_link(post.permalink()) | urlencode)
+                           ~ "&source=" ~ (rel_path | urlencode) %}
+      <div class="article-contribute reveal">
+        <a href="{{ edit_url }}"    class="article-contribute-link" rel="noopener" target="_blank">Editar en GitHub</a>
+        <span class="article-contribute-sep" aria-hidden="true">·</span>
+        <a href="{{ history_url }}" class="article-contribute-link" rel="noopener" target="_blank">Ver historial</a>
+        <span class="article-contribute-sep" aria-hidden="true">·</span>
+        <a href="{{ issue_url }}"   class="article-contribute-link" rel="noopener" target="_blank">Reportar un problema</a>
+      </div>
+    {% endif %}
+
+    {# Navegación anterior/siguiente #}
+    {% if post.prev_post or post.next_post %}
+      <nav class="article-nav reveal" aria-label="Navegación entre artículos">
+        <div class="article-nav-prev">
+          {% if post.prev_post %}
+            <span class="story-kicker">← Anterior</span>
+            <a href="{{ post.prev_post.permalink() }}" class="story-title-xs block mt-1">{{ post.prev_post.title() }}</a>
+          {% endif %}
+        </div>
+        <div class="article-nav-next">
+          {% if post.next_post %}
+            <span class="story-kicker">Siguiente →</span>
+            <a href="{{ post.next_post.permalink() }}" class="story-title-xs block mt-1">{{ post.next_post.title() }}</a>
+          {% endif %}
+        </div>
+      </nav>
+    {% endif %}
+
+    {# Comentarios #}
+    {% set static_comments = post_comments(post) %}
+    <section
+      id="comments"
+      class="comment-list reveal"
+      {% if github_repo %}
+        data-comment-report-base="https://github.com/{{ github_repo }}/issues/new?template=moderar_comentario.yml"
+        data-comment-report-article-url="{{ abs_link(post.permalink()) }}"
+        data-comment-report-article-slug="{{ slug }}"
+        data-comment-report-source="{{ post.source_path }}"
+      {% endif %}
+    >
+      <div class="pt-8">
+        <span class="section-ribbon">Comentarios</span>
+      </div>
+
+      {% if static_comments %}
+        <div class="comments-existing">
+          {% for comment in static_comments %}
+            <article class="comment-card" id="{{ comment.anchor }}" data-depth="{{ comment.depth | default(0) }}">
+              <div class="meta-row">
+                <span>{{ comment.author | default("Anónimo") }}</span>
+                <div class="comment-meta-actions">
+                  <span>{{ comment.date_display }}</span>
+                </div>
+              </div>
+              <div class="comment-body">{{ comment.body | e | replace("\n", "<br>") | safe }}</div>
+            </article>
+          {% endfor %}
+        </div>
+      {% else %}
+        <p id="no-comments-placeholder" class="no-comments-placeholder">Aún no hay comentarios. ¡Dejá el primero!</p>
+      {% endif %}
+
+      <div id="dynamic-comments" data-article-slug="{{ slug }}"></div>
+
+      <form id="comment-form" class="comment-form" data-article-slug="{{ slug }}">
+        <h3 class="module-title">Dejar un comentario</h3>
+        <div class="grid gap-4">
+          <label class="comment-field">
+            <span>Nombre</span>
+            <input type="text" name="author" required maxlength="80" autocomplete="name">
+          </label>
+          <label class="comment-field">
+            <span>Email (opcional, no se publica)</span>
+            <input type="email" name="email" maxlength="120" autocomplete="email">
+          </label>
+          <label class="comment-field">
+            <span>Comentario</span>
+            <textarea id="comment-body" name="body" required minlength="2" maxlength="4000" rows="5"></textarea>
+          </label>
+          <label class="hp-field" aria-hidden="true">
+            <span>No completar</span>
+            <input type="text" name="website" tabindex="-1" autocomplete="off">
+          </label>
+          <div class="flex items-center gap-4">
+            <button type="submit" class="btn-submit">Enviar</button>
+            <p class="comment-form-status" data-status></p>
+          </div>
+        </div>
+      </form>
+    </section>
+  </main>
+{% endblock %}

@@ -1,0 +1,6 @@
+{% extends "list.tmpl" %}
+{# Hereda list.tmpl; `name` es la etiqueta, `posts` la lista de artículos. #}
+{# En Nikola, title = name y posts se proveen automáticamente. #}
+{% block title %}{{ name }} · {{ blog_title }}{% endblock %}
+{% block og_title %}{{ name }} · {{ blog_title }}{% endblock %}
+{% block twitter_title %}{{ name }} · {{ blog_title }}{% endblock %}

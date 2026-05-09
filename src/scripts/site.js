@@ -1,4 +1,5 @@
 import "../styles/site.css";
+import { Index as FlexSearchIndex } from "flexsearch";
 
 const root = document.documentElement;
 const body = document.body;
@@ -199,17 +200,17 @@ async function loadDynamicComments(container, slug) {
 }
 
 async function ensureSearchIndexDocs() {
-  if (window.searchIndex?.documentStore?.docs) {
-    return window.searchIndex.documentStore.docs;
+  if (window.typSearchIndex) {
+    return window.typSearchIndex;
   }
-  await new Promise((resolve, reject) => {
-    const script = document.createElement("script");
-    script.src = "/search_index.es.js";
-    script.onload = () => resolve();
-    script.onerror = () => reject(new Error("search index unavailable"));
-    document.head.appendChild(script);
+  const response = await fetch("/search_index.json", {
+    headers: { accept: "application/json" },
   });
-  return window.searchIndex?.documentStore?.docs || null;
+  if (!response.ok) {
+    throw new Error("search index unavailable");
+  }
+  window.typSearchIndex = await response.json();
+  return window.typSearchIndex;
 }
 
 function slugFromUrl(value) {
@@ -249,12 +250,13 @@ function sectionMetaFromPath(pathname) {
 function buildArticleIndexes(docs) {
   const bySlug = new Map();
   const byPath = new Map();
-  Object.entries(docs || {}).forEach(([url, doc]) => {
+  Object.entries(docs || {}).forEach(([slug, doc]) => {
+    const url = doc?.url || slug;
     const pathname = toPathname(url);
-    const slug = slugFromUrl(url);
+    const articleSlug = slugFromUrl(url) || slug;
     const article = {
       url: pathname,
-      title: doc?.title || slug,
+      title: doc?.title || articleSlug,
       ...sectionMetaFromPath(pathname),
     };
 
@@ -262,11 +264,110 @@ function buildArticleIndexes(docs) {
       byPath.set(pathname, article);
     }
 
-    if (slug && !bySlug.has(slug)) {
-      bySlug.set(slug, article);
+    if (articleSlug && !bySlug.has(articleSlug)) {
+      bySlug.set(articleSlug, article);
     }
   });
   return { bySlug, byPath };
+}
+
+function normalizeSearchText(value) {
+  return (value || "")
+    .toString()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+function renderSearchResult(doc) {
+  const url = toPathname(doc?.url || "/");
+  const excerpt = escapeHtml((doc?.content || "").replace(/\s+/g, " ").trim().slice(0, 220));
+  return `
+    <article class="listing-card no-media reveal">
+      <div>
+        <h2 class="story-title-sm"><a href="${escapeHtml(url)}">${escapeHtml(doc?.title || url)}</a></h2>
+        <p class="story-deck">${excerpt}${excerpt.length >= 220 ? "..." : ""}</p>
+      </div>
+    </article>
+  `;
+}
+
+async function bindSearchPage(node) {
+  const status = node.querySelector("[data-search-status]");
+  const results = node.querySelector("[data-search-results]");
+  const input = node.querySelector("[data-search-input]");
+  const form = node.querySelector("[data-search-form]");
+  if (!status || !results || !input || !form) return;
+
+  let docs = {};
+  let searchIndex = null;
+
+  try {
+    docs = await ensureSearchIndexDocs();
+    searchIndex = new FlexSearchIndex({
+      tokenize: "forward",
+      cache: 100,
+    });
+    Object.entries(docs).forEach(([key, doc]) => {
+      searchIndex.add(
+        key,
+        normalizeSearchText(`${doc?.title || ""} ${doc?.tags || ""} ${doc?.content || ""}`),
+      );
+    });
+  } catch (_e) {
+    status.textContent = "No pude cargar el índice de búsqueda.";
+    return;
+  }
+
+  function render(query) {
+    const normalizedQuery = normalizeSearchText(query).trim();
+    if (!normalizedQuery) {
+      status.textContent = "";
+      results.innerHTML = "";
+      return;
+    }
+    const hits = searchIndex.search(normalizedQuery, { limit: 50 }).map((key) => docs[key]).filter(Boolean);
+    status.textContent = hits.length ? `${hits.length} resultado${hits.length === 1 ? "" : "s"}` : "Sin resultados.";
+    results.innerHTML = hits.map(renderSearchResult).join("");
+  }
+
+  let timer;
+  input.addEventListener("input", (event) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => render(event.target.value), 120);
+  });
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    render(input.value);
+  });
+
+  const params = new URLSearchParams(location.search);
+  const initial = params.get("q") || "";
+  if (initial) {
+    input.value = initial;
+    render(initial);
+  }
+}
+
+async function bindRandomPage(node) {
+  const status = node.querySelector("[data-random-status]");
+  try {
+    const docs = await ensureSearchIndexDocs();
+    const urls = Object.values(docs).map((doc) => toPathname(doc?.url || "")).filter(Boolean);
+    if (!urls.length) {
+      if (status) status.textContent = "No hay contenido para sortear.";
+      return;
+    }
+    const here = window.location.pathname.replace(/\/$/, "");
+    let pick = urls[Math.floor(Math.random() * urls.length)];
+    for (let i = 0; i < 8; i += 1) {
+      pick = urls[Math.floor(Math.random() * urls.length)];
+      if (pick.replace(/\/$/, "") !== here) break;
+    }
+    window.location.replace(pick);
+  } catch (_e) {
+    if (status) status.textContent = "No pude cargar el índice para sortear.";
+  }
 }
 
 async function loadRecentComments(container) {
@@ -494,6 +595,16 @@ if (recentCommentsContainer) {
 const popularReadsContainer = document.querySelector("[data-popular-reads]");
 if (popularReadsContainer) {
   loadPopularReads(popularReadsContainer);
+}
+
+const searchPage = document.querySelector("[data-search-page]");
+if (searchPage) {
+  bindSearchPage(searchPage);
+}
+
+const randomPage = document.querySelector("[data-random-page]");
+if (randomPage) {
+  bindRandomPage(randomPage);
 }
 
 const articleTracker = document.querySelector("[data-track-article-view]");

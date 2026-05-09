@@ -1,113 +1,13 @@
-+++
-title = "Fragmentos de una despedida"
-slug = "fragmentos-de-una-despedida"
-date = 2008-05-11 15:07:42
-description = "[De un email, ultimos dias de junio de 2006] Juanma me cuenta en un email que Joaco está hecho un goleador. Mi viejo le regaló una pelotita que él patea con la puntería…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Aprendizajes",
-    "Cine",
-    "Familia",
-]
-
-[extra]
-legacy_id = 134
-section_slug = "blog"
-section_title = "Blog"
-summary = "[De un email, ultimos dias de junio de 2006] Juanma me cuenta en un email que Joaco está hecho un goleador. Mi viejo le regaló una pelotita que él patea con la puntería justa para romper algo y después se tira al piso…"
-visits = 2803
-popularite = 0.7045798653398301
-hero_image = ""
-hero_alt = ""
-comment_count = 6
-legacy_url = "/blog/fragmentos-de-una-despedida/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Aprendizajes", path = "/etiquetas/aprendizajes/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-
-[[extra.comments]]
-id = 6881
-anchor = "comment-6881"
-author = "Facundo"
-date = "2008-05-15 13:47:18"
-date_display = "15.05.2008"
-depth = 0
-url_site = ""
-title = "Fragmentos de una despedida"
-body = "Solo quiero transmitirte que te admiro mucho\n\n             Te quiere tu Primo Facu"
-
-[[extra.comments]]
-id = 6882
-anchor = "comment-6882"
-author = "Brújula que odia escóbulas"
-date = "2008-05-15 16:28:47"
-date_display = "15.05.2008"
-depth = 0
-url_site = ""
-title = "Fragmentos de una despedida"
-body = "Yo también..."
-
-[[extra.comments]]
-id = 6887
-anchor = "comment-6887"
-author = ""
-date = "2008-05-17 15:37:03"
-date_display = "17.05.2008"
-depth = 0
-url_site = ""
-title = "Fragmentos de una despedida"
-body = "¿¡Marcela Klosterboer muestra las tetas!? ¿Roma dijiste? Baja con fritas..."
-
-[[extra.comments]]
-id = 6888
-anchor = "comment-6888"
-author = "Mr. X"
-date = "2008-05-17 15:38:08"
-date_display = "17.05.2008"
-depth = 0
-url_site = "http://deliriosemocionales.com.ar/"
-title = "Fragmentos de una despedida"
-body = "El anónimo soy yo. Perdón, me distraje pensando en cómo serán las tetas de Marcela Klosterboer."
-
-[[extra.comments]]
-id = 6889
-anchor = "comment-6889"
-author = "tin"
-date = "2008-05-18 21:18:49"
-date_display = "18.05.2008"
-depth = 0
-url_site = ""
-title = "Fragmentos de una despedida"
-body = "Mr X, ud es un tetista insaciable. Y lo digo mientras minimizo este ventana de navegador para ver la foto de su novia que tengo como fondo de pantalla. \n\nPor otro lado, sobre lo de Klosterboer me parece que mandé fruta, o como se dice disfrazado de eufemismo: *una licencia poética*. Aunque no me acuerdo la posta, pienso que aunque tenga 18 corpiños, 4 polars y tres camperas de nieve encima, las tetas de klosterboer (y por extension la pelicula) valen la pena. \n\nsaludos, y gracias por sus mensajitos."
-
-[[extra.comments]]
-id = 6890
-anchor = "comment-6890"
-author = "Mr. X"
-date = "2008-05-18 21:41:57"
-date_display = "18.05.2008"
-depth = 0
-url_site = "http://deliriosemocionales.com.ar/"
-title = "Fragmentos de una despedida"
-body = ":D (¿Así que hay mínimo de diez caracteres, maldito fascista?)"
-+++
-
+---
+title: Fragmentos de una despedida
+slug: fragmentos-de-una-despedida
+date: 2008-05-11 15:07:42
+tags: Aprendizajes, Cine, Familia
+author: Martín Gaitán
+---
 *[De un email, últimos días de junio de 2006]*
+
+<!-- TEASER_END -->
 
 Juanma me cuenta en un email que Joaco está hecho un goleador. Mi viejo le regaló una pelotita que él patea con la puntería justa para romper algo y después se tira al piso festejando su gol. Su ooool!!!. Dice que también canta, o algo parecido, todas las publicidades del mundial. Eso sí: hablar, ni en pedo. 
 
@@ -133,4 +33,3 @@ Dejo acá, porque tengo que ir a dormir. Mañana tengo clases temprano, y ya no 
 
 Te quiero mucho y necesito que te cuides.
 Martin
-

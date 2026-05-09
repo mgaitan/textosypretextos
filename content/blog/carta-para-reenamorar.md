@@ -1,49 +1,16 @@
-+++
-title = "Carta para reenamorar"
-slug = "carta-para-reenamorar"
-date = 2012-02-03 21:52:00
-description = "Le vengo dando vueltas desde las dos, cuando terminé de ver la peli que no debía ver. Blue Valentine, se llama. Ya sabía de qué trataba y debí suponer que no era el…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Amor",
-    "Música",
-]
-
-[extra]
-legacy_id = 402
-section_slug = "blog"
-section_title = "Blog"
-summary = "Le vengo dando vueltas desde las dos, cuando terminé de ver la peli que no debía ver. Blue Valentine, se llama. Ya sabía de qué trataba y debí suponer que no era el mejor plan, pero, qué cojones, se trata de…"
-visits = 6649
-popularite = 0.9075609525474289
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/carta-para-reenamorar/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-comments = []
-+++
-
+---
+title: Carta para reenamorar
+slug: carta-para-reenamorar
+date: 2012-02-03 21:52:00
+tags: Amor, Música
+author: Martín Gaitán
+---
 Le vengo dando vueltas desde las dos, cuando terminé de ver la peli
 que no debía ver. *Blue Valentine*, se llama. Ya sabía de qué trataba y
 debí suponer que no era el mejor plan, pero, qué cojones, se trata de
 "aventurarse" (como dijo aquella viajera chilena). Bella y cruda. Con final feliz hubiera sido lo que necesitaba.
+
+<!-- TEASER_END -->
 
 Si en vez de creer que esta carta debe ser algo trascendente y
 simplemente te escribo, o simplemente escribo, quizá me sería más fácil. Si no hubiera mezclado las flores de Wally (añejadas, mejores que las de
@@ -85,6 +52,6 @@ menos no mucho: que te guste la poesía. Me doy cuenta que a mi me
 solían gustar y dejé de leerlas. Sé las mismas poesías que sabía a los
 dieciocho. Pero ahora tienen mucho más sentido, como la de Juan que ya estaba en el blog, pero [la puse de nuevo](@/de-otros/ausencia-de-amor.md). Ando de loco por el aire que ando que no ando. Seré lo que debiera. Tu pie. Tu mano. Tuyo.
 
-{% postscript() %}
+{{% postscript %}}
 Córdoba, 6 de noviembre de 2011
-{% end %}
+{{% /postscript %}}

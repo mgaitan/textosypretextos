@@ -1,41 +1,12 @@
-+++
-title = "Game called life"
-slug = "game-called-life"
-date = 2012-06-18 01:59:33
-description = ""
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Videos",
-]
-tags = []
-
-[extra]
-video_id = "ZDHofTEYeoQ"
-legacy_id = 418
-section_slug = "videos"
-section_title = "Videos"
-summary = "It's so hard to turn your life over Step out of your comfort zone It's so hard to choose one direction When your future is unknown Is this some kind of a joke, will someone wake me up soon? And tell me this was just a…"
-visits = 74125
-popularite = 0.7536101115161138
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/game-called-life/"
-surtitle = ""
-subtitle = "Leftover Cuties"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
-+++
-
-{{ video_embed(provider="youtube", id="ZDHofTEYeoQ") }}
+---
+title: Game called life
+slug: game-called-life
+date: 2012-06-18 01:59:33
+author: Martín Gaitán
+video_id: ZDHofTEYeoQ
+subtitle: Leftover Cuties
+---
+{{% video_embed provider="youtube" id="ZDHofTEYeoQ" %}}
 
 <div class="poetry">It's so hard to turn your life over<br>
 Step out of your comfort zone<br>
@@ -62,6 +33,8 @@ And tell me this was just a game we played, called life.<br>
 <br>
 Is this some kind of a joke, will someone wake me up soon?<br>
 And tell me this was just a game we played, called life.</div>
+
+<!-- TEASER_END -->
 
 Mi humilde traducción
 

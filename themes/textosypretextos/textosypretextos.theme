@@ -1,0 +1,5 @@
+[Theme]
+engine = jinja
+parent = base-jinja
+author = Martín Gaitán
+license = MIT

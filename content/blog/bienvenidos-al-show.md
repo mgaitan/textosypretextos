@@ -1,51 +1,16 @@
-+++
-title = "Bienvenidos al show"
-slug = "bienvenidos-al-show"
-date = 2005-07-02 13:50:27
-description = "Bienvenidos al show de este grupo de fulanos cuestionando en italiano por faltarnos religión. Bienvenidos al camino más errado del destino y de alguna salvación…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Yo lo vide",
-    "Música",
-    "Córdoba",
-]
-
-[extra]
-legacy_id = 44
-section_slug = "blog"
-section_title = "Blog"
-summary = "Bienvenidos al show de este grupo de fulanos cuestionando en italiano por faltarnos religión. Bienvenidos al camino más errado del destino y de alguna salvación... Ma'PerQué , una banda de fulanos, está sonando mucho y…"
-visits = 68441
-popularite = 0.9564480977815136
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/bienvenidos-al-show/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-comments = []
-+++
-
-{{% epigrafe() %}}
+---
+title: Bienvenidos al show
+slug: bienvenidos-al-show
+date: 2005-07-02 13:50:27
+tags: Yo lo vide, Música, Córdoba
+author: Martín Gaitán
+---
+{{{% epigrafe %}}}
 Bienvenidos al show
 
 de este grupo de fulanos
+
+<!-- TEASER_END -->
 
 cuestionando en italiano 
 
@@ -56,7 +21,7 @@ Bienvenidos al camino
 más errado del destino
 
 y de alguna salvación...
-{{% end %}}
+{{{% /epigrafe %}}}
 
 **Ma'PerQué**, una banda de fulanos, está sonando mucho y bien por lo bares de Córdoba. Otro fulano, nuestro entrevistador, los escuchó una noche y e inmediatamente les echó la culpa de haberse enamorado de la ciudad y su cultura. Sabemos que nuestro entrevistador es un exagerado, pero afirma tener sus motivos. Luego los buscó durante algunas semanas, hasta que una tarde de sábado el pasto de una plaza fue testigo de esta charlita con Marcos y Exequiel, dos de los culpables. *
 
@@ -135,9 +100,8 @@ pelotudo que mi novia me mata.
 
 Bueno, el deseo es bajar todo este vuelo. Fijate,  él está laburando, yo también, y los demás igual. Por ahí decir bueno, ahora se puede. Sonará frívolo pero lo que queremos es poder dedicarnos a full a esto, porque ahora no se puede, estamos laburando 12 horas por día para poder hacer lo que nos gusta. En este momento esa es la única forma, pero yo tengo una frase filosofal que dice "despacito y con saliva, el elefante se cogió a la hormiga". 
 
+{{% video_embed provider="youtube" id="sTbOE0L7jLo" %}}
 
-{{ video_embed(provider="youtube", id="sTbOE0L7jLo") }}
-
-{% postscript() %}
+{{% postscript %}}
 Esta entrevista la hice para la revista Wayra del Centro de Estudiantes de la Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad Nacional de Córdoba (CEICiN), proyecto que cajoneamos por unos días, pero pronto resucitará. Porque el viento nunca deja de soplar.*
-{% end %}
+{{% /postscript %}}

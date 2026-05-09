@@ -1,55 +1,10 @@
-+++
-title = "Un cuaderno en el cajón"
-slug = "un-cuaderno-en-el-cajon"
-date = 2011-12-19 08:13:00
-description = "Más de 20 años, qué lo parió. Mi blog tiene más de 20 años, sólo que lo escribía en un cuaderno tapa dura sobre un banco de la escuela 16, con letra cursiva y con más…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Amistad",
-    "Familia",
-]
-
-[extra]
-legacy_id = 412
-section_slug = "blog"
-section_title = "Blog"
-summary = "Más de 20 años, qué lo parió. Mi blog tiene más de 20 años, sólo que lo escribía en un cuaderno tapa dura sobre un banco de la escuela 16, con letra cursiva y con más frecuencia e imaginación que ahora. Estaba acá…"
-visits = 1821
-popularite = 0.9454572525210513
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/blog/un-cuaderno-en-el-cajon/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-
-[[extra.comments]]
-id = 53192
-anchor = "comment-53192"
-author = "Mirtis"
-date = "2012-07-19 12:27:56"
-date_display = "19.07.2012"
-depth = 0
-url_site = ""
-title = "Un cuaderno en el cajón"
-body = "Me encantó leer las pequeñas narraciones de este \"cuaderno\". Has de buscar bien en ese cajón, porque espero que algo más aparezca. Leyendo encontré humanidad, sencillez, la vida vista sin rebusques ni adornos supérfluos."
-+++
-
+---
+title: Un cuaderno en el cajón
+slug: un-cuaderno-en-el-cajon
+date: 2011-12-19 08:13:00
+tags: Amistad, Familia
+author: Martín Gaitán
+---
 Más de 20 años, qué lo parió. Mi blog tiene más de 20 años, sólo que
 lo escribía en un cuaderno tapa dura sobre un banco de la escuela 16,
 con letra cursiva y con más frecuencia e imaginación que ahora.
@@ -59,6 +14,8 @@ amigos que me quieren, nadé y me quemé la espalda con el sol". Aunque
 todo eso pasó, seguí pensando en vos mientras nadaba, y después
 también. En vos y en cómo estar presente sin quitarle el espacio al
 aire.
+
+<!-- TEASER_END -->
 
 También, pensaba para mi adentro -- porque se puede pensar para
 afuera, claro --,  en cuánto bien me hace que me llames o me escribas
@@ -189,4 +146,3 @@ El día del cumpleaños Serafín estaba triste porque tenia todo menos
 amigos y cuando llegó el momento de regalarle la pelota dijo "hola
 nueva amiga". Serafín le puso el nombre "Cloti" y con Cloti y con ella
 jugaba, saltaba y hasta la abrazaba. Cloti fue una pelota histórica.
-

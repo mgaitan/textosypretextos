@@ -1,40 +1,13 @@
-+++
-title = "Hacer algo"
-slug = "hacer-algo"
-date = 2009-01-09 11:11:49
-description = "Escribo en una habitación desde la que se ve el mar y la montaña. La mujer que amo duerme bajo dos mantas sobre la cama; giro y la observo largos ratos. Del otro lado…"
-draft = true
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = []
-
-[extra]
-legacy_id = 266
-section_slug = "blog"
-section_title = "Blog"
-summary = "Escribo en una habitación desde la que se ve el mar y la montaña. La mujer que amo duerme bajo dos mantas sobre la cama; giro y la observo largos ratos. Del otro lado de la pared, alguien toca el piano. Alguien bautizó…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/hacer-algo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
-+++
-
+---
+title: Hacer algo
+slug: hacer-algo
+date: 2009-01-09 11:11:49
+draft: true
+author: Martín Gaitán
+---
 Escribo en una habitación desde la que se ve el mar y la montaña. La mujer que amo duerme bajo dos mantas sobre la cama; giro y la observo largos ratos. Del otro lado de la pared, alguien toca el piano. Alguien bautizó a este lugar Tierra del Fuego. Pero la Tierra del Fuego hoy es otra. 
+
+<!-- TEASER_END -->
 
 Contrastando esta paz, dos bolas de angustia atraviesan mi garganta. Masacre. La indignidad del ser humano. El odio, la mentira, la manipulación y la imbecilidad de la venganza gozan de buena salud en este mundo, e Israel está dando el ejemplo más contundente con sangre palestina. 
 

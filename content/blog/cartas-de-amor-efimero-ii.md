@@ -1,102 +1,14 @@
-+++
-title = "Cartas de amor efímero II"
-slug = "cartas-de-amor-efimero-ii"
-date = 2008-04-22 23:09:32
-description = "Bella Ailín: Vengo ideando este email desde hace unos dias, recordándome que tengo que escribirte y mandarte las fotos, y ahora que tengo el coraje y las ganas me doy…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Viajero",
-    "Amor",
-    "Amistad",
-]
-
-[extra]
-legacy_id = 115
-section_slug = "blog"
-section_title = "Blog"
-summary = "Bella Ailín: Vengo ideando este email desde hace unos dias, recordándome que tengo que escribirte y mandarte las fotos, y ahora que tengo el coraje y las ganas me doy cuenta que no tengo las ideas. Qué problema. ¿Por…"
-visits = 2030
-popularite = 0.421643426099817
-hero_image = "/media/jpg/lasgrutas07_0001-208.jpg"
-hero_alt = "lasgrutas07_0001-208.jpg"
-comment_count = 5
-legacy_url = "/blog/cartas-de-amor-efimero-ii/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Viajero", path = "/etiquetas/viajero/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 6864
-anchor = "comment-6864"
-author = ""
-date = "2008-04-26 17:12:03"
-date_display = "26.04.2008"
-depth = 0
-url_site = ""
-title = "Cartas de amor efímero II"
-body = "Porfavor!! la foto de Ailin!! que ya me enamore yo!! jajaj muy bueno tincho!!\n\nabrazo nico (penna)"
-
-[[extra.comments]]
-id = 6866
-anchor = "comment-6866"
-author = "Laura"
-date = "2008-04-28 10:44:58"
-date_display = "28.04.2008"
-depth = 0
-url_site = "http://www.bocetosdeunviaje.blogspot.com"
-title = "Cartas de amor efímero II"
-body = "Quizás... sea ese dejo \"joaquinesco\" lo que me agrada... jaja... \nTe respondí en mi blog, pero luego pensé que no hay seguridad de que vuelvas por el casillero de comentarios... en fin, txt y pretxts, es un nuevo sitio para regresar pronto... saludos!\nLuly"
-
-[[extra.comments]]
-id = 6892
-anchor = "comment-6892"
-author = "vlad"
-date = "2008-05-20 08:28:43"
-date_display = "20.05.2008"
-depth = 0
-url_site = "http://kolgados.com.ar/vlad/"
-title = "Cartas de amor efímero II"
-body = "Tincho, como siempre o casi siempre simplemente fantabulosico, y no, no publiques una foto, asi cada cual puede pintar la cara que mas le agrade."
-
-[[extra.comments]]
-id = 6899
-anchor = "comment-6899"
-author = "lu"
-date = "2008-05-29 12:00:23"
-date_display = "29.05.2008"
-depth = 0
-url_site = ""
-title = "Cartas de amor efímero II"
-body = "Coincido, no coloques fotos. Muy bueno Tincho. Me encanta leerte(aunque no siempre comente),  es algo lindo para el alma y la mente (tan abarrotada de fórmulas), ya que por un instante uno se traslada a otras latitudes o simplemente juntos con tus recuerdos recuerda muchas otras cosas que a uno le han pasado.\nUn beso, seguí escribiendo, por fa."
-
-[[extra.comments]]
-id = 7796
-anchor = "comment-7796"
-author = "Beto RoOtS"
-date = "2009-11-02 09:10:04"
-date_display = "02.11.2009"
-depth = 0
-url_site = ""
-title = "Cartas de amor efímero II"
-body = "Che, sabes que tambien es lo flashero... que posteaste esto justo dos dias antes del cumpleaños de ailin... yo la conozco fui su primer novio, y la verdad que tu historia me gusto mucho, es una gran persona ailin, creo que esta conviviendo hace rato con el novio, cada tanto me la cruzo por el barrio y charlamos, es una pena que haya sido un \"amor de verano\". \nSegui con tu blog, te invito a bajar música del mio\nwww.elclubdelosmagios.wordpress.com\nAbrazo bredda\nPD: Entre porque vi tu publicación en su face... taaaaaaantas casualidades juntas te pueden llegar a hacer mal jejejeje."
-+++
-
+---
+title: Cartas de amor efímero II
+slug: cartas-de-amor-efimero-ii
+date: 2008-04-22 23:09:32
+tags: Viajero, Amor, Amistad
+author: Martín Gaitán
+hero_image: /media/jpg/lasgrutas07_0001-208.jpg
+---
 Bella Ailín:
+
+<!-- TEASER_END -->
 
 Vengo ideando este email desde hace unos días, recordándome que tengo que escribirte y mandarte las fotos, y ahora que tengo el coraje y las ganas me doy cuenta que no tengo las ideas. Qué problema.
 
@@ -159,9 +71,8 @@ Hasta que eso pase,  que estas palabras acompañen la espera.
 Besos en tu dulce boca.
 Martín.
 
-{{ media_image(src="/media/jpg/lasgrutas07_0001-208.jpg", alt="", caption="", align="center") }}
+{{% media_image src="/media/jpg/lasgrutas07_0001-208.jpg" alt="" caption="" align="center" %}}
 
-{% postscript() %}
+{{% postscript %}}
 Completan la trilogía [Cartas de amor efímero I](@/blog/cartas-de-amor-efimero-i.md) y [Cartas de amor efímero III](@/blog/cartas-de-amor-efimero-iii.md).
-{% end %}
-
+{{% /postscript %}}

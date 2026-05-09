@@ -1,93 +1,13 @@
-+++
-title = "El gol no está hecho"
-slug = "el-gol-no-esta-hecho"
-date = 2006-12-18 04:55:37
-description = "Yo tenia diez años y Senillosa, el pueblo donde jugábamos, un viento de 60Km por hora. Era un partido interzonal de la categoría 82-83 y, por alguna extraña razón…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Aprendizajes",
-    "Anécdotas",
-    "Amor",
-    "Política",
-]
-
-[extra]
-legacy_id = 84
-section_slug = "blog"
-section_title = "Blog"
-summary = "Yo tenia diez años y Senillosa, el pueblo donde jugábamos, un viento de 60Km por hora. Era un partido interzonal de la categoría 82-83 y, por alguna extraña razón, probablemente porque el técnico se había tomado la…"
-visits = 1730
-popularite = 0.9111482905284087
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/el-gol-no-esta-hecho/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Aprendizajes", path = "/etiquetas/aprendizajes/" },
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-]
-
-[[extra.comments]]
-id = 6858
-anchor = "comment-6858"
-author = "Matías"
-date = "2008-04-21 12:15:59"
-date_display = "21.04.2008"
-depth = 0
-url_site = "http://crpdm.com.ar"
-title = "El gol no está hecho"
-body = "Muy bueno, me gustó... lástima el recuerdo del final de ese campeonato, je. No hay que gritarlo antes de tiempo.\nUn abrazo!"
-
-[[extra.comments]]
-id = 6968
-anchor = "comment-6968"
-author = "Juan Vidal"
-date = "2008-07-18 16:11:43"
-date_display = "18.07.2008"
-depth = 0
-url_site = ""
-title = "El gol no está hecho"
-body = "excelente che. muy sorianesco"
-
-[[extra.comments]]
-id = 6992
-anchor = "comment-6992"
-author = "tavo"
-date = "2008-08-14 06:17:15"
-date_display = "14.08.2008"
-depth = 0
-url_site = ""
-title = "El gol no está hecho"
-body = "je, me cagué de risa...\n\n\"Menos el arquero contrario, que envuelto en una bufanda llena de tierra era una versión viva de Ramsés II, los otros 21 jugadores mirábamos todos para el mismo arco\"\n\nlo único que no me gustó fue que por el final el cuento quedó asociado a un hecho particular, perdiendo su atemporalidad... (quizás también porque soy de central y no me importó para nada ese descenlace del torneo)\n\nsaludos che,\n\nmuy bueno el blog!\n\npd: igual me parece que Boca (y generalmente la mayoria de los bosteros) siempre festeja por adelantando, supongo que por costumbre y exceso de confianza"
-
-[[extra.comments]]
-id = 53090
-anchor = "comment-53090"
-author = "Luis Romano"
-date = "2012-06-17 23:19:24"
-date_display = "17.06.2012"
-depth = 0
-url_site = ""
-title = "El gol no está hecho"
-body = "Recuerdo ese campeonato. Por esas épocas yo profesaba, además de mi pasión perra por Belgrano, una leve simpatía por Boca. Pero los bosteros vinieron al entonces Chateau Carreras creyendo que daban la vuelta en Córdoba. \nEsa actitud me resultó suficiente para romper cualquier lazo afectivo con el club de la ribera. Grité como nunca aquel gol de Peppino.\n\nY, valga la cuasi-redundancia, se comieron un buen Pepino."
-+++
-
+---
+title: El gol no está hecho
+slug: el-gol-no-esta-hecho
+date: 2006-12-18 04:55:37
+tags: Aprendizajes, Anécdotas, Amor, Política
+author: Martín Gaitán
+---
 Yo tenia diez años y Senillosa, el pueblo donde jugábamos, un viento de 60Km por hora. Era un partido interzonal de la categoría 82-83 y, por alguna extraña razón, probablemente porque el técnico se había tomado la primera "Cherry Coca" del mercado, yo jugaba de 9 titular.
+
+<!-- TEASER_END -->
 
 Como el viento atravesaba la cancha longitudinalmente las tácticas de los equipos eran bien sencillas. En el tiempo que era a favor había que patear hacia el lateral opuesto, intentando conservar la pelota dentro de la franja que describían los arcos. Cuando el viento era de frente, exactamente lo contrario.
 
@@ -124,4 +44,3 @@ Cuando volvíamos, desahuciados, mas derrotados que Bush en las próximas elecci
 El miércoles pasado me acordé de Baeza y de sus palabras. Contra Estudiantes y desde dos partidos antes, a Boca le paso como a mí, aquella tarde de viento neuquino. Un remolino extraño lo dejó sólo frente a la gloria y gritó tricampeón antes de empujarla al arco. Todos gritamos, sobre todo los que estábamos detrás de la red.
 
 Que Estudiantes es justo campeón, no hay muchas dudas. Pero la pasión de un hincha no entiende de justicias y este torneo que se nos fue deja un sabor desagradable, como si fuera el último sorbo de Cherry Coca.
-

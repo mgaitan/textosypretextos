@@ -1,44 +1,14 @@
-+++
-title = "Asalto al Palacio Nacional"
-slug = "asalto-al-palacio-nacional"
-date = 2009-10-07 21:19:44
-description = "El plan parecía una locura demasiado simple. Se trataba de tomar el Palacio Nacional de Managua a pleno día, con solo veinticinco hombres, mantener en rehenes a los…"
-draft = false
-template = "article.html"
-authors = [
-    "Gabriel García Marquez",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Política",
-    "Memoria",
-]
+---
+title: Asalto al Palacio Nacional
+slug: asalto-al-palacio-nacional
+date: 2009-10-07 21:19:44
+tags: Política, Memoria
+author: Gabriel García Marquez
+subtitle: Gabriel García Marquez
+---
+El plan parecía una locura demasiado simple. Se trataba de tomar el Palacio Nacional de Managua a pleno día, con solo veinticinco hombres, mantener en rehenes a los miembros de la Cámara de Diputados y obtener como rescate la liberación de todos los presos políticos. El Palacio Nacional, un viejo y desabrido edificio de dos pisos con ínfulas monumentales, ocupa una manzana entera con numerosas ventanas en sus costados y una fachada con columnas de partenón bananero hacia la desolada Plaza de la República. Además del Senado en el primer piso y la Cámara de Diputados en el segundo, allí funcionan el Ministerio de Hacienda, el Ministerio de Gobernación y la Dirección General de Ingresos, de modo que es el más público y populoso de todos los edificios públicos de Managua. Por eso hay siempre un policía con armas largas en cada puerta, dos más en las escaleras del segundo piso, y numerosos pistoleros de ministros y parlamentarios por todas partes. En horas hábiles, entre empleados y público, hay en los sótanos, las oficinas y los corredores no menos de tres mil personas. Sin embargo, la dirección del Frente Sandinista de Liberación Nacional (FSLN) no consideró que el asalto de aquel mercado burocrático fuera una locura demasiado simple, sino todo lo contrario: un disparate magistral.
 
-[extra]
-legacy_id = 333
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "El plan parecía una locura demasiado simple. Se trataba de tomar el Palacio Nacional de Managua a pleno día, con solo veinticinco hombres, mantener en rehenes a los miembros de la Cámara de Diputados y obtener como…"
-visits = 1005
-popularite = 0.9105340946762814
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/asalto-al-palacio-nacional/"
-surtitle = ""
-subtitle = "Gabriel García Marquez"
-deck = "El plan parecía una locura demasiado simple. Se trataba de tomar el Palacio Nacional de Managua a pleno día, con solo veinticinco hombres, mantener en rehenes a los miembros de la Cámara de Diputados y obtener como rescate la liberación de todos los presos políticos. El Palacio Nacional, un viejo y desabrido edificio de dos pisos con ínfulas monumentales, ocupa una manzana entera con numerosas ventanas en sus costados y una fachada con columnas de partenón bananero hacia la desolada Plaza de la República. Además del Senado en el primer piso y la Cámara de Diputados en el segundo, allí funcionan el Ministerio de Hacienda, el Ministerio de Gobernación y la Dirección General de Ingresos, de modo que es el más público y populoso de todos los edificios públicos de Managua. Por eso hay siempre un policía con armas largas en cada puerta, dos más en las escaleras del segundo piso, y numerosos pistoleros de ministros y parlamentarios por todas partes. En horas hábiles, entre empleados y público, hay en los sótanos, las oficinas y los corredores no menos de tres mil personas. Sin embargo, la dirección del Frente Sandinista de Liberación Nacional (FSLN) no consideró que el asalto de aquel mercado burocrático fuera una locura demasiado simple, sino todo lo contrario: un disparate magistral."
-author_links = [
-    { name = "Gabriel García Marquez", path = "/autores/gabriel-garcia-marquez/" },
-]
-tag_links = [
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
-+++
+<!-- TEASER_END -->
 
 <intro></intro>
 

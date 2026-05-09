@@ -1,71 +1,15 @@
-+++
-title = "La otra dictadura"
-slug = "la-otra-dictadura"
-date = 2004-12-06 00:54:29
-description = "Mi libro de baño predilecto de estos dias es \"INTRODUCCION A LA INFORMATICA, Versión Operacional en GNU-Octave. Año 2004\". Es un ladrillo (fotocopiado obviamente) de…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "El resto",
-    "Política",
-    "Tecnología",
-]
-
-[extra]
-legacy_id = 21
-section_slug = "blog"
-section_title = "Blog"
-summary = "Mi libro de baño predilecto de estos dias es \"INTRODUCCION A LA INFORMATICA, Versión Operacional en GNU-Octave. Año 2004\". Es un ladrillo (fotocopiado obviamente) de 300 y pico páginas, que da un montón de certezas…"
-visits = 857
-popularite = 0.906608824846876
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/la-otra-dictadura/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-
-[[extra.comments]]
-id = 965
-anchor = "comment-965"
-author = "Diego Bartó"
-date = "2005-03-16 18:16:28"
-date_display = "16.03.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Gracias, cada vez que busco algo de mi viejo me gusta saber que sigue conservando su espíritu de lucha y su coneccion comprometida con la realidad.\nAprovechalo, es muy buen profe y un tipo confianzudo y piola."
-
-[[extra.comments]]
-id = 1101
-anchor = "comment-1101"
-author = "loki"
-date = "2006-03-23 11:18:22"
-date_display = "23.03.2006"
-depth = 0
-url_site = "http://rionegro"
-title = ""
-body = "que maten los milicos"
-+++
-
+---
+title: La otra dictadura
+slug: la-otra-dictadura
+date: 2004-12-06 00:54:29
+tags: El resto, Política, Tecnología
+author: Martín Gaitán
+---
 > Si yo no ardo, si tu no ardes ¿Cómo de las tinieblas haremos claridad?
 >
 > — Nazim Hikmet
+
+<!-- TEASER_END -->
 
 Mi libro de baño predilecto de estos días es "INTRODUCCION A LA INFORMATICA, Versión Operacional en GNU-Octave. Año 2004".  Es un ladrillo (fotocopiado obviamente) de 300 y pico páginas, que da un montón de certezas para muchas cosas sobre programación que sé de oído.  El autor, Carlos Bartó, es el director del Departamento de Computación de FCEFyN de la UNC. Traducido: uno de los capos de la carrera que elegí.  
 
@@ -104,4 +48,3 @@ Bartó me escuchaba con atención, ya había acabado su pebete de jamón y queso
 _ * -- La dictadura pegó muy duro acá, se perdió mucha gente, algo que dolió y sigue doliendo. Y después vino la otra dictadura: el menemismo. En esos años se perdió todo lo poco que había de participación, y no sólo en la universidad. *
 
 Me acordé de este diálogo ayer, cuando charlaba sobre esta apatía con Laura, la Pety.  Me afirmaba que ella iba a la facultad *"a estudiar"*, y que si todos hicieran eso, este país no estaría como está. Cuando esa discusión moría con más pena que gloria, alguien comenzaba a contar sobre las cirujias estéticas que se haría si le alcanzara el dinero.
-

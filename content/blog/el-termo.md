@@ -1,46 +1,13 @@
-+++
-title = "El termo"
-slug = "el-termo"
-date = 2025-05-08 21:39:57
-description = "Me encontré un termo pequeño marca Thermos, de esos que tienen un botón que al presionarlo se abre la tapa y queda el vertedor libre. Estaba con mi viejo y dos miembros…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Familia",
-    "Cuento breve",
-]
-
-[extra]
-legacy_id = 452
-section_slug = "blog"
-section_title = "Blog"
-summary = "Me encontré un termo pequeño marca Thermos, de esos que tienen un botón que al presionarlo se abre la tapa y queda el vertedor libre. Estaba con mi viejo y dos miembros del personal de su escuela de Yoga, paseando por…"
-visits = 189
-popularite = 0.9120916540010582
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/el-termo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Cuento breve", path = "/etiquetas/cuento-breve/" },
-]
-comments = []
-+++
-
+---
+title: El termo
+slug: el-termo
+date: 2025-05-08 21:39:57
+tags: Familia, Cuento breve
+author: Martín Gaitán
+---
 Me encontré un termo pequeño marca Thermos, de esos que tienen un botón que al presionarlo se abre la tapa y queda el vertedor libre. Estaba con mi viejo y dos miembros del personal de su escuela de Yoga, paseando por Montreal. Salíamos de una iglesia enorme y lo vi bajo un banco, en el ala izquierda. No había nadie. Claramente se lo habían olvidado. Dudé entre un segundo o seis meses y finalmente lo agarré. Era negro, nuevito, hermoso. Un sticker informaba sobre sus 24 horas de conservación de temperatura.
+
+<!-- TEASER_END -->
 
 Había llevado la mochila sin evidente utilidad durante todo el día, pero en esa última parada de turismo relámpago la había dejado en el auto. Sabiendo que si Dios no había visto mi acto *in fraganti* por el circuito cerrado de la iglesia, bien podría ver la evidencia en mi mano, caminé rápido hasta integrarme al malón.
 Mis acompañantes me habían visto todo el día acarrear una botellita de 500ml descartable de agua "Pure vie" que llené no una sino dos veces, una de ellas desde el bidón que cargamos estratégicamente en el baúl antes de salir. Es decir, no había manera de justificar el cambio de recipiente salvo un milagro express de Saint Joseph.

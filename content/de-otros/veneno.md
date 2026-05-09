@@ -1,40 +1,14 @@
-+++
-title = "Veneno"
-slug = "veneno"
-date = 2012-05-08 21:04:15
-description = "Se puede decir que entré en la literatura por un ascensor. Me explico: cuando tenía quince, un vecino de mi edificio nos oyó hablar a mis amigos y a mí en un viaje en…"
-draft = true
-template = "article.html"
-authors = [
-    "Juan Forn",
-]
-categories = [
-    "De otros",
-]
-tags = []
-
-[extra]
-legacy_id = 410
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Se puede decir que entré en la literatura por un ascensor. Me explico: cuando tenía quince, un vecino de mi edificio nos oyó hablar a mis amigos y a mí en un viaje en ascensor, y nos invitó a su departamento en el…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/veneno/"
-surtitle = ""
-subtitle = "Juan Forn"
-deck = ""
-author_links = [
-    { name = "Juan Forn", path = "" },
-]
-tag_links = []
-comments = []
-+++
-
+---
+title: Veneno
+slug: veneno
+date: 2012-05-08 21:04:15
+draft: true
+author: Juan Forn
+subtitle: Juan Forn
+---
 Se puede decir que entré en la literatura por un ascensor. Me explico: cuando tenía quince, un vecino de mi edificio nos oyó hablar a mis amigos y a mí en un viaje en ascensor, y nos invitó a su departamento en el noveno piso. A partir de ese día empezó a pasarnos libros, recomendarnos películas y ponernos discos, y poco a poco, en aquel living a media luz en plena dictadura, nos hizo entrar a un mundo en el que James Dean le leía a Marilyn el Ulises de Joyce, Dylan Thomas volvía de su última curda al Chelsea Hotel, Coltrane intentaba llegar con su saxo hasta donde Charlie Parker había comenzado su caída libre, Fitzgerald aconsejaba con su último aliento a Faulkner que huyera de Hollywood, Pollock tiraba pintura como napalm en toda tela que le pusieran delante, Sylvia Plath despertaba de su primer electroshock y Burroughs le daba un balazo en la frente a su esposa jugando a Guillermo Tell en una pensión mexicana. Creo que ahí empecé a entender la literatura desde adentro, aunque me di cuenta mucho después. Esa matriz me quedó para toda la vida. He tratado desde entonces de llenarla de otras cosas, de diluirla en mí, mudar de piel, dejarla atrás. Pocas cosas me decepcionan como la literatura y el cine y la música yanqui de Reagan para acá. Pero igual tengo esa matriz en el adn, y me delato cada tanto: la exposición muy temprana al American Way deja una impronta que se les nota para siempre a sus víctimas.
+
+<!-- TEASER_END -->
 
 Déjenme ahora ir un poco más atrás en el tiempo. Mi padre acababa de casarse con mi madre, o quizá fue antes. El ya trabajaba como ingeniero en la empresa de caminos de mi abuelo: en realidad había querido ser dibujante, pero su padre lo necesitaba ingeniero como él (mi padre era el primogénito), así que mi padre fue lo que dijo su padre. Viene entonces Walt Disney a la Argentina. Sin decirle nada a nadie, mi padre deja en el hotel donde se aloja la comitiva una carpeta con dibujos suyos: no había un solo diseño propio, eran simplemente acetatos perfectos de las epónimas figuras de Disney. Pero todo en ellas era increíble: el color, el trazo, la continuidad. Y no Made in USA sino Made in casa por él solito, en sus ratos libres. La gente de Disney le ofreció trabajo bien pago en su factoría de Los Angeles. Mi padre lo mencionó en la mesa familiar esa noche. No hizo falta que mi abuelo levantara su voz de trueno contra él. Mi abuela, que no era de interrumpirlo nunca, se le adelantó. Mi abuela había nacido en Inglaterra. Era, y se creía, criolla de pura cepa, no había vuelto a Inglaterra más que unas pocas veces de paseo, pero hasta el día de su muerte conservó su pasaporte inglés, como un secreto certificado de pedigree, como un recuerdo de otra vida.
 
@@ -44,6 +18,6 @@ Mientras tanto yo crecí y llegó mi adolescencia, mi rebelión, empecé a pract
 
 Cuando ese tipo ya llevaba tiempo largo bajo tierra, y mis amigos de entonces habían devenido uno financista y el otro estanciero, y llevábamos treinta años sin vernos, yo me reencontré con ella. Nos cruzamos acá en Gesell, ella había venido por unos días. Tiene el pelo gris y la cara hermosamente arrugada y es una especie de pachamama, de monja zen, que habla poco pero te la pone con lo poco que dice. Por ella supe que su padre era de la CIA. Nada especial: un perejil, nomás. Técnicamente hablando pertenecía al UCIS, el departamento de extensión cultural que, en cada embajada americana del mundo, solía ser la tapadera de la CIA. No pudo o no quiso averiguar mucho más, y no le era grato contármelo, pero me lo debía, por amargo que fuese. Con esa misma calma sobrenatural me dijo, un rato después, que sabía por qué yo no había ido a rescatarla de aquel colegio pupilo de Córdoba. Citó textuales unas palabras que su padre repetía siempre, y yo bajé la cabeza y no pude mirarla cuando ella dijo: "En el oficio de escribir se aprende rápido que, más útil que tener una musa, es haberla perdido". Porque en lo más íntimo sé que empecé a ser eso que se llama escritor en aquel momento exactamente, cuando no la fui a buscar.
 
-{% postscript() %}
+{{% postscript %}}
 Publicado en Página/12 , el 20 de abril de 2012
-{% end %}
+{{% /postscript %}}

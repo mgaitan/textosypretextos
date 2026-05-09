@@ -1,0 +1,26 @@
+{% extends "base.tmpl" %}
+{% from "macros.tmpl" import story_card with context %}
+
+{% block title %}{{ name }} · {{ blog_title }}{% endblock %}
+{% block og_url %}{{ abs_link(permalink) }}{% endblock %}
+{% block og_title %}{{ name }} · {{ blog_title }}{% endblock %}
+{% block twitter_title %}{{ name }} · {{ blog_title }}{% endblock %}
+
+{% block content %}
+  <main class="pt-8">
+    <section class="author-header editorial-rule">
+      <span class="section-ribbon">Autor/a</span>
+      <div class="author-header-grid mt-5">
+        <div class="min-w-0">
+          <h1 class="story-title">{{ name }}</h1>
+        </div>
+      </div>
+    </section>
+
+    <section class="listing mt-10">
+      {% for post in posts %}
+        {{ story_card(post, variant="list") }}
+      {% endfor %}
+    </section>
+  </main>
+{% endblock %}

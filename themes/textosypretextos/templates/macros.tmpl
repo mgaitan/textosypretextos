@@ -1,0 +1,116 @@
+{#
+  macros.tmpl – portado desde templates/partials/macros.html (Tera → Jinja2)
+
+  Cambios principales respecto a Zola:
+  - `page.*`              → `post.*`  (API de Nikola)
+  - `page.extra.X`        → `post.meta('X') or ''`
+  - tag_links / author_links → post.tags / post.authors  (automáticos en Nikola)
+  - page.date | date(...)  → post.date.strftime(...)
+  - linked_pages(paths)    → no disponible en Nikola sin plugin;
+                             se documenta en NIKOLA.md como limitación pendiente.
+#}
+
+{% macro story_card(post, variant="default") %}
+  {% set is_feature   = variant == "feature" %}
+  {% set is_compact   = variant == "compact" %}
+  {% set is_list      = variant == "list" %}
+  {% set is_home_list = variant == "home-list" %}
+
+  {# Calcular kicker: primera tag como subcategoría en blog/de-otros #}
+  {% set section_slug  = post_section_slug(post) %}
+  {% set section_title = section_titles.get(section_slug, section_slug) %}
+  {% set tags = post_tags(post) %}
+  {% set authors = post_authors(post) %}
+  {% set use_subcat = section_slug in ["blog", "de-otros"] and tags %}
+
+  {% if use_subcat %}
+    {% set kicker_text = tags[0] %}
+    {% if section_slug == "blog" %}
+      {% set kicker_link = "/blog/subsecciones/" ~ tags[0] | lower | replace(" ", "-") ~ "/" %}
+    {% else %}
+      {% set kicker_link = taxonomy_url("etiquetas", tags[0]) %}
+    {% endif %}
+  {% else %}
+    {% set kicker_text = section_title %}
+    {% set kicker_link = "/" ~ section_slug ~ "/" %}
+  {% endif %}
+
+  {% set hide_in_listing = (post.meta('hide_hero_in_listing') or False) and (is_list or is_home_list) %}
+  {% set hero_image      = post.meta('hero_image') or '' %}
+  {% set show_hero       = hero_image and not hide_in_listing %}
+  {% set video_id        = post.meta('video_id') or '' %}
+
+  <article class="{% if is_list %}listing-card{% elif is_home_list %}home-listing-card{% elif is_compact %}feed-item{% else %}grid gap-5{% endif %}{% if not show_hero %} no-media{% endif %}">
+    {% if show_hero %}
+      <a href="{{ post.permalink() }}" class="media-frame {% if section_slug == 'videos' %}video{% endif %} reveal {% if is_feature %}aspect-[16/10]{% elif is_list or is_home_list %}aspect-[4/3]{% else %}aspect-[16/9]{% endif %}">
+        <img src="{{ hero_image }}" alt="{{ post.meta('hero_alt') or post.title() }}">
+      </a>
+    {% elif section_slug == "videos" and video_id %}
+      <a href="{{ post.permalink() }}" class="media-frame video reveal aspect-[16/9]">
+        <img src="https://img.youtube.com/vi/{{ video_id }}/hqdefault.jpg"
+             alt="{{ post.title() }}" loading="lazy">
+      </a>
+    {% elif section_slug == "videos" %}
+      <a href="{{ post.permalink() }}" class="media-frame video reveal flex items-center justify-center text-white">
+        <span class="section-ribbon">Video</span>
+      </a>
+    {% endif %}
+
+    <div class="reveal">
+      {% if not is_compact %}
+        <p class="story-kicker">
+          {% if kicker_link %}<a href="{{ kicker_link }}">{{ kicker_text }}</a>{% else %}{{ kicker_text }}{% endif %}
+        </p>
+      {% endif %}
+
+      <h2 class="{% if is_feature %}story-title{% elif is_compact %}story-title-xs{% else %}story-title-sm{% endif %}">
+        <a href="{{ post.permalink() }}">{{ post.title() }}</a>
+      </h2>
+
+      {% set subtitle = post.meta('subtitle') or '' %}
+      {% if subtitle %}
+        <p class="mt-2 text-base text-neutral-600">
+          {%- set first_author = authors[0] if authors else '' -%}
+          {%- if first_author and first_author == subtitle -%}
+            <a href="{{ taxonomy_url('autores', first_author) }}" class="meta-link">{{ subtitle }}</a>
+          {%- else -%}
+            {{ subtitle }}
+          {%- endif -%}
+        </p>
+      {% endif %}
+
+      {# Teaser: en Nikola se obtiene con post.text(teaser_only=True) #}
+      {# Reemplaza el campo `summary` del frontmatter de Zola. #}
+      {% if not is_compact %}
+        {% set teaser = post.text(teaser_only=True) | striptags | truncate(200) %}
+        {% if teaser %}
+          <p class="story-deck {% if is_home_list %}text-base leading-7 home-listing-summary{% endif %}">{{ teaser }}</p>
+        {% endif %}
+      {% endif %}
+
+      <div class="meta-row">
+        <span>{{ post.date.strftime('%d.%m.%Y') }}</span>
+        {% if authors %}
+          <span>
+            {% for author in authors %}
+              <a href="{{ taxonomy_url('autores', author) }}" class="meta-link">{{ author }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          </span>
+        {% endif %}
+      </div>
+
+      {% if tags and not is_compact and not is_home_list %}
+        {% set tag_start = 1 if use_subcat else 0 %}
+        {% if tags | length > tag_start %}
+          <div class="mt-4 flex flex-wrap gap-2">
+            {% for tag in tags %}
+              {% if loop.index0 >= tag_start %}
+                <a href="{{ taxonomy_url('etiquetas', tag) }}" class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag }}</a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+      {% endif %}
+    </div>
+  </article>
+{% endmacro %}

@@ -1,65 +1,18 @@
-+++
-title = "Reserva Orsai #3 en Córdoba"
-slug = "reserva-orsai-3-en-cordoba"
-date = 2011-06-10 18:40:12
-description = "Amigas, amigos, A través de esta página podrán reservar sus ejemplares de la Revista Orsai Nº 3 y/o del libro Cuadernos Secretos de Horacio Altuna, en la ciudad de…"
-draft = true
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Fotos",
-]
-tags = []
-
-[extra]
-legacy_id = 373
-section_slug = "fotos"
-section_title = "Fotos"
-summary = "Amigas, amigos, A través de esta página podrán reservar sus ejemplares de la Revista Orsai Nº 3 y/o del libro Cuadernos Secretos de Horacio Altuna, en la ciudad de Córdoba y alrededores. Atención - Las reservas a…"
-visits = 663
-popularite = 0.8971441054873419
-hero_image = "/media/jpg/orsai3.jpg"
-hero_alt = "orsai3.jpg"
-comment_count = 2
-legacy_url = "/fotos/reserva-orsai-3-en-cordoba/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-
-[[extra.comments]]
-id = 50935
-anchor = "comment-50935"
-author = "waldo"
-date = "2011-06-19 11:19:07"
-date_display = "19.06.2011"
-depth = 0
-url_site = ""
-title = "Reserva Orsai #3 en Córdoba"
-body = "No es que el descuento vale independientemente del tipo de libro que venga adentro?"
-
-[[extra.comments]]
-id = 51390
-anchor = "comment-51390"
-author = "Virginia"
-date = "2011-07-28 08:44:31"
-date_display = "28.07.2011"
-depth = 0
-url_site = "http://ohlalahostel.com.ar"
-title = "Reserva Orsai #3 en Córdoba"
-body = "Hola Martín, quería saber si juntaste más compradores para un nuevo pack de la orsai 3???\nGracias\nVirginia"
-+++
-
+---
+title: 'Reserva Orsai #3 en Córdoba'
+slug: reserva-orsai-3-en-cordoba
+date: 2011-06-10 18:40:12
+draft: true
+author: Martín Gaitán
+hero_image: /media/jpg/orsai3.jpg
+---
 Amigas, amigos,
+
+<!-- TEASER_END -->
 
 A través de esta página podrán reservar sus ejemplares de la Revista [Orsai Nº 3](http://orsai.es/) y/o del libro [Cuadernos Secretos](http://orsai.bitacoras.com/2011/06/adiós-industria-editorial.php) de Horacio Altuna, en la **ciudad de Córdoba y alrededores**. 
 
-{{ media_image(src="/media/jpg/orsai3.jpg", alt="", caption="", align="center") }}
+{{% media_image src="/media/jpg/orsai3.jpg" alt="" caption="" align="center" %}}
 
 > **Atención**
 >
@@ -112,4 +65,3 @@ Por favor, sólo completá el formulario si estás interesado en comprar la revi
 Si en cambio lo que querés es hacer una consulta, dejá un [comentario](#comments) o mandame un email a gaitan@gmail.com
 
 <form1>
-

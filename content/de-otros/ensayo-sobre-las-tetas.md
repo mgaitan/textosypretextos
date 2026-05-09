@@ -1,54 +1,14 @@
-+++
-title = "Ensayo sobre las tetas"
-slug = "ensayo-sobre-las-tetas"
-date = 2009-10-30 15:45:25
-description = "Ahora que llega el calor y por toda la ciudad afloran las tetas con su vanguardia prometedora de un tiempo blando, vale quizá entregarse a esa curiosidad primaria que…"
-draft = false
-template = "article.html"
-authors = [
-    "Pedro Mairal",
-]
-categories = [
-    "De otros",
-]
-tags = [
-    "Amor",
-    "Humor",
-]
+---
+title: Ensayo sobre las tetas
+slug: ensayo-sobre-las-tetas
+date: 2009-10-30 15:45:25
+tags: Amor, Humor
+author: Pedro Mairal
+subtitle: Pedro Mairal
+---
+Ahora que llega el calor y por toda la ciudad afloran las tetas con su vanguardia prometedora de un tiempo blando, vale quizá entregarse a esa curiosidad primaria que generan las tetas en la vida de los hombres. Primero están las tetas paradigmáticas, formativas. Las tetas alarmantes del cine o la TV. Depende la edad de cada uno. Para una generación fueron las tetas de la <a href="http://www.aldeaeducativa.com/IMAGES/loren.jpg" class="thickbox" rel="tetas">Loren</a> en <em>Bocaccio 70</em>, o de <a rel="tetas" href="http://i210.photobucket.com/albums/bb165/koperpoets/AnitaEkberg15.jpg" class="thickbox">Anita Ekberg </a>en <em>La Dolce Vita</em>. Para otros habrán sido las tetas de la <a href="http://images.askmen.com/galleries/actress/maria-grazia-cucinotta/pictures/maria-grazia-cucinotta-picture-1.jpg" class="thickbox" rel="tetas">Cucinotta</a> en Il postino, o las tetas ya más estilizadas y armónicas de <a href="http://eyes1.busythumbs.com/users/a/ahemes/eyes1/images/Monica_Bellucci026.jpg" class="thickbox" rel="tetas">Mónica Bellucci </a>en <em>Malena</em>. El cine italiano siempre fue proveedor de grandes tetas mediterráneas.
 
-[extra]
-legacy_id = 343
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Ahora que llega el calor y por toda la ciudad afloran las tetas con su vanguardia prometedora de un tiempo blando, vale quizá entregarse a esa curiosidad primaria que generan las tetas en la vida de los hombres…"
-visits = 3273
-popularite = 0.98177941039578
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/de-otros/ensayo-sobre-las-tetas/"
-surtitle = ""
-subtitle = "Pedro Mairal"
-deck = "Ahora que llega el calor y por toda la ciudad afloran las tetas con su vanguardia prometedora de un tiempo blando, vale quizá entregarse a esa curiosidad primaria que generan las tetas en la vida de los hombres. Primero están las tetas paradigmáticas, formativas. Las tetas alarmantes del cine o la TV. Depende la edad de cada uno. Para una generación fueron las tetas de la <a href=\"http://www.aldeaeducativa.com/IMAGES/loren.jpg\" class=\"thickbox\" rel=\"tetas\">Loren</a> en <em>Bocaccio 70</em>, o de <a rel=\"tetas\" href=\"http://i210.photobucket.com/albums/bb165/koperpoets/AnitaEkberg15.jpg\" class=\"thickbox\">Anita Ekberg </a>en <em>La Dolce Vita</em>. Para otros habrán sido las tetas de la <a href=\"http://images.askmen.com/galleries/actress/maria-grazia-cucinotta/pictures/maria-grazia-cucinotta-picture-1.jpg\" class=\"thickbox\" rel=\"tetas\">Cucinotta</a> en Il postino, o las tetas ya más estilizadas y armónicas de <a href=\"http://eyes1.busythumbs.com/users/a/ahemes/eyes1/images/Monica_Bellucci026.jpg\" class=\"thickbox\" rel=\"tetas\">Mónica Bellucci </a>en <em>Malena</em>. El cine italiano siempre fue proveedor de grandes tetas mediterráneas."
-author_links = [
-    { name = "Pedro Mairal", path = "/autores/pedro-mairal/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-
-[[extra.comments]]
-id = 51370
-anchor = "comment-51370"
-author = "LdcfbIZVRVkx"
-date = "2011-07-25 01:06:02"
-date_display = "25.07.2011"
-depth = 0
-url_site = "http://www.bing.com/"
-title = "Ensayo sobre las tetas"
-body = "You put the lime in the couocnt and drink the article up."
-+++
+<!-- TEASER_END -->
 
 Las tetas americanas en cambio siempre quedaron en un tercer plano, detrás de las explosiones y los autos chocadores. Estados Unidos no fue ni es un buen proveedor de tetas, a excepción de las tetas de <a href="http://photos1.blogger.com/blogger/384/1391/1600/wonderwoman4.1.jpg" class="thickbox" rel="tetas">Lynda Carter </a>en <em>La Mujer Maravilla</em> que eran bastante notables, tetas atléticas, altivas, heroicas, increíblemente controladas por ese corset con estrellitas. Wonder Woman provocó en muchos las primeras inquietudes masculinas, el primer desasosiego, esa terrible sensación de falta que nos dejaba temblando ante la tele y el Nestquik, sin entender bien por qué. Pero en general, las tetas yankis suelen ser más silicónicas, como las de <a href="http://www.zoilus.com/documents/anderson-pamela.jpg" class="thickbox" rel="tetas">Pamela Anderson </a>en <em>Bay watch</em>. O, si son naturales -como en el caso de la morena totémica <a href="http://pub.tv2.no/multimedia/TV2/archive/00165/tyra_banks_ap_165877g.jpg" class="thickbox" rel="tetas">Tyra Banks</a>- ni tienen gracia ni son sexies. Tyra es tan poco sexy que en su programa invitó a un famoso cirujano plástico para probar, en vivo, que sus tetas son naturales. El cirujano se las palpó y le hizo una mamografía en directo, frente al público invitado. A Tyra, emocionada, se le entrecortó la voz explicando que hacía eso porque estaba harta de que dijeran que sus tetas no eran suyas.
 
@@ -72,7 +32,6 @@ Una regla extraña pero frecuente hace que las tetonas sean chatas de culo, y la
 
 Quizá las tetas no sean indispensables, pero dan alegría. Por suerte, las argentinas, gracias al encuentro de las sangres nativas y la inmigración mediterránea, suelen tener medidas armónicas, lo que quiere decir que están bien de todos lados. Y si nos llegara a tocar enamorarnos de una mujer sin tetas, habrá que apechugar, quererla, y echar de vez en cuando unas pispeadas nomás, disimulando. Hay que tener cuidado. Un amigo tuvo un <em>lapsus</em> que precipitó su separación. Su novia, que era muy chata y celosa, se cansó de pescarlo mirando escotes por la calle y le vaticinó: Vos un día me vas a dejar por una tetona. Y él, queriendo arreglarla le contestó: Sin vos estaría perdido, amor, sos mi tabla de salvación.
 
-{% postscript() %}
+{{% postscript %}}
 publicado en la revista <em>Brando</em>, Buenos Aires, noviembre 2006
-{% end %}
-
+{{% /postscript %}}

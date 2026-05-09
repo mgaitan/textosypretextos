@@ -1,0 +1,17 @@
+{% extends "base.tmpl" %}
+
+{% block title %}Aleatorio · {{ blog_title }}{% endblock %}
+{% block meta_description %}Llevame a cualquier texto del sitio al azar.{% endblock %}
+
+{% block content %}
+  <main class="pt-8 mx-auto max-w-[980px]" data-random-page>
+    <section class="editorial-rule">
+      <span class="section-ribbon">Aleatorio</span>
+      <div class="mt-5">
+        <h1 class="story-title">Llevame a cualquier lado</h1>
+        <p class="story-deck">Te redirigimos a un texto al azar del sitio. Si tenés JavaScript apagado, elegí desde el menú.</p>
+        <p class="meta-row" id="random-status" role="status" data-random-status>Eligiendo...</p>
+      </div>
+    </section>
+  </main>
+{% endblock %}

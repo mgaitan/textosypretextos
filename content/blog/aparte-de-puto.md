@@ -1,67 +1,13 @@
-+++
-title = "Aparte de puto"
-slug = "aparte-de-puto"
-date = 2008-08-18 20:47:18
-description = "Cuentan que la humedad cordobesa lo tiene cerca del nocaut, y que el exceso de asados lo va a privar del respeto de su padre vegetariano. Sucio y colesteroso, Tin no se…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Gente",
-    "Tecnología",
-    "Amor",
-]
+---
+title: Aparte de puto
+slug: aparte-de-puto
+date: 2008-08-18 20:47:18
+tags: Gente, Tecnología, Amor
+author: Martín Gaitán
+---
+Cuentan que la humedad cordobesa lo tiene cerca del nocaut, y que el exceso de asados lo va a privar del respeto de su padre vegetariano. Sucio y colesteroso, Tin no se olvida de l@s tában@s y vuelve con un aporte: una entrevista a Xtian, autor de [Puto y Aparte](http://www.putoyaparte.com).
 
-[extra]
-legacy_id = 199
-section_slug = "blog"
-section_title = "Blog"
-summary = "Cuentan que la humedad cordobesa lo tiene cerca del nocaut, y que el exceso de asados lo va a privar del respeto de su padre vegetariano. Sucio y colesteroso, Tin no se olvida de l@s tában@s y vuelve con un aporte: una…"
-visits = 1438
-popularite = 0.5955787119722621
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/aparte-de-puto/"
-surtitle = ""
-subtitle = ""
-deck = "Cuentan que la humedad cordobesa lo tiene cerca del nocaut, y que el exceso de asados lo va a privar del respeto de su padre vegetariano. Sucio y colesteroso, Tin no se olvida de l@s tában@s y vuelve con un aporte: una entrevista a Xtian, autor de [Puto y Aparte](http://www.putoyaparte.com)."
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Gente", path = "/etiquetas/gente/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-
-[[extra.comments]]
-id = 7004
-anchor = "comment-7004"
-author = "Sandrina"
-date = "2008-08-19 16:53:43"
-date_display = "19.08.2008"
-depth = 0
-url_site = ""
-title = "Aparte de puto"
-body = "Desde hace tiempo que no leo algo interesante, hasta hoy. Me asombra que este post sea subjetivo, ya que ultimamente solo te leo a vos llevandole la contra a algo o alguien. Antes pensaba que envidiaba tu manera de escribir, pero ahora sólo puedo notar la gran facilidad de manipular información que tenés.\nbeso"
-
-[[extra.comments]]
-id = 7005
-anchor = "comment-7005"
-author = "tin"
-date = "2008-08-19 17:28:19"
-date_display = "19.08.2008"
-depth = 0
-url_site = ""
-title = "Aparte de puto"
-body = "dicen que borges dijo \"No estoy tan orgulloso de los libros que he escrito como de los que he leído\". Tambien dicen que era puto, pero yo comparto con él lo primero. ;-)\n\nCómo vai sandrina? tudo bem? eu estou melhor, obrigado."
-+++
+<!-- TEASER_END -->
 
 > (...)Entrar en un weblog personal por primera vez es como encontrarse con alguien bajo el sol blanco del mediodía. Estamos todos medios atontados y aburridos, y esta fiesta de principios de milenio está aburridísima. De pronto hacés clic y estás en un nuevo weblog y es como si alguien llegara de repente, mordiera su perro caliente, hiciera una pausa y anunciara: "hablemos de mí que es un tema fascinante". Y se larga a hablar.
 >
@@ -116,7 +62,6 @@ De nuevo, no es algo consciente. Cuando escribo no pienso que una mujer casada d
 
 Creo que igual el gancho está en otro lado. Creo que quizás el primer gancho sea lo sexual, pero es solo una puerta hacia otra cosa. A mí me pasa eso con el sexo: después de la orgía número 500, el sexo es una peaje hacia otra autopista. Creo que el gancho fundamental de mi texto es que no arrastro al lector hacia adelante, sino que siento al lector al lado mío, y los dos nos metemos juntos en el tren fantasma. Eso trato de hacer, no sé si lo logro o no. Es "elige tu propia aventura", digamos. Les digo "no tengo idea de qué carajo está pasando acá, pero ¿qué tal si nos metemos en este juntos?".
 
-{% postscript() %}
+{{% postscript %}}
 Entrevista realizada a mediados de 2006, y publicada en [Efecto Tábano](@/blog/un-cuaderno-en-el-cajon.md) en febrero de 2007.
-{% end %}
-
+{{% /postscript %}}

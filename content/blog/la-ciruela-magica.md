@@ -1,102 +1,13 @@
-+++
-title = "La ciruela mágica"
-slug = "la-ciruela-magica"
-date = 2010-01-26 00:29:00
-description = "Formar parte del Club de Estreñidos Crónicos (el C.E.C.) cambió la vida de muchos. Se reúnen casi siempre en la casa del Doctor Zuvinter y en algunas oportunidades en…"
-draft = false
-template = "article.html"
-authors = [
-    "Martín Gaitán",
-]
-categories = [
-    "Blog",
-]
-tags = [
-    "Humor",
-    "Ficciones",
-    "Especial Refrito de Verano",
-]
-
-[extra]
-legacy_id = 68
-section_slug = "blog"
-section_title = "Blog"
-summary = "Formar parte del Club de Estreñidos Crónicos (el C.E.C.) cambió la vida de muchos. Se reúnen casi siempre en la casa del Doctor Zuvinter y en algunas oportunidades en la casa de Doña Mercedes Ruiz de Oviedo. Es un…"
-visits = 2481
-popularite = 0.25581498818687837
-hero_image = ""
-hero_alt = ""
-comment_count = 5
-legacy_url = "/blog/la-ciruela-magica/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Humor", path = "/etiquetas/humor/" },
-    { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Especial Refrito de Verano", path = "/etiquetas/especial-refrito-de-verano/" },
-]
-
-[[extra.comments]]
-id = 1140
-anchor = "comment-1140"
-author = "Eskilozzyy"
-date = "2006-09-19 20:38:15"
-date_display = "19.09.2006"
-depth = 0
-url_site = "http://www.laconjuratv.com.ar"
-title = ""
-body = "...uff...por suerte soy un relojito... pero cuando como cereales me transforman en un despertador...saludos."
-
-[[extra.comments]]
-id = 1141
-anchor = "comment-1141"
-author = "Edgar"
-date = "2006-09-20 08:22:18"
-date_display = "20.09.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "Ya que estamos en el juego de palabras... yo diría que eso es una bomba de tiempo.\n\nMe alegré mucho al enterarme que había vuelto \"Textos y pretextos\", pero no había podido entrar hasta hoy. Que siga. Sos un grande!!"
-
-[[extra.comments]]
-id = 1142
-anchor = "comment-1142"
-author = "maurobater"
-date = "2006-09-20 13:34:59"
-date_display = "20.09.2006"
-depth = 0
-url_site = "http://www.muchosmitos.com.ar"
-title = ""
-body = "puedo agregar gentea la lista? \n\n\"En las reuniones participan estresados hombres de negocios, viudas adineradas, celebridades del espectáculo, modelos top, obreros de la construcción y adolescentes frustradas por no ser anoréxicas, MUSICOS !!!, EL DUEÑO DE JUANITO BAR, ROCK AND POP NET (NEUQUEN), PADRE GRASSI, PIER NODOYUNA, MARCELO TINELLI... y los que cagamos bien se lo agradecemos a BIGOTES por culeanos todos los dias por el ...."
-
-[[extra.comments]]
-id = 1143
-anchor = "comment-1143"
-author = "elena"
-date = "2006-09-22 17:49:29"
-date_display = "22.09.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "gracias!!! le pusiste una buena cuota de humor a esta tarde del viernes con bastante \"viento\"  en neuquén.\nQué bueno Tin!!! abrazos . mamá"
-
-[[extra.comments]]
-id = 1144
-anchor = "comment-1144"
-author = "anahi"
-date = "2006-09-23 15:39:21"
-date_display = "23.09.2006"
-depth = 0
-url_site = "http://algunodelostuyos"
-title = ""
-body = "Gatooooo ... que lindo saber de nuevo de vos.... tenia poco tiempo y casi 70 mails (dos meces sin revisar)TE LLEVASTE TODO MI TIEMPO... una alegria, me encanta notar que tu mente siga tan tan tan dispersa... ja ja GRACIAAAS el mundo necesita de locos lindos. besos Any"
-+++
-
+---
+title: La ciruela mágica
+slug: la-ciruela-magica
+date: 2010-01-26 00:29:00
+tags: Humor, Ficciones, Especial Refrito de Verano
+author: Martín Gaitán
+---
 Formar parte del Club de Estreñidos Crónicos (el C.E.C.) cambió la vida de muchos. Se reúnen casi siempre en la casa del Doctor Zuvinter y en algunas oportunidades en la casa de Doña Mercedes Ruiz de Oviedo. Es un grupo unido, apretado como dicen ellos; un grupo con mucha fuerza.
+
+<!-- TEASER_END -->
 
 Por estatuto, el Club no hace diferencias de edad, clase social, sexo o religión. Basta con tener el ceño fruncido, suficiente mal genio y, sobre todo, cagar poquito y casi nunca. En las reuniones participan estresados hombres de negocios, viudas adineradas, celebridades del espectáculo, modelos top, obreros de la construcción y adolescentes frustradas por no ser anoréxicas.
 
@@ -133,11 +44,10 @@ Cuando un periodista consultó sobre el motivo de las 50 páginas en blanco del 
 
 El texto que da nombre al libro es un conmovedor cuento que versa sobre las aventuras de un grupo de amigos en búsqueda de una ciruela mágica, escondida en algún recóndito lugar del mundo. Una ciruela mágica, que con sólo saborear un bocado evacuará las penas de todos. Entre otras cosas.
 
-{% postscript() %}
+{{% postscript %}}
 Texto publicado originalmente el 19 de septiembre de 2006 con esta introducción: 
 
 > El viernes pasado, un par de días después de la resurreción de este blog, recibí un email de mi amiga <a href="http://elblogdesandra.blogspot.com/">Sandrina</a> a quien todavía no conozco personalmente. Fue ella la primera en hacerme saber que se alegraba que volviera a escribir, después fue mi papá y hace un rato fui yo. Pues gracias a todos, ya valió la pena.
 >
 > Entre otras cosas, en ese email  Sandra me propuso participar de un incipiente <a href="http://nuestraciruela.blogspot.com/">blog</a> colectivo que sólo pudo pergeñar una mente marabichosa como la de ella. "<a href="http://nuestraciruela.blogspot.com/">Nuestro mundo es una ciruela</a>" se llama este blog-consigna, y deja abierta la puerta para que cada uno salga por la ventana que quiera. A mi me salió este texto, inspirado en algunas experiencias que (obviamente) le sucedieron a un amigo mio.
-{% end %}
-
+{{% /postscript %}}
