@@ -3,128 +3,13 @@ title = "Dedicatorias"
 slug = "dedicatorias"
 date = 2006-09-14 19:29:52
 description = "Eran las ocho de la noche y buscaba zapatillas de fútbol 5. Estaba a punto de entrar a un Dexter Shop, una cadena de ropa deportiva donde no quería comprar pero se…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Yo lo vide",
     "Ficciones",
 ]
-
-[extra]
-legacy_id = 51
-section_slug = "blog"
-section_title = "Blog"
-summary = "Eran las ocho de la noche y buscaba zapatillas de fútbol 5. Estaba a punto de entrar a un Dexter Shop, una cadena de ropa deportiva donde no quería comprar pero se imponía ante mi desconocimiento de opciones. Antes de…"
-visits = 3714
-popularite = 0.9073671990846751
-hero_image = ""
-hero_alt = ""
-comment_count = 8
-legacy_url = "/blog/dedicatorias/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Ficciones", path = "/etiquetas/ficciones/" },
-]
-
-[[extra.comments]]
-id = 1127
-anchor = "comment-1127"
-author = "la FlaKa..."
-date = "2006-09-14 17:47:48"
-date_display = "14.09.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "triste y raro... pero muy muy cierto... son cosas ke pasan, muchas veces uno le sigue la corriente a un desconocido simplemente por miedo a lo conocido..."
-
-[[extra.comments]]
-id = 1128
-anchor = "comment-1128"
-author = "maurobater"
-date = "2006-09-14 17:50:46"
-date_display = "14.09.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "Tenes una facilidad para contar las cosas, envidiabel. Todabia me acuerdo de aquella vez que narraste como te metian en cana por sacar unas fotos en un campito de futbol. Me rei mucho man.\nTe mando abraxas extensivas. Le paso tu direcc a todos."
-
-[[extra.comments]]
-id = 1129
-anchor = "comment-1129"
-author = "Pedro"
-date = "2006-09-14 20:24:55"
-date_display = "14.09.2006"
-depth = 0
-url_site = "http://www.danceurbano.com.ar"
-title = ""
-body = "la verdad, buena la hist eh! por la mitad pensaba q te iban a raptar pra sacarte los orgamos y venderlos con un 40% de descuetno en el mercado negro! jajajja\n\nnos tamos viendo... y guarda por donde te metes!! jajaja\n\nPedro"
-
-[[extra.comments]]
-id = 1131
-anchor = "comment-1131"
-author = "Carlitos"
-date = "2006-09-15 15:29:13"
-date_display = "15.09.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "Che, precio final $ 70? cómo responden a tus rápidos y elusivos movimientos futbolísticos? valen la pena? ando buscando yo también...\nespero nos encontremos (al menos) en una cancha en alguno de estos días...\nloco, un abrazo!!"
-
-[[extra.comments]]
-id = 1132
-anchor = "comment-1132"
-author = "Sandra"
-date = "2006-09-15 15:52:57"
-date_display = "15.09.2006"
-depth = 0
-url_site = "http://elblogdesandra.blogspot.com"
-title = ""
-body = "es bueno leerte un poquito màs seguido!! ahora, con respecto a las zapas, sin comentarios..... la verdad que fue una experiencia extraña, a mi me hubiese dado panico.\nbesos"
-
-[[extra.comments]]
-id = 1133
-anchor = "comment-1133"
-author = "kela"
-date = "2006-09-16 01:33:09"
-date_display = "16.09.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "que decir?... Primero que nada hola. Segundo, por fin se como escribir (Era de Bruto?). Por otro lado debo reconocer que está buena la idea che, digo, esto de plasmar situaciones de una forma poco convencional para hacerlo, más alla de lo convencional del medio. Lo bueno, me parece, es la importancia sobre situaciones que ordinariamente serían sin importancia, o no. Debe ser porque tengo particular devosión por esas pequeñas historias casi sin sentido aparente, pero que bien pueden ser usadas como marco para contar otra cosa.\nSolo por curiosidad, que hubiera sido del vendedor y su intrincado comercio de no haber hecho dos goles nuestro goleador. Se hubiera visto condenado al olvido? sería el recuerdo presa de sus palabras y su pedido de dedicatoria? volverá con cada gol?...\nPara concluir, y sin haber pedido permiso, se me permiten algunas filosofadas, medias berretas si???\n\nAbrazos, kela.*"
-
-[[extra.comments]]
-id = 1134
-anchor = "comment-1134"
-author = "iltincho"
-date = "2006-09-16 04:09:25"
-date_display = "16.09.2006"
-depth = 0
-url_site = "http://www.elojocds.tk"
-title = ""
-body = "jajajaja que grande tin, siempre igual loco, dedicate a escribir novelas viejo, esto de la iformatica, fotos, futbol, relatos no da para todo, yo que vos le doy a las novelas, ahí nos paramos todos, yo soy tu managger si te va jajaja, bueno che avisá cuando andes por nqn así hacemos un asadito...saludos"
-
-[[extra.comments]]
-id = 1349
-anchor = "comment-1349"
-author = "sho"
-date = "2006-12-21 08:26:13"
-date_display = "21.12.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "Disiento con Nilson. El contenido es claro, y está hasta explícitamente y magistralmente manifestado en la última palabra del cuento. Recién puse un posteo en otro relato diciendo que era el mejor. Mentira: el mejor es este."
 +++
 
 Eran las ocho de la noche y buscaba zapatillas de fútbol 5. Estaba a punto de entrar a un Dexter Shop, una cadena de ropa deportiva donde no quería comprar pero se imponía ante mi desconocimiento de opciones. Antes de entrar se me acercó un tipo canoso con una campera de cuerina gastada y zapatillas de lona.
@@ -162,4 +47,3 @@ El vendedor me invitó a sentarme y manoteó un botín del par gris que estaba s
 -- *No gracias, está bien* -- alcancé a interrumpir - *sólo mostrame otros botines.*
 
 Al final me llevé unos pumas que salían 30 pesos menos que los total 90, y que según el vendedor a esa altura, en realidad eran los mejores. Cuando me estaba yendo y luego de agradecerme por cuarta vez, me dijo que si hacía un gol se lo dedicara. Hice dos. El segundo para el miedo.
-

@@ -4,35 +4,14 @@ slug = "vuelvan-a-tilcara"
 date = 2014-03-13 15:53:41
 description = ""
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = []
 
 [extra]
 video_id = "TPrr_TO0kWg"
-legacy_id = 445
-section_slug = "videos"
-section_title = "Videos"
-summary = "En el 86 Bilardo prometió algo que nunca cumplió. NO es nuestro caso, pero unos amigos están convencidos de que la sequía posterior de Argentina en los mundiales tiene que ver con esa falta de palabra del Rey de las…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/vuelvan-a-tilcara/"
-surtitle = ""
 subtitle = "Nes Buzzalino"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
 +++
 
 {{ video_embed(provider="youtube", id="TPrr_TO0kWg") }}

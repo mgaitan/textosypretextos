@@ -3,35 +3,13 @@ title = "La fauna embalsamada"
 slug = "la-fauna-embalsamada"
 date = 2012-05-27 23:39:04
 description = "¿esto es un poema? ¿estar a oscuras sin dormir puede ser un poema? ¿si no hay nada puede haber un poema? ¿si digo que respiro en este cubo negro, no es algo ya? ¿no es…"
-draft = false
-template = "article.html"
 authors = [
     "Pedro Mairal",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 377
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "¿esto es un poema? ¿estar a oscuras sin dormir puede ser un poema? ¿si no hay nada puede haber un poema? ¿si digo que respiro en este cubo negro, no es algo ya? ¿no es demasiado? ¿no es mucho más que esto en realidad?…"
-visits = 1075
-popularite = 0.9083129008981133
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/la-fauna-embalsamada/"
-surtitle = ""
 subtitle = "Pedro Mairal"
-deck = ""
-author_links = [
-    { name = "Pedro Mairal", path = "/autores/pedro-mairal/" },
-]
-tag_links = []
-comments = []
 +++
 
 <div class="poetry">¿esto es un poema?<br>

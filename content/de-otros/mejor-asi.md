@@ -3,39 +3,15 @@ title = "Mejor así"
 slug = "mejor-asi"
 date = 2012-06-09 22:38:13
 description = "Sepa que aquí tiene prenda mía por si precisa algún día el hombro firme, casa en mi pecho y la alegría de darte toda la vida. Yo no tengo nada, te soy sincero pero te…"
-draft = false
-template = "article.html"
 authors = [
     "Juan Quintero",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Música",
 ]
 
 [extra]
-legacy_id = 424
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Sepa que aquí tiene prenda mía por si precisa algún día el hombro firme, casa en mi pecho y la alegría de darte toda la vida. Yo no tengo nada, te soy sincero pero te quiero para acompañarte. He de poner el hombro…"
-visits = 14508
-popularite = 0.2538657283835905
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/mejor-asi/"
-surtitle = ""
 subtitle = "Juan Quintero"
-deck = ""
-author_links = [
-    { name = "Juan Quintero", path = "" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-comments = []
 +++
 
 <div class="poetry">Sepa que aquí tiene prenda mía<br>

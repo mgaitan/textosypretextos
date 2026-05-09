@@ -6,6 +6,7 @@
 {% block og_url %}{{ section.permalink }}{% endblock og_url %}
 
 {% block content %}
+  {% set site_index = load_data(path="data/site_index.json") %}
   <main class="pt-8">
     <section class="editorial-rule">
       <span class="section-ribbon">Blog</span>
@@ -22,10 +23,17 @@
 
     <section class="taxonomy-grid mt-10">
       {% for page in section.pages | sort(attribute="title") %}
+        {% set tag_info = site_index.tags | get(key=page.title, default=false) %}
+        {% set article_count = 0 %}
+        {% for article_path in tag_info.articles | default(value=[]) %}
+          {% if article_path is starting_with("blog/") %}
+            {% set_global article_count = article_count + 1 %}
+          {% endif %}
+        {% endfor %}
         <article class="taxonomy-card reveal">
           <p class="story-kicker">Subsección</p>
           <h2 class="story-title-xs"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
-          <p class="mt-4 text-base leading-7 text-neutral-700">{{ page.extra.article_paths | length }} textos</p>
+          <p class="mt-4 text-base leading-7 text-neutral-700">{{ article_count }} {% if article_count == 1 %}texto{% else %}textos{% endif %}</p>
         </article>
       {% endfor %}
     </section>

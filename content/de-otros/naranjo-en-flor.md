@@ -3,13 +3,8 @@ title = "Naranjo en flor"
 slug = "naranjo-en-flor"
 date = 2012-05-23 08:32:18
 description = "Era más blanda que el agua, que el agua blanda, era más fresca que el río, naranjo en flor. Y en esa calle de estío, calle perdida, dejó un pedazo de vida y se…"
-draft = false
-template = "article.html"
 authors = [
     "Homéro Expósito",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amor",
@@ -17,27 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 416
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Era más blanda que el agua, que el agua blanda, era más fresca que el río, naranjo en flor. Y en esa calle de estío, calle perdida, dejó un pedazo de vida y se marchó... Primero hay que saber sufrir, después amar…"
-visits = 466
-popularite = 0.9063651872834128
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/naranjo-en-flor/"
-surtitle = ""
 subtitle = "Homéro Expósito"
-deck = ""
-author_links = [
-    { name = "Homéro Expósito", path = "" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-comments = []
 +++
 
 <div class="poetry">Era más blanda que el agua,<br>

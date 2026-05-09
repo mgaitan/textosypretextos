@@ -3,12 +3,6 @@ title = "Ana María Shua"
 template = "author.html"
 
 [extra]
-legacy_id = 26
-legacy_slug = "Ana-Maria-Shua"
-article_paths = [
-    "de-otros/teologa.md",
-    "de-otros/article419.md",
-]
 image = "/media/auton26.jpg"
 is_owner = false
 gender = "f"

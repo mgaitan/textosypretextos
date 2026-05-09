@@ -3,12 +3,6 @@ title = "Osvaldo Soriano"
 template = "author.html"
 
 [extra]
-legacy_id = 4
-legacy_slug = "Osvaldo-Soriano"
-article_paths = [
-    "de-otros/obdulio-varela-el-reposo-del.md",
-    "de-otros/el-alma-del-guerrero.md",
-]
 image = "/media/auton4.jpg"
 is_owner = false
 +++

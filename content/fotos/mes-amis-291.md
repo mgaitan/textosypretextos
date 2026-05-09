@@ -3,35 +3,14 @@ title = "Mes amis"
 slug = "mes-amis-291"
 date = 2009-02-16 22:20:33
 description = "Asado en Anisacate,"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Fotos",
 ]
 tags = []
 
 [extra]
-legacy_id = 291
-section_slug = "fotos"
-section_title = "Fotos"
-summary = "Asado en Anisacate,"
-visits = 4417
-popularite = 0.9073760983139442
 hero_image = "/media/distant/jpg/DSC_5119jpg-6159.jpg"
 hero_alt = "DSC_5119.jpg"
-comment_count = 0
-legacy_url = "/fotos/mes-amis-291/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
 +++
 
 Asado en Anisacate,

@@ -3,43 +3,14 @@ title = "Pretexto"
 slug = "pretexto"
 date = 2004-12-09 13:40:20
 description = "En la primer entrada de esta bitácora y otro poco en esta les contaba sobre el nacimiento precoz de este sitio. Por un lado fue bueno, mis ganas de escribir fueron más…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "El resto",
     "Tecnología",
     "Memoria",
 ]
-
-[extra]
-legacy_id = 23
-section_slug = "blog"
-section_title = "Blog"
-summary = "En la primer entrada de esta bitácora y otro poco en esta les contaba sobre el nacimiento precoz de este sitio. Por un lado fue bueno, mis ganas de escribir fueron más contundentes que detalles tan minúsculos como la…"
-visits = 918
-popularite = 0.910745200454043
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/pretexto/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
 +++
 
 En la [primer  entrada](@/blog/hoy-es-un-dia-fresquito.md) de esta bitácora y otro poco en [esta](@/blog/papa-lee-a-tin.md) les contaba sobre el nacimiento precoz de este sitio. 

@@ -3,13 +3,8 @@ title = "Richard Stallman en Diputados"
 slug = "richard-stallman-en-diputados"
 date = 2008-12-10 13:46:03
 description = "El lunes 3 de noviembre, Richard Stallman, el padre del movimiento de Software Libre ofreció una conferencia en el Salón Auditorio del Anexo de la Honorable Cámara de…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = [
     "Tecnología",
@@ -18,27 +13,6 @@ tags = [
 
 [extra]
 video_id = "IGUjLIu2Hq0"
-legacy_id = 250
-section_slug = "videos"
-section_title = "Videos"
-summary = "El lunes 3 de noviembre, Richard Stallman, el padre del movimiento de Software Libre ofreció una conferencia en el Salón Auditorio del Anexo de la Honorable Cámara de Diputados de la Nación. La Fundación Vía Libre…"
-visits = 629
-popularite = 0.908333757721568
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/richard-stallman-en-diputados/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-comments = []
 +++
 
 {{ video_embed(provider="youtube", id="IGUjLIu2Hq0") }}
@@ -48,4 +22,3 @@ El lunes 3 de noviembre, Richard Stallman, el padre del movimiento de Software L
 Hay una versión completa de la disertación, en el sitio de GNU: 
 
 [http://audio-video.gnu.org/video/rms-diputados.ogg](http://audio-video.gnu.org/video/rms-diputados.ogg)
-

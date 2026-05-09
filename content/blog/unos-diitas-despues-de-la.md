@@ -3,43 +3,14 @@ title = "Unos diítas después de la filantropía"
 slug = "unos-diitas-despues-de-la"
 date = 2006-02-15 19:20:43
 description = "Martín, sobre el dibujito favorito, supongo que era Frutillitas, no sé si la conocés, pero era una cabezona, flaca, con cara, perfume y color del pelo, frutilla. Si la…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "huellas",
     "Familia",
     "Memoria",
 ]
-
-[extra]
-legacy_id = 58
-section_slug = "blog"
-section_title = "Blog"
-summary = "Martín, sobre el dibujito favorito, supongo que era Frutillitas, no sé si la conocés, pero era una cabezona, flaca, con cara, perfume y color del pelo, frutilla. Si la ves por ahí algún día decíle que venga a visitarme…"
-visits = 1372
-popularite = 0.9511066301536247
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/unos-diitas-despues-de-la/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "huellas", path = "/etiquetas/huellas/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
 +++
 
 > Martín, sobre el dibujito favorito, supongo que era Frutillitas, no sé si la conocés, pero era una cabezona, flaca, con cara, perfume y color del pelo, frutilla. Si la ves por ahí algún día decíle que venga a visitarme porque yo no me acuerdo de ella, sólo sé que me gustaba, pero no cómo era ni qué decía. Y esas cosas a una la marcan, son como un ejemplo de vida, una especie deeeeeeeeee… ¿que hubiera dicho Frutillitas del uno a uno?Ahora sólo tengo la nostalgia, y el recuerdo de su nombre, más tarde la pesadilla de despertar a la noche con la duda de si ¿era feminista? ¿o yo estoy yendo por el mal camino?

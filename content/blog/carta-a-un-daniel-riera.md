@@ -3,86 +3,14 @@ title = "Carta a un Daniel Riera"
 slug = "carta-a-un-daniel-riera"
 date = 2008-07-06 00:56:31
 description = "De: Martín Gaitán _ Para: riera@hot... _ Fecha: Dom, 6 de abril 2008 a las 4:46 AM _ Asunto: sobre tu mensaje en textos y pretextos Daniel: Hace un par de dias que…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Anécdotas",
     "Tecnología",
     "Amistad",
 ]
-
-[extra]
-legacy_id = 160
-section_slug = "blog"
-section_title = "Blog"
-summary = "De: Martín Gaitán _ Para: riera@hot... _ Fecha: Dom, 6 de abril 2008 a las 4:46 AM _ Asunto: sobre tu mensaje en textos y pretextos Daniel: Hace un par de dias que vengo elucubrando este email. Desde tu mensaje en mi…"
-visits = 1584
-popularite = 0.9157497667027387
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/carta-a-un-daniel-riera/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 6940
-anchor = "comment-6940"
-author = ""
-date = "2008-07-08 14:25:04"
-date_display = "08.07.2008"
-depth = 0
-url_site = ""
-title = "Carta a un Daniel Riera"
-body = "jajaajaja"
-
-[[extra.comments]]
-id = 6942
-anchor = "comment-6942"
-author = "Vlad"
-date = "2008-07-12 13:22:17"
-date_display = "12.07.2008"
-depth = 0
-url_site = ""
-title = "Carta a un Daniel Riera"
-body = "Tincho como siempre un groso!\n_ la próxima qeu pases por rosario chifla!"
-
-[[extra.comments]]
-id = 6966
-anchor = "comment-6966"
-author = ""
-date = "2008-07-17 19:34:44"
-date_display = "17.07.2008"
-depth = 0
-url_site = ""
-title = "Carta a un Daniel Riera"
-body = "que bueno sos!!....y SI LLEGA A SER ÉL...QUE INCREIBLE!!!....ojala con el tiempo, cuando seas como el..yo pueda decir...yo conocí al GRANDE: MARTIN GAITAN...jaja........besos!!!varios"
-
-[[extra.comments]]
-id = 8502
-anchor = "comment-8502"
-author = "daniel riera"
-date = "2010-07-24 14:21:33"
-date_display = "24.07.2010"
-depth = 0
-url_site = ""
-title = "Carta a un Daniel Riera"
-body = "Soy el Daniel Riera verdadero y simplemente te invito a ver mis trabajos en la web: busca por visitantes + daniel riera en el google y vas a ver algo de lo que hago.\nEspero tus comentarios,\nDaniel"
 +++
 
 * **De**:	Martín Gaitán <gaitan@gmai...>
@@ -175,4 +103,3 @@ Ignoro si quien lo hizo es una persona que lleva mi nombre o alguien que quiso g
  
 Un abrazo grande y suerte con la rubita.
 _ Daniel Riera (uno entre muchos).
-

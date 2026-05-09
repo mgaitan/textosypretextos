@@ -7,6 +7,9 @@
 {% block og_url %}{{ page.permalink }}{% endblock og_url %}
 
 {% block content %}
+  {% set site_index = load_data(path="data/site_index.json") %}
+  {% set tag_info = site_index.tags | get(key=page.title, default=false) %}
+  {% set article_paths = tag_info.articles | default(value=[]) %}
   <main class="pt-8">
     <section class="editorial-rule">
       <span class="section-ribbon">Etiqueta</span>
@@ -19,7 +22,7 @@
     </section>
 
     <section class="listing mt-10">
-      {% for path in page.extra.article_paths %}
+      {% for path in article_paths %}
         {% set article = get_page(path=path) %}
         {{ macros::story_card(page=article, variant="list") }}
       {% endfor %}

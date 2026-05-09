@@ -3,13 +3,8 @@ title = "El taller, gimnasio de la neurona"
 slug = "el-taller-gimnasio-de-la-neurona"
 date = 2005-04-26 23:31:29
 description = "Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \"idea brillante\", a mis noches y mañanas. Mariconas resultaron mis…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Aprendizajes",
@@ -17,96 +12,6 @@ tags = [
     "Familia",
     "Amor",
 ]
-
-[extra]
-legacy_id = 39
-section_slug = "blog"
-section_title = "Blog"
-summary = "Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una \"idea brillante\", a mis noches y mañanas. Mariconas resultaron mis ganas. Para hacerlas mas machitas y obligarlas un…"
-visits = 1977
-popularite = 0.8501589887728135
-hero_image = ""
-hero_alt = ""
-comment_count = 6
-legacy_url = "/blog/el-taller-gimnasio-de-la-neurona/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Aprendizajes", path = "/etiquetas/aprendizajes/" },
-    { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-
-[[extra.comments]]
-id = 1001
-anchor = "comment-1001"
-author = "Flor"
-date = "2005-04-28 00:01:09"
-date_display = "28.04.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Que cosa rara el cuento de las albóndigas, jaja. Muy buenos, me gusta esa forma de escribir que tenés. Saludos."
-
-[[extra.comments]]
-id = 1002
-anchor = "comment-1002"
-author = "Sandra"
-date = "2005-04-29 18:28:31"
-date_display = "29.04.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Emmmm pasa la direccion y costo de eso porque yo tambien tengo ganas de empezar uno de esos talleres. \nbesos"
-
-[[extra.comments]]
-id = 1003
-anchor = "comment-1003"
-author = "mamá"
-date = "2005-04-29 21:50:41"
-date_display = "29.04.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "¡ qué bueno! me gusta mucho lo que hacés"
-
-[[extra.comments]]
-id = 1018
-anchor = "comment-1018"
-author = "big brother"
-date = "2005-06-01 17:47:15"
-date_display = "01.06.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "cada día escribe mejor!!! guarda con los aviones."
-
-[[extra.comments]]
-id = 1057
-anchor = "comment-1057"
-author = ""
-date = "2005-09-20 21:34:05"
-date_display = "20.09.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "HGHV"
-
-[[extra.comments]]
-id = 8245
-anchor = "comment-8245"
-author = "damianszmu"
-date = "2010-06-12 07:25:33"
-date_display = "12.06.2010"
-depth = 0
-url_site = ""
-title = "El taller, gimnasio de la neurona"
-body = "Ame la leyenda del Surucucu"
 +++
 
 Mis ganas son susceptibles a muchas cosas. Al frío, a la rutina, a mis gustos, a la falta de una "idea brillante", a mis noches y mañanas. Mariconas resultaron mis ganas.
@@ -161,4 +66,3 @@ Conste que el texto está absolutamente condicionado por las comparaciones (y/o 
 > Es tarde, en una horas debo entregar el texto, y este departamento cada vez se hace más chico; el espacio se consume como el tiempo. Y encima hace frío.
 > Me queda el salvavidas de siempre cuando la melancolía me invade: mi libro favorito, baño y llave. Pero la conspiración que vive dentro mio atraviesa cualquier puerta y entonces la inspiración queda tan lejos como un suspiro dulce y melancólico. Justo a mis espaldas, sobre la pared del inodoro donde estoy sentado, un obrero golpea fuerte para construir el décimo piso del edificio nuevo, destruyendo los cimientos de mi tranquilidad.
 > No puedo más. Estallo en un ladrido agrio y doloroso como un abuelo en la calle.
-

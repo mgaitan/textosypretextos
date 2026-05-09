@@ -5,6 +5,7 @@
 {% block og_url %}{{ section.permalink }}{% endblock og_url %}
 
 {% block content %}
+  {% set site_index = load_data(path="data/site_index.json") %}
   <main class="pt-8">
     <section class="editorial-rule">
       <span class="section-ribbon">Autoras y autores</span>
@@ -16,6 +17,8 @@
     <section class="taxonomy-grid mt-10">
       {% for page in section.pages | sort(attribute="title") %}
         {% if not page.extra.is_owner %}
+          {% set author_info = site_index.authors | get(key=page.title, default=false) %}
+          {% set article_count = author_info.articles | default(value=[]) | length %}
           <article class="taxonomy-card reveal">
             {% if page.extra.image %}
               <a href="{{ page.permalink }}" class="author-thumb">
@@ -24,7 +27,7 @@
             {% endif %}
             <p class="story-kicker">{% if page.extra.gender | default(value="m") == "f" %}Autora{% else %}Autor{% endif %}</p>
             <h2 class="story-title-xs"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
-            <p class="mt-4 text-base leading-7 text-neutral-700">{{ page.extra.article_paths | length }} {% if page.extra.article_paths | length == 1 %}texto{% else %}textos{% endif %}</p>
+            <p class="mt-4 text-base leading-7 text-neutral-700">{{ article_count }} {% if article_count == 1 %}texto{% else %}textos{% endif %}</p>
           </article>
         {% endif %}
       {% endfor %}

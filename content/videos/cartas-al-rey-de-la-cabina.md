@@ -3,13 +3,8 @@ title = "Cartas al Rey de la Cabina"
 slug = "cartas-al-rey-de-la-cabina"
 date = 2011-12-15 01:34:36
 description = "A Nati, perseverante descubridora de bellezas Doce cartas, doce canciones. Con sutileza, humor y silencio acompañamos la historia de amor de Paloma, que conocemos por…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = [
     "Humor",
@@ -18,27 +13,7 @@ tags = [
 
 [extra]
 video_id = "W0UEct25rpU"
-legacy_id = 399
-section_slug = "videos"
-section_title = "Videos"
-summary = "A Nati, perseverante descubridora de bellezas Doce cartas, doce canciones. Con sutileza, humor y silencio acompañamos la historia de amor de Paloma, que conocemos por las cartas que ella misma escribió. Juan y Luis…"
-visits = 9254
-popularite = 0.8525542112840139
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/cartas-al-rey-de-la-cabina/"
-surtitle = ""
 subtitle = "Luis Pescetti y Juan Quintero"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Humor", path = "/etiquetas/humor/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
 +++
 
 <div style="float:right;">A Nati,  perseverante descubridora de bellezas</div>
@@ -50,4 +25,3 @@ Doce cartas, doce canciones. Con sutileza, humor y silencio acompañamos la hist
 {% postscript() %}
 Las lecturas son del [libro homónimo](http://www.luispescetti.com/cartas-al-rey-de-la-cabina/) de Luis Pescetti. Recomiendo mucho su [blog](http://www.luispescetti.com).
 {% end %}
-

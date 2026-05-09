@@ -3,41 +3,13 @@ title = "Carta para reenamorar"
 slug = "carta-para-reenamorar"
 date = 2012-02-03 21:52:00
 description = "Le vengo dando vueltas desde las dos, cuando terminé de ver la peli que no debía ver. Blue Valentine, se llama. Ya sabía de qué trataba y debí suponer que no era el…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Amor",
     "Música",
 ]
-
-[extra]
-legacy_id = 402
-section_slug = "blog"
-section_title = "Blog"
-summary = "Le vengo dando vueltas desde las dos, cuando terminé de ver la peli que no debía ver. Blue Valentine, se llama. Ya sabía de qué trataba y debí suponer que no era el mejor plan, pero, qué cojones, se trata de…"
-visits = 6649
-popularite = 0.9075609525474289
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/carta-para-reenamorar/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-comments = []
 +++
 
 Le vengo dando vueltas desde las dos, cuando terminé de ver la peli

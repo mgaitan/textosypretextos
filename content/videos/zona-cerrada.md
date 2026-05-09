@@ -3,13 +3,8 @@ title = "Zona cerrada"
 slug = "zona-cerrada"
 date = 2009-03-10 19:51:00
 description = "Closed Zone es un corto de animación realizado por Yonni Goodman para la ONG israelí GISHA. En el sitio web oficial del cortometraje se lee: A pesar de las…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = [
     "Política",
@@ -18,27 +13,7 @@ tags = [
 
 [extra]
 video_id = "Hzqw7oBZT8k"
-legacy_id = 309
-section_slug = "videos"
-section_title = "Videos"
-summary = "Closed Zone es un corto de animación realizado por Yonni Goodman para la ONG israelí GISHA. En el sitio web oficial del cortometraje se lee: A pesar de las declaraciones que indican que se ha \"desafectado\" de la…"
-visits = 494
-popularite = 0.9048202928378275
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/zona-cerrada/"
-surtitle = ""
 subtitle = "Yonni Goodman"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-]
-comments = []
 +++
 
 {{ video_embed(provider="youtube", id="Hzqw7oBZT8k") }}
@@ -54,4 +29,3 @@ Goodman es el director de animación del largometraje [Vals im Bashir](http://en
 Según los compañeros de [La Runfla](http://larunfla.blogspot.com/2009/03/los-ninos-de-gaza.html)
 
 > Este trabajo es doblemente interesante porque además de presentar en forma gráfica la situación de sitio que viven los palestinos de Gaza (en especial sus niños) tiene el valor agregado de haber sido producido por israelíes que tiene una visión muy diferente a la de su gobierno sobre el problema político y humanitario que hoy enfrentan -y causan- como nación
-

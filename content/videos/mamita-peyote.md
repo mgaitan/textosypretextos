@@ -2,13 +2,8 @@
 title = "Sentencia - Mamita Peyote"
 slug = "sentencia-mamita-peyote"
 date = 2026-04-26 12:51:41
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = [
     "Música",
@@ -16,20 +11,6 @@ tags = [
 
 [extra]
 video_id = "wAVUYDCjov8"
-section_slug = "videos"
-section_title = "Videos"
-summary = "Sentencia, de Mamita Peyote, con músicos invitados de Bersuit Vergarabat y Los Auténticos Decadentes."
-hero_image = ""
-hero_alt = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-comments = []
 +++
 
 {{ video_embed(provider="youtube", id="wAVUYDCjov8", title="Mamita Peyote - Sentencia") }}

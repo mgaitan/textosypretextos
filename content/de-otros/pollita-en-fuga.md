@@ -3,13 +3,8 @@ title = "Pollita en Fuga"
 slug = "pollita-en-fuga"
 date = 2009-11-10 17:37:12
 description = "No se le notaba. La última vez que Silvina cayó presa –el 5 de mayo pasado – estaba en la cama con su novio, embarazada y desnuda, pero no se le notaba. La brigada…"
-draft = false
-template = "article.html"
 authors = [
     "Josefina Licitra",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Crónica",
@@ -18,28 +13,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 347
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "No se le notaba. La última vez que Silvina cayó presa –el 5 de mayo pasado – estaba en la cama con su novio, embarazada y desnuda, pero no se le notaba. La brigada bonaerense la encontró a quince cuadras de la Villa…"
-visits = 1697
-popularite = 0.9070598051785029
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/pollita-en-fuga/"
-surtitle = ""
 subtitle = "Josefina Licitra"
-deck = ""
-author_links = [
-    { name = "Josefina Licitra", path = "/autores/josefina-licitra/" },
-]
-tag_links = [
-    { name = "Crónica", path = "/etiquetas/cronica/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-comments = []
 +++
 
 <intro>

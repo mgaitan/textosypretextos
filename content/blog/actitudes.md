@@ -4,38 +4,12 @@ slug = "actitudes"
 date = 2025-06-23 18:08:57
 description = "La vida apesta cuando: En pleno invierno avizorás que el próximo buen motivo para depilarte es el casamiento de tu hermano en octubre. Tu ropa de dormir más presentable…"
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "El resto",
 ]
-
-[extra]
-legacy_id = 76
-section_slug = "blog"
-section_title = "Blog"
-summary = "La vida apesta cuando: En pleno invierno avizorás que el próximo buen motivo para depilarte es el casamiento de tu hermano en octubre. Tu ropa de dormir más presentable es una remera con el logo de Entel. El mejor…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/actitudes/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-]
-comments = []
 +++
 
 La vida apesta cuando:

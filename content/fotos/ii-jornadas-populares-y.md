@@ -3,60 +3,17 @@ title = "II Jornadas Populares y Comunitarias"
 slug = "ii-jornadas-populares-y"
 date = 2008-09-03 10:04:55
 description = "Todavía dura la emoción. ¡Aguante Mazamorra!"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Fotos",
 ]
 tags = [
     "Tecnología",
 ]
 
 [extra]
-legacy_id = 214
-section_slug = "fotos"
-section_title = "Fotos"
-summary = "Todavía dura la emoción. ¡Aguante Mazamorra!"
-visits = 4915
-popularite = 0.920090015518705
 hero_image = "/media/jpg/DSC_1547.jpg"
 hero_alt = "DSC_1547.jpg"
-comment_count = 2
-legacy_url = "/fotos/ii-jornadas-populares-y/"
-surtitle = ""
 subtitle = "Día de los niños y las niñas"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-
-[[extra.comments]]
-id = 53660
-anchor = "comment-53660"
-author = "YPiwCJcUVCDoUetMZ"
-date = "2012-12-25 10:16:55"
-date_display = "25.12.2012"
-depth = 0
-url_site = "http://www.facebook.com/profile.php?id=100003407208435"
-title = "II Jornadas Populares y Comunitarias"
-body = "Me gustf3 mucho el veddeo, de  e9ste se aprenden leiccones muy importantes. Como cooperar, tener una buena convivencia   y ased todos los obste1culos se vencere1n fe1cilmente. Lo me1s importante de esto es la unif3n que hay entre ellos, esto los lleva  a tener un muy buen trabajo y obtendre1n los mejores resultados."
-
-[[extra.comments]]
-id = 54208
-anchor = "comment-54208"
-author = "AqatZEckcJLQVhjnN"
-date = "2013-02-19 00:54:53"
-date_display = "19.02.2013"
-depth = 0
-url_site = "http://www.facebook.com/profile.php?id=100003410234467"
-title = "II Jornadas Populares y Comunitarias"
-body = "Felicidades tele progreso..por esa btnioa oportunidad que brinda acada uno de nuestros hermanos catrachos en el progreso y otros rincones de honduras desde bradenton florida."
 +++
 
 Todavía dura la [emoción](@/blog/contener-la-respiracion.md). ¡Aguante [Mazamorra](http://www.agrupacionmazamorra.com.ar/)!
@@ -282,4 +239,3 @@ También podés ver [las fotos de Nati](http://picasaweb.google.com/lobonatalia/
 {{ media_image(src="/media/jpg/DSC_1795.jpg", alt="", caption="", align="center") }}
 
 {{ media_image(src="/media/jpg/DSC_1797.jpg", alt="", caption="", align="center") }}
-

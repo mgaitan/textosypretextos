@@ -3,53 +3,14 @@ title = "Verdes menesteres"
 slug = "verdes-menesteres"
 date = 2008-07-16 22:21:30
 description = "Pepe teme que se le fermente el semen. ¡Qué mequetrefe! Trece meses que el \"treque-treque\" le repele. Pretende que Teté, ex ente del Jet-set, le reste peste. Teté —…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Ficciones",
     "Política",
     "Tecnología",
 ]
-
-[extra]
-legacy_id = 166
-section_slug = "blog"
-section_title = "Blog"
-summary = "Pepe teme que se le fermente el semen. ¡Qué mequetrefe! Trece meses que el \"treque-treque\" le repele. Pretende que Teté, ex ente del Jet-set, le reste peste. Teté — Pepe, es el tercer mes que me ves ¿Qué tenés…"
-visits = 1161
-popularite = 0.9085094937317564
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/blog/verdes-menesteres/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-
-[[extra.comments]]
-id = 6965
-anchor = "comment-6965"
-author = ""
-date = "2008-07-17 16:10:30"
-date_display = "17.07.2008"
-depth = 0
-url_site = ""
-title = "Verdes menesteres"
-body = "me encantó. Muy bueno Martin.\nun abrazo\nMarina"
 +++
 
 Pepe teme que se le fermente el semen. ¡Qué mequetrefe! Trece meses que el "treque-treque" le repele. Pretende que Teté, ex ente del Jet-set, le reste peste. 
@@ -106,4 +67,3 @@ El cuento me lo pidieron porque les había gustado [este otro](@/blog/hazanas-za
 
 Tiempo después escribí un lipograma que es la antítesis de este, con ausencia deliberada de la vocal *e*: [Los mimos y las masas](@/blog/los-mimos-y-las-masas.md).
 {% end %}
-

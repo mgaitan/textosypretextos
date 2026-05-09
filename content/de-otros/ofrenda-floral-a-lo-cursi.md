@@ -4,34 +4,13 @@ slug = "ofrenda-floral-a-lo-cursi"
 date = 2011-11-29 16:14:06
 description = "Delirante bazar de celuloide, módico lujo de colectiveros, risa planchada de Gardel eterno con nomeolvides. Trajes de noviecitas en vidrieras, tribus de maniquíes con…"
 draft = true
-template = "article.html"
 authors = [
     "María Elena Walsh",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 384
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Delirante bazar de celuloide, módico lujo de colectiveros, risa planchada de Gardel eterno con nomeolvides. Trajes de noviecitas en vidrieras, tribus de maniquíes con meñiques, Patria y Hogar y Madre hay una Sola Himno…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/ofrenda-floral-a-lo-cursi/"
-surtitle = ""
 subtitle = "María Elena Walsh"
-deck = ""
-author_links = [
-    { name = "María Elena Walsh", path = "/autores/maria-elena-walsh/" },
-]
-tag_links = []
-comments = []
 +++
 
 <poesie>

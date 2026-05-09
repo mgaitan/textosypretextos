@@ -3,13 +3,8 @@ title = "Cuando el imbécil tiene la razón"
 slug = "cuando-el-imbecil-tiene-la-razon"
 date = 2008-11-07 21:11:21
 description = "Divagar y pedalear son cosas que me salen con cierta facilidad. Son buenas virtudes, si uno las evalúa desde el placer y la salud y no desde el tiempo perdido y el olor…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Aprendizajes",
@@ -19,50 +14,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 162
-section_slug = "blog"
-section_title = "Blog"
-summary = "Divagar y pedalear son cosas que me salen con cierta facilidad. Son buenas virtudes, si uno las evalúa desde el placer y la salud y no desde el tiempo perdido y el olor a chivo. Lo nocivo, lo peligroso de estas…"
-visits = 8451
-popularite = 0.9080029260945839
 hero_image = "/media/jpg/kit.jpg"
 hero_alt = "kit.jpg"
-comment_count = 2
-legacy_url = "/blog/cuando-el-imbecil-tiene-la-razon/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Aprendizajes", path = "/etiquetas/aprendizajes/" },
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-
-[[extra.comments]]
-id = 7051
-anchor = "comment-7051"
-author = "Pablo G."
-date = "2008-11-08 04:19:05"
-date_display = "08.11.2008"
-depth = 0
-url_site = ""
-title = "Cuando el imbécil tiene la razón"
-body = "Mi amigo, siempre es un gusto leerte. A veces encuentro lo que escribís muy bonito, otras veces no tanto; por momentos me parecés tremendamente lúcido; siempre inquisitivo.\n\n.\n\nY sin embargo, aún cuando todo eso que es parte de tu prosa y de tus preocupaciones en la vida laten en este texto, me parece detectar nuevas fortalezas en otros registros de la palabra. \n\n.\n\nComo nunca mi amigo, tu palabra ha ganado en musicalidad y cadencia, ha tomado vuelo poético y potencia evocativa. Las imágenes de la infancia reverberan con fuerza desde el escrupuloso detalle y la reminiscencia distante; las palabras a un tiempo delinean las ideas y sugieren otras tantas posibles; la confrontación retratada como una cuestión de temperamento o de carácter, antes que linealmente política, parece autorizar al lector a rumiar su conclusión, y de ese modo elegante apuntala con fuerza el argumento de fondo.\n\n.\n\nTodo el texto me parece un bello ejercicio de balance y composición; por divina intuición o meditada simetría el uso del lenguaje mas llano junto con otro, menos inmediato vamos a decir, genera un efecto muy particular. Parecieran las palabras reconocer su fuerza en el contraste entre unas y otras, y del mismo modo el texto todo, que principia muy de una manera y acaba de otra. \n\n.\n\nSea por extraordinaria circunstancia o abnegada tarea, encuentro al texto muy bonito, y muy lúcido. Vaya desde aquí mi congratulación, mi admiración y mi afecto, amigo.\n\n.\n\nUn abrazo grande y nos estaremos viendo\n\n. \n\n                                     Pablo\n\n.\n\nPD: Comenzá a afeitarte y abandoná los pantalones de circo, así los canas te registran menos! :D"
-
-[[extra.comments]]
-id = 7053
-anchor = "comment-7053"
-author = "Facu"
-date = "2008-11-17 15:17:39"
-date_display = "17.11.2008"
-depth = 0
-url_site = ""
-title = "Cuando el imbécil tiene la razón"
-body = "Estimado Primo, (tan abandonado que me tenes), para las fiestas , te regalare un arbolito de navidad con luces rojas , verdes y amarillas....... es un chiste. \nnada fijate la próxima de respetar las normas de transito asi te evitas encuentros desagradables con agentes de policia de dibujos animados. cuidate\n                   \n Facu\n\nPD: yo apremdi a bicicletear a los 4 años con una aurorita color dorada de mi hermana. por si interesa el dato"
 +++
 
 Divagar y pedalear son cosas que me salen con cierta facilidad. Son buenas virtudes, si uno las evalúa desde el placer y la salud y no desde el tiempo perdido y el olor a chivo.  Lo nocivo, lo peligroso de estas actividades está en hacerlas al mismo tiempo. Pobre de mí: estoy en riesgo. 

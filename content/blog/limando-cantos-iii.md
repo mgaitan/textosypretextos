@@ -3,13 +3,8 @@ title = "Limando cantos III"
 slug = "limando-cantos-iii"
 date = 2009-10-21 12:23:00
 description = "Intercambio sobre la Ley de Medios en la lista de Ingeniería en Computación. El hilo reúne posiciones enfrentadas sobre libertad de expresión, monopolios y política…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Universo universitario",
@@ -18,49 +13,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 338
-section_slug = "blog"
-section_title = "Blog"
-summary = "Intercambio sobre la Ley de Medios en la lista de Ingeniería en Computación. El hilo reúne posiciones enfrentadas sobre libertad de expresión, monopolios y política…"
-visits = 1999
-popularite = 0.9071578465883542
 hero_image = "/media/gif/2h3z9l5.gif"
 hero_alt = "2h3z9l5.gif"
-comment_count = 2
-legacy_url = "/blog/limando-cantos-iii/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Universo universitario", path = "/etiquetas/universo-universitario/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-
-[[extra.comments]]
-id = 7756
-anchor = "comment-7756"
-author = "Mariano Schmidt"
-date = "2009-10-02 06:21:47"
-date_display = "02.10.2009"
-depth = 0
-url_site = ""
-title = "Limando cantos III"
-body = "Excelente tu respuesta, prolija y contundente. Es increíble tener que escuchar estas opiniones, vertidas generalmente por gente con estudios! Parece que todos esos años de educación no sirven para nada...."
-
-[[extra.comments]]
-id = 7763
-anchor = "comment-7763"
-author = "Laura"
-date = "2009-10-07 06:47:46"
-date_display = "07.10.2009"
-depth = 0
-url_site = ""
-title = "Limando cantos III"
-body = "Agrego un par de cosas simples y de menos importancia, aunq dudo que este ingeniero lea este blog. Respecto de la libertad de elegir libros: cuànta inocencia!!! O cinismo? Realmente se puede creer q somos libres de elegir libros cuando: 1- no todos se consiguen editar? 2- cuando se entra a una librería sin un plan de búsqueda precisa, no se accede a ver todos los libros en venta; lógicamente están mayormepnte expuesto los q más pagan? 3- si se va a buscar algún libro preciso, uno ya tuvo coartada la libertad al leer las críticas (siempre de unos libros y no de todos)? Me cago en la libertad capitalista. \nRespecto del \"terror\" que se siente ante este gobierno y ante el posible uso que se haga de la Ley: por más rápida q sea la puesta en marcha de la Ley, y más corto el plazo de cumplimiento, nunca va a ser antes de que este mandato termine. O sea que esta ley de ningún modo podría favorecer a este gobierno; salvo, por supuesto, que haber construido la viabilidad política (por los motivos e intereses q fueren) necesaria para su aprobación le signifique su reelección. \nY un comentario final en línea con el final del intercambio expuesto: sea la Ley q fuera, ninguna cambia la idiosincrasia, los hábitos, las conciencias prácticas (o llamémoslas directamente prácticas para no confundir). Por más q esta Ley se apruebe (y espero q así sea porq soy capaz de quemar el Congreso si no se hace: aquí tienen material los de derecha, ja, una piba zurdita y violenta), los contenidos seguirán siendo porquerías acríticas, reproductoras de sentido común, hegemónico; y si pretenden ciertos contenidos alternativos, es poco probable que las formas acompañen ese salto cualitativo. Porque estamos formateados y nos llevará años desprendernos de estas formas q ganaron las pantallas compitiendo por el ratting. Y es muy probable que el público en gral, durante años, siga \"eligiendo\" los mismos canales (q no van a desaparecer, q a lo sumo cambiarán -alguno- de manos). Y será muy costoso para las organizaciones sociales poner en marcha proyectos audiovisuales de buena calidad; es decir que habrá q confiar en buenas políticas de financiación, esto es, que la distribución no se agote en el espectro radioeléctrico sino q se inicie de una vez por todas la pretendida distribución de la riqueza. En fin, sí, la lucha continúa; ya lo explicaba Gramsci. \nSaludos, Laura. (gracias por el espacio)"
 +++
 
 **From:** Luis Roberto Ramallo<br>
@@ -291,4 +245,3 @@ Hay más limaduras de cantos en los archivos. Sólo [tenés que buscarlas](/spip
 ### Galería
 
 {{ media_image(src="/media/gif/2h3z9l5.gif", alt="", caption="", align="center") }}
-

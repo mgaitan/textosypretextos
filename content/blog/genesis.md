@@ -4,34 +4,10 @@ slug = "genesis"
 date = 2008-11-30 12:24:35
 description = "Mazamorra es la organización político-social en la que milito desde su creación, en 2006. Nació cuando su proyecto predecesor, Mate Cocido, quedó empantanado en algunas…"
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
 ]
-categories = [
-    "Blog",
-]
 tags = []
-
-[extra]
-legacy_id = 247
-section_slug = "blog"
-section_title = "Blog"
-summary = "Mazamorra es la organización político-social en la que milito desde su creación, en 2006. Nació cuando su proyecto predecesor, Mate Cocido, quedó empantanado en algunas contradicciones entre el discurso y la acción…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/genesis/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
 +++
 
 [Mazamorra](http://www.agrupacionmazamorra.com.ar) es la organización político-social en la que milito desde su creación, en 2006. Nació cuando su proyecto predecesor, Mate Cocido, quedó empantanado en algunas contradicciones entre el discurso y la acción. 

@@ -3,11 +3,6 @@ title = "Samanta Schweblin"
 template = "author.html"
 
 [extra]
-legacy_id = 42
-legacy_slug = "Samanta-Schweblin"
-article_paths = [
-    "de-otros/conservas.md",
-]
 image = ""
 is_owner = false
 gender = "f"

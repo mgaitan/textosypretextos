@@ -3,11 +3,6 @@ title = "Isidoro Blaisten"
 template = "author.html"
 
 [extra]
-legacy_id = 8
-legacy_slug = "Isidoro-Blaisten"
-article_paths = [
-    "de-otros/ultima-empresa.md",
-]
 image = "/media/auton8.jpg"
 is_owner = false
 +++

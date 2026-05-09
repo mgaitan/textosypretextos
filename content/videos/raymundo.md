@@ -3,13 +3,8 @@ title = "Raymundo"
 slug = "raymundo"
 date = 2008-11-04 19:09:59
 description = "Este documental del año 2002, cuenta la vida y obra de Raymundo Gleyzer, un cineasta argentino secuestrado y asesinado por la dictadura militar en 1976. En conjunto con…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = [
     "Cine",
@@ -17,27 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 235
-section_slug = "videos"
-section_title = "Videos"
-summary = "Este documental del año 2002, cuenta la vida y obra de Raymundo Gleyzer, un cineasta argentino secuestrado y asesinado por la dictadura militar en 1976. En conjunto con la vida de Raymundo, se narra la del cine…"
-visits = 511
-popularite = 0.906001683280453
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/raymundo/"
-surtitle = ""
 subtitle = "Virna Molina y Ernesto Ardito"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Cine", path = "/etiquetas/cine/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-]
-comments = []
 +++
 
 {{ external_embed(provider="googlevideo", url="<embed id=\"VideoPlayback\" src=\"http://video.google.com/googleplayer.swf?docid=-4188696712460929333&hl=en&fs=true\" style=\"width:550px;height:462px\" allowFullScreen=\"true\" allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\">") }}

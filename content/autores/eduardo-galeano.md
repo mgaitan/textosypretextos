@@ -3,15 +3,6 @@ title = "Eduardo Galeano"
 template = "author.html"
 
 [extra]
-legacy_id = 5
-legacy_slug = "Eduardo-Galeano"
-article_paths = [
-    "de-otros/la-pequena-muerte.md",
-    "de-otros/las-nubes.md",
-    "de-otros/la-orilla.md",
-    "de-otros/la-tortura.md",
-    "de-otros/isadora.md",
-]
 image = "/media/auton5.jpg"
 is_owner = false
 +++

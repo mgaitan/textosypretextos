@@ -4,34 +4,13 @@ slug = "mas-alla-del-amor"
 date = 2011-12-03 06:32:06
 description = "Todo nos amenaza: el tiempo, que en vivientes fragmentos divide al que fui del que seré, como el machete a la culebra; la conciencia, la transparencia traspasada, la…"
 draft = true
-template = "article.html"
 authors = [
     "Octavio Paz",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 389
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Todo nos amenaza: el tiempo, que en vivientes fragmentos divide al que fui del que seré, como el machete a la culebra; la conciencia, la transparencia traspasada, la mirada ciega de mirarse mirar; las palabras, guantes…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/mas-alla-del-amor/"
-surtitle = ""
 subtitle = "Octavio Paz"
-deck = ""
-author_links = [
-    { name = "Octavio Paz", path = "" },
-]
-tag_links = []
-comments = []
 +++
 
 <div class="poetry">Todo nos amenaza:<br>

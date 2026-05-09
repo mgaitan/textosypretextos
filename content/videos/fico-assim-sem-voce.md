@@ -3,13 +3,8 @@ title = "Fico assim sem você"
 slug = "fico-assim-sem-voce"
 date = 2008-08-16 19:57:30
 description = "Avião sem asa, fogueira sem brasa, sou eu assim sem você. Futebol sem bola, Piu-piu sem Frajola, sou eu assim sem você. Por que é que tem que ser assim se o meu desejo…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = [
     "Amor",
@@ -17,26 +12,7 @@ tags = [
 
 [extra]
 video_id = "iojYDSjKK00"
-legacy_id = 194
-section_slug = "videos"
-section_title = "Videos"
-summary = "Avião sem asa, fogueira sem brasa, sou eu assim sem você. Futebol sem bola, Piu-piu sem Frajola, sou eu assim sem você. Por que é que tem que ser assim se o meu desejo não tem fim. Eu te quero a todo instante nem mil…"
-visits = 671
-popularite = 0.9096039841872052
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/fico-assim-sem-voce/"
-surtitle = ""
 subtitle = "Adriana Calcanhoto"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
 +++
 
 {{ video_embed(provider="youtube", id="iojYDSjKK00") }}

@@ -3,11 +3,6 @@ title = "Roque Dalton"
 template = "author.html"
 
 [extra]
-legacy_id = 34
-legacy_slug = "Roque-Dalton"
-article_paths = [
-    "de-otros/los-burocratas.md",
-]
 image = ""
 is_owner = false
 +++

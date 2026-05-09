@@ -7,6 +7,7 @@
 {% block twitter_description %}Un weblog de Martín Gaitán{% endblock twitter_description %}
 
 {% block content %}
+  {% set site_index = load_data(path="data/site_index.json") %}
   {% set blog = get_section(path="blog/_index.md") %}
   {% set fotos_section = get_section(path="fotos/_index.md") %}
   {% set featured_photo = fotos_section.pages | first %}
@@ -78,10 +79,11 @@
           <div class="index-list" data-popular-reads>
             {% for path in section.extra.popular_paths | slice(end=5) %}
               {% set popular = get_page(path=path) %}
+              {% set popular_info = site_index.pages | get(key=path, default=false) %}
               <article class="index-row">
                 <div class="feed-index">{% if loop.index < 10 %}0{% endif %}{{ loop.index }}</div>
                 <div>
-                  <p class="story-kicker">{{ popular.extra.section_title }}</p>
+                  <p class="story-kicker">{{ popular_info.section_title | default(value=popular.components[0] | title) }}</p>
                   <h3 class="story-title-xs"><a href="{{ popular.permalink }}">{{ popular.title }}</a></h3>
                 </div>
               </article>
@@ -97,7 +99,7 @@
         <h2 class="module-title mb-0">Comentarios recientes</h2>
       </div>
       <div class="home-comments-grid" data-recent-comments>
-        {% for item in section.extra.recent_comments | slice(end=5) %}
+        {% for item in site_index.recent_comments | slice(end=5) %}
           {% set comment_page = get_page(path=item.article_path) %}
           <article class="comment-snippet">
             <p class="story-kicker">{{ item.author | default(value="Anónimo") }} · {{ item.date_display }}</p>

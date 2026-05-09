@@ -4,38 +4,15 @@ slug = "es-que-somos-muy-pobre"
 date = 2009-08-14 20:16:45
 description = "Aquí todo va de mal en peor. La semana pasada se murió mi tía Jacinta, y el sábado, cuando ya la habíamos enterrado y comenzaba a bajársenos la tristeza, comenzó a…"
 draft = true
-template = "article.html"
 authors = [
     "Juan Rulfo",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Cuento",
 ]
 
 [extra]
-legacy_id = 332
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Aquí todo va de mal en peor. La semana pasada se murió mi tía Jacinta, y el sábado, cuando ya la habíamos enterrado y comenzaba a bajársenos la tristeza, comenzó a llover como nunca. A mi papá eso le dio coraje, porque…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/es-que-somos-muy-pobre/"
-surtitle = ""
 subtitle = "Juan Rulfo"
-deck = ""
-author_links = [
-    { name = "Juan Rulfo", path = "/autores/juan-rulfo/" },
-]
-tag_links = [
-    { name = "Cuento", path = "/etiquetas/cuento/" },
-]
-comments = []
 +++
 
 Aquí todo va de mal en peor. La semana pasada se murió mi tía Jacinta, y el sábado, cuando ya la habíamos enterrado y comenzaba a bajársenos la tristeza, comenzó a llover como nunca. A mi papá eso le dio coraje, porque toda la cosecha de cebada estaba asoleándose en el solar. Y el aguacero llegó de repente, en grandes olas de agua, sin darnos tiempo ni siquiera a esconder aunque fuera un manojo; lo único que pudimos hacer, todos los de mi casa, fue estarnos arrimados debajo del tejaván, viendo cómo el agua fría que caía del cielo quemaba aquella cebada amarilla tan recién cortada.

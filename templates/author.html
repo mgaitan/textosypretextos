@@ -13,6 +13,9 @@
 {% block twitter_image %}{% if page.extra.image %}{{ config.base_url }}{{ page.extra.image }}{% else %}{{ config.base_url }}/og-image.png{% endif %}{% endblock twitter_image %}
 
 {% block content %}
+  {% set site_index = load_data(path="data/site_index.json") %}
+  {% set author_info = site_index.authors | get(key=page.title, default=false) %}
+  {% set article_paths = author_info.articles | default(value=[]) %}
   <main class="pt-8">
     <section class="author-header editorial-rule">
       <span class="section-ribbon">{% if page.extra.gender | default(value="m") == "f" %}Autora{% else %}Autor{% endif %}</span>
@@ -31,9 +34,9 @@
       </div>
     </section>
 
-    {% if page.extra.article_paths | length > 0 %}
+    {% if article_paths | length > 0 %}
       <section class="listing mt-10">
-        {% for path in page.extra.article_paths %}
+        {% for path in article_paths %}
           {% set article = get_page(path=path) %}
           {{ macros::story_card(page=article, variant="list") }}
         {% endfor %}

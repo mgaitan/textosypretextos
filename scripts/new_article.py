@@ -40,41 +40,23 @@ def parse_args() -> argparse.Namespace:
 
 def build_front_matter(args: argparse.Namespace, slug: str, now: datetime) -> str:
     tags = [item.strip() for item in args.tags.split(",") if item.strip()]
-    section_title = SECTION_TITLES[args.section]
     draft = "false" if args.publish else "true"
     tags_block = ",\n".join(f'    "{tag}"' for tag in tags)
-    tag_links_block = ",\n".join(f'    {{ name = "{tag}", path = "" }}' for tag in tags)
+    draft_line = "" if args.publish else f"draft = {draft}\n"
     return f"""+++
 title = "{args.title}"
 slug = "{slug}"
 date = {now.strftime("%Y-%m-%d %H:%M:%S")}
-draft = {draft}
-template = "article.html"
+{draft_line}description = ""
 authors = [
     "{args.author}",
-]
-categories = [
-    "{section_title}",
 ]
 tags = [
 {tags_block}
 ]
 
 [extra]
-section_slug = "{args.section}"
-section_title = "{section_title}"
-summary = ""
-hero_image = ""
-hero_alt = ""
-subtitle = ""
 deck = ""
-author_links = [
-    {{ name = "{args.author}", path = "" }},
-]
-tag_links = [
-{tag_links_block}
-]
-comments = []
 +++
 
 """

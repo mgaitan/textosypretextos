@@ -11,8 +11,9 @@
 {% block twitter_description %}{{ section.extra.summary | default(value=config.description) }}{% endblock twitter_description %}
 
 {% block content %}
+  {% set section_slug = section.components[0] %}
   <main class="pt-8">
-    {% if section.extra.section_slug == "blog" %}
+    {% if section_slug == "blog" %}
       {% set blog_subsections = get_section(path="blog/subsecciones/_index.md") %}
     {% endif %}
     <section class="editorial-rule">
@@ -26,7 +27,7 @@
       </div>
     </section>
 
-    {% if section.extra.section_slug == "blog" and blog_subsections.pages | length > 0 %}
+    {% if section_slug == "blog" and blog_subsections.pages | length > 0 %}
       <section class="editorial-rule mt-8">
         <div class="flex items-center justify-between gap-4">
           <h2 class="module-title mb-0">Subsecciones</h2>

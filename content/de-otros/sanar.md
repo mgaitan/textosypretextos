@@ -3,39 +3,15 @@ title = "Sanar"
 slug = "sanar"
 date = 2012-05-20 20:36:29
 description = "Las lágrimas van al cielo Y vuelven a tus ojos desde el mar El tiempo se va, se va y no vuelve Y tu corazón va a sanar Va a sanar Va a sanar La tierra parece estar…"
-draft = false
-template = "article.html"
 authors = [
     "Jorge Drexler",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amor",
 ]
 
 [extra]
-legacy_id = 415
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Las lágrimas van al cielo Y vuelven a tus ojos desde el mar El tiempo se va, se va y no vuelve Y tu corazón va a sanar Va a sanar Va a sanar La tierra parece estar quieta Y el sol parece girar, Y aunque parezca mentira…"
-visits = 541
-popularite = 0.9090419688685463
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/sanar/"
-surtitle = ""
 subtitle = "Jorge Drexler"
-deck = ""
-author_links = [
-    { name = "Jorge Drexler", path = "" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
 +++
 
 <div class="poetry">Las lágrimas van al cielo<br>

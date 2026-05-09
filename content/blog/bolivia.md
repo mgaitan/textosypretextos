@@ -3,75 +3,14 @@ title = "Bolivia"
 slug = "bolivia"
 date = 2004-12-14 06:17:06
 description = "Aunque muchos duden, estoy bastante firme en mi decisión de no comprar comida de rotiseria (o similares) muy seguido. Hay dos razones principales: ese hábito engorda la…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Yo lo vide",
     "Amistad",
     "Córdoba",
 ]
-
-[extra]
-legacy_id = 26
-section_slug = "blog"
-section_title = "Blog"
-summary = "Aunque muchos duden, estoy bastante firme en mi decisión de no comprar comida de rotiseria (o similares) muy seguido. Hay dos razones principales: ese hábito engorda la panza, y el bolsillo adelgaza proporcionalmente…"
-visits = 1198
-popularite = 0.9080887496510069
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/bolivia/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-
-[[extra.comments]]
-id = 389
-anchor = "comment-389"
-author = "El Angel Gris"
-date = "2004-12-14 12:36:39"
-date_display = "14.12.2004"
-depth = 0
-url_site = "http://www.refugioblogless.blogspot.com"
-title = ""
-body = "Lindo post y bienvenido a la blogósfera"
-
-[[extra.comments]]
-id = 927
-anchor = "comment-927"
-author = "tin"
-date = "2005-02-04 12:22:49"
-date_display = "04.02.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "puto spam.... basta!!!!"
-
-[[extra.comments]]
-id = 1076
-anchor = "comment-1076"
-author = "Teresa"
-date = "2005-10-20 19:08:37"
-date_display = "20.10.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Les coment que yo soy de Bolivia....."
 +++
 
 Aunque muchos duden, estoy bastante firme en mi decisión de no comprar comida de rotisería (o similares) muy seguido. Hay dos razones principales: ese hábito engorda la panza, y el bolsillo adelgaza proporcionalmente. Está bien, hay buenas ofertas no muy lejos de acá y, si uno busca un poco, hay comidas más sanas; pero una vez allí,  oyendo (y oliendo) el crujido de papas crocantes acompañando a gigantes y apetecibles lomitos completos, es imposible - al menos muy difícil - no sucumbir al deseo.
@@ -104,4 +43,3 @@ Yo no lo quería interrumpir pero sentía que esperaba algún comentario mio.
 -- *Un compatriota me enseñó y aun no he perdido el pulso ¿Sabés? Ese es el secreto.  Nada de beber de lunes a sábado, porque si uno bebe algo de cervecita ya se pierde el pulso ¿Has visto?. Es un trabajo como el de un médico de cirugía ¿Lo has visto? El domingo si deseas, para el descanso, puedes beber algo de cervecita, pero no exceso ¿sabés? *
 
 Mientras Juan terminaba de atender al otro señor (creo que también boliviano), elogiaba una vez más el regalo para mi amigo. Su mujer --  supongo que sería -- asomaba por la puerta impaciente porque el almuerzo ya estaba listo. Yo limpiaba la marca de mis dedos sobre la cara de John, y me alejaba un poco para ver cuán lindo estaba quedando. Paul, me guiñaba el ojo  escondido atrás de Ringo y todos ellos de perfil --George primero-- esperaban ansiosos salir a la calle bajo mi brazo, para que una vez más, la gente sencilla como Juan se emocione al verlos.
-

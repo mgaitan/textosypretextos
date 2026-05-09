@@ -4,38 +4,15 @@ slug = "las-ruinas-circulares"
 date = 2009-08-14 19:51:50
 description = "Nadie lo vio desembarcar en la unánime noche, nadie vio la canoa de bambú sumiéndose en el fango sagrado, pero a los pocos días nadie ignoraba que el hombre taciturno…"
 draft = true
-template = "article.html"
 authors = [
     "Jorge Luis Borges",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Cuento",
 ]
 
 [extra]
-legacy_id = 326
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Nadie lo vio desembarcar en la unánime noche, nadie vio la canoa de bambú sumiéndose en el fango sagrado, pero a los pocos días nadie ignoraba que el hombre taciturno venía del Sur y que su patria era una de las…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/las-ruinas-circulares/"
-surtitle = ""
 subtitle = "Jorge Luis Borges"
-deck = ""
-author_links = [
-    { name = "Jorge Luis Borges", path = "/autores/jorge-luis-borges/" },
-]
-tag_links = [
-    { name = "Cuento", path = "/etiquetas/cuento/" },
-]
-comments = []
 +++
 
 Nadie lo vio desembarcar en la unánime noche, nadie vio la canoa de bambú sumiéndose en el fango sagrado, pero a los pocos días nadie ignoraba que el hombre taciturno venía del Sur y que su patria era una de las infinitas aldeas que están aguas arriba, en el flanco violento de la montaña, donde el idioma zend no está contaminado de griego y donde es infrecuente la lepra. Lo cierto es que el hombre gris besó el fango, repechó la ribera sin apartar (probablemente, sin sentir) las cortaderas que le dilaceraban las carnes y se arrastró, mareado y ensangrentado, hasta el recinto circular que corona un tigre o caballo de piedra, que tuvo alguna vez el color del fuego y ahora el de la ceniza. Ese redondel es un templo que devoraron los incendios antiguos, que la selva palúdica ha profanado y cuyo dios no recibe honor de los hombres. El forastero se tendió bajo el pedestal. Lo despertó el sol alto. Comprobó sin asombro que las heridas habían cicatrizado; cerró los ojos pálidos y durmió, no por flaqueza de la carne sino por determinación de la voluntad. Sabía que ese templo era el lugar que requería su invencible propósito; sabía que los árboles incesantes no habían logrado estrangular, río abajo, las ruinas de otro templo propicio, también de dioses incendiados y muertos; sabía que su inmediata obligación era el sueño. Hacia la medianoche lo despertó el grito inconsolable de un pájaro. Rastros de pies descalzos, unos higos y un cántaro le advirtieron que los hombres de la región habían espiado con respeto su sueño y solicitaban su amparo o temían su magia. Sintió el frío del miedo y buscó en la muralla dilapidada un nicho sepulcral y se tapó con hojas desconocidas.

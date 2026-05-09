@@ -3,117 +3,13 @@ title = "No pudieron"
 slug = "no-pudieron"
 date = 2010-02-28 09:22:11
 description = "Abel tiene los bigotes canosos. Francisco todavía no, pero tiene la sonrisa grande, los pómulos punteagudos y las ojeras marcadas como su papá. La última vez que…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Amistad",
     "Política",
 ]
-
-[extra]
-legacy_id = 364
-section_slug = "blog"
-section_title = "Blog"
-summary = "Abel tiene los bigotes canosos. Francisco todavía no, pero tiene la sonrisa grande, los pómulos punteagudos y las ojeras marcadas como su papá. La última vez que estuvieron juntos Francisco estaba en la panza de su…"
-visits = 5065
-popularite = 0.9318492360557198
-hero_image = ""
-hero_alt = ""
-comment_count = 7
-legacy_url = "/blog/no-pudieron/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-]
-
-[[extra.comments]]
-id = 8164
-anchor = "comment-8164"
-author = "nati"
-date = "2010-02-28 11:08:27"
-date_display = "28.02.2010"
-depth = 0
-url_site = ""
-title = "No pudieron"
-body = "Me hiciste llorar. \nSabía que las palabras atravesadas iban a salir, y cómo!!\nBesos grandes, pronto nos vemos."
-
-[[extra.comments]]
-id = 8165
-anchor = "comment-8165"
-author = "elena"
-date = "2010-02-28 12:41:12"
-date_display = "28.02.2010"
-depth = 0
-url_site = ""
-title = "No pudieron"
-body = "hermoso.muy sentido.coincido en las lágrimas de nati."
-
-[[extra.comments]]
-id = 8166
-anchor = "comment-8166"
-author = "martin orejas"
-date = "2010-02-28 19:25:37"
-date_display = "28.02.2010"
-depth = 0
-url_site = ""
-title = "No pudieron"
-body = "Tenes un don tincho; cuando lei la historia me habia emocionado y ahora que leo tu texto me pego aun mas"
-
-[[extra.comments]]
-id = 8170
-anchor = "comment-8170"
-author = "matoytruco"
-date = "2010-03-01 17:36:56"
-date_display = "01.03.2010"
-depth = 0
-url_site = ""
-title = "No pudieron"
-body = "Muy bueno Martín, que manera exquisita de contar una historia. Estoy seguro que si alguien llegó a esta página impulsado por las dudas de su verdadera identidad  irá a hacerse el ADN también."
-
-[[extra.comments]]
-id = 8238
-anchor = "comment-8238"
-author = "juan"
-date = "2010-05-29 18:15:21"
-date_display = "29.05.2010"
-depth = 0
-url_site = ""
-title = "No pudieron"
-body = "Hay temas que son complicados de escribir. Te felicito por demostrar que para algunos no es tan dificil...\nEstoy en un grupo de teatro por la identidad, desafortunadamente voy a plagiarte un par de imágenes que rescataste, o formas... \npor otro lado, quiero invitarte a que veas la invitación que tengo en mi blog, espero que te guste www.tercerasalida.blogspot.com"
-
-[[extra.comments]]
-id = 8758
-anchor = "comment-8758"
-author = "Carlos"
-date = "2010-09-30 23:39:03"
-date_display = "30.09.2010"
-depth = 0
-url_site = ""
-title = "No pudieron"
-body = "Vos si que sos un pelotudo,"
-
-[[extra.comments]]
-id = 11076
-anchor = "comment-11076"
-author = "claudia"
-date = "2010-10-20 13:19:35"
-date_display = "20.10.2010"
-depth = 0
-url_site = ""
-title = "No pudieron"
-body = "increíble...buscando otra noticia del tipo comercial, me encuentro con esta historia que me emocionó...no pudieron y nunca podran con el amor, la base de todo y lo que nos mueve sin parar.\nMucha fuerza y gracias por la historia"
 +++
 
 Abel tiene los bigotes canosos. Francisco todavía no, pero tiene la sonrisa grande, los pómulos punteagudos y las ojeras marcadas como su papá. La última vez que estuvieron juntos Francisco estaba en la panza de su mamá, Silvia, con cuatro meses de gestación. Era enero de 1977. 
@@ -152,4 +48,3 @@ Se vieron, por primera vez en sus vidas sabiendo quienes eran, esa misma noche. 
 -- No pudieron, viejo -- le dijo Francisco al oído-- no pudieron. 
 
 {{ video_embed(provider="youtube", id="sANS2sWSkeo") }}
-

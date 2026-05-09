@@ -3,35 +3,13 @@ title = "En estos días"
 slug = "en-estos-dias"
 date = 2008-09-16 13:25:04
 description = "A la mujer que amo y me ama En estos días, todo el viento del mundo sopla en tu dirección La osa mayor corrige la punta de su cola Y te corona con la estrella que guía…"
-draft = false
-template = "article.html"
 authors = [
     "Silvio Rodríguez",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 224
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "A la mujer que amo y me ama En estos días, todo el viento del mundo sopla en tu dirección La osa mayor corrige la punta de su cola Y te corona con la estrella que guía: la mía Los mares se han torcido con no poco dolor…"
-visits = 1241
-popularite = 0.908636336380697
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/en-estos-dias/"
-surtitle = ""
 subtitle = "Silvio Rodríguez"
-deck = ""
-author_links = [
-    { name = "Silvio Rodríguez", path = "/autores/silvio-rodriguez/" },
-]
-tag_links = []
-comments = []
 +++
 
 {{% epigrafe() %}}

@@ -3,13 +3,8 @@ title = "Coger en castellano"
 slug = "coger-en-castellano"
 date = 2008-12-28 17:52:10
 description = "No están desnudas. Pero casi. Algunas sonriendo, o serias en pose hot, o con anteojos de sol, boca abajo en la cama, casi pegándose el culo con los talones, mostrando…"
-draft = false
-template = "article.html"
 authors = [
     "Pedro Mairal",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amistad",
@@ -17,70 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 257
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "No están desnudas. Pero casi. Algunas sonriendo, o serias en pose hot, o con anteojos de sol, boca abajo en la cama, casi pegándose el culo con los talones, mostrando las marcas del bronceado, o con bombachas de…"
-visits = 83738
-popularite = 0.6864202903160397
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/de-otros/coger-en-castellano/"
-surtitle = ""
 subtitle = "Pedro Mairal"
 deck = "No están desnudas. Pero casi. Algunas sonriendo, o serias en pose hot, o con anteojos de sol, boca abajo en la cama, casi pegándose el culo con los talones, mostrando las marcas del bronceado, o con bombachas de corazones rojos o de estrellitas, en esos cuartos que todavía tienen las cortinas rosas elegidas por la madre. A veces están en el baño, de frente al espejo, o se sacan la foto por sobre el hombro, de espaldas al espejo, mostrando el culo para ver cómo les queda de atrás la bikini nueva. Me gustan todas. Deben tener entre 16 y 19 años, no más. Y así, descalzas en sus casas, tienen una sinceridad, un grado de realidad, que no encuentro a mi alrededor. Están posando, jugando a posar, probando su sensualidad, viendo si son capaces de calentar, como preguntando: ¿Te caliento? Yo susurro, les contesto, a todas, a nadie."
-author_links = [
-    { name = "Pedro Mairal", path = "/autores/pedro-mairal/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-
-[[extra.comments]]
-id = 8338
-anchor = "comment-8338"
-author = ""
-date = "2010-07-18 15:35:46"
-date_display = "18.07.2010"
-depth = 0
-url_site = ""
-title = "Coger en castellano"
-body = "para coger tenes que meter la verga en el culo un ejemplo , y la mujer gritara como chancho atado!"
-
-[[extra.comments]]
-id = 51938
-anchor = "comment-51938"
-author = "Norma"
-date = "2011-10-03 22:17:14"
-date_display = "03.10.2011"
-depth = 0
-url_site = ""
-title = "Coger en castellano"
-body = "Qué cosas buenas escribís realmente me atrapan es verdad lo que dicen tus comentaristas que sos una mezcla borgiana y ya no me acuerdo qué más felicitaciones Saludos"
-
-[[extra.comments]]
-id = 52059
-anchor = "comment-52059"
-author = ""
-date = "2011-11-08 13:22:56"
-date_display = "08.11.2011"
-depth = 0
-url_site = ""
-title = "Coger en castellano"
-body = "Fantástico..."
-
-[[extra.comments]]
-id = 52571
-anchor = "comment-52571"
-author = "francisca rueda"
-date = "2012-03-14 18:30:24"
-date_display = "14.03.2012"
-depth = 0
-url_site = ""
-title = "Coger en castellano"
-body = "acabo de descubrir lo que yo escribo en ese texto, che. \nwww.franciscarueda.wordpress.com, PASAD!"
 +++
 
 No puedo cerrar con traba la puerta del escritorio. Sería demasiado sospechoso para Sharon. A veces, a pesar de su Alprazolam y su Prozac, se despierta de golpe paranoica preguntando si cerré la puerta del garaje: "Did you close the garage door, Gus?". Le contesto que sí, que tengo un poco de trabajo atrasado ("paperwork", le digo) y se vuelve a dormir. Escucho que entra al cuarto de los chicos para ver si están bien tapados y después se vuelve a la cama.
@@ -94,4 +27,3 @@ En esos escenarios aparecen, tremendas, levantándose apenas el vestido de algod
 {% postscript() %}
 Publicado en la antología "En celo", editorial Mondadori, Bs. As., 2007
 {% end %}
-

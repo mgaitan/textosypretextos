@@ -3,13 +3,8 @@ title = "Hurgando en el Gmail"
 slug = "hurgando-en-el-gmail"
 date = 2009-02-18 21:21:28
 description = "Hace unos días Nati me pidió que le enviara fotos. Estamos lejos y engañamos la saudade con estas pócimas digitales. Se me ocurrió buscar en el Gmail fotos viejas y…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Tecnología",
@@ -17,59 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 294
-section_slug = "blog"
-section_title = "Blog"
-summary = "Hace unos días Nati me pidió que le enviara fotos. Estamos lejos y engañamos la saudade con estas pócimas digitales. Se me ocurrió buscar en el Gmail fotos viejas y encontré, pero también encontré otras cosas como…"
-visits = 1564
-popularite = 0.9241542559455622
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/hurgando-en-el-gmail/"
-surtitle = ""
-subtitle = ""
 deck = "Hace unos días Nati me pidió que le enviara fotos. Estamos lejos y engañamos la saudade con estas pócimas digitales. Se me ocurrió buscar en el Gmail fotos viejas y encontré, pero también encontré otras cosas como estos mails con Mariano, cuando [él estaba en el viejo mundo](http://nano.nqnwebs.com) y yo con los viejos dilemas. \n\nEra septiembre de 2005. Tantas cosas caben en el tiempo: Mariano volvió de su viaje y se recibió; Dany ya paga sus impuestos y debe tener tarjeta propia; la chica que me gustaba decidió que le gustaban las chicas; la camioneta que compró mi viejo es  [la que volcamos](@/blog/quedarse.md) en diciembre; mi vieja, jubilada, tiene más tiempo para la introspección; con el profesor copado hicimos la charla, que fue buenísima, pero luego perdimos contacto, él por quebrado y yo... también. \n\nPero algunas cosas, por suerte, no cambian tanto."
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-
-[[extra.comments]]
-id = 7120
-anchor = "comment-7120"
-author = "Lucas"
-date = "2009-02-19 05:20:03"
-date_display = "19.02.2009"
-depth = 0
-url_site = ""
-title = "Hurgando en el Gmail"
-body = "uff, buenísimo vieja, che como el tema es muy personal y familiar voy a hacer mi aporte con respecto al tema de DISCUTIR:\n\nhace un tiempo lei un cuento de KAHIL GIBRAN, se llama \"los dos eruditos\". Este dice: que las dos eruditos, un dia se pusieron a discutir frente a sus seguidores en el mercado de la ciudad; sobre la existencia de dios, uno creía en dios y el otro no, discutieron varias horas sobre el tema, luego de no ponerse de acuerdo se retiraron. Unas horas despues el que no creía en dios se dirigio hacia el templo se arrodillo y pidio perdón por no haber creido en dios; y el que creía en dios se dirigio a su casa y quemo todos sus libros sagrados.\n\nEspero que sirva, a ver los compañeros de mazamorra si se prenden y apoyan el eespacio del amigo\n\nnos vemos che, un abrazo"
-
-[[extra.comments]]
-id = 7340
-anchor = "comment-7340"
-author = "yopi"
-date = "2009-07-30 20:06:18"
-date_display = "30.07.2009"
-depth = 0
-url_site = ""
-title = "Hurgando en el Gmail"
-body = "que lindos que son. me reconforta leerlos, tan sensibles y enteros a pesar de toda la mierda del mundo. nunca pierdan el brillo, un abrazo grande.."
-
-[[extra.comments]]
-id = 8183
-anchor = "comment-8183"
-author = ""
-date = "2010-03-12 16:46:06"
-date_display = "12.03.2010"
-depth = 0
-url_site = ""
-title = "Hurgando en el Gmail"
-body = "googleando mi nombre (quien no lo ha hecho alguna vez) encontre un homonimo y un escritor interesante.\n\nleí varios post recientes.\n\nvolveré por aquí a leer más.\n\nsaludos de otro Gaitán"
 +++
 
 ### --o--
@@ -229,4 +172,3 @@ De las lámina, me quedo con la del gringo.
 Te mando un abrazo hno, nos vemos
 
 Mariano
-

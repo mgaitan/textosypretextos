@@ -3,13 +3,8 @@ title = "Carta abierta del Sindicato de Obreros Portuarios a la poetisa Emily Di
 slug = "carta-abierta-del-sindicato-de-obreros-portuarios-a-la"
 date = 2012-07-25 03:08:36
 description = "Señora Dickinson, porque sabemos ser corteses, en ocasión de que la hija del compañero García le comentara unos versos suyos que oyó en la escuela: Multiplicar los…"
-draft = false
-template = "article.html"
 authors = [
     "Luis Pescetti",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amistad",
@@ -17,27 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 435
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Señora Dickinson, porque sabemos ser corteses, en ocasión de que la hija del compañero García le comentara unos versos suyos que oyó en la escuela: Multiplicar los muelles no disminuye el mar. El compañero los trajo a…"
-visits = 5916
-popularite = 0.9127070350485231
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/carta-abierta-del-sindicato-de-obreros-portuarios-a-la/"
-surtitle = ""
 subtitle = "Luis Pescetti"
-deck = ""
-author_links = [
-    { name = "Luis Pescetti", path = "/autores/luis-pescetti/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-comments = []
 +++
 
 Señora Dickinson, porque sabemos ser corteses, en ocasión de que la hija del compañero García le comentara unos versos suyos que oyó en la escuela:

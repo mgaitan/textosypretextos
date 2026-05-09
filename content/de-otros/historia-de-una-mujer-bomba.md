@@ -3,13 +3,8 @@ title = "Historia de una mujer bomba"
 slug = "historia-de-una-mujer-bomba"
 date = 2012-12-12 00:48:22
 description = "San Miguel de Tucumán, la capital de Tucumán, una provincia ubicada en el Norte de la Argentina, tiene sus calles repletas de naranjos. Están dispuestos en hilera en…"
-draft = false
-template = "article.html"
 authors = [
     "Josefina Licitra",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amistad",
@@ -17,59 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 440
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "San Miguel de Tucumán, la capital de Tucumán, una provincia ubicada en el Norte de la Argentina, tiene sus calles repletas de naranjos. Están dispuestos en hilera en casi todas las aceras y eso hace que la ciudad…"
-visits = 41339
-popularite = 0.8781274233633689
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/de-otros/historia-de-una-mujer-bomba/"
-surtitle = ""
 subtitle = "Josefina Licitra"
-deck = ""
-author_links = [
-    { name = "Josefina Licitra", path = "/autores/josefina-licitra/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-]
-
-[[extra.comments]]
-id = 53619
-anchor = "comment-53619"
-author = "Elena"
-date = "2012-12-12 10:04:08"
-date_display = "12.12.2012"
-depth = 0
-url_site = ""
-title = "Historia de una mujer bomba"
-body = "Es inexplicable que una MUJER sola, intente tapar el SOL con un dedo. Aca fallan otras  cuestiones de fondo, no solo la Justicia Mafiosa y Proxeneta de TUCUMAN."
-
-[[extra.comments]]
-id = 54156
-anchor = "comment-54156"
-author = "Yani"
-date = "2013-02-05 01:32:04"
-date_display = "05.02.2013"
-depth = 0
-url_site = ""
-title = "Historia de una mujer bomba"
-body = "Gato encerrado"
-
-[[extra.comments]]
-id = 54836
-anchor = "comment-54836"
-author = ""
-date = "2013-04-15 04:00:24"
-date_display = "15.04.2013"
-depth = 0
-url_site = ""
-title = "Historia de una mujer bomba"
-body = "Aahh las mujeres.... Complicadas pero sin mujer, el hombre no es nada. Maria de la web de [casques audio & headphones](http://casquesaudio.net/)"
 +++
 
 San Miguel de Tucumán, la capital de Tucumán, una provincia ubicada en el Norte de la Argentina, tiene sus calles repletas de naranjos. Están dispuestos en hilera en casi todas las aceras y eso hace que la ciudad entera destile una euforia boba, a veces insoportable. Frente a la casa de Susana Trimarco de Verón hay uno de esos árboles. Conserva todos sus frutos –nadie los ha llevado- y es fácil detenerse en ese mínimo paisaje y tener un acceso de tranquilidad: en Tucumán la gente es buena, parece, y no arranca nada que no le pertenezca.\n\n—¿Qué decís? –interrumpe Trimarco y frunce la nariz con asco-. A estas naranjas no se las roban porque son amargas, son feas. No sirven para nada.
@@ -299,4 +242,3 @@ Ella acepta y la peina con la boca apretada; quizás intenta contener el llanto.
 {% postscript() %}
 Crónica publicada originalmente en la revista Gatopardo, México, en el año 2007 y luego  en "Historia de una mujer bomba y otros relatos, antología de crónica de la Universidad Adolfo Ibáñez" de Chile.
 {% end %}
-

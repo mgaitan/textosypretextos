@@ -4,38 +4,15 @@ slug = "bala-en-el-cerebro"
 date = 2009-08-14 20:04:51
 description = "Anders llegó al banco poco antes de la hora de cierre, así que por supuesto la cola era interminable y quedó ubicado detrás de dos mujeres que, con su estridente y…"
 draft = true
-template = "article.html"
 authors = [
     "Tobias Wolff",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Cuento",
 ]
 
 [extra]
-legacy_id = 330
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Anders llegó al banco poco antes de la hora de cierre, así que por supuesto la cola era interminable y quedó ubicado detrás de dos mujeres que, con su estridente y estúpida conversación, lo pusieron de un humor…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/bala-en-el-cerebro/"
-surtitle = ""
 subtitle = "Tobias Wolff"
-deck = ""
-author_links = [
-    { name = "Tobias Wolff", path = "" },
-]
-tag_links = [
-    { name = "Cuento", path = "/etiquetas/cuento/" },
-]
-comments = []
 +++
 
 Anders llegó al banco poco antes de la hora de cierre, así que por supuesto la cola era interminable y quedó ubicado detrás de dos mujeres que, con su estridente y estúpida conversación, lo pusieron de un humor asesino. De cualquier manera nunca estaba del mejor humor, Anders—un crítico literario conocido por el cansado y elegante salvajismo con el que despachaba casi todo lo que reseñaba.

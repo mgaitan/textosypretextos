@@ -3,13 +3,8 @@ title = "El vendedor de naranjas"
 slug = "el-vendedor-de-naranjas"
 date = 2009-01-09 09:47:59
 description = "El hombre que maneja la niveladora de terreno, mira el banderín azul con ansiedad. Tiene las manos al volante, y un cigarrillo apagado en la boca. El sol brilla con…"
-draft = false
-template = "article.html"
 authors = [
     "Jorge Lanata",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Política",
@@ -17,28 +12,9 @@ tags = [
 ]
 
 [extra]
-legacy_id = 264
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "El hombre que maneja la niveladora de terreno, mira el banderín azul con ansiedad. Tiene las manos al volante, y un cigarrillo apagado en la boca. El sol brilla con desenfado y entonces el hombre se seca una gota que…"
-visits = 1126
-popularite = 0.9066396752886733
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-vendedor-de-naranjas/"
-surtitle = ""
 subtitle = "Jorge Lanata"
-deck = ""
-author_links = [
-    { name = "Jorge Lanata", path = "/autores/jorge-lanata/" },
-]
-tag_links = [
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-comments = []
 +++
+
 El hombre que maneja la niveladora de terreno, mira
 el banderín azul con ansiedad. Tiene las manos al volante, y un cigarrillo apagado en la boca. El sol brilla con 
 desenfado y entonces el hombre se seca una gota que le

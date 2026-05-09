@@ -3,39 +3,15 @@ title = "El enamorado"
 slug = "el-enamorado"
 date = 2008-04-05 16:34:00
 description = "Lunas, marfiles, instrumentos, rosas, lamparas y la linea de Durero, las nueve cifras y el cambiante cero, debo fingir que existen esas cosas. Debo fingir que en el…"
-draft = false
-template = "article.html"
 authors = [
     "Jorge Luis Borges",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amor",
 ]
 
 [extra]
-legacy_id = 97
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Lunas, marfiles, instrumentos, rosas, lamparas y la linea de Durero, las nueve cifras y el cambiante cero, debo fingir que existen esas cosas. Debo fingir que en el pasado fueron Persepolis y Roma y que una arena sutil…"
-visits = 1896
-popularite = 0.9065415706045545
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-enamorado/"
-surtitle = ""
 subtitle = "Jorge Luis Borges"
-deck = ""
-author_links = [
-    { name = "Jorge Luis Borges", path = "/autores/jorge-luis-borges/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
 +++
 
 <div class="poetry">Lunas, marfiles, instrumentos, rosas,<br>

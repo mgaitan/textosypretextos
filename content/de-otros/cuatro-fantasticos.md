@@ -3,13 +3,8 @@ title = "Cuatro fantásticos"
 slug = "cuatro-fantasticos"
 date = 2009-02-12 20:35:38
 description = "Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay…"
-draft = false
-template = "article.html"
 authors = [
     "Fabián Casas",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Familia",
@@ -17,49 +12,9 @@ tags = [
 ]
 
 [extra]
-legacy_id = 287
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay tantas caras en el mundo que uno, tarde o temprano…"
-visits = 11667
-popularite = 0.9056547023626682
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/de-otros/cuatro-fantasticos/"
-surtitle = ""
 subtitle = "Fabián Casas"
-deck = ""
-author_links = [
-    { name = "Fabián Casas", path = "/autores/fabian-casas/" },
-]
-tag_links = [
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 7141
-anchor = "comment-7141"
-author = "antonia"
-date = "2009-03-09 18:55:16"
-date_display = "09.03.2009"
-depth = 0
-url_site = ""
-title = "Cuatro fantásticos"
-body = "muy bueno!\npor un momento compartir ese espacio de ficción tan íntimo como es la escritura\ndejarse llevar como en una película\ndonde nosotros le vamos poniendo imagen."
-
-[[extra.comments]]
-id = 54142
-anchor = "comment-54142"
-author = "naty menstrual"
-date = "2013-01-31 08:10:20"
-date_display = "31.01.2013"
-depth = 0
-url_site = "http://www.natymenstrual.blogspot.com"
-title = "Cuatro fantásticos"
-body = "me encanta me encanta me encanta. tan realista tan concreto tan tierno tan dulce tan simpatico... me encanta\ngracias\nnm"
 +++
+
 Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay tantas caras en el mundo que uno, tarde o temprano, termina siendo otro. Yo quisiera hablar acá de los que conocí. Ellos dejaron sus huellas en mi vida y pienso que una forma de retribuirles que me hayan pisado es contar quiénes eran, lo que me enseñaron. Esas cosas.
 
 Para esa época mamá trabajaba en la fábrica de corpiños Peter Pan. Un nombre glorioso. No sé si todavía sigue funcionando. Mamá, por lo que me cuentan todos, era una mujer despampanante, parecía una vedette. Piernas, culo, caderas. Vivíamos en un departamentito del barrio de Once, muy chiquito, yo pensaba que era como el caño de Hijitus: el dormitorio de mamá, el living donde yo dormía en un sofá cama y una kitchenet empotrada en la pared. Eso era todo. Mamá tenía ropa tirada por todas partes. Y cosméticos y revistas que se traía de la peluquería de su amiga. Mi madre era una gran lectora. A veces, cuando ella iba a bailar, yo me quedaba con la peluquera, una paraguaya que me hablaba de sus hijos quienes, decía, tenían casi mi misma edad y estaban con su padre en Asunción. Yo no asociaba Asunción con un lugar físico, mas bien me parecía un verbo.

@@ -3,41 +3,13 @@ title = "La tortura"
 slug = "la-tortura"
 date = 2009-04-01 11:48:16
 description = "La palabra mártir viene del griego, y significa: el que da testimonio. En los años de la dictadura militar brasileña, fray Tito dio testimonio de indignación entre los…"
-draft = false
-template = "article.html"
 authors = [
     "Eduardo Galeano",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amistad",
     "Cine",
 ]
-
-[extra]
-legacy_id = 278
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "La palabra mártir viene del griego, y significa: el que da testimonio. En los años de la dictadura militar brasileña, fray Tito dio testimonio de indignación entre los indignos, y fue por ellos encarcelado y…"
-visits = 7946
-popularite = 0.9075672581712685
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/la-tortura/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Eduardo Galeano", path = "/autores/eduardo-galeano/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-]
-comments = []
 +++
 
 La palabra mártir viene del griego, y significa: el que da testimonio. En los años de la dictadura militar brasileña, fray Tito dio testimonio de indignación entre los indignos, y fue por ellos encarcelado y atormentado una vez y dos y muchas veces.Después, marchó al exilio. 

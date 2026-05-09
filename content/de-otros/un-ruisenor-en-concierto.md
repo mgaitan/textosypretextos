@@ -3,13 +3,8 @@ title = "Un ruiseñor en concierto"
 slug = "un-ruisenor-en-concierto"
 date = 2012-06-18 01:08:19
 description = "En la cima del árbol justo al borde del verde -en donde empieza el aire- hay un ruiseñor en concierto. Por un momento creo que soy de nube que no me pesa esta materia…"
-draft = false
-template = "article.html"
 authors = [
     "Pecas Soriano",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Música",
@@ -17,27 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 426
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "En la cima del árbol justo al borde del verde -en donde empieza el aire- hay un ruiseñor en concierto. Por un momento creo que soy de nube que no me pesa esta materia que casi tengo la altura de su canto. De pronto el…"
-visits = 784
-popularite = 0.9095423822711809
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/un-ruisenor-en-concierto/"
-surtitle = ""
 subtitle = "Pecas Soriano"
-deck = ""
-author_links = [
-    { name = "Pecas Soriano", path = "/autores/pecas-soriano/" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-comments = []
 +++
 
 <div class="poetry">En la cima del árbol<br>

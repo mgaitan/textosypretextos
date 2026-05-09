@@ -3,12 +3,6 @@ title = "Joaquín Sabina"
 template = "author.html"
 
 [extra]
-legacy_id = 17
-legacy_slug = "Joaquin-Sabina"
-article_paths = [
-    "de-otros/benditos-malditos-viii.md",
-    "de-otros/a-la-orilla-de-la-chimenea.md",
-]
 image = "/media/auton17.jpg"
 is_owner = false
 +++

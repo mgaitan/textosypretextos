@@ -3,13 +3,8 @@ title = "Zamba de usted"
 slug = "zamba-de-usted"
 date = 2012-04-22 14:16:27
 description = "Yo no sé si podrá esta zamba llegar a usted, bajo los luceros va por la noche buscando el pueblito donde la dejé Por oir otra vez la tonadita de su voz, niña de los…"
-draft = false
-template = "article.html"
 authors = [
     "Felix Luna y Ariel Ramirez",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "canción",
@@ -18,28 +13,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 381
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Yo no sé si podrá esta zamba llegar a usted, bajo los luceros va por la noche buscando el pueblito donde la dejé Por oir otra vez la tonadita de su voz, niña de los ojos color de olivo me iré tras la zamba, romero de…"
-visits = 2242
-popularite = 0.9075009308418274
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/zamba-de-usted/"
-surtitle = ""
 subtitle = "Felix Luna y Ariel Ramirez"
-deck = ""
-author_links = [
-    { name = "Felix Luna y Ariel Ramirez", path = "" },
-]
-tag_links = [
-    { name = "canción", path = "/etiquetas/cancion/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
 +++
 
 <div class="poetry">Yo no sé<br>

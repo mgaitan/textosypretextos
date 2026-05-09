@@ -3,13 +3,8 @@ title = "Synecdoche, New York"
 slug = "synecdoche-new-york"
 date = 2014-02-08 04:11:00
 description = "A la memoria de Philip Seymour Hoffman Todo es más complicado de lo que piensas. Sólo ves un décimo de lo que es verdad. Hay un millón de pequeños hilos ligados a cada…"
-draft = false
-template = "article.html"
 authors = [
     "Charlie Kaufmann",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Cine",
@@ -17,27 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 443
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "A la memoria de Philip Seymour Hoffman Todo es más complicado de lo que piensas. Sólo ves un décimo de lo que es verdad. Hay un millón de pequeños hilos ligados a cada decisión que tomas. Puedes destruir tu vida cada…"
-visits = 1166
-popularite = 0.983059446523208
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/synecdoche-new-york/"
-surtitle = ""
 subtitle = "Charlie Kaufmann"
-deck = ""
-author_links = [
-    { name = "Charlie Kaufmann", path = "" },
-]
-tag_links = [
-    { name = "Cine", path = "/etiquetas/cine/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
 +++
 
 <div style="float:right;">A la memoria de Philip Seymour Hoffman</div>

@@ -4,34 +4,10 @@ slug = "esto-que-nos-pasa"
 date = 2005-11-16 07:37:37
 description = "Todo lo que de vos quisiera es tan poco en el fondo porque en el fondo es todo como un perro que pasa, una colina, esas cosas de nada, cotidianas, espiga y cabellera y…"
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
 ]
-categories = [
-    "Blog",
-]
 tags = []
-
-[extra]
-legacy_id = 53
-section_slug = "blog"
-section_title = "Blog"
-summary = "Todo lo que de vos quisiera es tan poco en el fondo porque en el fondo es todo como un perro que pasa, una colina, esas cosas de nada, cotidianas, espiga y cabellera y dos terrones, el olor de tu cuerpo, lo que decís…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/esto-que-nos-pasa/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
 +++
 
 {{% epigrafe() %}}

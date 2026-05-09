@@ -3,62 +3,13 @@ title = "Con tanta noche por la ventana"
 slug = "con-tanta-noche-por-la-ventana"
 date = 2011-12-11 07:51:00
 description = "UNO Por la ventanilla refulgente, la luz. Toda la luz. Sólo la luz. \"Bienvenido a Neuquén\" dicen, tímidos, los arbolitos secos de la ruta 22. Los vasos vacíos de…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Amistad",
     "Amor",
 ]
-
-[extra]
-legacy_id = 398
-section_slug = "blog"
-section_title = "Blog"
-summary = "UNO Por la ventanilla refulgente, la luz. Toda la luz. Sólo la luz. \"Bienvenido a Neuquén\" dicen, tímidos, los arbolitos secos de la ruta 22. Los vasos vacíos de whisky berreta que convierten las 16 horas de viaje en…"
-visits = 116174
-popularite = 0.6296504199252732
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/con-tanta-noche-por-la-ventana/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-
-[[extra.comments]]
-id = 52401
-anchor = "comment-52401"
-author = "marina"
-date = "2012-01-25 09:07:26"
-date_display = "25.01.2012"
-depth = 0
-url_site = ""
-title = "Con tanta noche por la ventana"
-body = "que lindoooo... me encantó. Además me encanta entrar a Nequén en bondi, y vos hiciste un relato marivolloso como siempre. ¿Tiene continuación? :-)"
-
-[[extra.comments]]
-id = 52941
-anchor = "comment-52941"
-author = "LuLa"
-date = "2012-05-10 09:23:33"
-date_display = "10.05.2012"
-depth = 0
-url_site = ""
-title = "Con tanta noche por la ventana"
-body = "ooooooo, la eterna espera en la parada del bondi. Estoy casi segura q esa imagen se repite en cada terminal y/o parada de colectivos del planeta. Genial la descripción."
 +++
 
 ### UNO
@@ -180,4 +131,3 @@ Te escribo, con tanta noche por la ventana, amándote suavecito.
 {% postscript() %}
 *Correo enviado el domingo 11 de diciembre de 2011*.
 {% end %}
-

@@ -3,35 +3,13 @@ title = "Promesas sobre el bidet"
 slug = "promesas-sobre-el-bidet"
 date = 2008-06-09 22:43:55
 description = "Por favor no hagas promesas sobre el bidet por favor no me abras más los sobres. Por favor, yo te prometo te escribiré si es que para de correr. Por favor, sigue la…"
-draft = false
-template = "article.html"
 authors = [
     "Charly García",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 146
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Por favor no hagas promesas sobre el bidet por favor no me abras más los sobres. Por favor, yo te prometo te escribiré si es que para de correr. Por favor, sigue la sombra de mi bebé, por favor, no bebas más, por favor…"
-visits = 9660
-popularite = 0.9131748810622817
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/promesas-sobre-el-bidet/"
-surtitle = ""
 subtitle = "Charly García"
-deck = ""
-author_links = [
-    { name = "Charly García", path = "/autores/charly-garcia/" },
-]
-tag_links = []
-comments = []
 +++
 
 <div class="poetry">Por favor no hagas promesas sobre el bidet<br>

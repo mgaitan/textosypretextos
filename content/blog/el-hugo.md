@@ -3,43 +3,14 @@ title = "El Hugo"
 slug = "el-hugo"
 date = 2004-11-20 18:37:53
 description = "El cine, esa cinta de sueños Orson Welles Sobre el Boulevard San Juan, cerquita del \"Patiolmos\" (el Shopping Patio Olmos) se encuentra un edificio antiguo con puertas…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "El resto",
     "Cine",
     "Córdoba",
 ]
-
-[extra]
-legacy_id = 16
-section_slug = "blog"
-section_title = "Blog"
-summary = "El cine, esa cinta de sueños Orson Welles Sobre el Boulevard San Juan, cerquita del \"Patiolmos\" (el Shopping Patio Olmos) se encuentra un edificio antiguo con puertas altísimas de madera tallada y rampas para…"
-visits = 651
-popularite = 0.9064362303900785
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/el-hugo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-comments = []
 +++
 
 {{% epigrafe() %}}
