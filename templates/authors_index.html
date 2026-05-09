@@ -1,33 +1,46 @@
-{% extends "base.html" %}
-
-{% block title %}Autoras y autores · {{ config.title }}{% endblock title %}
-{% block canonical_url %}{{ section.permalink }}{% endblock canonical_url %}
-{% block og_url %}{{ section.permalink }}{% endblock og_url %}
-
-{% block content %}
-  <main class="pt-8">
+{% extends "base.html" %} {% block title %}Autoras y autores · {{ config.title
+}}{% endblock title %} {% block canonical_url %}{{ section.permalink }}{%
+endblock canonical_url %} {% block og_url %}{{ section.permalink }}{% endblock
+og_url %} {% block og_title %}Autoras y autores · {{ config.title }}{% endblock
+og_title %} {% block og_description %}{{ config.description }}{% endblock
+og_description %} {% block twitter_title %}Autoras y autores · {{ config.title
+}}{% endblock twitter_title %} {% block twitter_description %}{{
+config.description }}{% endblock twitter_description %} {% block content %}
+<main class="pt-8">
     <section class="editorial-rule">
-      <span class="section-ribbon">Autoras y autores</span>
-      <div class="mt-5 max-w-[48rem]">
-        <h2 class="story-title">Autoras y autores</h2>
-      </div>
+        <span class="section-ribbon">Autoras y autores</span>
+        <div class="mt-5 max-w-[48rem]">
+            <h2 class="story-title">Autoras y autores</h2>
+        </div>
     </section>
 
     <section class="taxonomy-grid mt-10">
-      {% for page in section.pages | sort(attribute="title") %}
-        {% if not page.extra.is_owner %}
-          <article class="taxonomy-card reveal">
+        {% for page in section.pages | sort(attribute="title") %} {% if not
+        page.extra.is_owner %}
+        <article class="taxonomy-card reveal">
             {% if page.extra.image %}
-              <a href="{{ page.permalink }}" class="author-thumb">
-                <img src="{{ page.extra.image }}" alt="{{ page.title }}" loading="lazy">
-              </a>
+            <a href="{{ page.permalink }}" class="author-thumb">
+                <img
+                    src="{{ page.extra.image }}"
+                    alt="{{ page.title }}"
+                    loading="lazy"
+                />
+            </a>
             {% endif %}
-            <p class="story-kicker">{% if page.extra.gender | default(value="m") == "f" %}Autora{% else %}Autor{% endif %}</p>
-            <h2 class="story-title-xs"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
-            <p class="mt-4 text-base leading-7 text-neutral-700">{{ page.extra.article_paths | length }} {% if page.extra.article_paths | length == 1 %}texto{% else %}textos{% endif %}</p>
-          </article>
-        {% endif %}
-      {% endfor %}
+            <p class="story-kicker">
+                {% if page.extra.gender | default(value="m") == "f" %}Autora{%
+                else %}Autor{% endif %}
+            </p>
+            <h2 class="story-title-xs">
+                <a href="{{ page.permalink }}">{{ page.title }}</a>
+            </h2>
+            <p class="mt-4 text-base leading-7 text-neutral-700">
+                {{ page.extra.article_paths | length }} {% if
+                page.extra.article_paths | length == 1 %}texto{% else %}textos{%
+                endif %}
+            </p>
+        </article>
+        {% endif %} {% endfor %}
     </section>
-  </main>
+</main>
 {% endblock content %}
