@@ -73,6 +73,19 @@ def hunspell_unknown(words: list[str]) -> set[str]:
         text=True,
         check=False,
     )
+    # hunspell puede devolver 1 cuando encuentra palabras desconocidas (comportamiento
+    # normal en algunas versiones). Sólo es un error de configuración cuando el
+    # returncode es distinto de cero Y no hay ningún output en stdout: eso indica
+    # que el diccionario no está disponible o que hunspell falló antes de procesar.
+    if proc.returncode != 0 and not proc.stdout.strip():
+        print(
+            f"ERROR: hunspell terminó con código {proc.returncode} sin producir output.\n"
+            f"  ¿Está instalado el diccionario '{DICT}'?\n"
+            f"  sudo apt install hunspell-es\n"
+            f"Stderr de hunspell:\n{proc.stderr.strip()}",
+            file=sys.stderr,
+        )
+        sys.exit(2)
     return {w for w in proc.stdout.splitlines() if w}
 
 
@@ -107,7 +120,11 @@ def check_files(paths: list[pathlib.Path], allow: set[str]) -> int:
     for path, ln, w in findings:
         grouped.setdefault(path, []).append((ln, w))
     for path, items in grouped.items():
-        rel = path.resolve().relative_to(ROOT) if path.resolve().is_relative_to(ROOT) else path
+        rel = (
+            path.resolve().relative_to(ROOT)
+            if path.resolve().is_relative_to(ROOT)
+            else path
+        )
         print(f"\n{rel}")
         seen: set[tuple[int, str]] = set()
         for ln, w in items:
@@ -117,8 +134,12 @@ def check_files(paths: list[pathlib.Path], allow: set[str]) -> int:
             seen.add(key)
             print(f"  {ln:>5}: {w}")
     distinct = sorted({w for _, _, w in findings}, key=str.lower)
-    print(f"\n{len(findings)} ocurrencias / {len(distinct)} palabras desconocidas en {len(grouped)} archivo(s).")
-    print("Si alguna es válida (nombre propio, extranjerismo, etc.) agregala a scripts/spell_allow.txt.")
+    print(
+        f"\n{len(findings)} ocurrencias / {len(distinct)} palabras desconocidas en {len(grouped)} archivo(s)."
+    )
+    print(
+        "Si alguna es válida (nombre propio, extranjerismo, etc.) agregala a scripts/spell_allow.txt."
+    )
     return 1
 
 
@@ -145,13 +166,27 @@ def resolve_paths(args: list[str]) -> list[pathlib.Path]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("paths", nargs="*", help="Archivos a revisar (default: content/**/*.md)")
-    parser.add_argument("--list-unknown", action="store_true", help="Listar palabras desconocidas por frecuencia")
-    parser.add_argument("--top", type=int, default=200, help="Cuántas palabras mostrar con --list-unknown")
+    parser.add_argument(
+        "paths", nargs="*", help="Archivos a revisar (default: content/**/*.md)"
+    )
+    parser.add_argument(
+        "--list-unknown",
+        action="store_true",
+        help="Listar palabras desconocidas por frecuencia",
+    )
+    parser.add_argument(
+        "--top",
+        type=int,
+        default=200,
+        help="Cuántas palabras mostrar con --list-unknown",
+    )
     opts = parser.parse_args()
 
     if not shutil.which("hunspell"):
-        print("ERROR: no encuentro `hunspell` en el PATH. Instalalo: sudo apt install hunspell hunspell-es", file=sys.stderr)
+        print(
+            "ERROR: no encuentro `hunspell` en el PATH. Instalalo: sudo apt install hunspell hunspell-es",
+            file=sys.stderr,
+        )
         return 2
 
     paths = [p for p in resolve_paths(opts.paths) if p.exists()]
