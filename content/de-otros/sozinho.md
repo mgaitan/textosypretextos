@@ -18,29 +18,31 @@ deck = "<div class=\"poetry\">Às vezes, no silêncio da noite<br>\nEu fico imag
 
 ### Sozinho - Caetano Veloso
 
-<div class="poetry">A veces, en el silencio de la noche<br>
-Me quedo imaginándonos a los dos<br>
-Me quedo allí soñando despierto, juntando<br>
-El antes, el ahora y el después.<br>
-¿Por qué me dejas tan suelto?<br>
-¿Por qué no me sigues los pasos?<br>
-Me estoy sintiendo muy solo.<br>
-<br>
-No soy ni quiero ser tu dueño<br>
-Es que un cariño a veces cae bien<br>
-Tengo mis deseos y planes secretos<br>
-Que abro para tí y nadie más.<br>
-¿Por qué me olvidas y desapareces?<br>
-¿Y si me interesara por alguien?<br>
-¿Y si ella, de repente, me gana?<br>
-<br>
-Cuando nos gustamos<br>
-Es claro que nos cuidamos<br>
-Dices que me amas<br>
-Sólo que que es de la boca para afuera<br>
-O me engañas<br>
-O no estás madura<br>
-¿Dónde estás ahora?</div>
+{% poetry() %}
+A veces, en el silencio de la noche
+Me quedo imaginándonos a los dos
+Me quedo allí soñando despierto, juntando
+El antes, el ahora y el después.
+¿Por qué me dejas tan suelto?
+¿Por qué no me sigues los pasos?
+Me estoy sintiendo muy solo.
+
+No soy ni quiero ser tu dueño
+Es que un cariño a veces cae bien
+Tengo mis deseos y planes secretos
+Que abro para tí y nadie más.
+¿Por qué me olvidas y desapareces?
+¿Y si me interesara por alguien?
+¿Y si ella, de repente, me gana?
+
+Cuando nos gustamos
+Es claro que nos cuidamos
+Dices que me amas
+Sólo que que es de la boca para afuera
+O me engañas
+O no estás madura
+¿Dónde estás ahora?
+{% end %}
 
 {% postscript() %}
 La rudimentaria traducción es propia, con gentiles correcciones del compañero Quique.

@@ -9,19 +9,21 @@ authors = [
 tags = []
 +++
 
-<div class="poetry">Por favor no hagas promesas sobre el bidet<br>
-por favor no me abras más los sobres.<br>
-Por favor, yo te prometo te escribiré<br>
-si es que para de correr.<br>
-Por favor, sigue la sombra de mi bebé,<br>
-por favor, no bebas más, por favor no llorés.<br>
-Por favor yo te prometo te escribiré si es que para de llover.<br>
-Porque me tratas tan bien, me tratas tan mal<br>
-si sabés que no aprendí a vivir.<br>
-A veces estoy tan bien, estoy tan down.<br>
-Calambres en el alma,<br>
-cada cual tiene un trip en el bocho<br>
-difícil que lleguemos a ponernos de acuerdo.</div>
+{% poetry() %}
+Por favor no hagas promesas sobre el bidet
+por favor no me abras más los sobres.
+Por favor, yo te prometo te escribiré
+si es que para de correr.
+Por favor, sigue la sombra de mi bebé,
+por favor, no bebas más, por favor no llorés.
+Por favor yo te prometo te escribiré si es que para de llover.
+Porque me tratas tan bien, me tratas tan mal
+si sabés que no aprendí a vivir.
+A veces estoy tan bien, estoy tan down.
+Calambres en el alma,
+cada cual tiene un trip en el bocho
+difícil que lleguemos a ponernos de acuerdo.
+{% end %}
 
 {{ video_embed(provider="youtube", id="7oMApe1k-o4") }}
 

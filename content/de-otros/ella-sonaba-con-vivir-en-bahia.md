@@ -10,38 +10,40 @@ authors = [
 tags = []
 +++
 
-<div class="poetry">Ella soñaba con vivir en Bahía,<br>
-pero en San Telmo sobrevivía;<br>
-tomaba clases de teatro independiente<br>
-era feliz mostrando el culo a tanta gente<br>
-inteligente.<br>
-<br>
-Tomaba leche en La Martona de Corrientes<br>
-y se las daba de mujer independiente.<br>
-Siempre jugó a ser una mina esclarecida<br>
-con la política social comprometida;<br>
-era agresiva.<br>
-<br>
-En realidad siempre sintió ser agredida;<br>
-"En este medio todo es causa perdida".<br>
-Mientras su amante resoplando a sus espaldas<br>
-le prometía ser el último en forzarla,<br>
-y rescatarla.<br>
-<br>
-Ella pensaba que era un juego este tormento,<br>
-de abandonarlo todo en busca de otros vientos<br>
-de comenzar de nuevo en medio de otra gente,<br>
-en otra patria y otro cielo diferente;<br>
-era inocente.<br>
-<br>
-Nunca empezó en las que enfrentaron seriamente<br>
-la realidad de ser mujeres del presente;<br>
-después de todo era una joven liberada,<br>
-lo suficientemente bien analizada:<br>
-era freudiana.<br>
-<br>
-Ella jugaba a la heroína de la fiaca<br>
-y hoy hace cinco largos años que era flaca<br>
-manda postales, sin corpiño, bien tostada,<br>
-con cierto tono portugués en la posdata.<br>
-Ya es bahiana, mi Mariana.</div>
+{% poetry() %}
+Ella soñaba con vivir en Bahía,
+pero en San Telmo sobrevivía;
+tomaba clases de teatro independiente
+era feliz mostrando el culo a tanta gente
+inteligente.
+
+Tomaba leche en La Martona de Corrientes
+y se las daba de mujer independiente.
+Siempre jugó a ser una mina esclarecida
+con la política social comprometida;
+era agresiva.
+
+En realidad siempre sintió ser agredida;
+"En este medio todo es causa perdida".
+Mientras su amante resoplando a sus espaldas
+le prometía ser el último en forzarla,
+y rescatarla.
+
+Ella pensaba que era un juego este tormento,
+de abandonarlo todo en busca de otros vientos
+de comenzar de nuevo en medio de otra gente,
+en otra patria y otro cielo diferente;
+era inocente.
+
+Nunca empezó en las que enfrentaron seriamente
+la realidad de ser mujeres del presente;
+después de todo era una joven liberada,
+lo suficientemente bien analizada:
+era freudiana.
+
+Ella jugaba a la heroína de la fiaca
+y hoy hace cinco largos años que era flaca
+manda postales, sin corpiño, bien tostada,
+con cierto tono portugués en la posdata.
+Ya es bahiana, mi Mariana.
+{% end %}

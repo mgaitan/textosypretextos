@@ -11,39 +11,41 @@ tags = [
 ]
 +++
 
-<div class="poetry">Defender la alegría como una trinchera<br>
-defenderla del escándalo y la rutina<br>
-de la miseria y los miserables<br>
-de las ausencias transitorias<br>
-y las definitivas<br>
-<br>
-defender la alegría como un principio<br>
-defenderla del pasmo y las pesadillas<br>
-de los neutrales y de los neutrones<br>
-de las dulces infamias<br>
-y los graves diagnósticos<br>
-<br>
-defender la alegría como una bandera<br>
-defenderla del rayo y la melancolía<br>
-de los ingenuos y de los canallas<br>
-de la retórica y los paros cardíacos<br>
-de las endemias y las academias<br>
-<br>
-defender la alegría como un destino<br>
-defenderla del fuego y de los bomberos<br>
-de los suicidas y los homicidas<br>
-de las vacaciones y del agobio<br>
-de la obligación de estar alegres<br>
-<br>
-defender la alegría como una certeza<br>
-defenderla del óxido y la roña<br>
-de la famosa pátina del tiempo<br>
-del relente y del oportunismo<br>
-de los proxenetas de la risa<br>
-<br>
-defender la alegría como un derecho<br>
-defenderla de dios y del invierno<br>
-de las mayúsculas y de la muerte<br>
-de los apellidos y las lástimas<br>
-del azar<br>
-y también de la alegría.</div>
+{% poetry() %}
+Defender la alegría como una trinchera
+defenderla del escándalo y la rutina
+de la miseria y los miserables
+de las ausencias transitorias
+y las definitivas
+
+defender la alegría como un principio
+defenderla del pasmo y las pesadillas
+de los neutrales y de los neutrones
+de las dulces infamias
+y los graves diagnósticos
+
+defender la alegría como una bandera
+defenderla del rayo y la melancolía
+de los ingenuos y de los canallas
+de la retórica y los paros cardíacos
+de las endemias y las academias
+
+defender la alegría como un destino
+defenderla del fuego y de los bomberos
+de los suicidas y los homicidas
+de las vacaciones y del agobio
+de la obligación de estar alegres
+
+defender la alegría como una certeza
+defenderla del óxido y la roña
+de la famosa pátina del tiempo
+del relente y del oportunismo
+de los proxenetas de la risa
+
+defender la alegría como un derecho
+defenderla de dios y del invierno
+de las mayúsculas y de la muerte
+de los apellidos y las lástimas
+del azar
+y también de la alegría.
+{% end %}

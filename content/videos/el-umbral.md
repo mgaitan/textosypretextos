@@ -21,23 +21,25 @@ subtitle = "Salen camiones"
 
 **Tabaré Cardozo**
 
-<div class="poetry">Cada uno carga con su alma y con su cruz<br>
-para dar batalla en las tormentas.<br>
-Cada uno carga con las sombras y la luz<br>
-tras de los espejos que se enfrentan.<br>
-<br>
-Y en la brevedad de la eternidad<br>
-cada hombre elige su destino,<br>
-justo en el umbral donde el bien y el mal<br>
-echan a la suerte los caminos<br>
-<br>
-Larairairairara Larairairairara<br>
-Larairairairara Larairairairara<br>
-<br>
-Y en la brevedad, de la eternidad<br>
-cada hombre elige su destino,<br>
-justo en el umbral donde el bien y el mal<br>
-echan a la suerte los caminos</div>
+{% poetry() %}
+Cada uno carga con su alma y con su cruz
+para dar batalla en las tormentas.
+Cada uno carga con las sombras y la luz
+tras de los espejos que se enfrentan.
+
+Y en la brevedad de la eternidad
+cada hombre elige su destino,
+justo en el umbral donde el bien y el mal
+echan a la suerte los caminos
+
+Larairairairara Larairairairara
+Larairairairara Larairairairara
+
+Y en la brevedad, de la eternidad
+cada hombre elige su destino,
+justo en el umbral donde el bien y el mal
+echan a la suerte los caminos
+{% end %}
 
 {% postscript() %}
 Fragmento del programa "Salen Camiones",  diario de viaje de Agarrate Catalina por el Mexico y Cuba durante 2011, emitido por Canal 10 de Montevideo. En este tema: Tabaré Cardozo (letra y guitarra), Emiliano Muñoz (primera voz), Freddy Zurdo Bessio (segunda voz), Maxi Porciuncula y Yamandú Cardozo (coros).

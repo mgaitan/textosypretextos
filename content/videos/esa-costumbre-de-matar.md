@@ -14,11 +14,13 @@ tags = [
 video_id = "OJOFeXO2mpE"
 +++
 
-<div class="poetry">*Mi voz la que está gritando<br>
-mi sueño el que sigue entero<br>
-y sepan que sólo muero<br>
-si ustedes van aflojando<br>
-porque el que murió luchando<br>
-vive en cada compañero*</div>
+{% poetry() %}
+*Mi voz la que está gritando
+mi sueño el que sigue entero
+y sepan que sólo muero
+si ustedes van aflojando
+porque el que murió luchando
+vive en cada compañero*
+{% end %}
 
 {{ video_embed(provider="youtube", id="OJOFeXO2mpE") }}

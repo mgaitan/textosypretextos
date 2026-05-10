@@ -16,25 +16,27 @@ tags = [
 A mi gente
 {{% end %}}
 
-<div class="poetry">Hay gente que con sólo decir una palabra<br>
-enciende la ilusión y los rosales,<br>
-que con sólo sonreír entre los ojos<br>
-nos invita a viajar por otras zonas<br>
-y nos hace recorrer toda la mágia.<br>
-<br>
-Hay gente que con sólo dar la mano<br>
-rompe la soledad, pone la mesa<br>
-sirve el puchero, coloca guirnaldas.<br>
-Que con sólo empuñar una guitarra<br>
-hace una sinfonía de entrecasa.<br>
-<br>
-Hay gente que con sólo abrir la boca<br>
-llega hasta los confines del alma,<br>
-alimenta una flor, inventa sueños,<br>
-hace cantar al vino en las tinajas<br>
-y se queda después como si nada.<br>
-<br>
-Y uno se va de novio con la vida<br>
-desterrando una muerte solitaria<br>
-pues sabe que a la vuelta de la esquina<br>
-hay gente que es así, tan necesaria.</div>
+{% poetry() %}
+Hay gente que con sólo decir una palabra
+enciende la ilusión y los rosales,
+que con sólo sonreír entre los ojos
+nos invita a viajar por otras zonas
+y nos hace recorrer toda la mágia.
+
+Hay gente que con sólo dar la mano
+rompe la soledad, pone la mesa
+sirve el puchero, coloca guirnaldas.
+Que con sólo empuñar una guitarra
+hace una sinfonía de entrecasa.
+
+Hay gente que con sólo abrir la boca
+llega hasta los confines del alma,
+alimenta una flor, inventa sueños,
+hace cantar al vino en las tinajas
+y se queda después como si nada.
+
+Y uno se va de novio con la vida
+desterrando una muerte solitaria
+pues sabe que a la vuelta de la esquina
+hay gente que es así, tan necesaria.
+{% end %}

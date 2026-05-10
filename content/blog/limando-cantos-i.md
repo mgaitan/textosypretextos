@@ -21,9 +21,11 @@ Lo que sigue es el email de difusión y la discusión que entablé en el [grupo 
 
 ### --------
 
-<div class="poetry">From: Juan <copybin@gm...><br>
-To: ing_computacion@googleg...<br>
-Date: 10 de marzo de 2008 11:44</div>
+{% poetry() %}
+From: Juan <copybin@gm...>
+To: ing_computacion@googleg...
+Date: 10 de marzo de 2008 11:44
+{% end %}
 
 ### --------
 
@@ -56,10 +58,12 @@ Sec. de Graduados y RR. Institucionales FCEFyN UNC
 
 ### --------
 
-<div class="poetry">From: Emilio Gallego <gaitan@gm...><br>
-To: ing_computacion@googleg...<br>
-Cc: graduados@efn.uncor.edu<br>
-Date: 10 de marzo de 2008 18:12</div>
+{% poetry() %}
+From: Emilio Gallego <gaitan@gm...>
+To: ing_computacion@googleg...
+Cc: graduados@efn.uncor.edu
+Date: 10 de marzo de 2008 18:12
+{% end %}
 
 ### --------
 
@@ -102,9 +106,11 @@ Emilio
 
 ### --------
 
-<div class="poetry">From: Pablo Parra <pablo.passera@gma...><br>
-To: ing_computacion@googlegr...<br>
-Date: 10 de marzo de 2008 18:37</div>
+{% poetry() %}
+From: Pablo Parra <pablo.passera@gma...>
+To: ing_computacion@googlegr...
+Date: 10 de marzo de 2008 18:37
+{% end %}
 
 ### --------
 
@@ -115,9 +121,11 @@ Pablo
 
 ### --------
 
-<div class="poetry">From: Emilio Gallego <gaitan@gm...><br>
-To: ing_computacion@googlegr...<br>
-Date: 10 de marzo de 2008 20:11</div>
+{% poetry() %}
+From: Emilio Gallego <gaitan@gm...>
+To: ing_computacion@googlegr...
+Date: 10 de marzo de 2008 20:11
+{% end %}
 
 ### --------
 
@@ -184,9 +192,11 @@ Emilio
 
 ### --------
 
-<div class="poetry">From: Pablo Parra <pablo.passera@gm...><br>
-To: ing_computacion@googleg...<br>
-Date: 10 de marzo de 2008 20:31</div>
+{% poetry() %}
+From: Pablo Parra <pablo.passera@gm...>
+To: ing_computacion@googleg...
+Date: 10 de marzo de 2008 20:31
+{% end %}
 
 ### --------
 Buenas Martin, un par de comentarios...
@@ -200,9 +210,11 @@ Pablo
 
 ### --------
 
-<div class="poetry">From: Emilio Gallego <gaitan@gmail.com><br>
-To: ing_computacion@googlegr...<br>
-Date: 10 de marzo de 2008 22:13</div>
+{% poetry() %}
+From: Emilio Gallego <gaitan@gmail.com>
+To: ing_computacion@googlegr...
+Date: 10 de marzo de 2008 22:13
+{% end %}
 
 ### --------
 El 10/03/08, Pablo Parra <pablo.passera@gm...> escribió:

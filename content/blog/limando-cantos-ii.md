@@ -829,11 +829,13 @@ hay paredes?
  Y no odio a nadie, simplemente intento construir. Hay una [hermosa canción](http://www.youtube.com/watch?v=aUesKxY7CPI) de
  Fito Páez que canta Baglietto:
 
-<div class="poetry">"Todavía me emocionan ciertas voces<br>
- todavía creo en mirar a los ojos<br>
- todavía tengo en mente cambiar algo<br>
- [...]<br>
- multiplicar, es la tarea, es la tarea ..."</div>
+{% poetry() %}
+"Todavía me emocionan ciertas voces
+ todavía creo en mirar a los ojos
+ todavía tengo en mente cambiar algo
+ [...]
+ multiplicar, es la tarea, es la tarea ..."
+{% end %}
 
  Multiplicar es la tarea. Y en eso estamos varios.
 

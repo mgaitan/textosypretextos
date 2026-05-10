@@ -9,23 +9,25 @@ authors = [
 tags = []
 +++
 
-<div class="poetry">¿Quién ha matado este hombre<br>
-que su voz no está enterrada?<br>
-<br>
-Hay muertos que van subiendo<br>
-cuanto más su ataúd baja...<br>
-Este sudor... ¿por quién muere?<br>
-¿por qué cosa muere un pobre?<br>
-¿Quién ha matado estas manos?<br>
-¡No cabe en la muerte un hombre!<br>
-Hay muertos que van subiendo<br>
-cuanto más su ataúd baja...<br>
-¿Quién acostó su estatura<br>
-que su voz está parada?<br>
-<br>
-Hay muertos como raíces<br>
-que hundidas... dan fruto al ala.<br>
-¿Quién ha matado estas manos,<br>
-este sudor, esta cara?<br>
-Hay muertos que van subiendo<br>
-cuanto más su ataúd baja...</div>
+{% poetry() %}
+¿Quién ha matado este hombre
+que su voz no está enterrada?
+
+Hay muertos que van subiendo
+cuanto más su ataúd baja...
+Este sudor... ¿por quién muere?
+¿por qué cosa muere un pobre?
+¿Quién ha matado estas manos?
+¡No cabe en la muerte un hombre!
+Hay muertos que van subiendo
+cuanto más su ataúd baja...
+¿Quién acostó su estatura
+que su voz está parada?
+
+Hay muertos como raíces
+que hundidas... dan fruto al ala.
+¿Quién ha matado estas manos,
+este sudor, esta cara?
+Hay muertos que van subiendo
+cuanto más su ataúd baja...
+{% end %}

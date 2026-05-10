@@ -52,9 +52,11 @@ sospechar que eso se llamaba aliteración:
 Y un final de soneto, escrito después de haber visto
 Buenos Aires de noche, desde el balcón de un décimopiso:
 
-<div class="poetry">y la ciudad parece así, dormida,<br>
-Una pradera nocturnal, florida<br>
-Por un millón de blancas margaritas.</div>
+{% poetry() %}
+y la ciudad parece así, dormida,
+Una pradera nocturnal, florida
+Por un millón de blancas margaritas.
+{% end %}
 
 Bonito ¿no? *Nocturnal*... el pibe ya no le tenía miedo a las
 palabras, aunque todavía no supiera qué hacer con ellas.

@@ -12,60 +12,62 @@ tags = [
 ]
 +++
 
-<div class="poetry">Tengo una soledad<br>
-tan concurrida<br>
-tan llena de nostalgias<br>
-y de rostros de vos<br>
-de adioses hace tiempo<br>
-y besos bienvenidos<br>
-de primeras de cambio<br>
-y de último vagón.<br>
-<br>
-Tengo una soledad<br>
-tan concurrida<br>
-que puedo organizarla<br>
-como una procesión<br>
-por colores<br>
-tamaños<br>
-y promesas<br>
-por época<br>
-por tacto<br>
-y por sabor.<br>
-<br>
-Sin temblor de más<br>
-me abrazo a tus ausencias<br>
-que asisten y me asisten<br>
-con mi rostro de vos.<br>
-<br>
-Estoy lleno de sombras<br>
-de noches y deseos<br>
-de risas y de alguna<br>
-maldición.<br>
-<br>
-Mis huéspedes concurren<br>
-concurren como sueños<br>
-con sus rencores nuevos<br>
-su falta de candor<br>
-yo les pongo una escoba<br>
-tras la puerta<br>
-porque quiero estar solo<br>
-con mi rostro de vos.<br>
-<br>
-Pero el rostro de vos<br>
-mira a otra parte<br>
-con sus ojos de amor<br>
-que ya no aman<br>
-como víveres<br>
-que buscan su hambre<br>
-miran y miran<br>
-y apagan mi jornada.<br>
-<br>
-Las paredes se van<br>
-queda la noche<br>
-las nostalgias se van<br>
-no queda nada.<br>
-<br>
-Ya mi rostro de vos<br>
-cierra los ojos<br>
-y es una soledad<br>
-tan desolada.</div>
+{% poetry() %}
+Tengo una soledad
+tan concurrida
+tan llena de nostalgias
+y de rostros de vos
+de adioses hace tiempo
+y besos bienvenidos
+de primeras de cambio
+y de último vagón.
+
+Tengo una soledad
+tan concurrida
+que puedo organizarla
+como una procesión
+por colores
+tamaños
+y promesas
+por época
+por tacto
+y por sabor.
+
+Sin temblor de más
+me abrazo a tus ausencias
+que asisten y me asisten
+con mi rostro de vos.
+
+Estoy lleno de sombras
+de noches y deseos
+de risas y de alguna
+maldición.
+
+Mis huéspedes concurren
+concurren como sueños
+con sus rencores nuevos
+su falta de candor
+yo les pongo una escoba
+tras la puerta
+porque quiero estar solo
+con mi rostro de vos.
+
+Pero el rostro de vos
+mira a otra parte
+con sus ojos de amor
+que ya no aman
+como víveres
+que buscan su hambre
+miran y miran
+y apagan mi jornada.
+
+Las paredes se van
+queda la noche
+las nostalgias se van
+no queda nada.
+
+Ya mi rostro de vos
+cierra los ojos
+y es una soledad
+tan desolada.
+{% end %}

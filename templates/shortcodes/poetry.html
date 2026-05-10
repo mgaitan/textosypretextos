@@ -1,2 +1,3 @@
-<div class="poetry">{{ body | trim | markdown | replace(from="
-", to="<br>") | safe }}</div>
+<div class="poetry">{{ body | trim | replace(from="
+", to="<br>
+") | markdown | safe }}</div>

@@ -12,32 +12,34 @@ tags = [
 ]
 +++
 
-<div class="poetry">Qué dulce modo tenés de no estar,<br>
-quédate así cuando te vas,<br>
-como un aroma de sol en la piel<br>
-mucho verano después.<br>
-<br>
-Qué melancólico modo tenés<br>
-de acompañar aunque no estés.<br>
-Tiembla en el aire del atardecer<br>
-verte por última vez.<br>
-<br>
-Tanta vida mía<br>
-desvivir no sé.<br>
-A la lejanía<br>
-me acostumbraré<br>
-pero va por dentro la procesión<br>
-sin señal de adiós.<br>
-<br>
-Qué dulce modo de permanecer,<br>
-cómo me das rumbo y ayer.<br>
-Hago de tanto trabajo de amor<br>
-lágrimas y resplandor.<br>
-<br>
-Honda manera tenés de callar,<br>
-cántame así cuando te vas,<br>
-dejandomé misterioso rumor<br>
-de manantial interior.</div>
+{% poetry() %}
+Qué dulce modo tenés de no estar,
+quédate así cuando te vas,
+como un aroma de sol en la piel
+mucho verano después.
+
+Qué melancólico modo tenés
+de acompañar aunque no estés.
+Tiembla en el aire del atardecer
+verte por última vez.
+
+Tanta vida mía
+desvivir no sé.
+A la lejanía
+me acostumbraré
+pero va por dentro la procesión
+sin señal de adiós.
+
+Qué dulce modo de permanecer,
+cómo me das rumbo y ayer.
+Hago de tanto trabajo de amor
+lágrimas y resplandor.
+
+Honda manera tenés de callar,
+cántame así cuando te vas,
+dejandomé misterioso rumor
+de manantial interior.
+{% end %}
 
 {% postscript() %}
 {{ video_embed(provider="youtube", id="aDqoMR9UYcU") }}

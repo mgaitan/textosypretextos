@@ -14,42 +14,44 @@ video_id = "lRcQZ2tnWeg"
 
 {{ video_embed(provider="youtube", id="lRcQZ2tnWeg") }}
 
-<div class="poetry">Hey tu,<br>
-Allí afuera en el frío,<br>
-Quedándote solo, haciéndote viejo,<br>
-¿Puedes sentirme?<br>
-Hey tu,<br>
-Parado en el pasillo<br>
-Con la picazón en tu pie y una sonrisa que se desvanece<br>
-¿Puedes sentirme?<br>
-Hey tu,<br>
-No les ayudes a enterrar la luz.<br>
-No te des por vencido sin luchar.<br>
-<br>
-Hey tu,<br>
-Allí afuera solo,<br>
-Sentado desnudo en el teléfono<br>
-¿Me tocarías?<br>
-Hey tu,<br>
-Con tu oído contra la pared,<br>
-Esperando a alguien a quien llamar<br>
-¿Me tocarías?<br>
-Hey tu,<br>
-¿Me ayudarías a cargar la piedra?<br>
-Abre tu corazón, estoy llegando a casa.<br>
-Pero era solo una fantasía.<br>
-La pared era demasiado alta, como puedes ver.<br>
-No importa cómo él intentó, no podría romperse libremente.<br>
-Y los gusanos se comieron su cerebro.<br>
-<br>
-Hey tu,<br>
-Allí afuera en el camino,<br>
-Haciendo siempre lo que te dicen,<br>
-¿Puedes ayudarme?<br>
-Hey tu,<br>
-Allí afuera más allá de la pared,<br>
-Rompiendo botellas en el pasillo,<br>
-¿Puedes ayudarme?<br>
-Hey tu,<br>
-No me digas que no hay nada de esperanzas.<br>
-Juntos estamos parados, divididos nos caemos</div>
+{% poetry() %}
+Hey tu,
+Allí afuera en el frío,
+Quedándote solo, haciéndote viejo,
+¿Puedes sentirme?
+Hey tu,
+Parado en el pasillo
+Con la picazón en tu pie y una sonrisa que se desvanece
+¿Puedes sentirme?
+Hey tu,
+No les ayudes a enterrar la luz.
+No te des por vencido sin luchar.
+
+Hey tu,
+Allí afuera solo,
+Sentado desnudo en el teléfono
+¿Me tocarías?
+Hey tu,
+Con tu oído contra la pared,
+Esperando a alguien a quien llamar
+¿Me tocarías?
+Hey tu,
+¿Me ayudarías a cargar la piedra?
+Abre tu corazón, estoy llegando a casa.
+Pero era solo una fantasía.
+La pared era demasiado alta, como puedes ver.
+No importa cómo él intentó, no podría romperse libremente.
+Y los gusanos se comieron su cerebro.
+
+Hey tu,
+Allí afuera en el camino,
+Haciendo siempre lo que te dicen,
+¿Puedes ayudarme?
+Hey tu,
+Allí afuera más allá de la pared,
+Rompiendo botellas en el pasillo,
+¿Puedes ayudarme?
+Hey tu,
+No me digas que no hay nada de esperanzas.
+Juntos estamos parados, divididos nos caemos
+{% end %}

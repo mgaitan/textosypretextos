@@ -31,37 +31,39 @@ Mi vieja me servía la leche soplando el jarro con fuerza para que no cayera la 
 
 Dany puso un disco que le grabaron. Quería que escuchara una versión de *"Down on the corner"* de Creedence, versionada en un inglés sobrepronunciado que la hace simpáticamente pegadiza. Yo miraba un partido de España y no prestaba demasiada atención a nada, pero llegó esta canción y me sorpendió. Es un regalo para vos, mamá. Después de todo, parafraseando a  Mario en *"El cartero de Neruda"*, la poesía no es de quien la escribe sino de quien la necesita.
 
-<div class="poetry">**A través de tus ojos - La Portuaria**<br>
-<br>
-Yo puedo ver el mundo<br>
-y comprender el paso de los días.<br>
-Y entendemos sin palabras,<br>
-abrazando nuestro cómplice silencio<br>
-<br>
-Tu risa vuelve el tiempo mas liviano y vulnerable<br>
-y pierden peso las cosas del mundo.<br>
-Son mejores a través de tu mirada.<br>
-<br>
-Donde corre el agua,<br>
-donde sopla el viento,<br>
-puedo ver a través de tus ojos.<br>
-<br>
-Ya nada se detiene,<br>
-las cosas son distintas,<br>
-Y atravesando el muro de viejas armaduras<br>
-las fórmulas no tienen más sentido.<br>
-<br>
-Tus ojos me despiertan si me quedo dormido.<br>
-yo sueño tu futuro y lo vivo cada día,<br>
-y en cada cosa que hago<br>
-vos siempre estás conmigo.<br>
-<br>
-Donde corre el agua,<br>
-donde sopla el viento,<br>
-puedo ver a través de tus ojos.<br>
-Donde corre el agua,<br>
-donde duerme el tiempo,<br>
-puedo ver a través de tus ojos.</div>
+{% poetry() %}
+**A través de tus ojos - La Portuaria**
+
+Yo puedo ver el mundo
+y comprender el paso de los días.
+Y entendemos sin palabras,
+abrazando nuestro cómplice silencio
+
+Tu risa vuelve el tiempo mas liviano y vulnerable
+y pierden peso las cosas del mundo.
+Son mejores a través de tu mirada.
+
+Donde corre el agua,
+donde sopla el viento,
+puedo ver a través de tus ojos.
+
+Ya nada se detiene,
+las cosas son distintas,
+Y atravesando el muro de viejas armaduras
+las fórmulas no tienen más sentido.
+
+Tus ojos me despiertan si me quedo dormido.
+yo sueño tu futuro y lo vivo cada día,
+y en cada cosa que hago
+vos siempre estás conmigo.
+
+Donde corre el agua,
+donde sopla el viento,
+puedo ver a través de tus ojos.
+Donde corre el agua,
+donde duerme el tiempo,
+puedo ver a través de tus ojos.
+{% end %}
 
 {{ video_embed(provider="youtube", id="8Xl5ZaInIc8") }}
 

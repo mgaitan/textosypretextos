@@ -15,45 +15,47 @@ subtitle = "Ska-P"
 
 {{ video_embed(provider="youtube", id="Du7sbLC9stI") }}
 
-<div class="poetry">Entre miseria, hambre y desolación,<br>
-en el fango alguien plantó una flor<br>
-un tal Bolívar, le dicen el libertador, el libertador<br>
-<br>
-Gritos de justicia, tierra y libertad<br>
-vuelven a resonar en sudamérica<br>
-Ha comenzado una nueva revolución<br>
-y esta vez avanza con convicción<br>
-<br>
-Reforma agraria y justa redistribución,<br>
-sanidad, cultura y buena educación<br>
-Respeto y dignidad al indígena, al indígena<br>
-<br>
-Socializar y ¡no a la privatización!,<br>
-mejoras laborales pa'l trabajador<br>
-Lo que la tierra ofrece es de la población,<br>
-contra la oligarquía y el explotador<br>
-<br>
-Una guerra de medios manipula la verdad<br>
-Enséñale los dientes a la cara al tío sam<br>
-Sin dar un paso atrás.<br>
-<br>
-Adelante comandante, ponte al frente con honestidad<br>
-Comienza a amanecer en latinoamérica<br>
-Paso firme hacia delante, pisa fuerte con rotundidad<br>
-Cuando un pueblo se sabe organizar<br>
-Es un pueblo sabio y libre<br>
-<br>
-Oh oh oh oh! lejos de la perfección<br>
-Se avanza al caminar cuando se tiene ilusión<br>
-<br>
-Una guerra de medios manipula la verdad...<br>
-<br>
-Adelante comandante, ponte al frente con honestidad...<br>
-<br>
-Oh oh oh oh! aires de rebelión en latinoamérica<br>
-Oh oh oh oh! tiempo de transición en toda américa<br>
-<br>
-Adelante comandante, ponte al frente, comandante<br>
-Oh oh oh! de latinoamérica<br>
-Paso firme hacia delante, pisa fuerte, comandante<br>
-Oh oh oh! en latinoamérica.</div>
+{% poetry() %}
+Entre miseria, hambre y desolación,
+en el fango alguien plantó una flor
+un tal Bolívar, le dicen el libertador, el libertador
+
+Gritos de justicia, tierra y libertad
+vuelven a resonar en sudamérica
+Ha comenzado una nueva revolución
+y esta vez avanza con convicción
+
+Reforma agraria y justa redistribución,
+sanidad, cultura y buena educación
+Respeto y dignidad al indígena, al indígena
+
+Socializar y ¡no a la privatización!,
+mejoras laborales pa'l trabajador
+Lo que la tierra ofrece es de la población,
+contra la oligarquía y el explotador
+
+Una guerra de medios manipula la verdad
+Enséñale los dientes a la cara al tío sam
+Sin dar un paso atrás.
+
+Adelante comandante, ponte al frente con honestidad
+Comienza a amanecer en latinoamérica
+Paso firme hacia delante, pisa fuerte con rotundidad
+Cuando un pueblo se sabe organizar
+Es un pueblo sabio y libre
+
+Oh oh oh oh! lejos de la perfección
+Se avanza al caminar cuando se tiene ilusión
+
+Una guerra de medios manipula la verdad...
+
+Adelante comandante, ponte al frente con honestidad...
+
+Oh oh oh oh! aires de rebelión en latinoamérica
+Oh oh oh oh! tiempo de transición en toda américa
+
+Adelante comandante, ponte al frente, comandante
+Oh oh oh! de latinoamérica
+Paso firme hacia delante, pisa fuerte, comandante
+Oh oh oh! en latinoamérica.
+{% end %}

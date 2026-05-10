@@ -9,20 +9,22 @@ authors = [
 tags = []
 +++
 
-<div class="poetry">Harto ya de alabar tu piel dorada,<br>
-tus externas y muchas perfecciones,<br>
-canto al jardín azul de tus pulmones<br>
-y a tu traquea elegante y anillada.<br>
-<br>
-Canto a tu masa intestinal rosada<br>
-al bazo, al páncreas, a los epiplones,<br>
-al doble filtro gris de tus riñones.<br>
-Y a tu matriz profunda y renovada.<br>
-<br>
-Canto al tuetano dulce de tus huesos,<br>
-a la linfa que embebe tus tejidos,<br>
-al acre olor orgánico que exhalas.<br>
-<br>
-Quiero gastar tus vísceras a besos,<br>
-vivir dentro de ti con mis sentidos…<br>
-yo soy un sapo negro con dos alas.</div>
+{% poetry() %}
+Harto ya de alabar tu piel dorada,
+tus externas y muchas perfecciones,
+canto al jardín azul de tus pulmones
+y a tu traquea elegante y anillada.
+
+Canto a tu masa intestinal rosada
+al bazo, al páncreas, a los epiplones,
+al doble filtro gris de tus riñones.
+Y a tu matriz profunda y renovada.
+
+Canto al tuetano dulce de tus huesos,
+a la linfa que embebe tus tejidos,
+al acre olor orgánico que exhalas.
+
+Quiero gastar tus vísceras a besos,
+vivir dentro de ti con mis sentidos…
+yo soy un sapo negro con dos alas.
+{% end %}
