@@ -11,9 +11,6 @@ tags = [
     "Familia",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Julio Cortázar"
 +++
 
 Para luchar contra el pragmatismo y la horrible tendencia a la consecución de fines útiles, mi primo el mayor propugna el procedimiento de sacarse un buen pelo de la cabeza, hacerle un nudo en el medio y dejarlo caer suavemente por el agujero del lavabo. Si este pelo se engancha en la rejilla que suele cundir en dichos agujeros, bastará abrir un poco la canilla para que se pierda de vista.

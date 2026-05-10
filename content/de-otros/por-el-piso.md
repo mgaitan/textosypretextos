@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Tecnología",
 ]
-
-[extra]
-subtitle = "Mendieta (Abelardo Vitale)"
 +++
 
 Van por la junta de los baldosones, marchando. Parece una fila recta, pero no. Hay que mirar con atención, una atención que sólo se logra siendo un niño o estando enamorado. Una atención minuciosamente escrutadora de cada gesto, de cada señal. Porque además de las que van derechitas, ordenadas, marciales, con su cargamento de dichondras molidas a dentelladas, hay otras que hacen un trabajo diferente. Entonces, estas, avanzan un tramo más rápido que el resto, se frenan, se corren a un costado, miran, vuelven para atrás, se cruzan al otro baldosón, mirando para afuera de la canaleta llena de arena que el viento trajo esta mañana desde los médanos.

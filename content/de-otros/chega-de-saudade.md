@@ -20,45 +20,47 @@ deck = "<div class=\"poetry\">Vai, minha tristeza<br>\nE diz a ela<br>\nQue sem 
 
 **Basta de saudade**
 
-<div class="poetry">Ve, tristeza mía<br>
-y dile que esto sin ella<br>
-no puede ser<br>
-<br>
-Pedí en una oración<br>
-que ella regrese<br>
-porque no puedo sufrir más<br>
-<br>
-Basta de saudade<br>
-la realidad es que sin ella<br>
-ya no hay más paz<br>
-ya no hay belleza<br>
-sólo hay tristeza<br>
-y melancolía que no se sale<br>
-de mí, no sale<br>
-<br>
-Pero si vuelve<br>
-si ella regresa<br>
-que cosa linda<br>
-que cosa loca<br>
-<br>
-Pues hay menos pececitos<br>
-nadando en el mar<br>
-que los besitos que le daré<br>
-<br>
-Entre mis brazos<br>
-los abrazos serán millones<br>
-apretados así<br>
-pegaditos así<br>
-Abrazos y besitos<br>
-y cariños sin fin<br>
-Es acabar con este asunto<br>
-de que vivas sin mí<br>
-<br>
-No quiero más este asunto<br>
-de que estés lejos así<br>
-<br>
-Vamos a dejar este asunto<br>
-de que vivas lejos de mí</div>
+{% poetry() %}
+Ve, tristeza mía
+y dile que esto sin ella
+no puede ser
+
+Pedí en una oración
+que ella regrese
+porque no puedo sufrir más
+
+Basta de saudade
+la realidad es que sin ella
+ya no hay más paz
+ya no hay belleza
+sólo hay tristeza
+y melancolía que no se sale
+de mí, no sale
+
+Pero si vuelve
+si ella regresa
+que cosa linda
+que cosa loca
+
+Pues hay menos pececitos
+nadando en el mar
+que los besitos que le daré
+
+Entre mis brazos
+los abrazos serán millones
+apretados así
+pegaditos así
+Abrazos y besitos
+y cariños sin fin
+Es acabar con este asunto
+de que vivas sin mí
+
+No quiero más este asunto
+de que estés lejos así
+
+Vamos a dejar este asunto
+de que vivas lejos de mí
+{% end %}
 
 {{ video_embed(provider="youtube", id="guMek3_D6ls") }}
 

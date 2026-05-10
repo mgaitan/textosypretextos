@@ -10,9 +10,6 @@ tags = [
     "Poesía",
     "Amor",
 ]
-
-[extra]
-subtitle = "Roque Dalton"
 +++
 
 Los burócratas nadan en un mar de aburrimiento tempestuoso.

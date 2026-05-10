@@ -9,25 +9,24 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Jorge Luis Borges"
 +++
 
-<div class="poetry">Lunas, marfiles, instrumentos, rosas,<br>
-lamparas y la linea de Durero,<br>
-las nueve cifras y el cambiante cero,<br>
-debo fingir que existen esas cosas.<br>
-<br>
-Debo fingir que en el pasado fueron<br>
-Persepolis y Roma y que una arena<br>
-sutil midio la suerte de la almena<br>
-que los siglos de hierro deshicieron.<br>
-<br>
-Debo fingir las armas y la pira<br>
-de la epopeya y los pesados mares<br>
-que roen de la tierra los pilares.<br>
-<br>
-Debo fingir que hay otros. Es mentira.<br>
-Solo tu eres. Tu, mi desventura<br>
-y mi ventura, inagotable y pura.</div>
+{% poetry() %}
+Lunas, marfiles, instrumentos, rosas,
+lamparas y la linea de Durero,
+las nueve cifras y el cambiante cero,
+debo fingir que existen esas cosas.
+
+Debo fingir que en el pasado fueron
+Persepolis y Roma y que una arena
+sutil midio la suerte de la almena
+que los siglos de hierro deshicieron.
+
+Debo fingir las armas y la pira
+de la epopeya y los pesados mares
+que roen de la tierra los pilares.
+
+Debo fingir que hay otros. Es mentira.
+Solo tu eres. Tu, mi desventura
+y mi ventura, inagotable y pura.
+{% end %}

@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Gabriel García Marquez"
 deck = "El plan parecía una locura demasiado simple. Se trataba de tomar el Palacio Nacional de Managua a pleno día, con solo veinticinco hombres, mantener en rehenes a los miembros de la Cámara de Diputados y obtener como rescate la liberación de todos los presos políticos. El Palacio Nacional, un viejo y desabrido edificio de dos pisos con ínfulas monumentales, ocupa una manzana entera con numerosas ventanas en sus costados y una fachada con columnas de partenón bananero hacia la desolada Plaza de la República. Además del Senado en el primer piso y la Cámara de Diputados en el segundo, allí funcionan el Ministerio de Hacienda, el Ministerio de Gobernación y la Dirección General de Ingresos, de modo que es el más público y populoso de todos los edificios públicos de Managua. Por eso hay siempre un policía con armas largas en cada puerta, dos más en las escaleras del segundo piso, y numerosos pistoleros de ministros y parlamentarios por todas partes. En horas hábiles, entre empleados y público, hay en los sótanos, las oficinas y los corredores no menos de tres mil personas. Sin embargo, la dirección del Frente Sandinista de Liberación Nacional (FSLN) no consideró que el asalto de aquel mercado burocrático fuera una locura demasiado simple, sino todo lo contrario: un disparate magistral."
 +++
 

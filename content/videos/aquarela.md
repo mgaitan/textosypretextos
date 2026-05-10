@@ -17,56 +17,58 @@ deck = "{{ video_embed(provider=\"youtube\", id=\"2-V21HepcgY\") }}\n\n<div clas
 
 ### Mi traducción 
 
-<div class="poetry">**Acuarela**<br>
-*Toquinho*<br>
-<br>
-En una hoja cualquiera yo dibujo un sol amarillo<br>
-y con cinco o seis rectas es fácil hacer un castillo<br>
-Corro el lápiz alrededor de la mano y me hago guantes<br>
-y si hago llover tengo un paragüas con dos trazos...<br>
-<br>
-Si una gota de tinta cae en un pedacito azul del papel<br>
-en un instante imagino una linda gaviota dispuesta a volar en el cielo...<br>
-Va volando contorneando la inmensa curva del Norte al Sur.<br>
-Pinto un barco a vela blanco navegando,<br>
-y tanto cielo y mar en un bello azul...<br>
-<br>
-Entre las nubes viene surgiendo un lindo avión rosa y granate<br>
-y todo se vuelve colorido destellando sus luces<br>
-<br>
-Basta imaginar que está partiendo, sereno y lindo...<br>
-si nosotros queremos él va a posar.<br>
-<br>
-En una hoja cualquiera yo dibujo un barco de partida<br>
-con algunos buenos amigos bebiendo bien con la vida...<br>
-<br>
-De una América a otra yo consigo pasar en un segundo<br>
-Giro un simple compás y en un círculo yo hago el mundo...<br>
-<br>
-Un pequeño camina y caminando llega al muro<br>
-y luego allí enfrente, esperándonos<br>
-el futuro está...<br>
-<br>
-Y el futuro es una nave espacial que intentamos pilotear.<br>
-No tiene tiempo, ni piedad, ni tiene hora de llegar.<br>
-Sin pedir permiso cambia nuestra vida<br>
-y después nos invita a reír o a llorar.<br>
-<br>
-En esa calle no nos cabe conocer o ver lo que vendrá<br>
-el fin de ella nadie sabe bien cuando será.<br>
-Vamos todos en una linda pasarela de una acuarela<br>
-que un día al fin...<br>
-<br>
-Descolorará...<br>
-<br>
-En una hoja cualquiera yo dibujo un sol amarillo<br>
-<br>
-(Que descolorará!)<br>
-<br>
-Y con cinco o seis rectas es fácil hacer un castillo....<br>
-<br>
-(Que descolorará!)<br>
-<br>
-Giro un simple compás y en un círculo yo hago el mundo...<br>
-<br>
-(Que descolorará!)</div>
+{% poetry() %}
+**Acuarela**
+*Toquinho*
+
+En una hoja cualquiera yo dibujo un sol amarillo
+y con cinco o seis rectas es fácil hacer un castillo
+Corro el lápiz alrededor de la mano y me hago guantes
+y si hago llover tengo un paragüas con dos trazos...
+
+Si una gota de tinta cae en un pedacito azul del papel
+en un instante imagino una linda gaviota dispuesta a volar en el cielo...
+Va volando contorneando la inmensa curva del Norte al Sur.
+Pinto un barco a vela blanco navegando,
+y tanto cielo y mar en un bello azul...
+
+Entre las nubes viene surgiendo un lindo avión rosa y granate
+y todo se vuelve colorido destellando sus luces
+
+Basta imaginar que está partiendo, sereno y lindo...
+si nosotros queremos él va a posar.
+
+En una hoja cualquiera yo dibujo un barco de partida
+con algunos buenos amigos bebiendo bien con la vida...
+
+De una América a otra yo consigo pasar en un segundo
+Giro un simple compás y en un círculo yo hago el mundo...
+
+Un pequeño camina y caminando llega al muro
+y luego allí enfrente, esperándonos
+el futuro está...
+
+Y el futuro es una nave espacial que intentamos pilotear.
+No tiene tiempo, ni piedad, ni tiene hora de llegar.
+Sin pedir permiso cambia nuestra vida
+y después nos invita a reír o a llorar.
+
+En esa calle no nos cabe conocer o ver lo que vendrá
+el fin de ella nadie sabe bien cuando será.
+Vamos todos en una linda pasarela de una acuarela
+que un día al fin...
+
+Descolorará...
+
+En una hoja cualquiera yo dibujo un sol amarillo
+
+(Que descolorará!)
+
+Y con cinco o seis rectas es fácil hacer un castillo....
+
+(Que descolorará!)
+
+Giro un simple compás y en un círculo yo hago el mundo...
+
+(Que descolorará!)
+{% end %}

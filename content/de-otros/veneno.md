@@ -8,9 +8,6 @@ authors = [
     "Juan Forn",
 ]
 tags = []
-
-[extra]
-subtitle = "Juan Forn"
 +++
 
 Se puede decir que entré en la literatura por un ascensor. Me explico: cuando tenía quince, un vecino de mi edificio nos oyó hablar a mis amigos y a mí en un viaje en ascensor, y nos invitó a su departamento en el noveno piso. A partir de ese día empezó a pasarnos libros, recomendarnos películas y ponernos discos, y poco a poco, en aquel living a media luz en plena dictadura, nos hizo entrar a un mundo en el que James Dean le leía a Marilyn el Ulises de Joyce, Dylan Thomas volvía de su última curda al Chelsea Hotel, Coltrane intentaba llegar con su saxo hasta donde Charlie Parker había comenzado su caída libre, Fitzgerald aconsejaba con su último aliento a Faulkner que huyera de Hollywood, Pollock tiraba pintura como napalm en toda tela que le pusieran delante, Sylvia Plath despertaba de su primer electroshock y Burroughs le daba un balazo en la frente a su esposa jugando a Guillermo Tell en una pensión mexicana. Creo que ahí empecé a entender la literatura desde adentro, aunque me di cuenta mucho después. Esa matriz me quedó para toda la vida. He tratado desde entonces de llenarla de otras cosas, de diluirla en mí, mudar de piel, dejarla atrás. Pocas cosas me decepcionan como la literatura y el cine y la música yanqui de Reagan para acá. Pero igual tengo esa matriz en el adn, y me delato cada tanto: la exposición muy temprana al American Way deja una impronta que se les nota para siempre a sus víctimas.

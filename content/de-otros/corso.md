@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Rodolfo Walsh"
 deck = "Vos sabés cómo nos divertimos, el corso era un asco pero nosotros nos divertimos igual. El Ángel se consiguió unos plumachos, dice que los trajo de la isla y que crecen en una planta, pero eran como plumas de avestruz. Después me fijé que en un quiosco los vendían a veinte sopes cada uno, qué atorrantes, imaginate que esas cosas crecen en los árboles y los tipos las venden a veinte mangos.\n\nHacía un tornillo que te la debo, pero igual las minas andaban casi en bolas en las carrozas, yo siempre digo que estas ñatas con tal de andar en\nbolas hacen cualquier cosa. El Ángel y yo empezamos a pasarles los plumachos por las gambas, vos sabés qué plato. A las tipas les gustaba, pero algunas ponían cara seria para disimular, vamos, viejo, a quién no le gusta que le hagan cosquillitas. Un jetón que iba en una picá llena de florcitas le dijo al Ángel por qué no se las metés a tu abuela y el Ángel le refregó el plumacho por la cara. El tipo hizo como que se bajaba pero cuando nos vio las caras subió el vidrio y la dejó a la hermanita en el capó y el Ángel le rompió tres plumachos entre las gambas, estuvo exagerado."
 +++
 

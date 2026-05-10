@@ -50,34 +50,36 @@ A la tarde, lleno de felicidad, Gabi mandó un mail:
 
 El cariño, más allá de todo. Leí, releí, y entonces, sin vergüenza, mis lágrimas rodaron cara abajo y mis mocos salieron a saludar. Cuando se me pasó la petrificación (la emoción está intacta), escribí esto y lo mandé con forma de abrazo: 
 
-<div class="poetry">### El niño<br>
-<br>
-Mundo ingrato este<br>
-que le exige al niño lo que no le da.<br>
-Esfuerzo, respuestas, perseverancia<br>
-condiciones y la tabla del dos<br>
-<br>
-No contempla contextos<br>
-no concibe falencias<br>
-no vacila en la hoguera<br>
-<br>
-El niño tiene algunos años<br>
-y más problemas:<br>
-ni su familia, ni su maestra<br>
-tampoco él mismo (lo aprendió de chiquito)<br>
-creen que pueda<br>
-<br>
-Pero hay algunos más brutos<br>
-que nunca aprendieron la lección de memoria.<br>
-Ni de chiquitos ni de grandes supieron repetir<br>
-que el niño no puede<br>
-<br>
-Convencidos, contrariados,<br>
-contra el viento y la lluvia<br>
-le dieron un abrazo al niño<br>
-uno de otro planeta.<br>
-<br>
-El niño pasó de grado.<br>
-Y pasó de mundo.<br>
-<br>
-*Emocionado hasta los tuétanos, mis más afectuoso abrazo a los compañeros y compañeras que hicieron este logro realidad. Y a Damián, ese pequeño gran luchador.*</div>
+{% poetry() %}
+### El niño
+
+Mundo ingrato este
+que le exige al niño lo que no le da.
+Esfuerzo, respuestas, perseverancia
+condiciones y la tabla del dos
+
+No contempla contextos
+no concibe falencias
+no vacila en la hoguera
+
+El niño tiene algunos años
+y más problemas:
+ni su familia, ni su maestra
+tampoco él mismo (lo aprendió de chiquito)
+creen que pueda
+
+Pero hay algunos más brutos
+que nunca aprendieron la lección de memoria.
+Ni de chiquitos ni de grandes supieron repetir
+que el niño no puede
+
+Convencidos, contrariados,
+contra el viento y la lluvia
+le dieron un abrazo al niño
+uno de otro planeta.
+
+El niño pasó de grado.
+Y pasó de mundo.
+
+*Emocionado hasta los tuétanos, mis más afectuoso abrazo a los compañeros y compañeras que hicieron este logro realidad. Y a Damián, ese pequeño gran luchador.*
+{% end %}

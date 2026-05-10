@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Pedro Mairal"
 deck = "Ahora que llega el calor y por toda la ciudad afloran las tetas con su vanguardia prometedora de un tiempo blando, vale quizá entregarse a esa curiosidad primaria que generan las tetas en la vida de los hombres. Primero están las tetas paradigmáticas, formativas. Las tetas alarmantes del cine o la TV. Depende la edad de cada uno. Para una generación fueron las tetas de la <a href=\"http://www.aldeaeducativa.com/IMAGES/loren.jpg\" class=\"thickbox\" rel=\"tetas\">Loren</a> en <em>Bocaccio 70</em>, o de <a rel=\"tetas\" href=\"http://i210.photobucket.com/albums/bb165/koperpoets/AnitaEkberg15.jpg\" class=\"thickbox\">Anita Ekberg </a>en <em>La Dolce Vita</em>. Para otros habrán sido las tetas de la <a href=\"http://images.askmen.com/galleries/actress/maria-grazia-cucinotta/pictures/maria-grazia-cucinotta-picture-1.jpg\" class=\"thickbox\" rel=\"tetas\">Cucinotta</a> en Il postino, o las tetas ya más estilizadas y armónicas de <a href=\"http://eyes1.busythumbs.com/users/a/ahemes/eyes1/images/Monica_Bellucci026.jpg\" class=\"thickbox\" rel=\"tetas\">Mónica Bellucci </a>en <em>Malena</em>. El cine italiano siempre fue proveedor de grandes tetas mediterráneas."
 +++
 

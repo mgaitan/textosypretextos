@@ -9,25 +9,24 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Joan Manuel Serrat"
 +++
 
-<div class="poetry">El milagro de existir,<br>
-el instinto de buscar,<br>
-la fortuna de encontrar,<br>
-el gusto de conocer.<br>
-<br>
-La ilusión de vislumbrar,<br>
-el placer de coincidir,<br>
-el temor a reincidir,<br>
-el orgullo de gustar.<br>
-<br>
-La emoción de desnudar<br>
-y descubrir, despacio, el juego.<br>
-El rito de acariciar prendiendo fuego,<br>
-<br>
-La delicia de encajar y abandonarse,<br>
-el alivio de estallar y derramarse.<br>
-Y el amor...</div>
+{% poetry() %}
+El milagro de existir,
+el instinto de buscar,
+la fortuna de encontrar,
+el gusto de conocer.
+
+La ilusión de vislumbrar,
+el placer de coincidir,
+el temor a reincidir,
+el orgullo de gustar.
+
+La emoción de desnudar
+y descubrir, despacio, el juego.
+El rito de acariciar prendiendo fuego,
+
+La delicia de encajar y abandonarse,
+el alivio de estallar y derramarse.
+Y el amor...
+{% end %}

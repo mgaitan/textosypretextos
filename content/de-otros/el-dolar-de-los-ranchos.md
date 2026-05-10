@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Marcos Zimmermann"
 +++
 
 En 1998, el país parecía vivir un tiempo de vacas gordas. Era el tiempo del despilfarro procaz del dólar. Pero había también, en el interior del país, sobre todo, otra Argentina.

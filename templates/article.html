@@ -36,6 +36,7 @@
   {% set page_tags = page_info.tags | default(value=[]) %}
   {% set page_authors = page_info.authors | default(value=page.authors | default(value=[])) %}
   {% set section_slug = page_info.section_slug | default(value=page.components[0]) %}
+  {% set redundant_subtitle = page.extra.subtitle and page_authors and page.extra.subtitle == page_authors[0] %}
   {% set use_subcat = section_slug in ["blog", "de-otros"] and page_tags and page_tags | length > 0 %}
   {% set comment_key = section_slug ~ "/" ~ page.slug %}
   {% set static_comments = comments_by_article | get(key=comment_key, default=[]) %}
@@ -47,18 +48,20 @@
   >
     <header class="article-header reveal">
       <h1 class="story-title">{{ page.title }}</h1>
-      {% if page.extra.subtitle %}
+      {% if page.extra.subtitle and not redundant_subtitle %}
         <p class="article-subtitle">
-          {%- if page_authors and page_authors[0] == page.extra.subtitle -%}
-            {% set author_info = site_index.authors | get(key=page.extra.subtitle, default=false) %}
-            {%- if author_info and author_info.url -%}
-              <a href="{{ author_info.url }}" class="meta-link">{{ page.extra.subtitle }}</a>
-            {%- else -%}
-              {{ page.extra.subtitle }}
-            {%- endif -%}
-          {%- else -%}
-            {{ page.extra.subtitle }}
-          {%- endif -%}
+          {{ page.extra.subtitle }}
+        </p>
+      {% elif section_slug == "de-otros" and page_authors %}
+        <p class="article-subtitle">
+          {% for author in page_authors %}
+            {% set author_info = site_index.authors | get(key=author, default=false) %}
+            {% if author_info and author_info.url %}
+              <a href="{{ author_info.url }}" class="meta-link">{{ author }}</a>{% if not loop.last %}, {% endif %}
+            {% else %}
+              {{ author }}{% if not loop.last %}, {% endif %}
+            {% endif %}
+          {% endfor %}
         </p>
       {% endif %}
       {% if page.extra.deck %}

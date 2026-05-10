@@ -9,25 +9,24 @@ authors = [
 tags = [
     "Memoria",
 ]
-
-[extra]
-subtitle = "Julia Prilutzky Farny"
 +++
 
-<div class="poetry">No amarse ahora, pero haber amado.<br>
-Y encontrarse otra vez... Recuerdo grave<br>
-como el de alguna flor de aroma suave<br>
-que se mustia en un libro ya olvidado.<br>
-<br>
-Va surgiendo el recuerdo desvelado:<br>
-una palabra, un gesto... Es una clave<br>
-que nadie descifró, que nadie sabe;<br>
-recinto nuestro, cántico inviolado.<br>
-<br>
-Estamos en silencio, frente a frente.<br>
-Y sin verte, yo sé que me has mirado<br>
-con no sé qué recuerdo transparente<br>
-<br>
-en los ojos lejanos... No has cambiado.<br>
-Y es dulce estarse así, indolentemente,<br>
-pero no amarse ya. Haberse amado.</div>
+{% poetry() %}
+No amarse ahora, pero haber amado.
+Y encontrarse otra vez... Recuerdo grave
+como el de alguna flor de aroma suave
+que se mustia en un libro ya olvidado.
+
+Va surgiendo el recuerdo desvelado:
+una palabra, un gesto... Es una clave
+que nadie descifró, que nadie sabe;
+recinto nuestro, cántico inviolado.
+
+Estamos en silencio, frente a frente.
+Y sin verte, yo sé que me has mirado
+con no sé qué recuerdo transparente
+
+en los ojos lejanos... No has cambiado.
+Y es dulce estarse así, indolentemente,
+pero no amarse ya. Haberse amado.
+{% end %}

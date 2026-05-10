@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Miguel Angel Pérez y Gustavo \"Cuchi\" Leguizamón"
 deck = "<div class=\"poetry\">Si la cintura es un junco<br>\ny la boca es colorada,<br>\nsi son los ojos retintos...<br>\nesa moza es tucumana.<br>\n<br>\nSi es dulce como esa niña<br>\ny airosa cuando la bailan,<br>\nsi te gana el corazón...<br>\nesa zamba es tucumana.<br>\n<br>\nY si la moza y la zamba<br>\nllegan a ser tucumanas,<br>\nahogate en agua bendita<br>\nque ya ni el diablo te salva.<br>\n<br>\nSi es redondita y jugosa<br>\nlo mismo que una naranja,<br>\nsi es de noche cerrada el pelo...<br>\nesa moza es tucumana.<br>\n<br>\nSi a la sombra del pañuelo<br>\nle va anudando distancias,<br>\nsi te consuela y te miente...<br>\nesa zamba es tucumana.<br>\n<br>\nY si la moza y la zamba<br>\nllegan a ser tucumanas,<br>\nahogate en agua bendita<br>\nque ya ni el diablo te salva.</div>"
 +++
 

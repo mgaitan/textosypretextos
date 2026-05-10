@@ -9,25 +9,24 @@ authors = [
 tags = [
     "Música",
 ]
-
-[extra]
-subtitle = "Juan Quintero"
 +++
 
-<div class="poetry">Aire, fuego y agua casi sin querer<br>
-alzan las montañas, las dejan caer.<br>
-Rigen los destinos, por allá o aquí<br>
-nunca, nadie, nada te alejará de mí.<br>
-<br>
-Hijo, madre, hermano, toman sin pensar<br>
-sendas diferentes, propios de su andar.<br>
-Y así nomás se quieren, por allá o aquí.<br>
-Nunca, nada, nadie te alejará de mí.<br>
-<br>
-Tiempos y distancias, casi sin razón,<br>
-a veces nos separan y otras veces no.<br>
-No ha desespararte con esta canción,<br>
-nada, nadie, nunca, de mi corazón.</div>
+{% poetry() %}
+Aire, fuego y agua casi sin querer
+alzan las montañas, las dejan caer.
+Rigen los destinos, por allá o aquí
+nunca, nadie, nada te alejará de mí.
+
+Hijo, madre, hermano, toman sin pensar
+sendas diferentes, propios de su andar.
+Y así nomás se quieren, por allá o aquí.
+Nunca, nada, nadie te alejará de mí.
+
+Tiempos y distancias, casi sin razón,
+a veces nos separan y otras veces no.
+No ha desespararte con esta canción,
+nada, nadie, nunca, de mi corazón.
+{% end %}
 
 
 {{ video_embed(provider="youtube", id="4XcUbrCLRDM") }}

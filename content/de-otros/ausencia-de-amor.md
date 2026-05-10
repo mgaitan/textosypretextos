@@ -10,26 +10,25 @@ tags = [
     "Amor",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Juan Gelman"
 +++
 
-<div class="poetry">Cómo será pregunto.<br>
-Cómo será tocarte a mi costado.<br>
-Ando de loco por el aire<br>
-que ando que no ando.<br>
-<br>
-Cómo será acostarme<br>
-en tu país de pechos tan lejano.<br>
-Ando de pobrecristo a tu recuerdo<br>
-clavado, reclavado.<br>
-<br>
-Será ya como sea.<br>
-Tal vez me estalle el cuerpo todo lo que he<br>
-esperado.<br>
-Me comerás entonces dulcemente<br>
-pedazo por pedazo.<br>
-<br>
-Seré lo que debiera.<br>
-Tu pie. Tu mano.</div>
+{% poetry() %}
+Cómo será pregunto.
+Cómo será tocarte a mi costado.
+Ando de loco por el aire
+que ando que no ando.
+
+Cómo será acostarme
+en tu país de pechos tan lejano.
+Ando de pobrecristo a tu recuerdo
+clavado, reclavado.
+
+Será ya como sea.
+Tal vez me estalle el cuerpo todo lo que he
+esperado.
+Me comerás entonces dulcemente
+pedazo por pedazo.
+
+Seré lo que debiera.
+Tu pie. Tu mano.
+{% end %}

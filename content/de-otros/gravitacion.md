@@ -8,9 +8,6 @@ authors = [
     "Juan José Arreola",
 ]
 tags = []
-
-[extra]
-subtitle = "Juan José Arreola"
 +++
 
 Los abismos atraen. Yo vivo en la orilla de tu alma. Inclinado hacia ti, sondeo tus pensamientos, indago el germen de tus actos. Vagos deseos se remueven en el fondo, confusos y ondulantes en su lecho de reptiles.

@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Emanuel Rodriguez"
 deck = "### Octubre 25, 2007.\n\n--Hola María Rosa. ¿Cómo te va?\n--Mal.\n--¿Qué tenés?\n--Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y que necesito que me pagues la deuda.\n\nUn día después del diagnóstico mi mamá ya le estaba sacando rédito.\nYo tuve que dejar el diario y todo lo demás para venir a verla. Cuando llegué estaba sonriendo. No va a pasar nada, nene. El problema es que la palabra es muy fea. \"Cáncer\". Es horrible.\n\n--Le digamos \"margaritas\".\n\nLa segunda rectoscopia la agarró canchera. Le llevó un presente a la doctora. Una estampita de San Expedito. \"Si se la pasan oliendo gases…\". Mis hermanos y yo estamos cinco veces más asustados que ella."
 +++
 

@@ -10,9 +10,6 @@ authors = [
 tags = [
     "Cuento breve",
 ]
-
-[extra]
-subtitle = "Clarice Lispector"
 +++
 
 lla era gorda, baja, pecosa y de pelo excesivamente crespo, medio amarillento. Tenía un busto enorme, mientras que todas nosotras todavía eramos chatas. Como si no fuese suficiente, por encima del pecho se llenaba de caramelos los dos bolsillos de la blusa. Pero poseía lo que a cualquier niña devoradora de historietas le habría gustado tener: un padre dueño de una librería.

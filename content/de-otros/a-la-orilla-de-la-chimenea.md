@@ -9,57 +9,56 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Joaquín Sabina"
 +++
 
-<div class="poetry">Puedo ponerme cursi y decir<br>
-que tus labios me saben igual que los labios<br>
-que beso en mis sueños,<br>
-puedo ponerme triste y decir<br>
-que me basta con ser tu enemigo, tu todo,<br>
-tu esclavo, tu fiebre, tu dueño.<br>
-<br>
-Y si quieres también<br>
-puedo ser tu estación y tu tren,<br>
-tu mal y tu bien,<br>
-tu pan y tu vino,<br>
-tu pecado, tu dios, tu asesino…<br>
-<br>
-O tal vez esa sombra<br>
-que se tumba a tu lado en la alfombra<br>
-a la orilla de la chimenea<br>
-a esperar que suba la marea.<br>
-<br>
-Puedo ponerme humilde y decir<br>
-que no soy el mejor<br>
-que me falta valor para atarte a mi cama,<br>
-puedo ponerme digno y decir<br>
-"toma mi dirección cuando te hartes de amores<br>
-baratos de un rato… me llamas".<br>
-<br>
-Y si quieres también<br>
-puedo ser tu trapecio y tu red,<br>
-tu adiós y tu "ven",<br>
-tu manta y tu frío,<br>
-tu resaca, tu lunes, tu hastio…<br>
-<br>
-O tal vez ese viento<br>
-que te arranca del aburrimiento<br>
-y te deja abrazada a una duda,<br>
-en mitad de la calle y desnuda.<br>
-<br>
-Y si quieres también<br>
-puedo ser tu abogado y tu juez,<br>
-tu miedo y tu fe<br>
-tu noche y tu día.<br>
-<br>
-Tu rencor, tu por que, tu agonía…<br>
-o tal vez esa sombra<br>
-que se tumba a tu lado en la alfombra<br>
-a la orilla de la chimenea<br>
-a esperar que suba la marea.</div>
+{% poetry() %}
+Puedo ponerme cursi y decir
+que tus labios me saben igual que los labios
+que beso en mis sueños,
+puedo ponerme triste y decir
+que me basta con ser tu enemigo, tu todo,
+tu esclavo, tu fiebre, tu dueño.
+
+Y si quieres también
+puedo ser tu estación y tu tren,
+tu mal y tu bien,
+tu pan y tu vino,
+tu pecado, tu dios, tu asesino…
+
+O tal vez esa sombra
+que se tumba a tu lado en la alfombra
+a la orilla de la chimenea
+a esperar que suba la marea.
+
+Puedo ponerme humilde y decir
+que no soy el mejor
+que me falta valor para atarte a mi cama,
+puedo ponerme digno y decir
+"toma mi dirección cuando te hartes de amores
+baratos de un rato… me llamas".
+
+Y si quieres también
+puedo ser tu trapecio y tu red,
+tu adiós y tu "ven",
+tu manta y tu frío,
+tu resaca, tu lunes, tu hastio…
+
+O tal vez ese viento
+que te arranca del aburrimiento
+y te deja abrazada a una duda,
+en mitad de la calle y desnuda.
+
+Y si quieres también
+puedo ser tu abogado y tu juez,
+tu miedo y tu fe
+tu noche y tu día.
+
+Tu rencor, tu por que, tu agonía…
+o tal vez esa sombra
+que se tumba a tu lado en la alfombra
+a la orilla de la chimenea
+a esperar que suba la marea.
+{% end %}
 
 {% postscript() %}
 Interpretado por Joan Manuel Serrat, en la gira *Dos pájaros de un tiro*

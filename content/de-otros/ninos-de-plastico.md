@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Víctor Heredia"
 deck = "<div class=\"poetry\">Niños de plástico<br>\njuegan erráticos<br>\nsueños para vivir,<br>\ny en un errático<br>\nvagabundeo<br>\nse vuelven a consumir,<br>\nen el estático<br>\nmundo simpático<br>\nque les dan a elegir.<br>\n<br>\nMienten, mienten,<br>\nqué forma de mentir.<br>\n<br>\nNo es el mundo que quiero<br>\nni el cielo que espero<br>\nno puedo vivir así.<br>\n<br>\nEn \"sachets\" de colores<br>\nnos venden \"amores\"<br>\ny todos decimos: ¡sí!.<br>\n<br>\nMienten, mienten,<br>\nqué forma de mentir .<br>\nMienten, mienten,<br>\nqué forma de mentir</div>"
 +++
 

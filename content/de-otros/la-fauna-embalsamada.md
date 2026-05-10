@@ -7,44 +7,43 @@ authors = [
     "Pedro Mairal",
 ]
 tags = []
-
-[extra]
-subtitle = "Pedro Mairal"
 +++
 
-<div class="poetry">¿esto es un poema?<br>
-¿estar a oscuras sin dormir<br>
-puede ser un poema?<br>
-¿si no hay nada<br>
-puede haber un poema?<br>
-¿si digo que respiro en este cubo negro,<br>
-no es algo ya? ¿no es demasiado?<br>
-¿no es mucho más que esto en realidad?<br>
-busco un silencio quieto entre paredes<br>
-una sola palabra de penumbra<br>
-cualquiera menos noche<br>
-porque noche está sólo permitida<br>
-a los poetas cósmicos<br>
-yo me refiero a este apagón del verbo<br>
-la boca ciega en la sombra de este miércoles<br>
-yo fui -yo quise ser- poeta natural, poeta cósmico<br>
-pero soy un poeta de edificio<br>
-poeta de ascensor<br>
-y no quiero dormir<br>
-quiero estar acostado sin luz en las palabras<br>
-por ejemplo:<br>
-¿adónde están las manos<br>
-de esta pregunta?<br>
-¿cómo es un poema en un departamento a oscuras?<br>
-yo que llamaba mulata, yegua de tinta a la noche<br>
-¿adónde voy a ir?<br>
-¿qué voy a hacer con mi fauna embalsamada<br>
-a las dos menos cuarto sin imagen<br>
-a tientas por el verbo del piso seis sin sueño?<br>
-vendo o alquilo mi fiel cosmogonía,<br>
-cambio sistema solar<br>
-por dos palabras ciertas<br>
-que consigan decir toda mi sombra.</div>
+{% poetry() %}
+¿esto es un poema?
+¿estar a oscuras sin dormir
+puede ser un poema?
+¿si no hay nada
+puede haber un poema?
+¿si digo que respiro en este cubo negro,
+no es algo ya? ¿no es demasiado?
+¿no es mucho más que esto en realidad?
+busco un silencio quieto entre paredes
+una sola palabra de penumbra
+cualquiera menos noche
+porque noche está sólo permitida
+a los poetas cósmicos
+yo me refiero a este apagón del verbo
+la boca ciega en la sombra de este miércoles
+yo fui -yo quise ser- poeta natural, poeta cósmico
+pero soy un poeta de edificio
+poeta de ascensor
+y no quiero dormir
+quiero estar acostado sin luz en las palabras
+por ejemplo:
+¿adónde están las manos
+de esta pregunta?
+¿cómo es un poema en un departamento a oscuras?
+yo que llamaba mulata, yegua de tinta a la noche
+¿adónde voy a ir?
+¿qué voy a hacer con mi fauna embalsamada
+a las dos menos cuarto sin imagen
+a tientas por el verbo del piso seis sin sueño?
+vendo o alquilo mi fiel cosmogonía,
+cambio sistema solar
+por dos palabras ciertas
+que consigan decir toda mi sombra.
+{% end %}
 
 {% postscript() %}
 Publicado en en *Consumidor Final*, Editorial Bajo la Luna, 2003.

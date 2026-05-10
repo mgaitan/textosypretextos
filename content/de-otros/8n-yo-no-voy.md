@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Bruno Bimbi"
 deck = "Yo no voy. Claro que no voy.\n\nQue no vaya no significa que piense que está todo bien, que no hay nada que criticar o que cambiar. No significa que yo no esté también enojado por algunas cosas. Significa que creo que este país de hoy es mucho mejor que los distintos países hipotéticos que me proponen los que me invitan a marchar contra el gobierno — tanto los dirigentes que lo hacen públicamente como muchos conocidos de Facebook, o las cadenas de mails que recibo, o los personajes públicos más representativos que sé que estarán ahí tratando de capitalizar la protesta. La mayoría, en realidad, no me propone nada más que el antikaísmo, pero los pocos que dicen qué quieren me asustan. Que no vaya significa también que en los últimos casi diez años vi al país yendo en una dirección muy parecida a la que siempre quise y por la que milité muchos años, con aciertos y errores, con marchas y contramarchas. Y que hoy siento que estamos mucho mejor que antes de 2003. Significa, también, que no creo que las opciones que se presentan —no una abstracción idealizada, sino las realmente existentes y disponibles— sean mejores. Al contrario, creo que son nefastas."
 +++
 

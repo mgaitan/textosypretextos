@@ -9,18 +9,17 @@ authors = [
 tags = [
     "Memoria",
 ]
-
-[extra]
-subtitle = "Juan Gelman"
 +++
 
-<div class="poetry">Ya que navegas por mi sangre y conoces mis límites<br>
-y me despiertas en la mitad del día para acostarme en tu recuerdo<br>
-y eres furia de mi paciencia para mi<br>
-dime qué diablos hago<br>
-por qué te necesito<br>
-quién eres muda sola recorriéndome<br>
-razón de mi pasión<br>
-por qué quiero llenarte solamente de mí<br>
-y abarcarte acabarte mezclarme a tus huesitos<br>
-y eres única patria contra las bestias del olvido</div>
+{% poetry() %}
+Ya que navegas por mi sangre y conoces mis límites
+y me despiertas en la mitad del día para acostarme en tu recuerdo
+y eres furia de mi paciencia para mi
+dime qué diablos hago
+por qué te necesito
+quién eres muda sola recorriéndome
+razón de mi pasión
+por qué quiero llenarte solamente de mí
+y abarcarte acabarte mezclarme a tus huesitos
+y eres única patria contra las bestias del olvido
+{% end %}

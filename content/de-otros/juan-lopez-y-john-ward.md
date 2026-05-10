@@ -10,9 +10,6 @@ authors = [
 tags = [
     "Cuento breve",
 ]
-
-[extra]
-subtitle = "Jorge Luis Borges"
 +++
 
 Les tocó en suerte una época extraña.

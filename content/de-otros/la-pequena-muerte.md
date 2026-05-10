@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Eduardo Galeano"
 deck = "{{ media_audio(src=\"/media/mp3/09_La_pequena_muerte.mp3\", title=\"09_La_pequena_muerte.mp3\") }}"
 +++
 

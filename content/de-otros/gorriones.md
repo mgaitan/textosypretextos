@@ -8,9 +8,6 @@ authors = [
 tags = [
     "Poesía",
 ]
-
-[extra]
-subtitle = "Florencia Lobo"
 +++
 
 Llegó el verano y con el verano el tiempo de arreglar la casa. Mi padre apoyó la escalera sobre una de las paredes y se trepó al techo. Antes de pintar, tenía que sacar medidas para poner a punto uno de los aleros nunca terminados. En varios de los huecos de ese alero, tiempo atrás se había instalado una familia de gorriones. Era lindo verlos llegar y salir de ese escondite con sus aleteos nerviosos, o escuchar los gorjeos al despuntar el día. Pero con el verano y los trabajos en el techo, no quedaba otra que desalojar los nidos. Mi padre parecía resistirse a tapar los huecos, porque iba dejando esa parte del techo para el final. Después, ya no hubo más remedio que el desalojo. Así que, en medio de la tarea ardua de lijar y pintar, se metió una tarde entera en el galpón. Cuando apareció, traía bajo el brazo un monoblock de lujo para los gorriones, que instaló debajo del flamante alero.

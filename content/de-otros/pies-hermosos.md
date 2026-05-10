@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Mario Benedetti"
 deck = "<div class=\"poetry\">La mujer que tiene los pies hermosos<br>\nnunca podrá ser fea<br>\nmansa suele subirle la belleza<br>\npor tobillos pantorrillas y muslos<br>\ndemorarse en el pubis<br>\nque siempre ha estado más alla de todo canon<br>\nrodear el ombligo como a uno de esos timbres<br>\nque si se les presiona tocan *Para Elisa*<br>\nreivindicar los lúbricos pezones a la espera<br>\nentreabrir los labios sin pronunciar saliva<br>\ny dejarse querer por los ojos espejo<br>\nLa mujer que tiene los pies hermosos<br>\nsabe vagabundear por la tristeza</div>"
 +++
 

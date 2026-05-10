@@ -8,29 +8,28 @@ authors = [
     "Jaime Ross",
 ]
 tags = []
-
-[extra]
-subtitle = "Jaime Ross"
 +++
 
-<div class="poetry">Cuando quieras mi amor, no lo imagines<br>
-no sueñes esperando que lo adivine<br>
-Cuando quieras al fin seguir tu instinto<br>
-ven a verme y abandona tu laberinto<br>
-<br>
-Si no entiendes lo que vives, si no crees lo que dicen,<br>
-Quizás sea porque no puedes sentir tu propio rumbo<br>
-atrapada por el molde que te hicieron que no logras destruir.<br>
-<br>
-Cuando quieras saber quien soy realmente<br>
-permite que tus ojos me lo cuenten<br>
-Cuando quieras mi amor, no te lo niegues<br>
-es tan triste que no tengas y desees.<br>
-<br>
-Cuando quieras mi amor, no lo imagines<br>
-no sueñes esperando que lo adivine.<br>
-Cuando quieras al fin seguir tu instinto<br>
-ven a verme y abandona tu laberinto.</div>
+{% poetry() %}
+Cuando quieras mi amor, no lo imagines
+no sueñes esperando que lo adivine
+Cuando quieras al fin seguir tu instinto
+ven a verme y abandona tu laberinto
+
+Si no entiendes lo que vives, si no crees lo que dicen,
+Quizás sea porque no puedes sentir tu propio rumbo
+atrapada por el molde que te hicieron que no logras destruir.
+
+Cuando quieras saber quien soy realmente
+permite que tus ojos me lo cuenten
+Cuando quieras mi amor, no te lo niegues
+es tan triste que no tengas y desees.
+
+Cuando quieras mi amor, no lo imagines
+no sueñes esperando que lo adivine.
+Cuando quieras al fin seguir tu instinto
+ven a verme y abandona tu laberinto.
+{% end %}
 
 {% postscript() %}
 Interpretación de Liliana Vitale 

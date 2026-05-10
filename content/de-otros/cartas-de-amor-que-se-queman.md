@@ -9,45 +9,44 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Manuel Castilla y Cuchi Leguizamón"
 +++
 
-<div class="poetry">Ay niña no queda nada<br>
-de todo lo que soñamos<br>
-nuestro amor son estas llamas<br>
-que están quemando mis manos<br>
-nuestro amor son estas llamas<br>
-que están quemando mis manos<br>
-<br>
-Son como una ala de luto<br>
-volando papel quemado<br>
-las cartas donde lloraba<br>
-este pecho enamorado<br>
-las cartas donde lloraba<br>
-este pecho enamorado<br>
-<br>
-Flor del olvido<br>
-cartas de amor<br>
-el que las quema no sabe<br>
-que enluta su corazón<br>
-el que las quema no sabe<br>
-que enluta su corazón<br>
-<br>
-Yo no se porque la pena<br>
-por tus ojos se va lejos<br>
-y no se porque los míos<br>
-se van dolidos con ellos<br>
-y no se porque los míos<br>
-se van dolidos con ellos<br>
-<br>
-Cartas de amor que se queman<br>
-flores negras en el viento<br>
-le dejan al que ha querido<br>
-el corazón ceniciento<br>
-le dejan al que ha querido<br>
-el corazón ceniciento</div>
+{% poetry() %}
+Ay niña no queda nada
+de todo lo que soñamos
+nuestro amor son estas llamas
+que están quemando mis manos
+nuestro amor son estas llamas
+que están quemando mis manos
+
+Son como una ala de luto
+volando papel quemado
+las cartas donde lloraba
+este pecho enamorado
+las cartas donde lloraba
+este pecho enamorado
+
+Flor del olvido
+cartas de amor
+el que las quema no sabe
+que enluta su corazón
+el que las quema no sabe
+que enluta su corazón
+
+Yo no se porque la pena
+por tus ojos se va lejos
+y no se porque los míos
+se van dolidos con ellos
+y no se porque los míos
+se van dolidos con ellos
+
+Cartas de amor que se queman
+flores negras en el viento
+le dejan al que ha querido
+el corazón ceniciento
+le dejan al que ha querido
+el corazón ceniciento
+{% end %}
 
 {% postscript() %}
 {{ video_embed(provider="youtube", id="YVSmVZOBW4E") }}

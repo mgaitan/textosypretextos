@@ -9,47 +9,46 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Jorge Drexler"
 +++
 
-<div class="poetry">Las lágrimas van al cielo<br>
-Y vuelven a tus ojos desde el mar<br>
-El tiempo se va, se va y no vuelve<br>
-Y tu corazón va a sanar<br>
-Va a sanar<br>
-Va a sanar<br>
-<br>
-La tierra parece estar quieta<br>
-Y el sol parece girar,<br>
-Y aunque parezca mentira<br>
-Tu corazón va a sanar<br>
-Va a sanar<br>
-Va a sanar<br>
-Y va a volver a quebrarse<br>
-Mientras le toque pulsar<br>
-<br>
-Y nadie sabe por qué un día el amor nace<br>
-Ni sabe nadie por qué muere el amor un día<br>
-Es que nadie nace sabiendo, nace sabiendo<br>
-Que morir, también es ley de vida.<br>
-<br>
-Así como cuando enfríe<br>
-Van a volver a pasar<br>
-Los pájaros, en bandadas,<br>
-Tu corazón va a sanar<br>
-Va a sanar<br>
-Va a sanar<br>
-<br>
-Y volverás a esperanzarte<br>
-Y luego a desesperar<br>
-Y cuando menos lo esperes<br>
-Tu corazón va a sanar<br>
-Va a sanar<br>
-Va a sanar<br>
-Y va a volver a quebrarse<br>
-Mientras le toque pulsar</div>
+{% poetry() %}
+Las lágrimas van al cielo
+Y vuelven a tus ojos desde el mar
+El tiempo se va, se va y no vuelve
+Y tu corazón va a sanar
+Va a sanar
+Va a sanar
+
+La tierra parece estar quieta
+Y el sol parece girar,
+Y aunque parezca mentira
+Tu corazón va a sanar
+Va a sanar
+Va a sanar
+Y va a volver a quebrarse
+Mientras le toque pulsar
+
+Y nadie sabe por qué un día el amor nace
+Ni sabe nadie por qué muere el amor un día
+Es que nadie nace sabiendo, nace sabiendo
+Que morir, también es ley de vida.
+
+Así como cuando enfríe
+Van a volver a pasar
+Los pájaros, en bandadas,
+Tu corazón va a sanar
+Va a sanar
+Va a sanar
+
+Y volverás a esperanzarte
+Y luego a desesperar
+Y cuando menos lo esperes
+Tu corazón va a sanar
+Va a sanar
+Va a sanar
+Y va a volver a quebrarse
+Mientras le toque pulsar
+{% end %}
 
 {% postscript() %}
 <object width="353" height="132"><embed src="http://www.goear.com/files/external.swf?file=921724f" type="application/x-shockwave-flash" wmode="transparent" quality="high" width="353" height="132"></embed></object>
