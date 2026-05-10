@@ -14,7 +14,9 @@ tags = [
 subtitle = "Joaquin Baldwin"
 +++
 
-<object width="500" height="410"><param name="movie" value="http://api.aniboom.com/e/285055" /><param name="allowScriptAccess" value="sameDomain" /><param name="quality" value="high" /><embed src="http://api.aniboom.com/e/285055" quality="high"  width="500"  height="410" allowscriptaccess="sameDomain" type="application/x-shockwave-flash"></embed></object>
+{{ external_embed(provider="aniboom", url="http://api.aniboom.com/e/285055") }}
+
+_Pendiente de revisión editorial: buscar reemplazo vigente del video._
 
 Un muñeco vudú debe encontrar el coraje necesario para salvar a sus compañeros de un pinchazo de muerte. Ganador del concurso de animación [Aniboom Award 2008](http://www.aniboom.com/awards2008/).
 
