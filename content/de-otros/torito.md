@@ -3,13 +3,8 @@ title = "Torito"
 slug = "torito"
 date = 2008-12-04 04:47:36
 description = "Qué le vas a hacer, ñato, cuando estás abajo todos te fajan. Todos, che, hasta el más maula. Te sacuden contra las sogas, te encajan la biaba. Andá, andá, qué venís con…"
-draft = false
-template = "article.html"
 authors = [
     "Julio Cortázar",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amistad",
@@ -17,37 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 248
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Qué le vas a hacer, ñato, cuando estás abajo todos te fajan. Todos, che, hasta el más maula. Te sacuden contra las sogas, te encajan la biaba. Andá, andá, qué venís con consuelos vos. Te conozco, mascarita. Cada vez…"
-visits = 9398
-popularite = 0.9063558860227122
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/de-otros/torito/"
-surtitle = ""
 subtitle = "Julio Cortázar"
 deck = "Qué le vas a hacer, ñato, cuando estás abajo todos te fajan. Todos, che, hasta el más maula. Te sacuden contra las sogas, te encajan la biaba. Andá, andá, qué venís con consuelos vos. Te conozco, mascarita. Cada vez que pienso en eso, salí de ahí, salí. Vos te creés que yo me desespero, lo que pasa es que no doy más aquí tumbado todo el día. Pucha que son largas las noches de invierno, te acordás del pibe del almacén cómo lo cantaba. Pucha que son largas... Y es así, ñato. Más largas que esperanza'e pobre. Fijáte que yo a la noche casi no la conozco, y venir a encontrarla ahora... Siempre a la cama temprano, a las nueve o a las diez. El patrón me decía: \"Pibe, andáte al sobre, mañana hay que meterle duro y parejo\". Una noche que me le escapaba era una casualidad. El patrón... Y ahora todo el tiempo así, mirando el techo. Ahí tenés otra cosa que no sé hacer, mirar p'arriba. Todos dijeron que me hubiera convenido, que hice la gran macana de levantarme a los dos segundos, cabrero como la gran flauta. Tienen razón, si me quedo hasta los ocho no me agarra tan mal el rubio.\n\nY bueno, es así. Pa peor la tos. Después te vienen con el jarabe y los pinchazos. Pobre la hermanita, el trabajo que le doy. Ni mear solo puedo. Es buena la hermanita, me da leche caliente y me cuenta cosas. Quién te iba a decir, pibe. El patrón me llamaba siempre pibe. Dale áperca, pibe. A la cocina, pibe. Cuando pelié con el negro en Nueva York el patrón andaba preocupado. Yo lo juné en el hotel antes de salir. \"Lo fajás en seis rounds, pibe\", pero fumaba como loco. El negro, cómo se llamaba el negrito, Flores o algo así. Duro de pelar, che. Un estilo lindo, me sacaba distancia vuelta a vuelta. Áperca, pibe, metele áperca. Tenía razón el trompa. Al tercero se me vino abajo como un trapo. Amarillo, el negro. Flores, creo, algo así. Mirá como uno se ensarta, al principio me pareció que el rubio iba a ser más fácil. Lo que es la confianza, ñato. Me barajó de una piña que te la debo. Me agarró en frío el maula. Pobre patrón, no quería creer. Con qué bronca me levanté. Ni sentía las piernas, me lo quería comer ahí nomás."
-author_links = [
-    { name = "Julio Cortázar", path = "/autores/julio-cortazar/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-
-[[extra.comments]]
-id = 8813
-anchor = "comment-8813"
-author = ""
-date = "2010-10-06 20:58:32"
-date_display = "06.10.2010"
-depth = 0
-url_site = ""
-title = "Torito"
-body = "putos de mierda :D"
 +++
 
 Mala suerte, pibe. Todo el mundo cobra al final. La noche del Tani, te acordás pobre Tani, qué biaba. Se veía que el Tani estaba de vuelta. Guapo el indio, me sacudía con todo, dale que va, arriba, abajo. No me hacía nada, pobre Tani. Y eso que cuando lo fui a saludar al rincón me dolía bastante la cara, al fin y al cabo me arrimó una buena leñada. Pobre Tani, vos sabés que me miró, yo le puse el guante en la cabeza y me reía de contento, no me quería reír, te imaginás que no era de él, pobre pibe. Me miró apenas, pero me hizo no sé qué. Todos me agarraban, pibe lindo, pibe macho, ah criollo, y el Tani quieto entre los de él, más chatos que cinco e'queso. Pobre Tani. Por qué me acuerdo de él, decime un poco. A lo mejor yo lo miré así al rubio esa noche. Qué sé yo, para acordarme estaba. Qué biaba, hermano. Ahora no vas a andar disimulando. Te fajó y se acabó. Lo malo que yo no quería creer. Estaba acostado en el hotel, y el patrón fumaba y fumaba, casi no había luz. Me acuerdo que hacía calor. Después me pusieron hielo, fijáte un poco yo con hielo. El trompa no decía nada, lo malo que no decía nada. Te juro que tenía ganas de llorar, como cuando ella... Pero para qué te vas a hacer mala sangre. Si llego a estar solo, te juro que moqueo. "Mala pata, patrón", le dije. Qué más le iba a decir. Él dale que dale al tabaco. Fue suerte dormirme. Como ahora, cada vez que agarro el sueño me saco la lotería. De día tenés la radio que trajo la hermanita, la radio que... Parece mentira, ñato. Bueno, te oís unos tanguitos y las transmisiones de los teatros. ¿Te gusta Canaro a vos? A mí Fresedo, che, y Pedro Maffia. Si los habré visto en el ringside, me iban a ver todas las veces. Podés pensar en eso, y se te acortan las horas. Pero a la noche qué lata, viejo. Ni la radio, ni la hermanita, y en una de esas te agarra la tos, y dale que dale, y por ahí uno de otra cama se rechifla y te pega un grito. 
@@ -65,4 +31,3 @@ Vos sabés que me habían hecho un tango y todo. Todavía me acuerdo un cacho, d
 Pero lo mismo pensaba todo el tiempo en Buenos Aires, y el patrón ponía los discos de Carlitos y los de Pedro Maffia, y el tango que me hicieron, yo no sé si sabés que me habían hecho un tango. Como a Legui, igualito. Y una vez me acuerdo que fuimos con ella y el patrón a una playa, todo el día en el agua, fue macanudo. No te creas que podía divertirme mucho, siempre con el entrenamiento y la comida cuidada, y nada que hacerle, el trompa no me sacaba los ojos. "Ya te vas a dar el gusto, pibe", me decía el trompa. Me acuerdo cuando la pelea con Mocoroa, esa fue pelea. Vos sabés que dos meses antes ya lo tenía al patrón dale que esa izquierda va mal, que no dejés entrar así, y me cambiaba los sparrings y meta salto a la soga y bife jugoso... Menos mal que me dejaba matear un poco, pero siempre me quedaba con sed de verde. Y vuelta a empezar todos los días, tené cuidado con la derecha, la tirás muy abierta, mirá que el coso no es macana. Te creés que yo no lo sabía, más de una vez lo fui a ver y me gustaba el pibe, no se achicaba nunca, y un estilo, che. Vos sabés lo que es el estilo, estás ahí y cuando hay que hacer una cosa vas y la hacés sobre el pucho, no como esos que la empiezan a zapallazo limpio, dale que va, arriba abajo los tres minutos. Una vez en El Gráfico un coso escribió que yo no tenía estilo. Me dio una bronca, te juro. No te voy a decir que yo era como Rayito, eso era para ir a verlo, pibe, y Mocoroa lo mismo. Yo qué te voy a decir, al rato de empezar ya veía todo colorado y le metía nomás, pero no te vas a creer que no me daba cuenta, solamente que me salía y si me salía bien para qué te vas a afligir. Vos ves cómo fue con Rayito, está bien que no lo saqué pero lo pude. Y a Mocoroa igual, qué querés. Flor de leñada, viejo, se me agachaba hasta el suelo y de abajo me zampaba cada piña que te la debo. Y yo meta a la cara, te juro que a la mitad ya estábamos con bronca y dale nomás. Esa vez no sentí nada, el patrón me agarraba la cabeza y decía pibe no te abrás tanto, dale abajo, pibe, guarda la derecha. Yo le oía todo pero después salíamos y meta biaba los dos, y hasta el final que no podíamos más, fue algo grande. Vos sabés que esa noche después de la pelea nos juntamos en un bodegón, estaba toda la barra y fue lindo verlo al pibe que se reía, y me dijo qué fenómeno, che, cómo fajás, y yo le dije te gané pero para mí que la empatamos, y todos brindaban y era un lío que no te puedo contar... 
 
 Lástima esta tos, te agarra descuidado y te dobla. Y bueno, ahora hay que cuidarse, mucha leche y estar quieto, qué le vas a hacer. Una cosa que me duele es que no te dejan levantar, a las cinco estoy despierto y meta mirar p'arriba. Pensás y pensás, y siempre lo malo, claro. Y los sueños igual, la otra noche, estaba peleando de nuevo con Peralta. Por qué justo tengo que venir a embocarla en esa pelea, pensá lo que fue, pibe, mejor no acordarse. Vos sabés lo que es toda la barra ahí, todo de nuevo como antes, no como en Nueva York, con los gringos... Y la barra del ringside, toda la hinchada, y unas ganas de ganar para que vieran que... Otra que ganar, si no me salía nada, y vos sabés cómo pegaba Víctor. Ya sé, ya sé, yo le ganaba con una mano, pero a la vuelta era distinto. No tenía ánimo, che, el patrón menos todavía, qué te vas a entrenar bien si estás triste. Y bueno, yo aquí era el campeón y él me desafió, tenía derecho. No le voy a disparar, no te parece. El patrón pensaba que le podía ganar por puntos, no te abrás mucho y no te cansés de entrada, mirá que aquél te va a boxear todo el tiempo. Y claro, se me iba para todos lados, y después que yo no estaba bien, con la barra ahí y todo te juro que tenía un cansancio en el cuerpo... Como modorra, entendés, no te puedo explicar. A la mitad de la pelea la empecé a pasar mal, después no me acuerdo mucho. Mejor no acordarse, no te parece. Son cosas que para qué. Me quisiera olvidar de todo. Mejor dormirse, total aunque soñés con las peleas a veces le acertás una linda y la gozás de nuevo. Como cuando el príncipe, qué plato. Pero mejor cuando no soñás, pibe, y estás durmiendo que es un gusto y no tosés ni nada, meta dormir nomás toda la noche dale que dale.
-

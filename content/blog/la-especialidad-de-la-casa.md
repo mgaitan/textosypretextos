@@ -3,75 +3,14 @@ title = "La especialidad de la casa"
 slug = "la-especialidad-de-la-casa"
 date = 2004-12-24 23:59:35
 description = "Todos en mi familia son buenos cocineros; quiero decir mamá, papá y hermanos. Los estadistas pueden sumar, si quieren, a mi Tia Elsa y a mi abuela Chola, de quienes…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Aprendizajes",
     "Familia",
     "Córdoba",
 ]
-
-[extra]
-legacy_id = 28
-section_slug = "blog"
-section_title = "Blog"
-summary = "Todos en mi familia son buenos cocineros; quiero decir mamá, papá y hermanos. Los estadistas pueden sumar, si quieren, a mi Tia Elsa y a mi abuela Chola, de quienes tengo buenos recuerdos pero poca evidencia de que…"
-visits = 670
-popularite = 0.9064476865203074
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/la-especialidad-de-la-casa/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Aprendizajes", path = "/etiquetas/aprendizajes/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-
-[[extra.comments]]
-id = 393
-anchor = "comment-393"
-author = "sandra"
-date = "2004-12-26 23:10:47"
-date_display = "26.12.2004"
-depth = 0
-url_site = ""
-title = ""
-body = "Feliz Navidad pibe"
-
-[[extra.comments]]
-id = 394
-anchor = "comment-394"
-author = "Gabriel - Antares"
-date = "2004-12-27 09:21:31"
-date_display = "27.12.2004"
-depth = 0
-url_site = ""
-title = ""
-body = "Holaaaa!! felicidades para todos... yo soy el amigo del gato \"gaby\" el aplaudidor que gana por \"lejos\"... es verdad, me gusta más comer que cocinar, y festejo todo lo que sea para el estómago... pero en los asados me convierto en \"asador\", amo hacer asados, y me quedan buenos, pero sigo aprendiendo. Soy observador como mi felino amigo aunque no tanto, ni tan detallista (tengo años mirando hacer asados a mi abuelo y padre)... están todos invitados, para cuando se dé la ocación, para comprobar también lo que aquí expongo... Soy testigo de las pizzas al horno de barro de Martín, y tiene un 10! Abrazos y éxitos por millones. Yo."
-
-[[extra.comments]]
-id = 977
-anchor = "comment-977"
-author = "Saskia"
-date = "2005-03-23 19:21:31"
-date_display = "23.03.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Yo soy Aplaudidora por excelencia pero en estos años de vivir sola no me quedó más remedio que aprender a cocinar comida que se dejara comer. ¡Y se deja! Hice arroces y fideos de estudiantes miles, ahora los sigo haciendo pero ya no son de estudiante, sino de trabajadora con bajo presupuesto. Creeme Tin, el mundo que se aparece ante uno cuando vive solo y lejos de la familia es infinito y es lo más lindo descubrirlo con ganas y mucho buen humor."
 +++
 
 Todos en mi familia son buenos cocineros; quiero decir mamá, papá y hermanos. Los estadistas pueden sumar, si quieren, a mi Tia Elsa y a mi abuela Chola, de quienes tengo buenos recuerdos pero poca evidencia de que siguen siendo buenas en el arte culinario.
@@ -87,4 +26,3 @@ La ocasión para la cuál guardaba mi secreto llegó en Córdoba, y se vio favor
 Sano y barato, eran las condiciones que más respeté. Luego venía la del menor despliegue, aunque esa me cuesta un poco todavía, para pesar de Dany, a quien le toca el lavado de todos los bártulos, mesada, piso y hornallas que yo ensucio. Milanesas, zapallo al horno con queso, pizza de berenjenas y de las otras, suflé de zanahorias, puré de papas pipí cucú, pollo al horno con papas y demáses, tarta de cebollas, asado (soy ayudante aún) y arroces y fideos en todas sus variedades fueron degustados hasta el momento. Y En 2005 vamos por más. 
 
 Pero, mi querida familia, hete aquí un pequeño chantaje: si quieren comprobar con sus propios ojos y paladares esto que aquí he contado, entonces deberan hacerse presentes de cuerpo y espíritu por la húmeda capital cordobesa. Mientras tanto yo voy a servirme algo de todo lo rico que ustedes cocinaron para esta ocasión. Feliz Navidad.
-

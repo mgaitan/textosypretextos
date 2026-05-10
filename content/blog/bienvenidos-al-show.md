@@ -3,43 +3,14 @@ title = "Bienvenidos al show"
 slug = "bienvenidos-al-show"
 date = 2005-07-02 13:50:27
 description = "Bienvenidos al show de este grupo de fulanos cuestionando en italiano por faltarnos religión. Bienvenidos al camino más errado del destino y de alguna salvación…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Yo lo vide",
     "Música",
     "Córdoba",
 ]
-
-[extra]
-legacy_id = 44
-section_slug = "blog"
-section_title = "Blog"
-summary = "Bienvenidos al show de este grupo de fulanos cuestionando en italiano por faltarnos religión. Bienvenidos al camino más errado del destino y de alguna salvación... Ma'PerQué , una banda de fulanos, está sonando mucho y…"
-visits = 68441
-popularite = 0.9564480977815136
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/bienvenidos-al-show/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Yo lo vide", path = "/etiquetas/yo-lo-vide/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-comments = []
 +++
 
 {{% epigrafe() %}}

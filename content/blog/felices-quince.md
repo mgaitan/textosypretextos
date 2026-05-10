@@ -3,95 +3,13 @@ title = "Felices Quince"
 slug = "felices-quince"
 date = 2009-02-09 15:33:23
 description = "El sábado a la tarde todo salía mal, como predijo don Murphy, el más informado de los optimistas. Eran casi las ocho y media y la internet se empecinaba en su paso de…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Memoria",
     "Cine",
 ]
-
-[extra]
-legacy_id = 286
-section_slug = "blog"
-section_title = "Blog"
-summary = "El sábado a la tarde todo salía mal, como predijo don Murphy, el más informado de los optimistas. Eran casi las ocho y media y la internet se empecinaba en su paso de tortuga, las computadoras (todas) me sacaban la…"
-visits = 8114
-popularite = 0.780436301947112
-hero_image = ""
-hero_alt = ""
-comment_count = 5
-legacy_url = "/blog/felices-quince/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-]
-
-[[extra.comments]]
-id = 7119
-anchor = "comment-7119"
-author = "Lucas"
-date = "2009-02-10 09:35:34"
-date_display = "10.02.2009"
-depth = 0
-url_site = ""
-title = "Felices Quince"
-body = "que haces vieja? muy linda la cronica que hiciste del cumple de dalma, como para volver a revivir todo lo hermoso de esa noche por cuantas veces leamos lo que escribiste, cuando sea viejo creo que la nostalgia me va a llevar a frecuentar este espacio para sentirme joven ja ja. \nBueno nos estaremos viendo , y segui asi con esto que esta muy bueno, un abrazo loco..\n\nPD: y chispita?"
-
-[[extra.comments]]
-id = 8132
-anchor = "comment-8132"
-author = ""
-date = "2010-01-23 18:23:29"
-date_display = "23.01.2010"
-depth = 0
-url_site = ""
-title = "Felices Quince"
-body = "que taradaa!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-
-[[extra.comments]]
-id = 8133
-anchor = "comment-8133"
-author = ""
-date = "2010-01-23 18:25:08"
-date_display = "23.01.2010"
-depth = 0
-url_site = ""
-title = "Felices Quince"
-body = "cualquiera la pag. je"
-
-[[extra.comments]]
-id = 8190
-anchor = "comment-8190"
-author = "anonimo"
-date = "2010-03-22 15:19:08"
-date_display = "22.03.2010"
-depth = 0
-url_site = ""
-title = "Felices Quince"
-body = "linda la historia que te escribiste pero es orrible el video"
-
-[[extra.comments]]
-id = 50091
-anchor = "comment-50091"
-author = "anonimo"
-date = "2011-04-04 02:57:52"
-date_display = "04.04.2011"
-depth = 0
-url_site = ""
-title = "Felices Quince"
-body = "esta buena la historia pero no crees q esta un poquitito larguita xD te abra costado escrivirla jejejebueno espero q la ayas pasado lindo...yo dentro d poco estoy x cumplir quince años jajaj no c como voy a estaR JA EN EL SENTIDO D ESTADO D ANIMO JAA WEE ESPERO Q LA PAC LINDO NO CUMPLO EL 23 DE ABRIL Y ESTAMOS A 3 ASIQ NO FALTA MUCHO BUENO BESOSSSSS........."
 +++
 
 El sábado a la tarde todo salía mal, como predijo don [Murphy](http://es.wikipedia.org/wiki/Ley_de_Murphy), el más informado de los optimistas. Eran casi las ocho y media y la internet se empecinaba en su paso de tortuga, las computadoras (todas) me sacaban la lengua desde el cd-rom, y mi humor ladraba golpes contra el escritorio.
@@ -159,4 +77,3 @@ Allá quedó la alegría, recién comenzada, polvareda enredada de felices quinc
 {% postscript() %}
 Agradecimiento especial a la más hermosa y sagaz correctora: a Nati, que me puso, literalmente, los puntos sobre las íes.
 {% end %}
-

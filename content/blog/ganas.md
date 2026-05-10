@@ -3,43 +3,14 @@ title = "Ganas"
 slug = "ganas"
 date = 2006-02-15 19:10:37
 description = "Córdoba 21 de junio de 2005. Tenía ganas de que estés acá conmigo, acá o en cualquier lado, no importa, pero que estemos los dos. Es que los labios se me están secando…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "huellas",
     "Amistad",
     "Humor",
 ]
-
-[extra]
-legacy_id = 56
-section_slug = "blog"
-section_title = "Blog"
-summary = "Córdoba 21 de junio de 2005. Tenía ganas de que estés acá conmigo, acá o en cualquier lado, no importa, pero que estemos los dos. Es que los labios se me están secando, y el doctor (ese que todos llevamos dentro)…"
-visits = 670
-popularite = 0.9083790547375942
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/ganas/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "huellas", path = "/etiquetas/huellas/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-comments = []
 +++
 
 *Córdoba 21 de junio de 2005.*

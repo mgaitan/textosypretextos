@@ -3,97 +3,14 @@ title = "Ferpecto quilombo"
 slug = "ferpecto-quilombo"
 date = 2006-02-15 19:23:01
 description = "No puedo dormir. Te tengo, como diría Eduardo, atravesada entre los párpados. No quería, no me sentía capáz, no tenía ni tengo claro qué escribo ahora, pero no hubo…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "huellas",
     "Amor",
     "Córdoba",
 ]
-
-[extra]
-legacy_id = 57
-section_slug = "blog"
-section_title = "Blog"
-summary = "No puedo dormir. Te tengo, como diría Eduardo, atravesada entre los párpados. No quería, no me sentía capáz, no tenía ni tengo claro qué escribo ahora, pero no hubo remedio...acá estoy, intentando que me salve el…"
-visits = 1638
-popularite = 0.8945842623932082
-hero_image = ""
-hero_alt = ""
-comment_count = 5
-legacy_url = "/blog/ferpecto-quilombo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "huellas", path = "/etiquetas/huellas/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-
-[[extra.comments]]
-id = 1098
-anchor = "comment-1098"
-author = "Laura"
-date = "2006-03-07 13:31:04"
-date_display = "07.03.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "Acabo de terminar de leer todo tu blog (soy un poco compulsiva con estas cosas) y quiero decirte que encontré un caminito por donde escaparme aunque sea por un ratito de mi cobarde realidad de cómoda silla de oficina para simular concentración. No te voy a decir que sos un grande ni un genio, pero me gustó lo simple de lo que contas y este ultimo me dio cosita.\nSoy lectora asidua de tábano y te había leído ahí. \nOjalá sigas con esto.\nUn beso desde Neuquén\nLau"
-
-[[extra.comments]]
-id = 1116
-anchor = "comment-1116"
-author = "La Loca"
-date = "2006-07-21 17:27:26"
-date_display = "21.07.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "en ese quilombo a mi tambien me asusta leerte. o sera encontrarme en el?\nmuy lindo.\n\nlaloca"
-
-[[extra.comments]]
-id = 1121
-anchor = "comment-1121"
-author = "Alquimista"
-date = "2006-09-11 19:44:39"
-date_display = "11.09.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "Lei sobre tu ferpecto quilombo, y debe ser que estoy muy sensible xq se me escasparon unas lágrimas. Desearia querer a alguien y ser querida,vivir intensamente una emoción real (o tal vez fantasia) y sin embargo nunca tuve el agrado. Quizas por miedo huí del amor para no ser lástimada, y cuando por fin me animé sucedió justamente lo que no deseaba. No me permitió soñar ni un instante y eso fue peor que el desengaño ( o tal vez no) A veces no me gusta despertar cuando el sueño es hermoso pero lo que menos me gusta es despertar sin haber soñado."
-
-[[extra.comments]]
-id = 1155
-anchor = "comment-1155"
-author = "javier"
-date = "2006-10-17 06:47:57"
-date_display = "17.10.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "saludos. casualmente, buscando qué significa quilombo, en uno de los vinculos proporcionados por google, te encontré. me gustó como le explicas a tu enamorada cuanto la quieres. pero deberías haber escrito algo creado por ti. la letra de j.m. serrat de \"mas que a nadie\" es muy bonita y expresa bien sus sentimientos. no los tuyos. la prosa si lo hace pero. saludos."
-
-[[extra.comments]]
-id = 1277
-anchor = "comment-1277"
-author = "fabian"
-date = "2006-12-14 12:02:48"
-date_display = "14.12.2006"
-depth = 0
-url_site = ""
-title = ""
-body = "me encanto tu perfecto quilombo,esta muy bueno, segui con esto\nsaludos desde viedma rio negro"
 +++
 
 No puedo dormir. Te tengo, como diría Eduardo, atravesada entre los párpados. No quería, no me sentía capaz, no tenía ni tengo claro qué escribo ahora, pero no hubo remedio...acá estoy, intentando que me salve el teclado.
@@ -201,4 +118,3 @@ Tuyo.
 Martín
 
 **Córdoba [3/09/05] **
-

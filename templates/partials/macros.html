@@ -1,33 +1,41 @@
 {% macro story_card(page, variant="default") %}
+  {% set site_index = load_data(path="data/site_index.json") %}
+  {% set page_info = site_index.pages | get(key=page.relative_path, default=false) %}
   {% set is_feature = variant == "feature" %}
   {% set is_compact = variant == "compact" %}
   {% set is_list = variant == "list" %}
   {% set is_home_list = variant == "home-list" %}
-  {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
+  {% set section_slug = page_info.section_slug | default(value=page.components[0]) %}
+  {% set section_title = page_info.section_title | default(value=section_slug | title) %}
+  {% set page_tags = page_info.tags | default(value=[]) %}
+  {% set page_authors = page_info.authors | default(value=page.authors | default(value=[])) %}
+  {% set comment_count = page_info.comment_count | default(value=0) %}
+  {% set use_subcat = section_slug in ["blog", "de-otros"] and page_tags and page_tags | length > 0 %}
   {% if use_subcat %}
-    {% set kicker_text = page.extra.tag_links[0].name %}
-    {% if page.extra.section_slug == "blog" %}
-      {% set kicker_link = page.extra.tag_links[0].path | replace(from="/etiquetas/", to="/blog/subsecciones/") %}
+    {% set kicker_text = page_tags[0] %}
+    {% set tag_info = site_index.tags | get(key=kicker_text, default=false) %}
+    {% if section_slug == "blog" %}
+      {% set kicker_link = "/blog/subsecciones/" ~ tag_info.slug ~ "/" %}
     {% else %}
-      {% set kicker_link = page.extra.tag_links[0].path %}
+      {% set kicker_link = tag_info.url | default(value="") %}
     {% endif %}
   {% else %}
-    {% set kicker_text = page.extra.section_title %}
-    {% set kicker_link = "/" ~ page.extra.section_slug ~ "/" %}
+    {% set kicker_text = section_title %}
+    {% set kicker_link = "/" ~ section_slug ~ "/" %}
   {% endif %}
   {% set hide_in_listing = page.extra.hide_hero_in_listing and (is_list or is_home_list) %}
   {% set show_hero = page.extra.hero_image and not hide_in_listing %}
   <article class="{% if is_list %}listing-card{% elif is_home_list %}home-listing-card{% elif is_compact %}feed-item{% else %}grid gap-5{% endif %}{% if not show_hero %} no-media{% endif %}">
     {% if show_hero %}
-      <a href="{{ page.permalink }}" class="media-frame {% if page.extra.section_slug == 'videos' %}video{% endif %} reveal {% if is_feature %}aspect-[16/10]{% elif is_list or is_home_list %}aspect-[4/3]{% else %}aspect-[16/9]{% endif %}">
+      <a href="{{ page.permalink }}" class="media-frame {% if section_slug == 'videos' %}video{% endif %} reveal {% if is_feature %}aspect-[16/10]{% elif is_list or is_home_list %}aspect-[4/3]{% else %}aspect-[16/9]{% endif %}">
         <img src="{{ page.extra.hero_image }}" alt="{{ page.extra.hero_alt | default(value=page.title) }}">
       </a>
-    {% elif page.extra.section_slug == "videos" and page.extra.video_id %}
+    {% elif section_slug == "videos" and page.extra.video_id %}
       <a href="{{ page.permalink }}" class="media-frame video reveal aspect-[16/9]">
         <img src="https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg"
              alt="{{ page.title }}" loading="lazy">
       </a>
-    {% elif page.extra.section_slug == "videos" %}
+    {% elif section_slug == "videos" %}
       <a href="{{ page.permalink }}" class="media-frame video reveal flex items-center justify-center text-white">
         <span class="section-ribbon">Video</span>
       </a>
@@ -43,45 +51,52 @@
       </h2>
       {% if page.extra.subtitle %}
         <p class="mt-2 text-base text-neutral-600">
-          {%- if page.extra.author_links and page.extra.author_links[0].name == page.extra.subtitle and page.extra.author_links[0].path -%}
-            <a href="{{ page.extra.author_links[0].path }}" class="meta-link">{{ page.extra.subtitle }}</a>
+          {%- if page_authors and page_authors[0] == page.extra.subtitle -%}
+            {% set author_info = site_index.authors | get(key=page.extra.subtitle, default=false) %}
+            {%- if author_info and author_info.url -%}
+              <a href="{{ author_info.url }}" class="meta-link">{{ page.extra.subtitle }}</a>
+            {%- else -%}
+              {{ page.extra.subtitle }}
+            {%- endif -%}
           {%- else -%}
             {{ page.extra.subtitle }}
           {%- endif -%}
         </p>
       {% endif %}
-      {% if page.extra.summary %}
+      {% if page.description %}
         <p class="story-deck {% if is_compact or is_home_list %}text-base leading-7{% endif %}{% if is_home_list %} home-listing-summary{% endif %}">
-          {{ page.extra.summary }}
+          {{ page.description }}
         </p>
       {% endif %}
       <div class="meta-row">
         <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
-        {% if page.extra.author_links %}
+        {% if page_authors %}
           <span>
-            {% for author in page.extra.author_links %}
-              {% if author.path %}
-                <a href="{{ author.path }}" class="meta-link">{{ author.name }}</a>{% if not loop.last %}, {% endif %}
+            {% for author in page_authors %}
+              {% set author_info = site_index.authors | get(key=author, default=false) %}
+              {% if author_info and author_info.url %}
+                <a href="{{ author_info.url }}" class="meta-link">{{ author }}</a>{% if not loop.last %}, {% endif %}
               {% else %}
-                {{ author.name }}{% if not loop.last %}, {% endif %}
+                {{ author }}{% if not loop.last %}, {% endif %}
               {% endif %}
             {% endfor %}
           </span>
         {% endif %}
-        {% if page.extra.comment_count | default(value=0) > 0 %}
-          <span>{{ page.extra.comment_count }} comentarios</span>
+        {% if comment_count > 0 %}
+          <span>{{ comment_count }} comentarios</span>
         {% endif %}
       </div>
-      {% if page.extra.tag_links and not is_compact and not is_home_list %}
+      {% if page_tags and not is_compact and not is_home_list %}
         {% if use_subcat %}{% set tag_start = 1 %}{% else %}{% set tag_start = 0 %}{% endif %}
-        {% if page.extra.tag_links | length > tag_start %}
+        {% if page_tags | length > tag_start %}
           <div class="mt-4 flex flex-wrap gap-2">
-            {% for tag in page.extra.tag_links %}
+            {% for tag in page_tags %}
               {% if loop.index0 >= tag_start %}
-                {% if tag.path %}
-                  <a href="{{ tag.path }}" class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag.name }}</a>
+                {% set tag_info = site_index.tags | get(key=tag, default=false) %}
+                {% if tag_info and tag_info.url %}
+                  <a href="{{ tag_info.url }}" class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag }}</a>
                 {% else %}
-                  <span class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag.name }}</span>
+                  <span class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag }}</span>
                 {% endif %}
               {% endif %}
             {% endfor %}

@@ -4,38 +4,15 @@ slug = "tocar-a-gimena"
 date = 2009-08-14 19:39:48
 description = "Lo primero que me trae a la mente la palabra \"tocar\" es mi amiga Gimena, compañera de colegio, en el viaje de egresados, el último año de la secundaria. Y más…"
 draft = true
-template = "article.html"
 authors = [
     "Pedro Mairal",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Cuento",
 ]
 
 [extra]
-legacy_id = 323
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Lo primero que me trae a la mente la palabra \"tocar\" es mi amiga Gimena, compañera de colegio, en el viaje de egresados, el último año de la secundaria. Y más específicamente el ómnibus que nos llevaba de vuelta al…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/tocar-a-gimena/"
-surtitle = ""
 subtitle = "Pedro Mairal"
-deck = ""
-author_links = [
-    { name = "Pedro Mairal", path = "/autores/pedro-mairal/" },
-]
-tag_links = [
-    { name = "Cuento", path = "/etiquetas/cuento/" },
-]
-comments = []
 +++
 
 Lo primero que me trae a la mente la palabra "tocar" es mi amiga Gimena, compañera de colegio, en el viaje de egresados, el último año de la secundaria. Y más específicamente el ómnibus que nos llevaba de vuelta al hotel, después de una excursión al Cerro Catedral. Mientras los demás se habían deslizado montaña abajo en unos trineos de plástico, los varones más escépticos nos habíamos escondido a fumar y a mear en la nieve, detrás de una cabaña de troncos. Yo fumaba y hacía como que vigilaba que no viniera un profesor, pero en realidad la miraba a Gimena que estaba con un suéter violeta, riéndose y sacándose fotos con las otras chicas.

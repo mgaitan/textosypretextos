@@ -3,35 +3,13 @@ title = "El lagarto está llorando"
 slug = "el-lagarto-esta-llorando"
 date = 2012-05-11 23:26:14
 description = "El lagarto está llorando. La lagarta está llorando. El lagarto y la lagarta con delantaritos blancos. Han perdido sin querer su anillo de desposados. ¡Ay, su anillito…"
-draft = false
-template = "article.html"
 authors = [
     "Federico García Lorca",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 376
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "El lagarto está llorando. La lagarta está llorando. El lagarto y la lagarta con delantaritos blancos. Han perdido sin querer su anillo de desposados. ¡Ay, su anillito de plomo, ay, su anillito plomado! Un cielo grande…"
-visits = 665
-popularite = 0.9081298074090259
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-lagarto-esta-llorando/"
-surtitle = ""
 subtitle = "Federico García Lorca"
-deck = ""
-author_links = [
-    { name = "Federico García Lorca", path = "" },
-]
-tag_links = []
-comments = []
 +++
 
 <div class="poetry">El lagarto está llorando.<br>

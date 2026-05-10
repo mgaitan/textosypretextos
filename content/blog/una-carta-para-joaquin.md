@@ -4,38 +4,12 @@ slug = "una-carta-para-joaquin"
 date = 2025-06-23 18:08:57
 description = "Querido Joaco: Me contó la abue (mi mamá) que hace unos días conversaste con ella por teléfono. ¡Que alegría! Un poco de envidia me da, sabés, porque yo no pude más que…"
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "El resto",
 ]
-
-[extra]
-legacy_id = 62
-section_slug = "blog"
-section_title = "Blog"
-summary = "Querido Joaco: Me contó la abue (mi mamá) que hace unos días conversaste con ella por teléfono. ¡Que alegría! Un poco de envidia me da, sabés, porque yo no pude más que escucharte decir \"me'as?\" señalando las papas…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/una-carta-para-joaquin/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-]
-comments = []
 +++
 
 Querido Joaco:

@@ -2,27 +2,27 @@
 {% import "partials/macros.html" as macros %}
 
 {% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
-{% block meta_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock meta_description %}
+{% block meta_description %}{{ page.description | default(value=config.description) }}{% endblock meta_description %}
 {% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
 {% block og_type %}article{% endblock og_type %}
 {% block og_url %}{{ page.permalink }}{% endblock og_url %}
 {% block og_title %}{{ page.title }} · {{ config.title }}{% endblock og_title %}
-{% block og_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock og_description %}
+{% block og_description %}{{ page.description | default(value=config.description) }}{% endblock og_description %}
 {% block og_image %}
   {%- if page.extra.hero_image -%}
     {{ config.base_url }}{{ page.extra.hero_image }}
-  {%- elif page.extra.section_slug == "videos" and page.extra.video_id -%}
+  {%- elif page.components[0] == "videos" and page.extra.video_id -%}
     https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg
   {%- else -%}
     {{ config.base_url }}/og-image.png
   {%- endif -%}
 {% endblock og_image %}
 {% block twitter_title %}{{ page.title }} · {{ config.title }}{% endblock twitter_title %}
-{% block twitter_description %}{{ page.description | default(value=page.extra.summary | default(value=config.description)) }}{% endblock twitter_description %}
+{% block twitter_description %}{{ page.description | default(value=config.description) }}{% endblock twitter_description %}
 {% block twitter_image %}
   {%- if page.extra.hero_image -%}
     {{ config.base_url }}{{ page.extra.hero_image }}
-  {%- elif page.extra.section_slug == "videos" and page.extra.video_id -%}
+  {%- elif page.components[0] == "videos" and page.extra.video_id -%}
     https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg
   {%- else -%}
     {{ config.base_url }}/og-image.png
@@ -30,7 +30,15 @@
 {% endblock twitter_image %}
 
 {% block content %}
-  {% set use_subcat = page.extra.section_slug in ["blog", "de-otros"] and page.extra.tag_links and page.extra.tag_links | length > 0 %}
+  {% set site_index = load_data(path="data/site_index.json") %}
+  {% set comments_by_article = load_data(path="data/comments.json") %}
+  {% set page_info = site_index.pages | get(key=page.relative_path, default=false) %}
+  {% set page_tags = page_info.tags | default(value=[]) %}
+  {% set page_authors = page_info.authors | default(value=page.authors | default(value=[])) %}
+  {% set section_slug = page_info.section_slug | default(value=page.components[0]) %}
+  {% set use_subcat = section_slug in ["blog", "de-otros"] and page_tags and page_tags | length > 0 %}
+  {% set comment_key = section_slug ~ "/" ~ page.slug %}
+  {% set static_comments = comments_by_article | get(key=comment_key, default=[]) %}
 
   <main
     class="article-shell"
@@ -41,8 +49,13 @@
       <h1 class="story-title">{{ page.title }}</h1>
       {% if page.extra.subtitle %}
         <p class="article-subtitle">
-          {%- if page.extra.author_links and page.extra.author_links[0].name == page.extra.subtitle and page.extra.author_links[0].path -%}
-            <a href="{{ page.extra.author_links[0].path }}" class="meta-link">{{ page.extra.subtitle }}</a>
+          {%- if page_authors and page_authors[0] == page.extra.subtitle -%}
+            {% set author_info = site_index.authors | get(key=page.extra.subtitle, default=false) %}
+            {%- if author_info and author_info.url -%}
+              <a href="{{ author_info.url }}" class="meta-link">{{ page.extra.subtitle }}</a>
+            {%- else -%}
+              {{ page.extra.subtitle }}
+            {%- endif -%}
           {%- else -%}
             {{ page.extra.subtitle }}
           {%- endif -%}
@@ -53,8 +66,8 @@
       {% endif %}
       <div class="meta-row">
         <span>{{ page.date | date(format="%d.%m.%Y") }}</span>
-        {% if page.extra.comment_count | default(value=0) > 0 %}
-          <a href="#comments" class="meta-link">{{ page.extra.comment_count }} comentarios</a>
+        {% if static_comments | length > 0 %}
+          <a href="#comments" class="meta-link">{{ static_comments | length }} comentarios</a>
         {% endif %}
       </div>
     </header>
@@ -64,16 +77,17 @@
     </article>
 
     {% if use_subcat %}{% set tag_start = 1 %}{% else %}{% set tag_start = 0 %}{% endif %}
-    {% if page.extra.tag_links and page.extra.tag_links | length > tag_start %}
+    {% if page_tags and page_tags | length > tag_start %}
       <div class="article-tags reveal">
         <span class="story-kicker mr-3">Etiquetas</span>
         <div class="flex flex-wrap gap-2">
-          {% for tag in page.extra.tag_links %}
+          {% for tag in page_tags %}
             {% if loop.index0 >= tag_start %}
-              {% if tag.path %}
-                <a href="{{ tag.path }}" class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-700 hover:bg-black hover:text-white">{{ tag.name }}</a>
+              {% set tag_info = site_index.tags | get(key=tag, default=false) %}
+              {% if tag_info and tag_info.url %}
+                <a href="{{ tag_info.url }}" class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-700 hover:bg-black hover:text-white">{{ tag }}</a>
               {% else %}
-                <span class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag.name }}</span>
+                <span class="border border-black px-2 py-1 text-[11px] uppercase tracking-[0.18em] text-neutral-600">{{ tag }}</span>
               {% endif %}
             {% endif %}
           {% endfor %}
@@ -140,7 +154,6 @@
         <span class="section-ribbon">Comentarios</span>
       </div>
 
-      {% set static_comments = page.extra.comments | default(value=[]) %}
       {% if static_comments | length > 0 %}
         <div class="comments-existing">
           {% for comment in static_comments %}

@@ -3,13 +3,8 @@ title = "En la cancha se ven los pingos"
 slug = "en-la-cancha-se-ven-los-pingos"
 date = 2011-01-21 02:48:40
 description = "Me agarró la fiebre clasificatoria y empecé por ordenar mis zapatos, después mi biblioteca, después los papeles que daban vueltas hace meses, y ahora quiero terminar…"
-draft = false
-template = "article.html"
 authors = [
     "Adriana Battu (Pedro Mairal)",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Música",
@@ -17,59 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 370
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Me agarró la fiebre clasificatoria y empecé por ordenar mis zapatos, después mi biblioteca, después los papeles que daban vueltas hace meses, y ahora quiero terminar etiquetando los estilos sexuales de los hombres…"
-visits = 2225
-popularite = 0.42209615354441127
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/de-otros/en-la-cancha-se-ven-los-pingos/"
-surtitle = ""
 subtitle = "Adriana Battu (Pedro Mairal)"
-deck = ""
-author_links = [
-    { name = "Adriana Battu (Pedro Mairal)", path = "" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-
-[[extra.comments]]
-id = 49562
-anchor = "comment-49562"
-author = "Gato"
-date = "2011-01-21 08:50:19"
-date_display = "21.01.2011"
-depth = 0
-url_site = ""
-title = "En la cancha se ven los pingos"
-body = "Brillante. Me cagué de risa y con eso mi mañana mejoró cien por cien."
-
-[[extra.comments]]
-id = 49563
-anchor = "comment-49563"
-author = "Rulo"
-date = "2011-01-21 10:49:16"
-date_display = "21.01.2011"
-depth = 0
-url_site = ""
-title = "En la cancha se ven los pingos"
-body = "mmmm pero en definitiva, hasta donde conoce de hombres no le ha terminado de gustar ninguno. Por ahi le va mejor con las chicas ;)"
-
-[[extra.comments]]
-id = 49564
-anchor = "comment-49564"
-author = ""
-date = "2011-01-21 12:36:54"
-date_display = "21.01.2011"
-depth = 0
-url_site = ""
-title = "En la cancha se ven los pingos"
-body = "esta muy bueno este relato!!!!me cague de risa primo!!!!jajajaja. besitos!siga escribiendo asi. te quiero!!!"
 +++
 
 <intro>Me agarró la fiebre clasificatoria y empecé por ordenar mis zapatos, después mi biblioteca, después los papeles que daban vueltas hace meses, y ahora quiero terminar etiquetando los estilos sexuales de los hombres. Algunos los conocí, otros me los contaron. Todo esto fue hace mucho tiempo, en la etapa disipada de mi vida.
@@ -126,4 +69,3 @@ Se exige y te exige mucho. Hace logística de anticipación: horarios, lugar de 
 También es director, pero no técnico, sino de cine, de sonido, de fotografía. Siempre está proponiendo mínimos ajustes. "Ponete un poquitito más… Ahí, perfecto." O "Pará que tengo algo que me pincha la espal… Ahí está, ahí está". Es muy visual. No puede empezar hasta que no arregló bien el tema luces: la del cuarto apagada, pero la del living prendida y con la puerta a medio entornar. El dimmer lo hace muy feliz. Te conoce tus mejores ángulos y te los pide; cuando te coge en cuatro te dice "A ver, mirame". No le gusta el polvo de abrazo enceguecido, sino las poses que permiten los planos abiertos. Es freak de los ruidos. Un crujido de cama lo hace pedir "corte". Un celular que interrumpe lo malhumora por una semana. 
 
 Seguramente hay más que estos 12 estilos sexuales masculinos, pero está bien así. No hace falta aclarar que hay hombres a los que les caben varias categorías, o que mutan de categoría en una misma noche o a lo largo de los años. No pretendo que esta clasificación sirva de algo ni que haga reflexionar a los hombres. No soy Alejandra Granpolla. La verdad que cada uno coje como puede. Quizá con algunos hombres hay esperanza porque es cierto que mejoran un poquito con la edad.
-

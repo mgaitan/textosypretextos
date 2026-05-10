@@ -3,19 +3,6 @@ title = "Mario Benedetti"
 template = "author.html"
 
 [extra]
-legacy_id = 2
-legacy_slug = "Mario-Benedetti"
-article_paths = [
-    "de-otros/desganas.md",
-    "de-otros/no-te-rindas.md",
-    "de-otros/gracias-por-el-fuego-fragmento.md",
-    "de-otros/pies-hermosos.md",
-    "de-otros/hagamos-un-trato.md",
-    "de-otros/defensa-de-la-alegria.md",
-    "de-otros/el-hombre-que-aprendio-a-ladrar.md",
-    "de-otros/eso.md",
-    "de-otros/rostro-de-vos.md",
-]
 image = "/media/auton2.jpg"
 is_owner = false
 +++

@@ -3,49 +3,15 @@ title = "Algo muy grave va a suceder en este pueblo"
 slug = "algo-muy-grave-va-a-suceder-en"
 date = 2012-07-29 05:39:47
 description = "Imagínese usted un pueblo muy pequeño donde hay una señora vieja que tiene dos hijos, uno de 17 y una hija de 14. Está sirviéndoles el desayuno y tiene una expresión de…"
-draft = false
-template = "article.html"
 authors = [
     "Gabriel García Marquez",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Música",
 ]
 
 [extra]
-legacy_id = 436
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Imagínese usted un pueblo muy pequeño donde hay una señora vieja que tiene dos hijos, uno de 17 y una hija de 14. Está sirviéndoles el desayuno y tiene una expresión de preocupación. Los hijos le preguntan qué le pasa…"
-visits = 10178
-popularite = 0.9268310975041049
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/de-otros/algo-muy-grave-va-a-suceder-en/"
-surtitle = ""
 subtitle = "Gabriel García Márquez"
-deck = ""
-author_links = [
-    { name = "Gabriel García Marquez", path = "/autores/gabriel-garcia-marquez/" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-
-[[extra.comments]]
-id = 54979
-anchor = "comment-54979"
-author = "Pacol"
-date = "2013-04-29 17:40:23"
-date_display = "29.04.2013"
-depth = 0
-url_site = ""
-title = "Algo muy grave va a suceder en este pueblo"
-body = "Muy buena la obra, la verdad que me atrapa mucho.\nLa tengo que actuar en teatro asi que deseenme suerte...\n\n                                 PACOL..."
 +++
 
 Imagínese usted un pueblo muy pequeño donde hay una señora vieja que tiene dos hijos, uno de 17 y una hija de 14. Está sirviéndoles el desayuno y tiene una expresión de preocupación. Los hijos le preguntan qué le pasa y ella les responde:
@@ -129,4 +95,3 @@ Huyen en un tremendo y verdadero pánico, como en un éxodo de guerra, y en medi
 {% postscript() %}
 Nota: En un congreso de escritores, al hablar sobre la diferencia entre contar un cuento o escribirlo, García Márquez contó lo que sigue, "Para que vean después cómo cambia cuando lo escriba".
 {% end %}
-

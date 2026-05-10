@@ -3,39 +3,15 @@ title = "A la orilla de la chimenea"
 slug = "a-la-orilla-de-la-chimenea"
 date = 2008-01-07 22:03:00
 description = "Puedo ponerme cursi y decir que tus labios me saben igual que los labios que beso en mis sueños, puedo ponerme triste y decir que me basta con ser tu enemigo, tu todo…"
-draft = false
-template = "article.html"
 authors = [
     "Joaquín Sabina",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amor",
 ]
 
 [extra]
-legacy_id = 262
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Puedo ponerme cursi y decir que tus labios me saben igual que los labios que beso en mis sueños, puedo ponerme triste y decir que me basta con ser tu enemigo, tu todo, tu esclavo, tu fiebre, tu dueño. Y si quieres…"
-visits = 1470
-popularite = 0.3527155980605535
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/a-la-orilla-de-la-chimenea/"
-surtitle = ""
 subtitle = "Joaquín Sabina"
-deck = ""
-author_links = [
-    { name = "Joaquín Sabina", path = "/autores/joaquin-sabina/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
 +++
 
 <div class="poetry">Puedo ponerme cursi y decir<br>

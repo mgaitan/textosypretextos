@@ -3,13 +3,8 @@ title = "Monólogo octavo: Habla Dulcinea"
 slug = "monologo-octavo-habla-dulcinea"
 date = 2012-06-29 22:29:40
 description = "No vayan a creer vuesas mercedes que soy una moza lánguida y amiga de embelecos sin bulto, de los que no se palpan ni se sienten pero hacen llorar. Arredro vayan de mi…"
-draft = false
-template = "article.html"
 authors = [
     "Fernando Savater",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amor",
@@ -17,27 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 431
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "No vayan a creer vuesas mercedes que soy una moza lánguida y amiga de embelecos sin bulto, de los que no se palpan ni se sienten pero hacen llorar. Arredro vayan de mi vera los pálpitos inexplicables, los suspiritos de…"
-visits = 2268
-popularite = 0.9966812718610963
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/monologo-octavo-habla-dulcinea/"
-surtitle = ""
 subtitle = "Fernando Savater"
 deck = "No vayan a creer vuesas mercedes que soy una moza lánguida y amiga de\nembelecos sin bulto, de los que no se palpan ni se sienten pero hacen llorar.\nArredro vayan de mi vera los pálpitos inexplicables, los suspiritos de malcasada\no los vapores y calorinas de monja: no soy doncella, eso ya lo saben --y bien que lo\naprovechan-- todos los mozos del Toboso y hasta más de uno de Argamasilla."
-author_links = [
-    { name = "Fernando Savater", path = "" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-comments = []
 +++
 
 Nadie da serenatas a la ventana de mi casa, que no se abre sobre jardín palaciego

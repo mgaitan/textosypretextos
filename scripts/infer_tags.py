@@ -3,13 +3,10 @@
 # requires-python = ">=3.12"
 # dependencies = ["tomli-w>=1.2.0"]
 # ///
-"""Infiera etiquetas transversales (Humor, Familia, etc.) sobre los artículos
-y las agrega al frontmatter (campo `tags`, `extra.tag_links`).
+"""Infiera etiquetas transversales (Humor, Familia, etc.) sobre los artículos.
 
-Las etiquetas se eligen por matching de keywords sobre el cuerpo + título.
-Cada artículo recibe entre 0 y 2 inferidas. La temática SPIP original
-(primera entrada existente en tag_links) sigue siendo la subcategoría
-mostrada como kicker, pero no se duplica.
+Las etiquetas se agregan sólo al campo `tags`; las páginas de etiqueta se
+calculan durante el build a partir de los artículos.
 """
 from __future__ import annotations
 
@@ -139,8 +136,6 @@ def process_articles() -> tuple[Counter[str], dict[str, list[str]]]:
             continue
 
         existing_tags = list(fm.get("tags") or [])
-        existing_tag_links = list((fm.get("extra") or {}).get("tag_links") or [])
-
         # Score using title + body (limit body to first ~6000 chars to keep fast)
         title = fm.get("title", "")
         scored = score_tags(title + "\n\n" + body[:8000])
@@ -157,19 +152,13 @@ def process_articles() -> tuple[Counter[str], dict[str, list[str]]]:
         if not new_inferred:
             continue
 
-        # Append to tags and tag_links
-        section_slug = path.parent.name
-        rel_path = f"{section_slug}/{path.name}"
+        rel_path = f"{path.parent.name}/{path.name}"
         for name, slug in new_inferred:
             existing_tags.append(name)
-            existing_tag_links.append({"name": name, "path": f"/etiquetas/{slug}/"})
             counter[name] += 1
             by_tag.setdefault(name, []).append(rel_path)
 
         fm["tags"] = existing_tags
-        if "extra" not in fm:
-            fm["extra"] = {}
-        fm["extra"]["tag_links"] = existing_tag_links
 
         path.write_text("+++\n" + render_frontmatter(fm) + "+++\n\n" + body.strip() + "\n", encoding="utf-8")
 
@@ -187,17 +176,12 @@ def write_tag_pages(counts: Counter[str], by_tag: dict[str, list[str]]) -> None:
         if path.exists():
             # Don't overwrite if it exists; merge would be nicer but skip for now
             continue
-        # Sort article paths by date (descending) using file mtime as fallback
-        article_paths = sorted(set(by_tag.get(name, [])))
         fm = {
             "title": name,
             "template": "tag.html",
             "extra": {
-                "legacy_id": 0,
-                "legacy_slug": slug,
                 "group_id": 99,
                 "group_name": "transversales",
-                "article_paths": article_paths,
                 "inferred": True,
             },
         }

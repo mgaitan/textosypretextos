@@ -3,13 +3,8 @@ title = "I'm back"
 slug = "i-m-back"
 date = 2008-09-11 10:24:13
 description = "Soy un bicho raro. Alguien me dijo una vez que era el estereotipo del no estereotipo de estudiante de ingeniería. No entendí si era un elogio, una crítica o una simple…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Universo universitario",
@@ -17,37 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 221
-section_slug = "blog"
-section_title = "Blog"
-summary = "Soy un bicho raro. Alguien me dijo una vez que era el estereotipo del no estereotipo de estudiante de ingeniería. No entendí si era un elogio, una crítica o una simple descripción entomológica. Amo la computación y…"
-visits = 960
-popularite = 0.9074930303452641
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/blog/i-m-back/"
-surtitle = ""
 subtitle = "(o un intento de decir gracias)"
 deck = "Soy un bicho raro. Alguien me dijo una vez que era el estereotipo del no estereotipo de estudiante de ingeniería. No entendí si era un elogio, una crítica o una simple descripción entomológica."
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Universo universitario", path = "/etiquetas/universo-universitario/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 7025
-anchor = "comment-7025"
-author = "Lu"
-date = "2008-09-13 08:40:47"
-date_display = "13.09.2008"
-depth = 0
-url_site = ""
-title = "I'm back"
-body = "Me alegra tenerte de vuelta, aunque todavia no te he visto...y aunque debo decir que no sabía que habías descansado un rato de la singularidad de ésta casa de estudios jejeje. Pensé que andabas cursando otras materias, pero bueno, me alegro que tengas nuevas fuerzas y que te decidas a continuar en la lucha y seguir buscando crear espacios y abrir diálogos, creo yo necesarios.\n\nUn fuerte abrazo Martín, sos un BUEN compañero, un gran pensador y una persona de bien, con ideales firmes y grandes convicciones, se te quiere y aprecia mucho."
 +++
 
 Amo la computación y deseo profundamente ser profesional, porque sé que me puede servir para servir. Existe en mí una convicción inclaudicable de que es este, el de ser un estudiante universitario, un privilegio soldado a fuego con la responsabilidad social que implica. Quiero honrarlo. 
@@ -72,4 +38,3 @@ Quiero hacer un agradecimiento especial a Miguel, Gustavo y Orlando que me abrie
 
 Un abrazo inmenso que les llegue a tod@s
 Martin.
-

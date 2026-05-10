@@ -3,43 +3,14 @@ title = "A través de tus ojos"
 slug = "a-traves-de-tus-ojos"
 date = 2025-06-23 18:08:57
 description = "A través de tus ojos. Una canción de La Portuaria."
-draft = false
-template = "article.html"
 authors = [
     "La Portuaria",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "El resto",
     "Música",
-    "Canción",
+    "canción",
 ]
-
-[extra]
-legacy_id = 78
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "A través de tus ojos. Una canción de La Portuaria sobre el tiempo compartido, la intimidad y la mirada amorosa."
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/a-traves-de-tus-ojos/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "La Portuaria", path = "" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Canción", path = "/etiquetas/cancion/" },
-]
-comments = []
 +++
 
 {{ video_embed(provider="youtube", id="8Xl5ZaInIc8", title="A través de tus ojos - La Portuaria") }}

@@ -7,6 +7,8 @@
 {% block og_url %}{{ page.permalink }}{% endblock og_url %}
 
 {% block content %}
+  {% set site_index = load_data(path="data/site_index.json") %}
+  {% set tag_info = site_index.tags | get(key=page.title, default=false) %}
   {% set subsections = get_section(path="blog/subsecciones/_index.md") %}
   {% set blog = get_section(path="blog/_index.md") %}
 
@@ -37,7 +39,7 @@
 
     <section class="listing mt-10">
       {% for article in blog.pages %}
-        {% if page.extra.article_paths and article.relative_path and article.relative_path in page.extra.article_paths %}
+        {% if tag_info and tag_info.articles and article.relative_path and article.relative_path in tag_info.articles %}
           {{ macros::story_card(page=article, variant="list") }}
         {% endif %}
       {% endfor %}

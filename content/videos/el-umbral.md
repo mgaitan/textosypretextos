@@ -3,13 +3,8 @@ title = "El umbral"
 slug = "el-umbral"
 date = 2012-07-17 11:46:23
 description = ""
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = [
     "Música",
@@ -17,26 +12,7 @@ tags = [
 
 [extra]
 video_id = "39DnBGPApZc"
-legacy_id = 434
-section_slug = "videos"
-section_title = "Videos"
-summary = "El umbral Tabaré Cardozo Cada uno carga con su alma y con su cruz para dar batalla en las tormentas. Cada uno carga con las sombras y la luz tras de los espejos que se enfrentan. Y en la brevedad de la eternidad cada…"
-visits = 5813
-popularite = 0.6869061320387727
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/el-umbral/"
-surtitle = ""
 subtitle = "Salen camiones"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-]
-comments = []
 +++
 
 {{ video_embed(provider="youtube", id="39DnBGPApZc") }}

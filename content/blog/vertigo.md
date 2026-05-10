@@ -4,34 +4,10 @@ slug = "vertigo"
 date = 2008-08-18 20:36:29
 description = "Uno: Eu falo portugués Fogueira sem brasa Sou eu, assim, sem você|autor=De una canción de Adriana Calcanhoto> Cuando tenía ocho años, mi infancia complicada --sobre…"
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
 ]
-categories = [
-    "Blog",
-]
 tags = []
-
-[extra]
-legacy_id = 198
-section_slug = "blog"
-section_title = "Blog"
-summary = "Uno: Eu falo portugués Fogueira sem brasa Sou eu, assim, sem você|autor=De una canción de Adriana Calcanhoto> Cuando tenía ocho años, mi infancia complicada --sobre todo para mis viejos-- se sintió un poco contenida en…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/vertigo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
 +++
 
 **Uno: Eu falo portugués**

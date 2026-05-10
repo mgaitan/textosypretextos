@@ -3,13 +3,8 @@ title = "Fideo"
 slug = "fideo"
 date = 2014-05-25 16:14:54
 description = "Se lo dije a Carlitos y al Lean: lo único que yo quería del partido de ayer entre el Real y el Atlético de Madrid, era que Angelito Dí María la rompiera. Sucedió: fue…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "La pelota no se mancha",
@@ -19,29 +14,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 446
-section_slug = "blog"
-section_title = "Blog"
-summary = "Se lo dije a Carlitos y al Lean: lo único que yo quería del partido de ayer entre el Real y el Atlético de Madrid, era que Angelito Dí María la rompiera. Sucedió: fue el mejor de la cancha, el que fue para adelante…"
-visits = 3977
-popularite = 0.5837580024328238
 hero_image = "/media/jpg/fiesta-Real-Cibeles_OLEIMA20140525_0084_14.jpg"
 hero_alt = "fiesta-Real-Cibeles_OLEIMA20140525_0084_14.jpg"
-comment_count = 0
-legacy_url = "/blog/fideo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "La pelota no se mancha", path = "/etiquetas/la-pelota-no-se-mancha/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-    { name = "Personas", path = "/etiquetas/personas/" },
-    { name = "Deporte", path = "/etiquetas/deporte/" },
-]
-comments = []
 +++
 
 Se lo dije a Carlitos y al Lean: lo único que yo quería del partido de ayer entre el Real y el Atlético de Madrid, era que Angelito Dí María la rompiera. Sucedió: fue el mejor de la cancha, el que fue para adelante siempre, el que [tuvo cuatro pulmones extra](https://twitter.com/tin_nqn_/status/470310240945438720) para picar y gambetear en el minuto 120 de partido, una vez más, como si recién saliera a la cancha.

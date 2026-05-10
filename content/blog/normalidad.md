@@ -3,60 +3,12 @@ title = "Normalidad"
 slug = "normalidad"
 date = 2004-12-09 16:41:30
 description = "El canal TN titula \"Regresó la normalidad\" la noticia sobre el fin (temporal) del conflicto de los ferroviarios en Buenos Aires. La elipsis se entiende si se presta…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Desde el ombligo",
 ]
-
-[extra]
-legacy_id = 24
-section_slug = "blog"
-section_title = "Blog"
-summary = "El canal TN titula \"Regresó la normalidad\" la noticia sobre el fin (temporal) del conflicto de los ferroviarios en Buenos Aires. La elipsis se entiende si se presta atención, pero no deja de ser una suspicacia para…"
-visits = 601
-popularite = 0.9061625282787966
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/normalidad/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-]
-
-[[extra.comments]]
-id = 387
-anchor = "comment-387"
-author = "Sandra"
-date = "2004-12-09 21:42:43"
-date_display = "09.12.2004"
-depth = 0
-url_site = "http://elblogdesandra.blogspot.com"
-title = ""
-body = "Mister, ya deja de ser una novedad que en este paìs preparen a la gente con la capacidad de una res. Yo estoy convencida que falta muy poco para que nos hagan hamburguesas y nos vendan al Mc Donalds amigo.\n;)"
-
-[[extra.comments]]
-id = 388
-anchor = "comment-388"
-author = "elena"
-date = "2004-12-11 00:10:34"
-date_display = "11.12.2004"
-depth = 0
-url_site = "http://joaquin"
-title = ""
-body = "Qué joda sería que esas hamburguesas \"hechas con nosostros\" se las regale Mc Donalds a Castel -"
 +++
 
 El canal TN titula "Regresó la normalidad" la noticia sobre el fin (temporal) del conflicto de los ferroviarios en Buenos Aires.  La elipsis se entiende si se presta atención, pero no deja de ser una suspicacia para los que quieren escucharla. 
@@ -75,4 +27,3 @@ demostrando una vez más de que lado está. Maldición, ¡de nuevo me lo voy a p
 Según el balance de los obreros ceramistas, la producción ascendió a más de 300 mil metros cuadrados con un 90 por ciento en ventas. Eso permitió garantizar más de 450 puestos de trabajo genuino, frente a los 260 iniciales. Carlos Guerra, obrero de Zanon cerró la idea:* "este ha sido un buen año, y esperamos que el que viene sea mejor. Sabemos que vamos a tener mucha presión pero quedó el compromiso de todos de pelear hasta las últimas consecuencias."*
 
 A los señores de TN: La normalidad no regresó; nunca se fue.
-

@@ -3,43 +3,14 @@ title = "Nos reímos de... perdón, con ustedes."
 slug = "nos-reimos-de-perdon-con-ustedes"
 date = 2008-08-02 02:10:52
 description = "\"Estúpidos hombres blancos\", un libro de Michael Moore publicado en 2001 poco después del atentado a las Torres Gemelas, es un látigo satírico que azota las espaldas…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Cinefileando",
     "Cine",
     "Humor",
 ]
-
-[extra]
-legacy_id = 183
-section_slug = "blog"
-section_title = "Blog"
-summary = "\"Estúpidos hombres blancos\", un libro de Michael Moore publicado en 2001 poco después del atentado a las Torres Gemelas, es un látigo satírico que azota las espaldas de los norteamericanos, desnudando su racismo, su…"
-visits = 10807
-popularite = 0.9130541072837808
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/nos-reimos-de-perdon-con-ustedes/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Cinefileando", path = "/etiquetas/cinefileando/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-comments = []
 +++
 
 *"Estúpidos hombres blancos"*, un libro de Michael Moore publicado en 2001 poco después del atentado a las Torres Gemelas, es un látigo satírico que azota las espaldas de los norteamericanos, desnudando su racismo, su mediocridad y la incompetencia y corrupción del presidente Bush.

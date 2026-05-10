@@ -3,75 +3,14 @@ title = "Contrastes"
 slug = "contrastes"
 date = 2009-03-04 22:41:12
 description = "Hagamos un experimento imaginario. Vayamos a la parada de colectivos más multitudinaria de la ciudad (Plaza San Martín, en Córdoba; Sarmiento y Avenida, en Neuquén) y…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Cinefileando",
     "Cine",
     "Política",
 ]
-
-[extra]
-legacy_id = 304
-section_slug = "blog"
-section_title = "Blog"
-summary = "Hagamos un experimento imaginario. Vayamos a la parada de colectivos más multitudinaria de la ciudad (Plaza San Martín, en Córdoba; Sarmiento y Avenida, en Neuquén) y preguntémosle a la gente, al azar, qué recuerdan de…"
-visits = 6320
-popularite = 0.9080486397419355
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/contrastes/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Cinefileando", path = "/etiquetas/cinefileando/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-]
-
-[[extra.comments]]
-id = 7179
-anchor = "comment-7179"
-author = "marina"
-date = "2009-05-02 18:30:26"
-date_display = "02.05.2009"
-depth = 0
-url_site = ""
-title = "Contrastes"
-body = "al final que? es un bodrio la película?\nmuy bueno el video, hay cosas que se me pasaban pero verle la cara de or... a W es impagable"
-
-[[extra.comments]]
-id = 7210
-anchor = "comment-7210"
-author = "agus"
-date = "2009-05-08 15:40:44"
-date_display = "08.05.2009"
-depth = 0
-url_site = ""
-title = "Contrastes"
-body = "INCREIBLE, no puedo creer que lo hayan dejado pararse ahí y matarlos a TODOS, y encima con tanta altura e inteligencia que algunos ni entendían lo que les estaba diciendo! Para lo cerrados de mente q son estos yanquis, es una esperanza q exista Colbert. Muy buen video."
-
-[[extra.comments]]
-id = 52486
-anchor = "comment-52486"
-author = "andrea joselin colin carrillo"
-date = "2012-02-20 18:57:26"
-date_display = "20.02.2012"
-depth = 0
-url_site = ""
-title = "Contrastes"
-body = "estuvo bien"
 +++
 
 Hagamos un experimento imaginario. Vayamos a la parada de colectivos más multitudinaria de la ciudad (Plaza San Martín, en Córdoba; Sarmiento y Avenida, en Neuquén) y preguntémosle a la gente, al azar, qué recuerdan de Fernando de la Rúa. Tengo el firme presentimiento de que muchos recordarán más su caricaturización de tipo lento, despistado, frío y un poco inútil. Lo que recordará la gente, intuyo, es la imitación de TV que por entonces se hacía, más que al mismo hombre, a sus devastadoras decisiones y a los muchos muertos que dejó antes de escapar.
@@ -106,5 +45,3 @@ Así habrán quedado, arrepentidísimos, los responsables de semajante pifie, s�
 Con la ayuda de muchos amigos (Anna, Xtian, Jim, Renzo y David, gracias!) subtitulé los veintipico minutos que dura la presentación. Con ustedes, Stephen Colbert:
 
 {{ video_embed(provider="youtube", id="sv4xjxcNYqk") }}
-
-

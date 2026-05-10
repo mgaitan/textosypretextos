@@ -3,13 +3,6 @@ title = "Jorge Luis Borges"
 template = "author.html"
 
 [extra]
-legacy_id = 7
-legacy_slug = "Jorge-Luis-Borges"
-article_paths = [
-    "de-otros/el-enamorado.md",
-    "de-otros/ajedrez.md",
-    "de-otros/un-sueno.md",
-]
 image = "/media/auton7.jpg"
 is_owner = false
 +++

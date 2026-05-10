@@ -3,141 +3,14 @@ title = "Querida Cami"
 slug = "querida-cami"
 date = 2005-05-27 08:46:36
 description = "Querida Cami: Ayer fue tu cumple numero siete, y como no me alcanzó con hablarte por teléfono, quería escribirte una cartita. Mientras escribo esto son las seis y media…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Desde el ombligo",
     "Memoria",
     "Humor",
 ]
-
-[extra]
-legacy_id = 42
-section_slug = "blog"
-section_title = "Blog"
-summary = "Querida Cami: Ayer fue tu cumple numero siete, y como no me alcanzó con hablarte por teléfono, quería escribirte una cartita. Mientras escribo esto son las seis y media de la mañana, y por atrás de todos los edificios…"
-visits = 2893
-popularite = 0.9173012264220239
-hero_image = ""
-hero_alt = ""
-comment_count = 9
-legacy_url = "/blog/querida-cami/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-
-[[extra.comments]]
-id = 1012
-anchor = "comment-1012"
-author = ""
-date = "2005-05-27 12:24:43"
-date_display = "27.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "este chico entiende a su sobrina!!!!!!!!!"
-
-[[extra.comments]]
-id = 1013
-anchor = "comment-1013"
-author = "ANDRES"
-date = "2005-05-27 13:06:31"
-date_display = "27.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Me encantó.\nMe hiciste acordar de mis sobrinos que tambien estan lejos y ahora (por tu culpa) los extraño un montón...\nUn saludo"
-
-[[extra.comments]]
-id = 1014
-anchor = "comment-1014"
-author = "juan"
-date = "2005-05-28 21:25:24"
-date_display = "28.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "gracias negro. se la voy a imprimir a cami para que la tenga.\nun beso grande. big brother."
-
-[[extra.comments]]
-id = 1015
-anchor = "comment-1015"
-author = "nona CHOLA"
-date = "2005-05-28 22:07:38"
-date_display = "28.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "sos un negrito hermoso y con el corazón grande como tenés hacés lo que estás haciendo y esa cartita tan linda. Te quiero mucho. un beso grandote. ¡Sos Hermoso! NONA"
-
-[[extra.comments]]
-id = 1016
-anchor = "comment-1016"
-author = "mami"
-date = "2005-05-28 22:10:53"
-date_display = "28.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "revivimos un pedacito de nuestra bonita historia familiar. Nos emociónó mucho. Sos un tesoro. Mami"
-
-[[extra.comments]]
-id = 1017
-anchor = "comment-1017"
-author = "Camila"
-date = "2005-05-28 22:45:24"
-date_display = "28.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "yo  soy   la  moustrita,  recibí tu  carta  es re  linda.   que\npena  lo  del incendio  de  la piesa  de   dai .   te amo mucho  \nchau  gua gua gua. cami"
-
-[[extra.comments]]
-id = 1021
-anchor = "comment-1021"
-author = "marianela"
-date = "2005-07-04 11:16:29"
-date_display = "04.07.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "te felicito compañero de escritura! de verdad me gusta muy mucho lo que escribis, \nsabes porque? porque sabes crear esas palabras que enriquecen el alma.."
-
-[[extra.comments]]
-id = 1066
-anchor = "comment-1066"
-author = "serena"
-date = "2005-10-01 00:37:14"
-date_display = "01.10.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "me parecio muy agradable.. espero algun dia algun tio/a mia se acued de q existo"
-
-[[extra.comments]]
-id = 6865
-anchor = "comment-6865"
-author = "Angeles"
-date = "2008-04-26 21:49:07"
-date_display = "26.04.2008"
-depth = 0
-url_site = ""
-title = "Querida Cami"
-body = "la verdad, creo que es hermoso tomarse ese tiempito para revivir esos hermosos momentos que ya pasaron y no dejar que queden en el olvido..cada vez me sorprendes mas!!.."
 +++
 
 Querida Cami:
@@ -168,4 +41,3 @@ Ahora tenés siete, y aunque algunos puedan decirte (por conveniencia) que ya so
 
 Te quiero mucho. 
 TiN
-

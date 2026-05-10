@@ -3,86 +3,14 @@ title = "Collage de cinismos"
 slug = "collage-de-cinismos"
 date = 2005-04-16 03:59:41
 description = "UNO Jorge Sobisch, el actual gobernador de la provincia de Neuquén, continúa su campaña para las elecciones presidenciales de 2007, en la cual ya lleva gastado…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "El resto",
     "Córdoba",
     "Política",
 ]
-
-[extra]
-legacy_id = 37
-section_slug = "blog"
-section_title = "Blog"
-summary = "UNO Jorge Sobisch, el actual gobernador de la provincia de Neuquén, continúa su campaña para las elecciones presidenciales de 2007, en la cual ya lleva gastado --faltando más de 24 meses para los comicios-- cifras…"
-visits = 1874
-popularite = 0.9590706570204527
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/collage-de-cinismos/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-    { name = "Política", path = "/etiquetas/politica/" },
-]
-
-[[extra.comments]]
-id = 990
-anchor = "comment-990"
-author = "Fabio"
-date = "2005-04-16 16:09:35"
-date_display = "16.04.2005"
-depth = 0
-url_site = "http://www.fabio.com.ar"
-title = ""
-body = "buenísimos los contrastes, lo de sobisch ya es enfermizo, luego de que otro provinciano sureño logró la presidencia se cree con todas las chances ¿logrará algo?\n\nentre este y los Sapag! que cosa neuquén, jejej, Rio Negro ni siquiera tuvo el provincionalismo (palabra inventada, como nacionalismo :D) de ellos, pero el caudillismo es una de las  cosas más enfermizas que hemos tenido.\n\nlo de los recitales a favor de los \"que defienden nuestra libertad\"... no comments..."
-
-[[extra.comments]]
-id = 993
-anchor = "comment-993"
-author = "bungle"
-date = "2005-04-17 09:57:16"
-date_display = "17.04.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "la sociedad es cínica por naturaleza, todos lo somos, sino la chica esta que se queja y labura para De La Sota, y bueno, mientras nosotros el pueblo sigamos por dos mangos vendiendonos esto va a seguir así, los políticos son unos Hi.. de Pu.. pero nosotros los apoyamos y no se olviden que TODOS son iguales los de derecha los de izquierda, hay que encontrar una nueva clase política, DIFICILISIMO pero primero tenemos que dejar de ser tan hipócritas nosotros."
-
-[[extra.comments]]
-id = 998
-anchor = "comment-998"
-author = "Gabriel N. L."
-date = "2005-04-18 12:06:09"
-date_display = "18.04.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Liminarmente coincido con el comentario \"4\". Mi sigo admirando de la sorprendete visión crítica de mi amigo hermano el gato (Martín Gaitán) autor de esta página, y muchas otras... Lo de Fabio (comentario 1) me pareció muy peyorativo al tildar de provinciano sureño a Sobisch y a Kirschner, seguramente él es de la capital de Córdoba o alguna otra \"importante\", de los \"capitalinos\" que han venido gobernando este pais, y así quedó... CUALQUIER ARGENTINO puede ser presidente en teoría, por lo que eso de Proviciano Sureño, no solo está demás, sino que tiene de fondo una visión del centro del país (Córdoba, Bs. As. Santa Fe, etc.) donde se concentra todo el poder (de todo tipo económico, político, más densidad poblacional, etc.) disparidad inequitativa que ha sido la ruina para el \"resto\" de los provincianos... sucede que molesta un poco ver QUE LA PATAGONIA ahora puede ser lider si se lo propone, y tenemos más recursos (de todo tipo, llámese humanos, físicos, naturales, etc. etc.) de lo que piensa mucha gente que tiene una visión arcaica y retrógrada de nosotros los sureños provincianos... Atte. Yo. \nSiga así amigo gato, lo admiro por esto y muchas otras cosas... y espero verlo pronto!"
-
-[[extra.comments]]
-id = 999
-anchor = "comment-999"
-author = "Juani"
-date = "2005-04-20 11:14:36"
-date_display = "20.04.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Mmm, no empecemos con eso de sureños, y no sé cqué porque no lleva a nada, saben cuántos presidentes fueron porteños? Averigüen, se van a sorprender...Sobisch, su bigote ya me causa repulsión...El Estado neuquino, jaja, puso 300 mil pesos en la malla de Meolans en los JJOO de Atenas...alguien notó el detalle????? Vero, en dónde queda la consultora en la que trabajás? Lo que Sobisch hizo en NQN es increíble, pueden preguntarle a la gente inteligente de all´, yo soy uno, jaja, y se entererán de cosas \"raras\"\nY bueh...\nSigo con mi tesis, tiene mucho que ver con este tema, dónde se va la guita que ponemos en impuestos?"
 +++
 
 ### UNO
@@ -168,4 +96,3 @@ Algunas páginas antes hay una entrevista a Salvador Treber, profesor de esta Un
 Treber pinta con resaltador la falacia implícita en lo que significan "ingresos genuinos" para los impulsores del arancel: 
 
 > *"En la Argentina, el proceso de polarización de la riqueza ha hecho que el 10% de la población que está en la cúspide sea el único ganador, y el 90% restante -en distintas proporciones- sea el de los perdedores"*
-

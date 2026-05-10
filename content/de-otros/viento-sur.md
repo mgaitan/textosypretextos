@@ -3,13 +3,8 @@ title = "Viento Sur"
 slug = "viento-sur"
 date = 2012-03-28 13:53:51
 description = "No hay tunel que dure cien años, mi vida. Mira como se arruga la tiniebla, la procesión de pálidas se desbarranca, los funcionarios inauguran ruinas. Y vos y yo…"
-draft = false
-template = "article.html"
 authors = [
     "María Elena Walsh",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Música",
@@ -17,37 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 383
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "No hay tunel que dure cien años, mi vida. Mira como se arruga la tiniebla, la procesión de pálidas se desbarranca, los funcionarios inauguran ruinas. Y vos y yo fundamos aires buenos. Donde estará la plata de mi río…"
-visits = 4214
-popularite = 0.2503866625464238
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/de-otros/viento-sur/"
-surtitle = ""
 subtitle = "María Elena Walsh"
-deck = ""
-author_links = [
-    { name = "María Elena Walsh", path = "/autores/maria-elena-walsh/" },
-]
-tag_links = [
-    { name = "Música", path = "/etiquetas/musica/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-
-[[extra.comments]]
-id = 53116
-anchor = "comment-53116"
-author = "ismael"
-date = "2012-06-27 01:40:21"
-date_display = "27.06.2012"
-depth = 0
-url_site = ""
-title = "Viento Sur"
-body = "simplemente persuasivo y encantador!"
 +++
 
 <div class="poetry">No hay tunel que dure cien años, mi vida. Mira<br>
@@ -92,4 +57,3 @@ Estación claridad vamos llegando.</div>
 
 Recita María Elena Walsh, música de Lito Vitale (disco *Viento Sur*, 1990)
 {% end %}
-

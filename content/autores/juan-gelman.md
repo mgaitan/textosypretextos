@@ -3,19 +3,6 @@ title = "Juan Gelman"
 template = "author.html"
 
 [extra]
-legacy_id = 6
-legacy_slug = "Juan-Gelman"
-article_paths = [
-    "de-otros/preguntas.md",
-    "de-otros/ausencia-de-amor.md",
-    "de-otros/el-juego-en-que-andamos.md",
-    "de-otros/escribo-en-el-olvido.md",
-    "de-otros/una-mujer-y-un-hombre.md",
-    "de-otros/ninos-corea-1952.md",
-    "de-otros/patrias.md",
-    "de-otros/poema.md",
-    "de-otros/dibaxu-xxi.md",
-]
 image = "/media/auton6.jpg"
 is_owner = false
 +++

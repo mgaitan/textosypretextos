@@ -3,13 +3,8 @@ title = "Pies hermosos"
 slug = "pies-hermosos"
 date = 2008-08-13 02:10:03
 description = "La mujer que tiene los pies hermosos nunca podrá ser fea mansa suele subirle la belleza por tobillos pantorrillas y muslos demorarse en el pubis que siempre ha estado…"
-draft = false
-template = "article.html"
 authors = [
     "Mario Benedetti",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amistad",
@@ -17,27 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 189
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "La mujer que tiene los pies hermosos nunca podrá ser fea mansa suele subirle la belleza por tobillos pantorrillas y muslos demorarse en el pubis que siempre ha estado más alla de todo canon rodear el ombligo como a uno…"
-visits = 14158
-popularite = 0.42146842042158755
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/pies-hermosos/"
-surtitle = ""
 subtitle = "Mario Benedetti"
 deck = "<div class=\"poetry\">La mujer que tiene los pies hermosos<br>\nnunca podrá ser fea<br>\nmansa suele subirle la belleza<br>\npor tobillos pantorrillas y muslos<br>\ndemorarse en el pubis<br>\nque siempre ha estado más alla de todo canon<br>\nrodear el ombligo como a uno de esos timbres<br>\nque si se les presiona tocan *Para Elisa*<br>\nreivindicar los lúbricos pezones a la espera<br>\nentreabrir los labios sin pronunciar saliva<br>\ny dejarse querer por los ojos espejo<br>\nLa mujer que tiene los pies hermosos<br>\nsabe vagabundear por la tristeza</div>"
-author_links = [
-    { name = "Mario Benedetti", path = "/autores/mario-benedetti/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-comments = []
 +++
 
 {{ media_audio(src="/media/mp3/Mario_Benedetti.mp3", title="Pies Hermosos - Mario Benedetti") }}

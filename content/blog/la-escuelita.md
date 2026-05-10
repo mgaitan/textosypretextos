@@ -4,34 +4,10 @@ slug = "la-escuelita"
 date = 2005-11-21 00:37:04
 description = "Si cuarenta mil niños sucumben diariamente en el purgatorio del hambre y de la sed si la tortura de los pobres cuerpos envilece una a una a las almas y si el poder se…"
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
 ]
-categories = [
-    "Blog",
-]
 tags = []
-
-[extra]
-legacy_id = 38
-section_slug = "blog"
-section_title = "Blog"
-summary = "Si cuarenta mil niños sucumben diariamente en el purgatorio del hambre y de la sed si la tortura de los pobres cuerpos envilece una a una a las almas y si el poder se ufana de sus cuarentenas o si los pobres de…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/la-escuelita/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
 +++
 
 {{% epigrafe() %}}

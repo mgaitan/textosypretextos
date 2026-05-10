@@ -3,12 +3,6 @@ title = "Pecas Soriano"
 template = "author.html"
 
 [extra]
-legacy_id = 49
-legacy_slug = "Pecas-Soriano"
-article_paths = [
-    "de-otros/un-ruisenor-en-concierto.md",
-    "de-otros/si-toco-todos-los-dias.md",
-]
 image = ""
 is_owner = false
 +++

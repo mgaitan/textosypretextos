@@ -3,41 +3,13 @@ title = "El termo"
 slug = "el-termo"
 date = 2025-05-08 21:39:57
 description = "Me encontré un termo pequeño marca Thermos, de esos que tienen un botón que al presionarlo se abre la tapa y queda el vertedor libre. Estaba con mi viejo y dos miembros…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Familia",
     "Cuento breve",
 ]
-
-[extra]
-legacy_id = 452
-section_slug = "blog"
-section_title = "Blog"
-summary = "Me encontré un termo pequeño marca Thermos, de esos que tienen un botón que al presionarlo se abre la tapa y queda el vertedor libre. Estaba con mi viejo y dos miembros del personal de su escuela de Yoga, paseando por…"
-visits = 189
-popularite = 0.9120916540010582
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/el-termo/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Cuento breve", path = "/etiquetas/cuento-breve/" },
-]
-comments = []
 +++
 
 Me encontré un termo pequeño marca Thermos, de esos que tienen un botón que al presionarlo se abre la tapa y queda el vertedor libre. Estaba con mi viejo y dos miembros del personal de su escuela de Yoga, paseando por Montreal. Salíamos de una iglesia enorme y lo vi bajo un banco, en el ala izquierda. No había nadie. Claramente se lo habían olvidado. Dudé entre un segundo o seis meses y finalmente lo agarré. Era negro, nuevito, hermoso. Un sticker informaba sobre sus 24 horas de conservación de temperatura.

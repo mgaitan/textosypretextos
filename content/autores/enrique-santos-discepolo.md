@@ -3,12 +3,6 @@ title = "Enrique Santos Discépolo"
 template = "author.html"
 
 [extra]
-legacy_id = 16
-legacy_slug = "Enrique-Santos-Discepolo"
-article_paths = [
-    "de-otros/malevaje.md",
-    "de-otros/a-mi-no-me-la-vas-a-contar-1951.md",
-]
 image = "/media/auton16.jpg"
 is_owner = false
 +++

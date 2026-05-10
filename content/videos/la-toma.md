@@ -3,13 +3,8 @@ title = "La Toma"
 slug = "la-toma"
 date = 2008-10-21 20:46:02
 description = "Durante la crisis argentina (el argentinazo) un grupo de desempleados de una planta de fabricación de piezas de autos entran a la fábrica inactiva y deciden ponerla a…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = [
     "Política",
@@ -17,27 +12,9 @@ tags = [
 ]
 
 [extra]
-legacy_id = 232
-section_slug = "videos"
-section_title = "Videos"
-summary = "Durante la crisis argentina (el argentinazo) un grupo de desempleados de una planta de fabricación de piezas de autos entran a la fábrica inactiva y deciden ponerla a producir por su propia cuenta, este hecho en un…"
-visits = 277
-popularite = 0.9063979607355993
 hero_image = "/media/png/captura.png"
 hero_alt = "captura.png"
-comment_count = 0
-legacy_url = "/videos/la-toma/"
-surtitle = ""
 subtitle = "Avi Lewis y Naomi Klein"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Cine", path = "/etiquetas/cine/" },
-]
-comments = []
 +++
 
 {{ external_embed(provider="googlevideo", url="<embed id=\"VideoPlayback\" src=\"http://video.google.com/googleplayer.swf?docid=-6939956197822128063&hl=es&fs=true\" style=\"width:400px;height:326px\" allowFullScreen=\"true\" allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\">") }}

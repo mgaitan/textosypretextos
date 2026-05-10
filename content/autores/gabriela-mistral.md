@@ -3,11 +3,6 @@ title = "Gabriela Mistral"
 template = "author.html"
 
 [extra]
-legacy_id = 11
-legacy_slug = "Gabriela-Mistral"
-article_paths = [
-    "de-otros/besos.md",
-]
 image = "/media/auton11.jpg"
 is_owner = false
 gender = "f"

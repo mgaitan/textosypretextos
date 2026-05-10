@@ -4,34 +4,10 @@ slug = "nuevo-articulo-239"
 date = 2008-11-10 09:09:33
 description = "1 La censura de prensa, la persecución a intelectuales, el allanamiento de mi casa en el Tigre, el asesinato de amigos queridos y la pérdida de una hija que murió…"
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
 ]
-categories = [
-    "Videos",
-]
 tags = []
-
-[extra]
-legacy_id = 239
-section_slug = "videos"
-section_title = "Videos"
-summary = "1 La censura de prensa, la persecución a intelectuales, el allanamiento de mi casa en el Tigre, el asesinato de amigos queridos y la pérdida de una hija que murió combatiéndolos, son algunos de los hechos que me…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/nuevo-articulo-239/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
 +++
 
 ### 1

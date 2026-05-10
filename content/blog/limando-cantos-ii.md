@@ -3,13 +3,8 @@ title = "Limando cantos II"
 slug = "limando-cantos-ii"
 date = 2008-11-04 09:01:45
 description = "Con mucho éxito de participación, un grupo de correo se ha abierto para estudiantes y profesores de mi carrera, Ingeniería en Computación de la Facultad de Ciencias…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Universo universitario",
@@ -18,71 +13,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 219
-section_slug = "blog"
-section_title = "Blog"
-summary = "Con mucho éxito de participación, un grupo de correo se ha abierto para estudiantes y profesores de mi carrera, Ingeniería en Computación de la Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad…"
-visits = 4658
-popularite = 0.35094694822080114
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/limando-cantos-ii/"
-surtitle = ""
 subtitle = "Una discusión sobre el uso de Software Libre o Privativo en la Universidad"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Universo universitario", path = "/etiquetas/universo-universitario/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 7046
-anchor = "comment-7046"
-author = "asdfg"
-date = "2008-11-05 02:54:18"
-date_display = "05.11.2008"
-depth = 0
-url_site = ""
-title = "Limando cantos II"
-body = "Efectivamente la universidad nos tiene que enseñar a dar soluciones a problemas, y no a utilizar unas cuantas herramientas, que despues de todo, se aprenden a usar en 2 semanas.\n\nSi aprendes a desarrollar en C#, usando mono, y en una empresa utilizan software de M$, aprenderas a utilizar el VStudio en unos dias, porque es mas de lo mismo, con pequeñas modificaciones.\n\nSi aprendes a utilizar un sistema de BD, usar la consola de oracle, o la de postgre, o modificar cuatro cosas de sintaxis para yn SQLServer, es siempre lo mismo.\n\nY si aprendes a utilizar la versión libre del mathematica, o del matlab, (no recuerdo sus nombres), pues utilizar ls comerciales no te costara demasiado, porque son muy muy similares.\n\nY si un ingeniero informatico, no es capaz de hacer la misma tarea (gestionar una BD, programar, diseñar, analizar) cuando le cambian la herramienta, pues menuda mierda de ingeniero. Puedes programar  con VStudio, Eclipse, Anjuta, KDeveloper, con vim + consola, con Xcode, sobre linux, sobre mac y sobre windows, y la herramienta no es un problema. Si sabes hacer lo que tienes que hacer, aprenderas a manejar la herramienta sin problemas.\nNo creo que a un programador, le cueste mucho apretar F5 para depurar, o apretar F11:D Al final, depurar es depurar, y mas cuando hablamos de entornos graficos avanzados.\n\nAhora bien, cuando hablamos de las universidades, hay que pensar que el dinero que estas se gastan en sofware para sus estudiantes en muy muy importante a nivel mundial. Entonces, ¿a quien deberian apoyar estas universidades?? Si ya he mos visto que no es relevante que te enseñen con una u otra herramienta, ¿A donde es mas justo que vaya ese dinero? Pues creo que al software libre por varias razones:\n\n1.- Al final, la universidad gastara menos dinero, y podra mejorar en otros aspectos.\n\n2.- Donando dinero al software libre, se consigue que las empresas grandes de software se pongan las pilas debido a la competencia que esto genera, y esto siempre es bueno  para la mejora y evolucion del software.\n\n3.- No me gusta la idea de que con lo que yo pago de matricula, se aliente y se beneficia a empresas monopolistas de software, sean las que sean.\n\nY bueno, esa es mi opinion.\n\nBien Martin, sigue asi.\n\nSaludos."
-
-[[extra.comments]]
-id = 7047
-anchor = "comment-7047"
-author = "velinx"
-date = "2008-11-05 04:50:53"
-date_display = "05.11.2008"
-depth = 0
-url_site = ""
-title = "Limando cantos II"
-body = "Saludos. \"La universidad enseñan técnicas no herramientas, pero para aprender es obligado usar las herramientas.\"\nEmpiezo por esto porque al día de hoy,son 3 semanas que a mi universidad se le ha vencido una decenas de licencias de software privativo. Pero lamentablemente esto no ocurrió cuando estaba viendo páginas web o programar en Java.\nYo pasé las materias usando las herramientas libres y ahora estoy desarrollando mi proyecto que también va a hacer libre.\nPuedes usar herramientas privativas o libres, eres tú el que decide no dejes que te impogan lo que no quieres usar.\nYo le dije a mi profesor que iba usar Netbeans para desarrollar un proyecto pasado y el me dijo que no lo usara porque él no sabía, sólo VisualBasic. A la final mi proyecto quedó como el mejor."
-
-[[extra.comments]]
-id = 7048
-anchor = "comment-7048"
-author = "Gez"
-date = "2008-11-05 17:14:04"
-date_display = "05.11.2008"
-depth = 0
-url_site = ""
-title = "Limando cantos II"
-body = "Lamentablemente discutir estas cosas con gente que sólo tiene en mente el dinero como objetivo es árido. Llega un punto en el que directamente no razonan, te dicen que te encerrás, que sos un extremista, pero ellos son los que no dan lugar a las opciones.\n\nEl cuentito de las \"licencias educativas\" tendría que terminarse de una vez por todas. Es educar para consumir. Es cerrar las opciones y enseñar a la gente con software que es un producto enlatado y que no se puede ver cómo funciona. Es ridículo, y sobre todo en una carrera técnica.\n\nCómo podríamos ser técnicos o ingenieros si todo el conocimiento estuviera en una caja negra?\nEducar con software privativo es educar OPERADORES, no generadores de ideas, no generadores de conicimiento. Y eso sin ir más lejos es crear dependencia, esclavizar.\n\nSiempre parece exagerado plantearlo de esta forma, pero si nos detenemos a pensarlo sólo un poco nos vamos a dar cuenta que estamos viviendo inmersos en un sistema que nos quiere como engranajes, como piezas de su funcionamiento, y no como personas independientes con una idea propia.\n\nDiscúlpenme el francés, pero me chupa un huevo lo que usen las empresas. La Universidades deberían enseñar a pensar y crear, no entrenarnos para trabajar por un buen sueldo.\n\nNo crean que esto es una simple cuestión de pragmatismo (veamos qué nos sirve más). Veamos qué es mejor para nuestro futuro, para convertirnos en un país independiente y con fuerza propia, no unos proveedores de materias primas y mano de obra para las grandes corporaciones del \"primer mundo\"."
-
-[[extra.comments]]
-id = 7167
-anchor = "comment-7167"
-author = "Mr. X"
-date = "2009-04-13 22:56:38"
-date_display = "13.04.2009"
-depth = 0
-url_site = ""
-title = "Limando cantos II"
-body = "Me gustó la discusión entre estos dos Titanes del Mundo Ñoño, don Esteban y don Martín. Y haciendo como que no leí algunas palabritas feamente escritas (decisiones, consecuencia, discernir), felicito sinceramente a ambos por sentarse el uno a conversar con el otro, salvando las distancias, monitor mediante, a la vista de nosotros, los curiosos.\n\nMe dio algo de gracia leer eso de que las leyes son baratas... es más, ¡GRATUITAS!, bueno, sí, \"técnicamente\" lo son. Al igual que la jurisprudencia... Aún así, todos los abogados ricos pagan por todas las leyes y la jurisprudencia con la que ajustician a quienes así lo ameritan.\n\nComo siempre, Martín, te acuso de tener la camiseta puesta (esto no es nuevo, pero me alegra ver que no soy el único). Las grandes empresas, los monopolios y demás monstruos, son parte de nuestra humanidad, y darles la espalda no hará que dejen de existir. Las propuestas del Software Libre, planteadas en su versión \"talibán\", dan bastante miedo, parecen muy riesgosas e inadecuadas para el sujeto común y corriente, e incluso peor para el empleado público promedio. De a poquito, me parece bien. Que se pueda elegir, me parece elemental. Hay programitas de Software Libre que me resultan adorables, pero en muchos casos la mejor opción es uno Privativo. Está clarísimo que \"en el modelo de Universidad de Martín\", el Software Libre es la única alternativa, pero antes deberíamos discutir un poco acerca de esa premisa, que me parece es el quid. Un abrazo."
 +++
 
 Con mucho éxito de participación, un grupo de correo se ha abierto para 
@@ -942,4 +873,3 @@ Son interesantes tu preguntas, y aunque a algunas no las entiendo del todo,
 {% postscript() %}
 Hay otra discusión en la lista de computación publicada en el blog: [Limando cantos I](@/blog/limando-cantos-i.md).
 {% end %}
-

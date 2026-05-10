@@ -3,39 +3,16 @@ title = "Animales domésticos"
 slug = "animales-domesticos"
 date = 2009-12-14 01:13:22
 description = "Desde que Felipe trajo esa estufa de kerosene no se puede respirar en esta casa. --Quería darte una sorpresa-- dijo cuando cortaba el hilo del paquete. --Sabés que no…"
-draft = false
-template = "article.html"
 authors = [
     "Guillermo Saccomanno",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Familia",
 ]
 
 [extra]
-legacy_id = 356
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Desde que Felipe trajo esa estufa de kerosene no se puede respirar en esta casa. --Quería darte una sorpresa-- dijo cuando cortaba el hilo del paquete. --Sabés que no aguanto el kerosene. Me da alergia. --En esta casa…"
-visits = 2794
-popularite = 0.9269723057904171
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/animales-domesticos/"
-surtitle = ""
 subtitle = "Guillermo Saccomanno"
 deck = "Desde que Felipe trajo esa estufa de kerosene no se puede respirar en esta casa.\n\n--Quería darte una sorpresa-- dijo cuando cortaba el hilo del paquete.\n--Sabés que no aguanto el kerosene. Me da alergia.\n--En esta casa hace mucho frío.\n--Siempre hizo frío -- le dije --. Ahora se siente más porque estamos viejos.\n--¿Que querés? ¿Qué la cambie por una eléctrica? Las de cuarzo gastan mucho y no calientan.\n\nAsí son los regalos de Felipe. Cuando éramos jóvenes, con el sueldo compraba una pila de libros.\n--Para vos y los chicos-- decía.\n--Sabés que no me gusta leer. Y lo que los chicos necesitan es ropa.\n\nEs inútil luchar con Felipe.\n\n--¿Cuánto te costo esa estufa?\n--No se dice el precio de un regalo.\n--Un regalo es algo que le gusta a quien lo recibe.\n--No te aflijas. La compré con unos pesos que me gané a la quiniela.\n--Si vos no jugás.\n--No me creés.\n--No, no te creo. Metiste la mano en mi secreter."
-author_links = [
-    { name = "Guillermo Saccomanno", path = "/autores/guillermo-saccomanno/" },
-]
-tag_links = [
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-comments = []
 +++
 
 Y agarré la bolsa y me fui a comprar el pan. Que terminara él de desenvolverla. Y, cuando volví, ahí estaba, como un chico con un juguete, estudiando el folleto con las instrucciones y el movimiento de las perillas.

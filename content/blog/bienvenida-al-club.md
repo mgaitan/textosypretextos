@@ -3,13 +3,8 @@ title = "Bienvenida al Club"
 slug = "bienvenida-al-club"
 date = 2006-02-15 19:22:04
 description = "Estimada Srta. Aitana: Estoy en la poco existencial duda sobre si debí leer, y mas aún, responder a su carta, dado que está dirigida a sus \"queridos amigos y…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Anécdotas",
@@ -17,52 +12,6 @@ tags = [
     "Amistad",
     "Amor",
 ]
-
-[extra]
-legacy_id = 59
-section_slug = "blog"
-section_title = "Blog"
-summary = "Estimada Srta. Aitana: Estoy en la poco existencial duda sobre si debí leer, y mas aún, responder a su carta, dado que está dirigida a sus \"queridos amigos y compañeros\", mas en ninguna parte de su misiva se hace…"
-visits = 4043
-popularite = 0.9107493166320206
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/bienvenida-al-club/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Anécdotas", path = "/etiquetas/anecdotas/" },
-    { name = "huellas", path = "/etiquetas/huellas/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-
-[[extra.comments]]
-id = 1145
-anchor = "comment-1145"
-author = "Pensamientos Despeinados S.XXI » De profesores irritados por el aparatito"
-date = "2006-09-29 01:25:34"
-date_display = "29.09.2006"
-depth = 0
-url_site = "http://www.pdsxxi.com.ar/archivos/29/09/2006/727/"
-title = ""
-body = "[...] Voy a ser sincero: detesto con todo mi corazón el uso adicto de celulares; y parece que éste profesor también. En caso de pérdida o rotura \"accidental\" del dichoso aparatito generador de desórdenes de personalidad antisocial, te recomiendo un club ¡Venceremos! [...]"
-
-[[extra.comments]]
-id = 53956
-anchor = "comment-53956"
-author = "zKYlxoZnUpKZgwEaKh"
-date = "2012-12-28 09:55:49"
-date_display = "28.12.2012"
-depth = 0
-url_site = "http://www.facebook.com/profile.php?id=100003407252043"
-title = "Bienvenida al Club"
-body = "Valdivia  este ser es de lo me1s honesto que he visto(al menos por tivleesif3n). Disfrutaba ya que ahora no tengo cable y no lo puedo ver por via x  . los  dejar en evidencia a Franzani  eran mis momentos favoritos de la tv.Ademe1s me encanta siempre estar actualizada del mundillo cybernetico  el que es una excelente herramienta mientras no te hagas adicto.Uno de los mejores grandes panelistas de cadena nacional  programa que es bueno con contar con grandes personas como Marisol Garceda y el personaje al que se hace refencia. Parece simpatico Andre9s Valdivia y guapo por cierto.  0  0"
 +++
 
 Estimada Srta. Aitana:
@@ -339,4 +288,3 @@ un admirador no tan secreto.
 \
 
 <div><span class\u003d\"gmail_quote\">El día 16/07/05, <b class\u003d\"gmail_sendername\">aitana castro</b> <<a href\u003d\"mailto:aitana451@hotmail.com\" target\u003d\"_blank\" onclick\u003d\"return top.js.OpenExtLink(window,event,this)\">aitana451@hotmail.com</a>> escribió:</span>",1] );  //--></script> Beso grande y dulce.
-

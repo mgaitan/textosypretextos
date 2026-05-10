@@ -3,13 +3,8 @@ title = "El sentimiento de la poesía en la infancia..."
 slug = "el-sentimiento-de-la-poesia-en-la"
 date = 2009-10-22 09:32:45
 description = "El sentimiento de la poesía en la infancia: me gustaría saber más, pero temo caer en las extrapolaciones a la inversa, recordar obligadamente desde el hic et nunc que…"
-draft = false
-template = "article.html"
 authors = [
     "Julio Cortázar",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Ensayo",
@@ -17,27 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 335
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "El sentimiento de la poesía en la infancia: me gustaría saber más, pero temo caer en las extrapolaciones a la inversa, recordar obligadamente desde el hic et nunc que deforma casi siempre el pasado (Proust incluído…"
-visits = 4971
-popularite = 0.9393818730261312
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-sentimiento-de-la-poesia-en-la/"
-surtitle = ""
 subtitle = "Julio Cortázar"
-deck = ""
-author_links = [
-    { name = "Julio Cortázar", path = "/autores/julio-cortazar/" },
-]
-tag_links = [
-    { name = "Ensayo", path = "/etiquetas/ensayo/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
 +++
 
 El sentimiento de la poesía en la infancia: me gustaría

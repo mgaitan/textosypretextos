@@ -3,13 +3,8 @@ title = "Nueva Constitución Política del Estado Boliviano"
 slug = "nueva-constitucion-politica-del"
 date = 2008-09-12 08:14:14
 description = "Al valiente Pueblo Boliviano, que sabe de lucha, sudor y revoluciones En tiempos inmemoriales se erigieron montañas, se desplazaron ríos, se formaron lagos. Nuestra…"
-draft = false
-template = "article.html"
 authors = [
     "Preámbulo",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Política",
@@ -17,48 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 222
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Al valiente Pueblo Boliviano, que sabe de lucha, sudor y revoluciones En tiempos inmemoriales se erigieron montañas, se desplazaron ríos, se formaron lagos. Nuestra amazonia, nuestro chaco, nuestro altiplano y nuestros…"
-visits = 1735
-popularite = 0.9277035815565915
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/de-otros/nueva-constitucion-politica-del/"
-surtitle = ""
 subtitle = "Preámbulo"
-deck = ""
-author_links = [
-    { name = "Preámbulo", path = "" },
-]
-tag_links = [
-    { name = "Política", path = "/etiquetas/politica/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-
-[[extra.comments]]
-id = 7022
-anchor = "comment-7022"
-author = ""
-date = "2008-09-12 11:38:28"
-date_display = "12.09.2008"
-depth = 0
-url_site = ""
-title = "Nueva Constitución Política del Estado Boliviano"
-body = "\"*y **comprendimos desde entonces** la pluralidad vigente de todas las cosas y nuestra diversidad como seres y culturas*\"\n\ncaray, este pueblo sí que es inteligente...\n\n\"*el Estado Unitario Social de Derecho Plurinacional Comunitario*\" ¿a cuántos años luz estamos nosotros de eso?\n\nqué alegría que el \"otro mundo\" a donde siempre me quise ir no quede tan lejos!! :-D"
-
-[[extra.comments]]
-id = 7024
-anchor = "comment-7024"
-author = "noe"
-date = "2008-09-12 11:56:35"
-date_display = "12.09.2008"
-depth = 0
-url_site = ""
-title = "Nueva Constitución Política del Estado Boliviano"
-body = "uy, me olvidé de firmar, y me quiero hacer cargo del mensaje anterior y de mi muy-pobre patriotismo. Saludos! **Noe**"
 +++
 
 {{% epigrafe() %}}
@@ -78,4 +32,3 @@ Dejamos en el pasado el Estado colonial, republicano y neoliberal. Asumimos el r
 Nosotros, mujeres y hombres, a través de la Asamblea Constituyente y con el poder originario del pueblo, manifestamos nuestro compromiso con la unidad e integridad del país. Cumpliendo el mandato de nuestros pueblos, con la fortaleza de nuestra Pachamama y gracias a Dios, refundamos Bolivia.
 
 Honor y gloria a los mártires de la gesta constituyente y liberadora, que han hecho posible esta nueva historia.
-

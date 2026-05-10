@@ -3,12 +3,6 @@ title = "Jaime Sabines"
 template = "author.html"
 
 [extra]
-legacy_id = 10
-legacy_slug = "Jaime-Sabines"
-article_paths = [
-    "de-otros/horal.md",
-    "de-otros/tu-nombre.md",
-]
 image = "/media/auton10.jpg"
 is_owner = false
 +++

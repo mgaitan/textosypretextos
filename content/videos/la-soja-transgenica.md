@@ -3,36 +3,14 @@ title = "La soja transgénica"
 slug = "la-soja-transgenica"
 date = 2008-08-28 14:30:37
 description = "Parafraseando a NA: Desde aquí nunca se remitió a la televisión, tal vez porque ella en nada representa los intereses de este sitio. Pero se ha dado un testimonio que…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Videos",
 ]
 tags = []
 
 [extra]
 video_id = "u6H-4iomX_U"
-legacy_id = 207
-section_slug = "videos"
-section_title = "Videos"
-summary = "Parafraseando a NA: Desde aquí nunca se remitió a la televisión, tal vez porque ella en nada representa los intereses de este sitio. Pero se ha dado un testimonio que, fuera del contexto del medio difusor, representa…"
-visits = 874
-popularite = 0.906155556250749
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/videos/la-soja-transgenica/"
-surtitle = ""
 subtitle = "La Liga"
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = []
-comments = []
 +++
 
 {{ video_embed(provider="youtube", id="u6H-4iomX_U") }}

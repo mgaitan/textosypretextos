@@ -3,39 +3,15 @@ title = "El dólar de los ranchos"
 slug = "el-dolar-de-los-ranchos"
 date = 2012-06-03 19:17:08
 description = "En 1998, el país parecía vivir un tiempo de vacas gordas. Era el tiempo del despilfarro procaz del dólar. Pero había también, en el interior del país, sobre todo, otra…"
-draft = false
-template = "article.html"
 authors = [
     "Marcos Zimmermann",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amor",
 ]
 
 [extra]
-legacy_id = 423
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "En 1998, el país parecía vivir un tiempo de vacas gordas. Era el tiempo del despilfarro procaz del dólar. Pero había también, en el interior del país, sobre todo, otra Argentina. Por entonces, yo estaba terminando mi…"
-visits = 470
-popularite = 0.9060722089944736
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-dolar-de-los-ranchos/"
-surtitle = ""
 subtitle = "Marcos Zimmermann"
-deck = ""
-author_links = [
-    { name = "Marcos Zimmermann", path = "" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
 +++
 
 En 1998, el país parecía vivir un tiempo de vacas gordas. Era el tiempo del despilfarro procaz del dólar. Pero había también, en el interior del país, sobre todo, otra Argentina.

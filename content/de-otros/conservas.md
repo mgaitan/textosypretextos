@@ -3,60 +3,16 @@ title = "Conservas"
 slug = "conservas"
 date = 2011-02-24 22:23:25
 description = "Pasa una semana, un mes, y vamos haciéndonos la idea de que Teresita se adelantará a nuestros planes. Voy a tener que renunciar a la beca de estudios porque dentro de…"
-draft = false
-template = "article.html"
 authors = [
     "Samanta Schweblin",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Cine",
 ]
 
 [extra]
-legacy_id = 371
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Pasa una semana, un mes, y vamos haciéndonos la idea de que Teresita se adelantará a nuestros planes. Voy a tener que renunciar a la beca de estudios porque dentro de unos meses ya no va a ser fácil seguir. Quizá no…"
-visits = 7031
-popularite = 0.3527096577428952
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/de-otros/conservas/"
-surtitle = ""
 subtitle = "Samanta Schweblin"
 deck = "Pasa una semana, un mes, y vamos haciéndonos la idea de que Teresita se adelantará a nuestros planes. Voy a tener que renunciar a la beca de estudios porque dentro de unos meses ya no va a ser fácil seguir. Quizá no por Teresita, sino por pura angustia, no puedo parar de comer y empiezo a engordar. Manuel me alcanza la comida al sillón, a la cama, al jardín. Todo organizado en la bandeja, limpio en la cocina, abastecido en la alacena, como si la culpa, o qué se yo qué cosa, lo obligara a cumplir con lo que espero de él. Pero pierde sus energías y no parece muy feliz: regresa tarde a casa, no me hace compañía, le molesta hablar del tema.\n\nPasa otro mes. Mamá también se resigna, nos compra algunos regalos y nos los entrega —la conozco bien— con algo de tristeza. Dice:\n\n—Este es un cambiador lavable con cierre de velcro… Estos son escarpines de puro algodón… Esta es la toalla con capucha en piqué… —papá mira las cosas que nos van regalando y asiente."
-author_links = [
-    { name = "Samanta Schweblin", path = "/autores/samanta-schweblin/" },
-]
-tag_links = [
-    { name = "Cine", path = "/etiquetas/cine/" },
-]
-
-[[extra.comments]]
-id = 49753
-anchor = "comment-49753"
-author = "Lu"
-date = "2011-02-25 13:46:03"
-date_display = "25.02.2011"
-depth = 0
-url_site = ""
-title = "Conservas"
-body = "Pobre Teresita, le tocaron unos padres egoístas!!!"
-
-[[extra.comments]]
-id = 53950
-anchor = "comment-53950"
-author = "PRnFvSeUxdcSPyejHvy"
-date = "2012-12-28 09:25:45"
-date_display = "28.12.2012"
-depth = 0
-url_site = "http://www.facebook.com/profile.php?id=100003407244785"
-title = "Conservas"
-body = "Gracias Pablo por esa sencillez, sisentis y estedmulo!!!; este af1o voy a conseguir integrar la planificacif3n estrate9gica, te1ctica y operativa, y lo que es me1s importante, voy a tener de un modo sencillo claro meridiano df3nde quiero estar a corto, medio y largo plazo"
 +++
 
 —Ay, no sé… —digo yo, y no sé si me refiero al regalo o a Teresita.— La verdad es que no sé —le digo más tarde a mi suegra cuando cae con un juego de sabanitas de colores—, no sé —digo ya sin saber qué decir, y abrazo las sábanas y me largo a llorar.
@@ -114,4 +70,3 @@ Quiero decirle que me deje acá tirada, que no importa, que corra a hablar con W
 {% postscript() %}
 Del libro *"Pájaros en la boca"*, Emecé, 2008
 {% end %}
-

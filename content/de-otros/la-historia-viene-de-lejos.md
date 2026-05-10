@@ -3,39 +3,15 @@ title = "La historia viene de lejos"
 slug = "la-historia-viene-de-lejos"
 date = 2008-04-26 01:08:00
 description = "El primero que lo dijo no fue Diógenes el cínico sino el cíclope Polifemo. Interrogado por Ulises sobre las razones de su misoginia, Polifemo pronunció el famoso…"
-draft = false
-template = "article.html"
 authors = [
     "Marco Denevi",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Humor",
 ]
 
 [extra]
-legacy_id = 109
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "El primero que lo dijo no fue Diógenes el cínico sino el cíclope Polifemo. Interrogado por Ulises sobre las razones de su misoginia, Polifemo pronunció el famoso discurso: \"Tener relaciones sexuales con una prostituta…"
-visits = 945
-popularite = 0.5799107433900417
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/la-historia-viene-de-lejos/"
-surtitle = ""
 subtitle = "Marco Denevi"
-deck = ""
-author_links = [
-    { name = "Marco Denevi", path = "" },
-]
-tag_links = [
-    { name = "Humor", path = "/etiquetas/humor/" },
-]
-comments = []
 +++
 
 El primero que lo dijo no fue Diógenes el cínico sino el cíclope Polifemo. Interrogado por Ulises sobre las razones de su misoginia, Polifemo pronunció el famoso discurso:

@@ -4,34 +4,13 @@ slug = "bievenida"
 date = 2012-10-04 09:37:20
 description = "Se me ocurre que vas a llegar distinta no exactamente más linda ni más fuerte ni más dócil ni más cauta tan solo que vas a llegar distinta como si esta temporada de no…"
 draft = true
-template = "article.html"
 authors = [
     "Mario Benedetti",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 438
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Se me ocurre que vas a llegar distinta no exactamente más linda ni más fuerte ni más dócil ni más cauta tan solo que vas a llegar distinta como si esta temporada de no verme te hubiera sorprendido a vos también quizá…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/bievenida/"
-surtitle = ""
 subtitle = "Mario Benedetti"
-deck = ""
-author_links = [
-    { name = "Mario Benedetti", path = "/autores/mario-benedetti/" },
-]
-tag_links = []
-comments = []
 +++
 
 <div class="poetry">Se me ocurre que vas a llegar distinta<br>

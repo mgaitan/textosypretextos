@@ -3,43 +3,14 @@ title = "Relato de un narrador"
 slug = "relato-de-un-narrador"
 date = 2008-05-24 00:04:27
 description = "Prólogo Lengua y Literatura en un colegio técnico es, para la absoluta mayoría de la comunidad educativa, como una mesa de plástico en medio de un living art decó…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "El resto",
     "Amistad",
     "Memoria",
 ]
-
-[extra]
-legacy_id = 114
-section_slug = "blog"
-section_title = "Blog"
-summary = "Prólogo Lengua y Literatura en un colegio técnico es, para la absoluta mayoría de la comunidad educativa, como una mesa de plástico en medio de un living art decó. Esto, mal que nos pese, incluye a gran parte de los…"
-visits = 982
-popularite = 0.9094806329812095
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/relato-de-un-narrador/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-comments = []
 +++
 
 ### Prólogo

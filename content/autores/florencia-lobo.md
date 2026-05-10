@@ -3,10 +3,6 @@ title = "Florencia Lobo"
 template = "author.html"
 
 [extra]
-article_paths = [
-    "de-otros/el-oso.md",
-    "de-otros/gorriones.md",
-]
 image = "/media/flor_lobo.jpg"
 is_owner = false
 gender = "f"

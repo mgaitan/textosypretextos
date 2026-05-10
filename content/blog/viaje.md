@@ -3,75 +3,14 @@ title = "Viaje"
 slug = "viaje"
 date = 2004-10-23 16:39:22
 description = "Algunos kilómetros más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "El resto",
     "Amor",
     "Amistad",
 ]
-
-[extra]
-legacy_id = 4
-section_slug = "blog"
-section_title = "Blog"
-summary = "Algunos kilómetros más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele, pero yo supe como fue. Me lo dedicó, claro. Fue en…"
-visits = 877
-popularite = 0.9271626034537576
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/viaje/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 36
-anchor = "comment-36"
-author = "elena"
-date = "2004-10-25 21:59:53"
-date_display = "25.10.2004"
-depth = 0
-url_site = "http://joaquin"
-title = ""
-body = "¿Qué significa destructura?"
-
-[[extra.comments]]
-id = 38
-anchor = "comment-38"
-author = "Tiago"
-date = "2004-10-27 11:21:53"
-date_display = "27.10.2004"
-depth = 0
-url_site = ""
-title = ""
-body = "Muy lindo esto... no sabía que te habías mudado!\nY te odio. A mi siempre me tocan gordos enormes con mal olor, que se sientan del lado del pasillo aplastándome contra la ventanilla, y que apenas suben se acomodan, reclinan el asiento, y roncan de punta a punta del viaje mientras se babean, me clavan codos en lugares espantosos...\nLa única vez que me tocó una linda niña al lado la hijaeputas apenas se sentó me miró y me dijo: \"SEÑOR\".. me dice la hora? (yo tenía 22 años, aclaremos). La sigo odiando.\nSuerte en tu estadía cordobesa!"
-
-[[extra.comments]]
-id = 978
-anchor = "comment-978"
-author = "Saskia"
-date = "2005-03-23 20:16:25"
-date_display = "23.03.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "reitero lo que ya dije en otro comment, llevo diez años viajando de La Rioja a Bariloche y viceversa cada verano y cada invierno y una sola vez, de todas esas, me tocó un guaso DI VI NO en el trayecto Bariloche-Mendoza que se iba a escalar el Aconcagua. Me han tocado depresivas que lloraban a baldes y me contaban sobre las pastillas que tomaban para \"calmarse\" hasta un auxiliar de abordo de reconocida empresa donde limita el mar con los andes que me invitó sin preámbulos hipócritas a apretar en el asiento de atrás. Pero nunca en todos estos años me hice de un teléfono y nadie se hizo del mío."
 +++
 
 Algunos kilómetros más allá, radio calf ya no se escuchó, y al cambiar de sintonía Martín Palermo me regaló un gol de chilena fabuloso, increíble. No lo vi por tele, pero yo supe como fue. Me lo dedicó, claro.

@@ -3,49 +3,15 @@ title = "La Ciudad Futura (fragmento)"
 slug = "la-ciudad-futura-fragmento"
 date = 2010-04-25 18:13:27
 description = "Odio a los indiferentes. Creo que vivir es tomar partido. Quien verdaderamente vive no puede dejar de ser ciudadano y partidario. Indiferencia es abulia, es…"
-draft = false
-template = "article.html"
 authors = [
     "Antonio Gramsci",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Tecnología",
 ]
 
 [extra]
-legacy_id = 367
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Odio a los indiferentes. Creo que vivir es tomar partido. Quien verdaderamente vive no puede dejar de ser ciudadano y partidario. Indiferencia es abulia, es parasitismo, es cobardía, no es vida. Por eso, odio a los…"
-visits = 3207
-popularite = 0.9067080058931521
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/de-otros/la-ciudad-futura-fragmento/"
-surtitle = ""
 subtitle = "Antonio Gramsci"
-deck = ""
-author_links = [
-    { name = "Antonio Gramsci", path = "" },
-]
-tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-
-[[extra.comments]]
-id = 8564
-anchor = "comment-8564"
-author = "marjour"
-date = "2010-08-24 01:05:16"
-date_display = "24.08.2010"
-depth = 0
-url_site = ""
-title = "La Ciudad Futura (fragmento)"
-body = "Acabo de saborear a Rulfo y me encuentro con este otro regalo que nos tienes.  De repente los comentarios perezosos de todos esos que garabatearon en la entrada de Rulfo me parecen tristes.  Peor que la indiferencia hay otra cosa que en algunos países llaman el importanculismo, forma de cinismo en la que nada nos interesa.\nHay si Gramsci saliera de la tumba, qué escribiría?"
 +++
 
 Odio a los indiferentes. Creo que vivir es tomar partido. Quien verdaderamente vive no puede dejar de ser ciudadano y partidario. 
@@ -65,4 +31,3 @@ Extracto de *"La Ciudad Futura"*, revista cultural publicada por Antonio Gramsci
 
 Lo robé de [mi blog favorito](http://larunfla.blogspot.com).
 {% end %}
-

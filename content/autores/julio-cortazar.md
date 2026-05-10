@@ -3,18 +3,6 @@ title = "Julio Cortázar"
 template = "author.html"
 
 [extra]
-legacy_id = 3
-legacy_slug = "Julio-Cortazar"
-article_paths = [
-    "de-otros/una-carta-de-amor.md",
-    "de-otros/aplastamiento-de-las-gotas.md",
-    "videos/las-buenas-intenciones.md",
-    "de-otros/torito.md",
-    "de-otros/la-autopista-del-sur.md",
-    "de-otros/el-sentimiento-de-la-poesia-en-la.md",
-    "de-otros/perdida-y-recuperacion-del-pelo.md",
-    "de-otros/happy-new-year.md",
-]
 image = "/media/auton3.jpg"
 is_owner = false
 +++

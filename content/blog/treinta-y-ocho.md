@@ -3,41 +3,13 @@ title = "Treinta y ocho"
 slug = "treinta-y-ocho"
 date = 2014-03-13 12:42:47
 description = "Fui su mochila: allí donde él iba, ahí quería ir yo. Y él me llevaba, sin muchos peros, a la aventuras con sus amigos en el baúl de la Falcon Rural prestada en la…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Amistad",
     "Tecnología",
 ]
-
-[extra]
-legacy_id = 444
-section_slug = "blog"
-section_title = "Blog"
-summary = "Fui su mochila: allí donde él iba, ahí quería ir yo. Y él me llevaba, sin muchos peros, a la aventuras con sus amigos en el baúl de la Falcon Rural prestada en la siesta. Eran lugares inigualablemente maravillosos…"
-visits = 3425
-popularite = 0.9568003614403066
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/treinta-y-ocho/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-comments = []
 +++
 
 Fui su mochila: allí donde él iba, ahí quería ir yo. Y él me llevaba, sin muchos peros, a la aventuras con sus amigos en el baúl de la Falcon Rural prestada en la siesta. Eran lugares inigualablemente maravillosos desde los ojos de un niño rodeado de adolescentes.

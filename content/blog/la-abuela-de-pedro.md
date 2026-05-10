@@ -3,71 +3,15 @@ title = "La abuela de Pedro"
 slug = "la-abuela-de-pedro"
 date = 2008-04-14 06:56:26
 description = "-- Papá -- ¿Qué le pasa m'ijo? -- Que no quiero dormir más en la pieza de la abuela."
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Ficciones",
 ]
 
 [extra]
-legacy_id = 104
-section_slug = "blog"
-section_title = "Blog"
-summary = "-- Papá -- ¿Qué le pasa m'ijo? -- Que no quiero dormir más en la pieza de la abuela. -- ¿Qué tiene la abuela? -- Que anda rara. -- Usted sabe que la abuela está enferma mi'jito. -- Ya lo sé papá. -- ¿Entonces? -- Pero…"
-visits = 1306
-popularite = 0.9069131854302702
-hero_image = ""
-hero_alt = ""
-comment_count = 3
-legacy_url = "/blog/la-abuela-de-pedro/"
-surtitle = ""
-subtitle = ""
 deck = "-- Papá\n\n-- ¿Qué le pasa m'ijo?\n\n-- Que no quiero dormir más en la pieza de la abuela."
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Ficciones", path = "/etiquetas/ficciones/" },
-]
-
-[[extra.comments]]
-id = 6846
-anchor = "comment-6846"
-author = "Mr. X"
-date = "2008-04-14 21:46:29"
-date_display = "14.04.2008"
-depth = 0
-url_site = "http://deliriosemocionales.com.ar/"
-title = "La abuela de Pedro"
-body = "Durísimo. Me gustó mucho. Saluditos."
-
-[[extra.comments]]
-id = 6847
-anchor = "comment-6847"
-author = "Mr. X"
-date = "2008-04-14 21:47:13"
-date_display = "14.04.2008"
-depth = 0
-url_site = "http://deliriosemocionales.com.ar/"
-title = "La abuela de Pedro"
-body = "Me recordó a \"Las intermitencias de la muerte\", de Saramago."
-
-[[extra.comments]]
-id = 6851
-anchor = "comment-6851"
-author = "Pablo"
-date = "2008-04-17 08:35:28"
-date_display = "17.04.2008"
-depth = 0
-url_site = ""
-title = "La abuela de Pedro"
-body = "Si puedo aportar algo en el espíritu... yo conozco esta canción en una gran versión de Juan Quintero. Un abrazo\n\n.\n\nYo soy un niño  caníbal nadie me quiere a mi\n\nno me quedan Amiguitos por que ya me los comí,\n\nNo tengo padre ni madre, tampoco tengo hermanitos\n\nNo tengo tíos ni tías tengo muy buen apetito.\n\n.\n\nEstribillo\n\nNunca me río nunca juego, vivo alejado de la gente\n \nNi abro la boca ni sonrío estoy cambiando los dientes.\n\n.\n\nCuando me comí a mi abuelo me castigo una semana\n\nMi abuela que es una vieja gruñona y vegetariana.\n\nSi un día se la comieran con todas su verdolagas\n\nPero es tan insoportable que la tribu no la  traga.\n\n.\n\nEst.\n\n.\n\nLe pido a los Reyes Magos un poco de caracú\n\ny algunos exploradores para cambiar el menú.\n\nY pido para mi abuela arroz y harina a su antojo\n\nPara que cuando se muera se la coman los gorgojos.\n\n.\n\nEst.\n.\n\nPD: Que duro formatear el texto con el formulario!"
 +++
 
 -- ¿Qué tiene la abuela?
@@ -133,4 +77,3 @@ body = "Si puedo aportar algo en el espíritu... yo conozco esta canción en una
 -- ...
 
 -- Déle papá, dígale que se meta en el cajón. Dígaselo antes de que sea tarde, antes de que se vaya como se fue el abuelo, antes de que termine asustando a los vecinos saliendo a la noche por los maizales.
-

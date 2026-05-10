@@ -3,13 +3,8 @@ title = "Crónica de un intento de homenaje"
 slug = "cronica-de-un-intento-de-homenaje"
 date = 2008-07-02 01:23:48
 description = "Rosario, entre el 13 y el 16 de junio de 2008 Muchas de estas fotos logré sacarlar gracias al descubrimiento de mi amigo y compañero Leandro y a la aparaciencia…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Fotos",
 ]
 tags = [
     "Amistad",
@@ -17,27 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 157
-section_slug = "fotos"
-section_title = "Fotos"
-summary = "Rosario, entre el 13 y el 16 de junio de 2008 Muchas de estas fotos logré sacarlar gracias al descubrimiento de mi amigo y compañero Leandro y a la aparaciencia profesional (para el que no tiene mucha idea) de mi…"
-visits = 5923
-popularite = 0.9125278969859208
 hero_image = "/media/jpg/DSC_0020.jpg"
 hero_alt = "Cursilerías de otoño 1"
-comment_count = 0
-legacy_url = "/fotos/cronica-de-un-intento-de-homenaje/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-
 +++
 
 *Rosario, entre el 13 y el 16 de junio de 2008*
@@ -249,4 +225,3 @@ Claro está que en las fotos en las que yo aparezco no fueron tomadas por mí. P
 {{ media_image(src="/media/jpg/DSC_0770.jpg", alt="Amelia, Mariano y La Tami", caption="Amelia, Mariano y La Tami", align="center") }}
 
 {{ media_image(src="/media/jpg/DSC_0771.jpg", alt="El turista", caption="El turista", align="center") }}
-

@@ -3,13 +3,8 @@ title = "Aprietes"
 slug = "aprietes"
 date = 2009-11-02 13:46:55
 description = "En 1999 yo tenía algunos granos en la cara y poco sueño por las noches, que dedicaba a atrofiar mi columna frente al monitor. En esa época, en Neuquén, el ADSL era una…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Tecnología",
@@ -17,70 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 344
-section_slug = "blog"
-section_title = "Blog"
-summary = "En 1999 yo tenía algunos granos en la cara y poco sueño por las noches, que dedicaba a atrofiar mi columna frente al monitor. En esa época, en Neuquén, el ADSL era una promesa del próximo milenio y mis experimentos…"
-visits = 1327
-popularite = 0.9587700908074007
 hero_image = "/media/jpg/problema_Juan.jpg"
 hero_alt = "problema_Juan.jpg"
-comment_count = 4
-legacy_url = "/blog/aprietes/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Familia", path = "/etiquetas/familia/" },
-]
-
-[[extra.comments]]
-id = 7797
-anchor = "comment-7797"
-author = "Lander"
-date = "2009-11-02 14:25:05"
-date_display = "02.11.2009"
-depth = 0
-url_site = ""
-title = "Aprietes"
-body = "JAJAJA!!!... Napster... el dialup... las cuentas de Gmail... wow... que recuerdos... y que bueno que halla llegado tan lejos tu proyecto... es facinante poner nerviosos a personas que realmente se toman el trabajo ¿?¿?¿? de buscar donde esta tal o cual página, si estan o no infringiendo la ley... y luego mandar cartas documento... jajaja... cartas documento.. EN PAPEL!!!... un chiste.\n\nBueno, lastima que luego crecio la banda ancha, luego napster... luego lo censuraron, y aparecieron otros P2P para poder reemplazar ese gigante... si lo otro no hubiese funcionado, seguramente el club del Cd hoy estaria siendo comprado por google por millones... y vos... no estarías contando esta historia\n\nUn abrazo Martin ;)"
-
-[[extra.comments]]
-id = 7798
-anchor = "comment-7798"
-author = "Jota"
-date = "2009-11-03 04:51:23"
-date_display = "03.11.2009"
-depth = 0
-url_site = ""
-title = "Aprietes"
-body = "Tincho, tu era cibernetica empieza antes, es mas con la famosa PS/1 era??? ya ni lo recuerdo, cuando eras preadolescente y te dedicabas al testeo de juegos, je.\nMas allá del contexto histórico, si el objetivo ubiesido la guita, la tendrias, pero seguramente es una definicion de vida distinta, de ser una bastion de valores en el area informatica, sino no colaborarias con muchas organizaciones... (medias surditas talvez?). Falta mas gente como vos.\nUn abrazo.\n\nJota"
-
-[[extra.comments]]
-id = 7799
-anchor = "comment-7799"
-author = "Quique"
-date = "2009-11-03 11:02:25"
-date_display = "03.11.2009"
-depth = 0
-url_site = ""
-title = "Aprietes"
-body = "Que puedo decir en nombre propio y de mis compañerxs de pelea en el subte que no sea GRACIAS!"
-
-[[extra.comments]]
-id = 7939
-anchor = "comment-7939"
-author = "eskilozzy"
-date = "2009-11-06 17:27:13"
-date_display = "06.11.2009"
-depth = 0
-url_site = ""
-title = "Aprietes"
-body = "El CdClub!!! que sería de R e a l C o l o r si no fuese por CDCLUB!!!!??!!"
 +++
 
 En 1999 yo tenía algunos granos en la cara y poco sueño por las noches, que dedicaba a atrofiar mi columna frente al monitor. En esa época, en Neuquén, el ADSL era una promesa del próximo milenio y mis experimentos internéticos nocturnos debían conformarse con una conexión dialup, unas 30 veces más lenta que las conexiones de ahora. Pobre madre: además de aguantarse quedar sin teléfono desde las nueve de la noche (hora que empezaba la tarifa con descuento) hasta la madrugada, debía gatillar de su bolsillo, con más pedacitos de tiza que billetes, el vicio de su hijo el del medio.
@@ -126,4 +59,3 @@ Hace más de un año decidieron crear un [gremio propio](http://sindicatodelsubt
 Triste pero no extraño sería que el tal cabo exista de verdad, porque sabemos, la polícia es una intitución funcional al poder y enemiga de los trabajadores. Triste pero no extraño sería que este cabo sea en realidad un burócrata intentando entorpecer lo que inevitablemente sucederá.  
 
 Sea como sea, la jugada del honor, la que recordaré cuando tenga alzheimer, es bien simple: me la [enseñó Diego](http://nqnwebs.com/quelasiganchupando) semanas atrás.
-

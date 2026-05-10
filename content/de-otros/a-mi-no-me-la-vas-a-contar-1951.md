@@ -3,13 +3,8 @@ title = "¡A mí no me la vas a contar! (1951)"
 slug = "a-mi-no-me-la-vas-a-contar-1951"
 date = 2012-09-14 19:01:19
 description = "Resulta que antes no te importaba nada y ahora te importa todo. Sobre todo lo chiquito. Pasaste de náufrago a financista sin bajarte del bote. Vos, sí, vos, que ya…"
-draft = false
-template = "article.html"
 authors = [
     "Enrique Santos Discépolo",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Amor",
@@ -17,81 +12,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 437
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Resulta que antes no te importaba nada y ahora te importa todo. Sobre todo lo chiquito. Pasaste de náufrago a financista sin bajarte del bote. Vos, sí, vos, que ya estabas acostumbrado a saber que tu patria era la…"
-visits = 94144
-popularite = 0.7407276545126769
-hero_image = ""
-hero_alt = ""
-comment_count = 5
-legacy_url = "/de-otros/a-mi-no-me-la-vas-a-contar-1951/"
-surtitle = ""
 subtitle = "Enrique Santos Discépolo"
-deck = ""
-author_links = [
-    { name = "Enrique Santos Discépolo", path = "/autores/enrique-santos-discepolo/" },
-]
-tag_links = [
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-
-[[extra.comments]]
-id = 53400
-anchor = "comment-53400"
-author = "Manoly"
-date = "2012-09-21 09:38:19"
-date_display = "21.09.2012"
-depth = 0
-url_site = "http://Www.manolyarcos.com"
-title = "¡A mí no me la vas a contar! (1951)"
-body = "Pues q decir, q no se como me llegado hasta aqui, pero q me conmovio lo q lei. Y mire la fecha....tan lejos y tan cerca dl q escribio y del q leyo, pero tan real q tuve q volver a mirar la fecha y el escritor..1951 y Discepolo..."
-
-[[extra.comments]]
-id = 53415
-anchor = "comment-53415"
-author = "jrodriguezncs"
-date = "2012-09-25 16:43:16"
-date_display = "25.09.2012"
-depth = 0
-url_site = "http://www.ellivingdemicerebro.com.ar/"
-title = "¡A mí no me la vas a contar! (1951)"
-body = "Excelente el texto, me lo hicieron leer sin saber de que año y de quien era!! Muy actual, muy claro!"
-
-[[extra.comments]]
-id = 53434
-anchor = "comment-53434"
-author = "Victoria"
-date = "2012-10-02 15:17:17"
-date_display = "02.10.2012"
-depth = 0
-url_site = ""
-title = "¡A mí no me la vas a contar! (1951)"
-body = "El problema es cuando los mismos que te sacan el queso o el té de Ceilán lo siguen tomando, Cuando vos para conseguirlo te esforzaste y no le pediste nada a nadie! Saludos."
-
-[[extra.comments]]
-id = 53550
-anchor = "comment-53550"
-author = "Colibri"
-date = "2012-11-11 22:18:46"
-date_display = "11.11.2012"
-depth = 0
-url_site = ""
-title = "¡A mí no me la vas a contar! (1951)"
-body = "Me lo mando el señor Patricio Alfonso Roach desde Estados Unidos,y lo perdi, por suerte lo volvi a encontrar. Cuando lo lei se caian las lágrimas. Esta fabuloso,muchas gracias a todos"
-
-[[extra.comments]]
-id = 54946
-anchor = "comment-54946"
-author = "anónimo"
-date = "2013-04-26 11:32:11"
-date_display = "26.04.2013"
-depth = 0
-url_site = ""
-title = "¡A mí no me la vas a contar! (1951)"
-body = "Consolador para quien tiene heridas profundas en el alma.Gracias Mario."
 +++
 
 Resulta que antes no te importaba nada y ahora te importa todo. Sobre todo lo chiquito. Pasaste de náufrago a financista sin bajarte del bote. Vos, sí, vos, que ya estabas acostumbrado a saber que tu patria era la factoría de alguien y te encontraste con que te hacían el regalo de una patria nueva, y entonces, en vez de dar las gracias por el sobretodo de vicuña, dijiste que había una pelusa en la manga y que vos no lo querías derecho sino cruzado.
@@ -119,4 +40,3 @@ No importa que tu patria haya tenido problemas de gigantes, y que esos problemas
 {% postscript() %}
 Enrique Santos Discépolo, año 1951
 {% end %}
-

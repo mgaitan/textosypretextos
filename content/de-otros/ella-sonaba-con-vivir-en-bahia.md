@@ -4,34 +4,13 @@ slug = "ella-sonaba-con-vivir-en-bahia"
 date = 2009-02-25 19:05:36
 description = "Ella soñaba con vivir en Bahía, pero en San Telmo sobrevivía; tomaba clases de teatro independiente era feliz mostrando el culo a tanta gente inteligente. Tomaba leche…"
 draft = true
-template = "article.html"
 authors = [
     "Víctor Heredia",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 299
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Ella soñaba con vivir en Bahía, pero en San Telmo sobrevivía; tomaba clases de teatro independiente era feliz mostrando el culo a tanta gente inteligente. Tomaba leche en La Martona de Corrientes y se las daba de mujer…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/ella-sonaba-con-vivir-en-bahia/"
-surtitle = ""
 subtitle = "Víctor Heredia"
-deck = ""
-author_links = [
-    { name = "Víctor Heredia", path = "/autores/victor-heredia/" },
-]
-tag_links = []
-comments = []
 +++
 
 <div class="poetry">Ella soñaba con vivir en Bahía,<br>

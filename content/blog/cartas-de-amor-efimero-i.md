@@ -3,13 +3,8 @@ title = "Cartas de amor efímero I"
 slug = "cartas-de-amor-efimero-i"
 date = 2008-04-20 08:17:56
 description = "[Luego de un viaje a Puerto Madryn, abril de 2006] Daniela: Tengo en mi buzón de \"Borradores\" los dos primeros renglones de un email que que quise escribirte, el…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Viajero",
@@ -18,49 +13,7 @@ tags = [
 ]
 
 [extra]
-legacy_id = 113
-section_slug = "blog"
-section_title = "Blog"
-summary = "[Luego de un viaje a Puerto Madryn, abril de 2006] Daniela: Tengo en mi buzón de \"Borradores\" los dos primeros renglones de un email que que quise escribirte, el domingo, cuando llegué a mi casa en Neuquén. El asunto…"
-visits = 2147
-popularite = 0.2538715201121162
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/blog/cartas-de-amor-efimero-i/"
-surtitle = ""
-subtitle = ""
 deck = "*[Luego de un viaje a Puerto Madryn, abril de 2006]*\n\nDaniela:\n\nTengo en mi buzón de \"Borradores\" los dos primeros renglones de un email que que quise escribirte, el domingo, cuando llegué a mi casa en Neuquén. El asunto era «Chau y Hola» y los renglones estos:\n\n> Faltó un chau ¿cierto? sea este email el mea culpa. Perdón, cuanto atrevimiento, primero debería presentarme: soy Martín, el del calzoncillo al revés."
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Viajero", path = "/etiquetas/viajero/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-
-[[extra.comments]]
-id = 6856
-anchor = "comment-6856"
-author = "Maria"
-date = "2008-04-20 18:20:41"
-date_display = "20.04.2008"
-depth = 0
-url_site = ""
-title = "Cartas de amor efímero I"
-body = "La verdad, creo que a muchos nos ha pasado... es algo muy raro..hermoso y triste a la vez no?..pero te queda esa ilusion de que algun dia nos volveremos a ver..\npor algo pasan las cosas"
-
-[[extra.comments]]
-id = 6859
-anchor = "comment-6859"
-author = "Gabriel"
-date = "2008-04-22 05:34:13"
-date_display = "22.04.2008"
-depth = 0
-url_site = ""
-title = "Cartas de amor efímero I"
-body = "Podrá ser efímero el amor??? mmmmm yo creo que no, si es efímero no es amor... pero que bueno ver a mi amigo gato tan inspirado con (o por) una chica... ya extrañaba eso je je!! Ojalá yo pudiera escribirle así a alguien, pero amigo te pregunto ¿podés decir las mismas palabras o parecidas en persona a tus amores efímeros??  abrazo gigante..."
 +++
 
 Eran las 4 de la mañana y parece que la neurona --últimamente es así, en singular-- se me quedó enredada en el calzoncillo. Nunca pasé de esos dos renglones: cuando un pichón de idea parecía querer romper el cascarón, los dedos se me trensaban de una forma extraña y terminaban escribiendo en un idioma ilegible cuya traducción al castellano carecía de sentido. Ojo, no quería escribir un ensayo malolientemente academicista. Simplemente quería unas palabras que te dieran el beso y el chau que no te pude dar, y darte el abrazo que el mar patagónico me pidió que te diera.
@@ -89,4 +42,3 @@ Martín.
 {% postscript() %}
 Completan la trilogía [Cartas de amor efímero II](@/blog/cartas-de-amor-efimero-ii.md) y [Cartas de amor efímero III](@/blog/cartas-de-amor-efimero-iii.md).
 {% end %}
-

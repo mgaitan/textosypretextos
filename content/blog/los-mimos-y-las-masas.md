@@ -3,86 +3,14 @@ title = "Los mimos y las masas"
 slug = "los-mimos-y-las-masas"
 date = 2010-01-31 01:06:00
 description = "\"Susana amasa la masa\", acataba mi lápiz, con la punta filosa casi lista para apuñalar. Al lado, muchos garabatos contrastaban la hoja Rivadavia, acusando un gran…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Ficciones",
     "Refrito de Verano",
     "Tecnología",
 ]
-
-[extra]
-legacy_id = 40
-section_slug = "blog"
-section_title = "Blog"
-summary = "\"Susana amasa la masa\", acataba mi lápiz, con la punta filosa casi lista para apuñalar. Al lado, muchos garabatos contrastaban la hoja Rivadavia, acusando un gran fastidio acumulado. Por fortuna, gracias a mi…"
-visits = 2714
-popularite = 0.4190442819801751
-hero_image = ""
-hero_alt = ""
-comment_count = 4
-legacy_url = "/blog/los-mimos-y-las-masas/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Ficciones", path = "/etiquetas/ficciones/" },
-    { name = "Refrito de Verano", path = "/etiquetas/refrito-de-verano/" },
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-]
-
-[[extra.comments]]
-id = 1010
-anchor = "comment-1010"
-author = "Profesor Vortcha"
-date = "2005-05-23 15:46:39"
-date_display = "23.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "Como los Orozco pero sin E !!!!! Muy buena redacción, envuelta en un bello clima de melancolía. En fin, lindo laburito.\nSi quieren difundir actividad del taller, manden mails a el@profesor.net.ar .\nAbrazos.-"
-
-[[extra.comments]]
-id = 1011
-anchor = "comment-1011"
-author = "mamá"
-date = "2005-05-23 23:09:47"
-date_display = "23.05.2005"
-depth = 0
-url_site = ""
-title = ""
-body = "menos mal que tu susana amasa la masa, la otra pobretona sala sus sesos"
-
-[[extra.comments]]
-id = 8138
-anchor = "comment-8138"
-author = "susi"
-date = "2010-02-01 11:33:26"
-date_display = "01.02.2010"
-depth = 0
-url_site = ""
-title = "Los mimos y las masas"
-body = "Por suerte no soy esa Susana... (espero no serlo) jaja!\nMuy Buena Reflexion ...!"
-
-[[extra.comments]]
-id = 28296
-anchor = "comment-28296"
-author = "Maereaurbana"
-date = "2010-11-01 19:01:28"
-date_display = "01.11.2010"
-depth = 0
-url_site = ""
-title = "Los mimos y las masas"
-body = "Lo mejor de todo es que uno no cae en que no usaste la \"E\" hasta que lo decís! Muy buen ejercicio!"
 +++
 
 *"Susana amasa la masa"*,  acataba mi lápiz, con la punta filosa casi lista para apuñalar. Al lado, muchos garabatos contrastaban la hoja Rivadavia,  acusando un gran fastidio acumulado. 
@@ -102,4 +30,3 @@ Este texto fue presentado en el [taller de escritura](@/blog/el-taller-gimnasio-
 
 Fue publicado originalmente en este blog el 9 de mayo de 2005.
 {% end %}
-

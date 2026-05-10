@@ -3,11 +3,6 @@ title = "Charly García"
 template = "author.html"
 
 [extra]
-legacy_id = 9
-legacy_slug = "Charly-Garcia"
-article_paths = [
-    "de-otros/promesas-sobre-el-bidet.md",
-]
 image = "/media/auton9.jpg"
 is_owner = false
 +++

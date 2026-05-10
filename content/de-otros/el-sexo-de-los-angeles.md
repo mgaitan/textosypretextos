@@ -4,34 +4,13 @@ slug = "el-sexo-de-los-angeles"
 date = 2012-06-01 00:30:43
 description = "Una de las más lamentables carencias de información que han padecido los hombres y mujeres de todas las épocas, se relaciona con el sexo de los ángeles. El dato, nunca…"
 draft = true
-template = "article.html"
 authors = [
     "Mario Benedetti",
-]
-categories = [
-    "De otros",
 ]
 tags = []
 
 [extra]
-legacy_id = 421
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Una de las más lamentables carencias de información que han padecido los hombres y mujeres de todas las épocas, se relaciona con el sexo de los ángeles. El dato, nunca confirmado, de que los ángeles no hacen el amor…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/el-sexo-de-los-angeles/"
-surtitle = ""
 subtitle = "Mario Benedetti"
-deck = ""
-author_links = [
-    { name = "Mario Benedetti", path = "/autores/mario-benedetti/" },
-]
-tag_links = []
-comments = []
 +++
 
 Una de las más lamentables carencias de información que han padecido los hombres y mujeres de todas las épocas, se relaciona con el sexo de los ángeles. El dato, nunca confirmado, de que los ángeles no hacen el amor, quizá signifique que no lo hacen de la misma manera que los mortales.

@@ -3,13 +3,8 @@ title = "Chicas"
 slug = "chicas"
 date = 2009-03-08 19:03:02
 description = "Ayer fue el Día Internacional de la Mujer, o algo así, y quería --con muchísimas prevenciones-- decirte algo sobre eso. Lo de las prevenciones es natural: cualquier…"
-draft = false
-template = "article.html"
 authors = [
     "Jorge Lanata",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Carta",
@@ -17,37 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 308
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Ayer fue el Día Internacional de la Mujer, o algo así, y quería --con muchísimas prevenciones-- decirte algo sobre eso. Lo de las prevenciones es natural: cualquier mujer se enoja si se habla de ellas solo en su día, y…"
-visits = 5694
-popularite = 0.492067828210331
-hero_image = ""
-hero_alt = ""
-comment_count = 1
-legacy_url = "/de-otros/chicas/"
-surtitle = ""
 subtitle = "Jorge Lanata"
 deck = "Ayer fue el Día Internacional de la Mujer, o algo así, y quería --con muchísimas prevenciones-- decirte algo sobre eso. Lo de las prevenciones es natural: cualquier mujer se enoja si se habla de ellas solo en su día, y te sale con aquello de \"Che, no es el día del animal\"; pero también es posible que se enojen si no se lo menciona, o que critiquen con cierto cinismo si quien habla de las mujeres es un hombre.\n\nYo quiero contarte sobre algunas mujeres que conocí en mi vida, desde mi madre a mi hija, también otras mujeres que quise y quiero, mujeres que vi pasar, mujeres de las que me hablaron y otras que me tomo licencia para inventar."
-author_links = [
-    { name = "Jorge Lanata", path = "/autores/jorge-lanata/" },
-]
-tag_links = [
-    { name = "Carta", path = "/etiquetas/carta/" },
-    { name = "Memoria", path = "/etiquetas/memoria/" },
-]
-
-[[extra.comments]]
-id = 8204
-anchor = "comment-8204"
-author = "Karina"
-date = "2010-04-12 22:11:36"
-date_display = "12.04.2010"
-depth = 0
-url_site = ""
-title = "Chicas"
-body = "Hermoso recuerdo. Lo escuche en la radio y hubiese dado cualquier cosa por grabarlo. Hoy cuando lo lei me volvì a emocionar. Jorge Lanata tiene un don especial para plasmar en el papel cosas tan dificiles de describir como los sentimientos y las emociones. Gracias, muchas gracias, por esto!!!"
 +++
 
 A los dos años los ojos de mi hija eran los ojos de un bebé: una mirada curiosa y atolondrada. Fue por esa fecha cuando, de pronto, ella comenzó a mirar distinto. No sé si eso sucede en todas las bebas de dos años, pero en aquel momento la mirada de mi hija se volvió encantadoramente oblicua y distante, y se notaba en sus ojos que ella se había vuelto mujer. De un día para el otro los ojos de Bárbara habían construido un secreto: su mirada tenía algo que yo no iba a alcanzar jamás. En sus ojos y en su piel -que es también mi piel- había crecido, de pronto, un endeble pero impenetrable muro de hiedra.
@@ -87,4 +53,3 @@ Sabías que ayer fue el Día No Sé Qué de la Mujer, y quería decirte eso: que
 {% postscript() %}
 Chicas, Jorge Lanta. Leído como editorial del programa radial RompeCabezas, 9 de marzo de 1995. Publicado en el libro "Vuelta de página" Ediciones J. L. Y Asociados (1997)
 {% end %}
-

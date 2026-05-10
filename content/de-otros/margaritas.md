@@ -3,13 +3,8 @@ title = "Margaritas"
 slug = "margaritas"
 date = 2010-03-01 22:07:52
 description = "Octubre 25, 2007. --Hola María Rosa. ¿Cómo te va? --Mal. --¿Qué tenés? --Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y…"
-draft = false
-template = "article.html"
 authors = [
     "Emanuel Rodriguez",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Familia",
@@ -17,48 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 365
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Octubre 25, 2007. --Hola María Rosa. ¿Cómo te va? --Mal. --¿Qué tenés? --Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y que necesito que me pagues la deuda. Un día después…"
-visits = 3509
-popularite = 0.3527181314761368
-hero_image = ""
-hero_alt = ""
-comment_count = 2
-legacy_url = "/de-otros/margaritas/"
-surtitle = ""
 subtitle = "Emanuel Rodriguez"
 deck = "### Octubre 25, 2007.\n\n--Hola María Rosa. ¿Cómo te va?\n--Mal.\n--¿Qué tenés?\n--Cáncer. Por eso te venía a decir dos cosas. Que no te voy a hacer la torta para el sábado, y que necesito que me pagues la deuda.\n\nUn día después del diagnóstico mi mamá ya le estaba sacando rédito.\nYo tuve que dejar el diario y todo lo demás para venir a verla. Cuando llegué estaba sonriendo. No va a pasar nada, nene. El problema es que la palabra es muy fea. \"Cáncer\". Es horrible.\n\n--Le digamos \"margaritas\".\n\nLa segunda rectoscopia la agarró canchera. Le llevó un presente a la doctora. Una estampita de San Expedito. \"Si se la pasan oliendo gases…\". Mis hermanos y yo estamos cinco veces más asustados que ella."
-author_links = [
-    { name = "Emanuel Rodriguez", path = "" },
-]
-tag_links = [
-    { name = "Familia", path = "/etiquetas/familia/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-]
-
-[[extra.comments]]
-id = 8173
-anchor = "comment-8173"
-author = "agus"
-date = "2010-03-02 19:47:49"
-date_display = "02.03.2010"
-depth = 0
-url_site = ""
-title = "Margaritas"
-body = "estoy sin palabras... pero no quería dejar de decirte gracias por compartir otra lección de vida"
-
-[[extra.comments]]
-id = 8184
-anchor = "comment-8184"
-author = "soy yo"
-date = "2010-03-13 02:06:02"
-date_display = "13.03.2010"
-depth = 0
-url_site = ""
-title = "Margaritas"
-body = "me acorde de tu vieja, alguna vez la vi como de la familia.sigo amandote."
 +++
 
 La van a operar, la tienen que operar con urgencia. Le dijeron que por favor no se mueva, que haga reposo. Pero está haciendo de comer. No puede parar de cocinar. La casa hierve. Afuera, la capital de La Rioja es un infierno, y la casa de mi madre es un sauna dentro de ese infierno.
@@ -152,4 +107,3 @@ Emanuel Rodríguez es uno de los mejores escritores cordobeses vivos. Aún no ha
 
 También escribe en el suplemento de cultura del diario La Voz del Interior y dirige la [Revista Diccionario](http://www.revistadiccionario.com/).
 {% end %}
-

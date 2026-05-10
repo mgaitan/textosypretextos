@@ -4,38 +4,12 @@ slug = "sobre-el-autor"
 date = 2006-02-10 12:21:51
 description = "Martín Gaitán, estudiante de Ingeniería en Computación en la Universidad Nacional de Córdoba, desarrollador web y feliz usuario de GNU/Linux y Software Libre en…"
 draft = true
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "El resto",
 ]
-
-[extra]
-legacy_id = 55
-section_slug = "blog"
-section_title = "Blog"
-summary = "Martín Gaitán, estudiante de Ingeniería en Computación en la Universidad Nacional de Córdoba, desarrollador web y feliz usuario de GNU/Linux y Software Libre en general, debería estar destinado a los ateojos, la…"
-visits = 0
-popularite = 0.0
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/blog/sobre-el-autor/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "El resto", path = "/etiquetas/el-resto/" },
-]
-comments = []
 +++
 
 Martín Gaitán, estudiante de Ingeniería en Computación en la Universidad Nacional de Córdoba, <a href="http://www.nqnwebs.com">desarrollador web</a> y feliz usuario de GNU/Linux y Software Libre en general, debería estar destinado a los ateojos, la introversión y conocer al detalle toda la saga de Star Wars. Un nerd, va.

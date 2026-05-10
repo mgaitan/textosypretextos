@@ -3,13 +3,8 @@ title = "De vidas ajenas (fragmentos)"
 slug = "de-vidas-ajenas-fragmentos"
 date = 2012-02-04 20:26:16
 description = "Cultivar nuestro jardín \"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa…"
-draft = false
-template = "article.html"
 authors = [
     "Emmanuel Carrère",
-]
-categories = [
-    "De otros",
 ]
 tags = [
     "Tecnología",
@@ -17,27 +12,8 @@ tags = [
 ]
 
 [extra]
-legacy_id = 405
-section_slug = "de-otros"
-section_title = "De otres"
-summary = "Cultivar nuestro jardín \"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa gente que se agita y se estresa e intriga, que…"
-visits = 1579
-popularite = 0.9075215540682732
-hero_image = ""
-hero_alt = ""
-comment_count = 0
-legacy_url = "/de-otros/de-vidas-ajenas-fragmentos/"
-surtitle = ""
 subtitle = "Emmanuel Carrère"
 deck = "### Cultivar nuestro jardín\n\n\"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa gente que se agita y se estresa e intriga, que tiene sed de poder y de ascendiente sobre el prójimo. Los ambiciosos, los jefecillos, los siempre insatisfechos. Jérôme y él eran más bien de esas personas que hacen bien su trabajo, pero una vez lo han acabado, ya ganado el dinero, lo aprovechan tranquilamente en lugar de cargarse con más trabajo para ganar más dinero. Tenían lo necesario para estar contentos con lo suyo, no todo el mundo tiene esa suerte, pero ante todo  tenían la sabiduría de conformarse, de amar lo que tenían, de no desear más. El don de permitirse vivir sin mala conciencia y sin prisa, de mantener una conversación lenta y burlona a la sombra del baniano, bebiendo una cerveza a pequeños tragos. Hay que cultivar nuestro jardín. *Carpe Diem*. Philippe no lo formula así, pero así lo entiendo y lo siento mientras habla, yo, tan alejado de esta sabiduría, yo, que vivo en la insatisfacción, la tensión perpetua, que persigo sueños de gloria y destrozo mis amores porque siempre me imagino que en otra parte, algún día, encontraré algo mejor\""
-author_links = [
-    { name = "Emmanuel Carrère", path = "" },
-]
-tag_links = [
-    { name = "Tecnología", path = "/etiquetas/tecnologia/" },
-    { name = "Amor", path = "/etiquetas/amor/" },
-]
-comments = []
 +++
 
 ### Nunca más

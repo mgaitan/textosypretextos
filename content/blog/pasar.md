@@ -3,97 +3,14 @@ title = "Pasar"
 slug = "pasar"
 date = 2009-02-25 02:30:50
 description = "Damián va a la escuela Canónigo Piñero, en el barrio Campos de la Ribera de Córdoba. Vive en una casita de plan con su familia y, a veces, con la de su tía. Es el único…"
-draft = false
-template = "article.html"
 authors = [
     "Martín Gaitán",
-]
-categories = [
-    "Blog",
 ]
 tags = [
     "Desde el ombligo",
     "Amistad",
     "Córdoba",
 ]
-
-[extra]
-legacy_id = 298
-section_slug = "blog"
-section_title = "Blog"
-summary = "Damián va a la escuela Canónigo Piñero, en el barrio Campos de la Ribera de Córdoba. Vive en una casita de plan con su familia y, a veces, con la de su tía. Es el único varón entre cinco hermanas. En noviembre del año…"
-visits = 1591
-popularite = 0.906399358339177
-hero_image = ""
-hero_alt = ""
-comment_count = 5
-legacy_url = "/blog/pasar/"
-surtitle = ""
-subtitle = ""
-deck = ""
-author_links = [
-    { name = "Martín Gaitán", path = "/autores/martin/" },
-]
-tag_links = [
-    { name = "Desde el ombligo", path = "/etiquetas/desde-el-ombligo/" },
-    { name = "Amistad", path = "/etiquetas/amistad/" },
-    { name = "Córdoba", path = "/etiquetas/cordoba/" },
-]
-
-[[extra.comments]]
-id = 7123
-anchor = "comment-7123"
-author = "OLGUEM"
-date = "2009-02-25 04:43:12"
-date_display = "25.02.2009"
-depth = 0
-url_site = ""
-title = "Pasar"
-body = "Me emocioné mucho con esta historia, que es la historia de vida de tant@s pequeñ@s en este mundo. La vida de tantas personas, muchas de ellas hoy son \"ladrores y drogadictos\" y la sociedad toda los volvemos a condenar una vez más. Nadie se da cuenta que esta gente no tiene ni tuvo una oportunidad.\nGracias por este granito de arena, esta luz de esperanza que seguramente dejo una huella en este pequeño, Damián.\nUn fuerte abrazo compañero."
-
-[[extra.comments]]
-id = 7126
-anchor = "comment-7126"
-author = "Elena"
-date = "2009-02-26 12:13:30"
-date_display = "26.02.2009"
-depth = 0
-url_site = ""
-title = "Pasar"
-body = "Gracias mazamorreros por despertarme de un leve letargo!!! me jubilé como \"seño\" en agosto pasado, pero no pude darle de baja a las intensiones de seguir haciendo cosas... Creo que es tiempo de intentar, desde algún lugar, aportar un granito de arena para que otros Damián, se sientan por algún momento SUJETOS´. Él \"aprobó\" porque Uds hicieron posible el milagro de aceptarlo como es."
-
-[[extra.comments]]
-id = 7128
-anchor = "comment-7128"
-author = "noes."
-date = "2009-03-02 08:56:46"
-date_display = "02.03.2009"
-depth = 0
-url_site = ""
-title = "Pasar"
-body = "chicos, ni bien leí el título de esta nota, cuando.. creo que en algún lado Martín invitaba a leerla, abrí la página, leí dos renglones y no aguanté la alegría y salté de la compu a buscar al único que podría compartir esa emoción en casa (y el único que suele estar en casa :-P) y le dije ¿Te acordás de Damián?? que lo estaban ayudando los chicos, te acordás, que tenía que pasar? ¡¡Pasó!! jaja!! Pasóoo!! aplaudí como si hubiera estado frente a ustedes y pensé en lo lindos que son, en lo importantes que son, en la belleza de lo que hacen y no en términos super macro, super ideales, que son los términos que hacen que nos movamos, sino en términos de la vida cotidiana de lxs niñxs con los que se vinculan tan fuertemente. Se me viene ahora la imagen del Gabi, de cómo le estaba poniendo todo de sí, todo todo, y me conmueve tremendamente. Lo dura que fue esta lucha, por más chiquita que pueda parecer, y que se les veía en la cara cuando charlaban de cómo iban, estas cosas que cuenta Fer. \nMe saco el sombrero chicos, no sé cómo explicarles lo orgullosa que estoy de ustedes. El honor que es conocerlos\nen fin, los requete quiero!!\nBueno y gracias Martín porq de última, estas publicaciones nos hacen a nosotros, que no tuvimos parte en estas historias, la vida más linda, sin dudas.\n\nPD: No veo la hora de verlos y darles un abrazo."
-
-[[extra.comments]]
-id = 7129
-anchor = "comment-7129"
-author = "cristian"
-date = "2009-03-03 05:46:47"
-date_display = "03.03.2009"
-depth = 0
-url_site = ""
-title = "Pasar"
-body = "Hola gente el otro día buscando esqueletos de spip leí un nota esta nota. Me emocione mucho, porque me recordo, que hace ya algunos años, cuando con compañeros de la universidad ibamos a un barrio de San Miguel llamado Mitre donde viven personas con muchisimas necesidades y con poco derechos. En ese lugar nosotros los sábados dabamos apoyo escolar y la merienda. El apoyo que en ese momento lo considerabamos importante, era bastante enquilombado porque no siempre iban los mismos, eran de distintos grados y  nosotros a decir verdad no eramos, si somos, especialistas en educación. Pero lo más imporotante de esos momentos para los chicos y nosotros era compartir unas horas de juego, calidez. Muchos de esos niños quizás ahora no sean adultos felices, porque hace poco volvi al barrio para acompañar la implementación del presupuesto participativo y si bien esta mejor, todavía que muchisimas cuestiones por resolver en el barrio.\n\nEl articulo me emociono y me recordo de los años de milintancia, que es dura, que  requiere mucho sacrificio, es dificil de explicar a las personas descreidas a los incredulos y a los que no les interesa un carajo la gente pero vive puteando porque el país no sirve.\nPero a titulo personal la milancia tambie´n deja los mejores amigos, esas personas que uno puede dejar de ver y cuando las encuentra se siguen compartiendo codigos y formas de comunicación sin palabras, gente que a uno lo pone bien porque aun no viendolas sabe que andan por el mundo. Seguramente que el trabajo del barrio sirvio, pero no tengo la menor duda que también en ese trabajo comunitario es el militante del barrios quien sale con muhcos cambios positivos, muchos amigos y muchas vivencias que lo acompañaran en su vida.\n\nBueno, lei la nota y escribi. Que de cosas que muchos seres humanos se pierden por un compartir una horas y no tener un profecto de vida y político compartido con muchos.Saludos"
-
-[[extra.comments]]
-id = 53743
-anchor = "comment-53743"
-author = "SgOzhJUwFiSviQXIAmw"
-date = "2012-12-26 02:59:15"
-date_display = "26.12.2012"
-depth = 0
-url_site = "http://www.facebook.com/profile.php?id=100003407226162"
-title = "Pasar"
-body = "Ah!!! como me encantan estos temas y los ckrcas de flu-project no me dejaran mentir   un viejo truco pero funcional  @Diego realmente no es lo mismo lo que se hace aqui a lo que tu dices Lo que tu dices yo lo llamo  Esteganografia EoF  osea; juntas al final de un archivo (End Of File->EoF  ) otras cosas copy /b 1.png +2.exe final.png Lo que hace es juntar al final de los bytes del png, pone los del exe y le da la salida con nombre  final.png Si tu esto lo vieras con un editor hexadecimal, verias algo asi.IEND.B`.MZ Donde:IEND.B`.   es el pie de formato del PNGMZ  es el numero magico de la cabecera del ejecutable de windows.Pero aunque si juntas (join) los archivos, no tienes ninguna ventaja, en lo que informatica se ofrece como un  joiner Hacer uso de un formatos aunto extraibles como .(sfx  winrar) o (.exe con Iexpress) es mejor.bfPor que?Por que en estos casos  empaquetas  (con la opcion de comprimir o no) todos los archivos en uno solo y lo haces autoextraible Pff realmente el tema da para mucho pero ya me exagere para un comentario,mejor puntualizo La funcion de un joiner es:.-Juntar todo en 1.-Tener la opcion de compresion o no.-Ser autoextraible.-Ocultar la extraccion y/o ejecucion de programas que  empaquetara Con EoF lo que haces es:.-Ocultar.-No se autoextrae.-No se puede ejecutar.-No comprimejeje espero no haberme pasado, o dejado algo de lado.Saludos"
 +++
 
 Damián va a la escuela Canónigo Piñero, en el barrio Campos de la Ribera de Córdoba. Vive en una casita de plan con su familia y, a veces, con la de su tía. Es el único varón entre cinco hermanas. En noviembre del año pasado le dijeron a su mamá que probablemente repetiría, por tercera vez, el segundo grado. 
@@ -164,4 +81,3 @@ El niño pasó de grado.<br>
 Y pasó de mundo.<br>
 <br>
 *Emocionado hasta los tuétanos, mis más afectuoso abrazo a los compañeros y compañeras que hicieron este logro realidad. Y a Damián, ese pequeño gran luchador.*</div>
-
