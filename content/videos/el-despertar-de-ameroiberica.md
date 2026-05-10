@@ -15,7 +15,7 @@ tags = [
 subtitle = "José Haidar, Pablo Sosa y Andrés Jones"
 +++
 
-{{ external_embed(provider="youtube", url="http://www.youtube.com/p/AA1494DFCCF00C81") }}
+{{ external_embed(provider="youtube (legacy playlist)", url="http://www.youtube.com/p/AA1494DFCCF00C81") }}
 
 _Pendiente de revisión editorial: buscar reemplazo vigente del video._
 

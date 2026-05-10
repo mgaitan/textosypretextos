@@ -14,7 +14,7 @@ tags = [
 subtitle = "Joaquin Baldwin"
 +++
 
-{{ external_embed(provider="aniboom", url="http://api.aniboom.com/e/285055") }}
+{{ external_embed(provider="aniboom (legacy)", url="http://api.aniboom.com/e/285055") }}
 
 _Pendiente de revisión editorial: buscar reemplazo vigente del video._
 
