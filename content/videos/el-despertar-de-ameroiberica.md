@@ -15,9 +15,9 @@ tags = [
 subtitle = "José Haidar, Pablo Sosa y Andrés Jones"
 +++
 
-{{ external_embed(provider="youtube (legacy playlist)", url="http://www.youtube.com/p/AA1494DFCCF00C81") }}
+{{ external_embed(provider="youtube", url="http://www.youtube.com/p/AA1494DFCCF00C81") }}
 
-_Pendiente de revisión editorial: buscar reemplazo vigente del video._
+_Pendiente de revisión editorial: el enlace corresponde a un playlist legacy (`/p/`) y requiere migración a formato vigente._
 
 Gran trabajo documental de los jóvenes cineastas cordobeses José Haidar, Pablo Sosa y Andrés Jones desde su independiente Puertas Productora Audiovisual
 
