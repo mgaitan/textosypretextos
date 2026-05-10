@@ -10,9 +10,6 @@ tags = [
     "Cuento breve",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Mario Benedetti"
 +++
 
 Al preso lo interrogaban tres veces por semana para averiguar *«quien le había enseñado eso»*. Él siempre respondía con un digno silencio y entonces el teniente de turno arrimaba a sus testículos la horrenda picana.

@@ -10,9 +10,6 @@ tags = [
     "Amistad",
     "Música",
 ]
-
-[extra]
-subtitle = "Luis Pescetti"
 +++
 
 Señora Dickinson, porque sabemos ser corteses, en ocasión de que la hija del compañero García le comentara unos versos suyos que oyó en la escuela:

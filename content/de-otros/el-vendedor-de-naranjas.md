@@ -10,9 +10,6 @@ tags = [
     "Política",
     "Amistad",
 ]
-
-[extra]
-subtitle = "Jorge Lanata"
 +++
 
 El hombre que maneja la niveladora de terreno, mira

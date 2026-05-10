@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Humor",
 ]
-
-[extra]
-subtitle = "Marco Denevi"
 +++
 
 El primero que lo dijo no fue Diógenes el cínico sino el cíclope Polifemo. Interrogado por Ulises sobre las razones de su misoginia, Polifemo pronunció el famoso discurso:

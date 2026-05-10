@@ -7,9 +7,6 @@ authors = [
     "Jaime Sabines",
 ]
 tags = []
-
-[extra]
-subtitle = "Jaime Sabines"
 +++
 
 <div class="poetry">El mar se mide por olas,<br>

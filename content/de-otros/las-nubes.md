@@ -10,9 +10,6 @@ tags = [
     "Cuento breve",
     "Familia",
 ]
-
-[extra]
-subtitle = "Eduardo Galeano"
 +++
 
 Nube dejó caer una gota de lluvia sobre el cuerpo de una mujer. A los nueve meses, ella tuvo mellizos. Cuando crecieron, quisieron saber quién era su padre.

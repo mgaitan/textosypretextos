@@ -8,9 +8,6 @@ authors = [
     "Jaime Ross",
 ]
 tags = []
-
-[extra]
-subtitle = "Jaime Ross"
 +++
 
 <div class="poetry">Cuando quieras mi amor, no lo imagines<br>

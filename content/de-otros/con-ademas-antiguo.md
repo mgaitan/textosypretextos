@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Poesía",
 ]
-
-[extra]
-subtitle = "Pedro Mairal"
 +++
 
 <div class="poetry">En el vapor del baño se dibuja<br>

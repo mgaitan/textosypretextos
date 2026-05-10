@@ -7,9 +7,6 @@ authors = [
     "Oliverio Girondo",
 ]
 tags = []
-
-[extra]
-subtitle = "Oliverio Girondo"
 +++
 
 <div class="poetry">Se miran, se presienten, se desean,<br>

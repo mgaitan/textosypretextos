@@ -10,9 +10,6 @@ tags = [
     "Política",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Preámbulo"
 +++
 
 {{% epigrafe() %}}

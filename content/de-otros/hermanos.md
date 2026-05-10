@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Música",
 ]
-
-[extra]
-subtitle = "Juan Quintero"
 +++
 
 <div class="poetry">Aire, fuego y agua casi sin querer<br>

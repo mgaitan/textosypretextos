@@ -10,9 +10,6 @@ tags = [
     "Música",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Eduardo Galeano"
 +++
 
 **1916-Buenos Aires**

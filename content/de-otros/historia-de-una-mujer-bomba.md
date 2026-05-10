@@ -10,9 +10,6 @@ tags = [
     "Amistad",
     "Política",
 ]
-
-[extra]
-subtitle = "Josefina Licitra"
 +++
 
 San Miguel de Tucumán, la capital de Tucumán, una provincia ubicada en el Norte de la Argentina, tiene sus calles repletas de naranjos. Están dispuestos en hilera en casi todas las aceras y eso hace que la ciudad entera destile una euforia boba, a veces insoportable. Frente a la casa de Susana Trimarco de Verón hay uno de esos árboles. Conserva todos sus frutos –nadie los ha llevado- y es fácil detenerse en ese mínimo paisaje y tener un acceso de tranquilidad: en Tucumán la gente es buena, parece, y no arranca nada que no le pertenezca.\n\n—¿Qué decís? –interrumpe Trimarco y frunce la nariz con asco-. A estas naranjas no se las roban porque son amargas, son feas. No sirven para nada.

@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Jonathan Swift"
 deck = "* **Para prevenir que los niños de los pobres de Irlanda sean una carga para sus padres o el país, y para hacerlos útiles al público** *\n\n**Dublín, Irlanda, 1729**\n\nEs un asunto melancólico para quienes pasean por esta gran ciudad o viajan por el campo, ver las calles, los caminos y las puertas de las cabañas atestados de mendigos del sexo femenino, seguidos de tres, cuatro o seis niños, todos en harapos e importunando a cada viajero por una limosna. Esas madres, en vez de hallarse en condiciones de trabajar para ganarse la vida honestamente, se ven obligadas a perder su tiempo en la vagancia, mendigando el sustento de sus desvalidos infantes: quienes, apenas crecen, se hacen ladrones por falta de trabajo, o abandonan su querido país natal para luchar por el Pretendiente en España, o se venden a sí mismos en las Barbados.\n\nCreo que todos los partidos están de acuerdo en que este número prodigioso de niños en los brazos, sobre las espaldas o a los talones de sus madres, y frecuentemente de sus padres, resulta en el deplorable estado actual del Reino un perjuicio adicional muy grande; y por lo tanto, quienquiera que encontrase un método razonable, económico y fácil para hacer de ellos miembros cabales y útiles del estado, merecería tanto agradecimiento del público como para tener instalada su estatua como protector de la Nación."
 +++
 

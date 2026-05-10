@@ -8,9 +8,6 @@ authors = [
     "Mario Benedetti",
 ]
 tags = []
-
-[extra]
-subtitle = "Mario Benedetti"
 +++
 
 <div class="poetry">Ayer pasó el pasado lentamente<br>

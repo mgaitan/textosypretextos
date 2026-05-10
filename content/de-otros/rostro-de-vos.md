@@ -10,9 +10,6 @@ tags = [
     "Memoria",
     "Amor",
 ]
-
-[extra]
-subtitle = "Mario Benedetti"
 +++
 
 <div class="poetry">Tengo una soledad<br>

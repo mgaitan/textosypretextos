@@ -7,9 +7,6 @@ authors = [
     "Juan Gelman",
 ]
 tags = []
-
-[extra]
-subtitle = "Juan Gelman"
 +++
 
 <div style="float:right; align:right"><em> a Olga Orozco </em></div>

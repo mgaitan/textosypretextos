@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Jorge Luis Borges"
 +++
 
 <div class="poetry">Lunas, marfiles, instrumentos, rosas,<br>

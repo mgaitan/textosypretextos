@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Emmanuel Carrère"
 deck = "### Cultivar nuestro jardín\n\n\"Otra cosa que compartía con Jérôme y que es rara en un muchacho de su edad: esa forma de mirar ligeramente socarrona, sin malevolencia, a esa gente que se agita y se estresa e intriga, que tiene sed de poder y de ascendiente sobre el prójimo. Los ambiciosos, los jefecillos, los siempre insatisfechos. Jérôme y él eran más bien de esas personas que hacen bien su trabajo, pero una vez lo han acabado, ya ganado el dinero, lo aprovechan tranquilamente en lugar de cargarse con más trabajo para ganar más dinero. Tenían lo necesario para estar contentos con lo suyo, no todo el mundo tiene esa suerte, pero ante todo  tenían la sabiduría de conformarse, de amar lo que tenían, de no desear más. El don de permitirse vivir sin mala conciencia y sin prisa, de mantener una conversación lenta y burlona a la sombra del baniano, bebiendo una cerveza a pequeños tragos. Hay que cultivar nuestro jardín. *Carpe Diem*. Philippe no lo formula así, pero así lo entiendo y lo siento mientras habla, yo, tan alejado de esta sabiduría, yo, que vivo en la insatisfacción, la tensión perpetua, que persigo sueños de gloria y destrozo mis amores porque siempre me imagino que en otra parte, algún día, encontraré algo mejor\""
 +++
 

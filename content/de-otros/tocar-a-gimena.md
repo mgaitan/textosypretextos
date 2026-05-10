@@ -10,9 +10,6 @@ authors = [
 tags = [
     "Cuento",
 ]
-
-[extra]
-subtitle = "Pedro Mairal"
 +++
 
 Lo primero que me trae a la mente la palabra "tocar" es mi amiga Gimena, compañera de colegio, en el viaje de egresados, el último año de la secundaria. Y más específicamente el ómnibus que nos llevaba de vuelta al hotel, después de una excursión al Cerro Catedral. Mientras los demás se habían deslizado montaña abajo en unos trineos de plástico, los varones más escépticos nos habíamos escondido a fumar y a mear en la nieve, detrás de una cabaña de troncos. Yo fumaba y hacía como que vigilaba que no viniera un profesor, pero en realidad la miraba a Gimena que estaba con un suéter violeta, riéndose y sacándose fotos con las otras chicas.

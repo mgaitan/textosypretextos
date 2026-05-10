@@ -8,9 +8,6 @@ authors = [
     "Víctor Heredia",
 ]
 tags = []
-
-[extra]
-subtitle = "Víctor Heredia"
 +++
 
 <div class="poetry">Ella soñaba con vivir en Bahía,<br>

@@ -8,9 +8,6 @@ authors = [
     "Octavio Paz",
 ]
 tags = []
-
-[extra]
-subtitle = "Octavio Paz"
 +++
 
 <div class="poetry">Todo nos amenaza:<br>

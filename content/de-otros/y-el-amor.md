@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Joan Manuel Serrat"
 +++
 
 <div class="poetry">El milagro de existir,<br>

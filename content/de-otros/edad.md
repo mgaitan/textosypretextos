@@ -7,9 +7,6 @@ authors = [
     "Ernesto Sábato",
 ]
 tags = []
-
-[extra]
-subtitle = "Ernesto Sábato"
 +++
 
 ¿Qué se puede hacer en ochenta años? Probablemente, empezar a darse cuenta de cómo habría de vivir y cuáles son las tres o cuatro cosas que valen la pena.

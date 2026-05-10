@@ -10,9 +10,6 @@ authors = [
 tags = [
     "Poesía",
 ]
-
-[extra]
-subtitle = "Jorge Luis Borges"
 +++
 
 <div class="poetry">Ante la cal de una pared que nada<br>

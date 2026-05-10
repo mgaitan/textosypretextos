@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Memoria",
 ]
-
-[extra]
-subtitle = "Juan Gelman"
 +++
 
 <div class="poetry">Una mujer y un hombre llevados por la vida,<br>

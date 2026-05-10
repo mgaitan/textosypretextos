@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Memoria",
 ]
-
-[extra]
-subtitle = "María Elena Walsh"
 +++
 
 <div class="poetry">Qué dulce modo tenés de no estar,<br>

@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Alejandro Dolina"
 deck = "{{ media_audio(src=\"/media/mp3/Dolina_maradona.mp3\", title=\"Dolina_maradona.mp3\") }}"
 +++
 

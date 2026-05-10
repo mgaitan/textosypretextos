@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Julio Cortázar"
 +++
 
 <div class="poetry">Mira, no pido mucho,<br>

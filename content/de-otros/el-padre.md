@@ -10,9 +10,6 @@ authors = [
 tags = [
     "Cuento breve",
 ]
-
-[extra]
-subtitle = "Raymond Carver"
 +++
 
 El bebé estaba en una canasta al lado de la cama, y llevaba puesto un osito y un gorro blanco. La

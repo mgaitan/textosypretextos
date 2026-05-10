@@ -9,7 +9,6 @@ authors = [
 tags = []
 
 [extra]
-subtitle = "Oliverio Girondo"
 deck = "Nunca he dejado de llevar la vida humilde que puede permitirse un modesto empleado de correos. ¡Pues! mi mujer —que tiene la manía de pensar en voz alta y de decir todo lo que le pasa por la cabeza— se empeña en atribuirme los destinos más absurdos que pueden imaginarse.\n\nAhora mismo, mientras leía los diarios de la tarde, me preguntó sin ninguna clase de preámbulos:\n\n«¿Por qué no abandonaste el gato y el hogar? ¡Ha de ser tan lindo embarcarse en una fragata!... Durante las noches de luna, los marineros se reúnen sobre cubierta. Algunos tocan el acordeón, otros acarician una mujer de goma. Tú fumas la pipa en compañía de un amigo. El mar te ha endurecido las pupilas. Has visto demasiados atardeceres. ¿Con qué puerto, con qué ciudad no te has acostado alguna noche? ¿Las velas serán capaces de brindarte un horizonte nuevo? Un día en que la calma ya es una maldición, bajas a tu cucheta, desanudas un pañuelo de seda, te ahorcas con una trenza de mujer»."
 +++
 

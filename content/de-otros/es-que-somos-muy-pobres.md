@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Juan Rulfo"
 deck = "Aquí todo va de mal en peor. La semana pasada se murió mi tía Jacinta, y el sábado, cuando ya la habíamos enterrado y comenzaba a bajársenos la tristeza, comenzó a llover como nunca. A mi papá eso le dio coraje, porque toda la cosecha de cebada estaba asoleándose en el solar. Y el aguacero llegó de repente, en grandes olas de agua, sin darnos tiempo ni siquiera a esconder aunque fuera un manojo; lo único que pudimos hacer, todos los de mi casa, fue estarnos arrimados debajo del tejabán, viendo cómo el agua fría que caía del cielo quemaba aquella cebada amarilla tan recién cortada.\n\nY apenas ayer, cuando mi hermana Tacha acababa de cumplir doce años, supimos que la vaca que mi papá le regaló para el día de su santo se la había llevado el río."
 +++
 

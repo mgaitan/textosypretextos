@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Gioconda Belli"
 +++
 
 <div class="poetry">Es tiempo de unión,<br>

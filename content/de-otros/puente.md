@@ -7,9 +7,6 @@ authors = [
     "Nicolás Guillén",
 ]
 tags = []
-
-[extra]
-subtitle = "Nicolás Guillén"
 +++
 
 <div class="poetry">¿Lejos?<br>

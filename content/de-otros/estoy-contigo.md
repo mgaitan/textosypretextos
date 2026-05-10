@@ -7,9 +7,6 @@ authors = [
     "Roberto Juarroz",
 ]
 tags = []
-
-[extra]
-subtitle = "Roberto Juarroz"
 +++
 
 <div class="poetry">Estoy contigo,<br>

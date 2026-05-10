@@ -10,9 +10,6 @@ authors = [
 tags = [
     "Cuento",
 ]
-
-[extra]
-subtitle = "Tobias Wolff"
 +++
 
 Anders llegó al banco poco antes de la hora de cierre, así que por supuesto la cola era interminable y quedó ubicado detrás de dos mujeres que, con su estridente y estúpida conversación, lo pusieron de un humor asesino. De cualquier manera nunca estaba del mejor humor, Anders—un crítico literario conocido por el cansado y elegante salvajismo con el que despachaba casi todo lo que reseñaba.

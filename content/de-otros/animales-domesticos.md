@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Guillermo Saccomanno"
 deck = "Desde que Felipe trajo esa estufa de kerosene no se puede respirar en esta casa.\n\n--Quería darte una sorpresa-- dijo cuando cortaba el hilo del paquete.\n--Sabés que no aguanto el kerosene. Me da alergia.\n--En esta casa hace mucho frío.\n--Siempre hizo frío -- le dije --. Ahora se siente más porque estamos viejos.\n--¿Que querés? ¿Qué la cambie por una eléctrica? Las de cuarzo gastan mucho y no calientan.\n\nAsí son los regalos de Felipe. Cuando éramos jóvenes, con el sueldo compraba una pila de libros.\n--Para vos y los chicos-- decía.\n--Sabés que no me gusta leer. Y lo que los chicos necesitan es ropa.\n\nEs inútil luchar con Felipe.\n\n--¿Cuánto te costo esa estufa?\n--No se dice el precio de un regalo.\n--Un regalo es algo que le gusta a quien lo recibe.\n--No te aflijas. La compré con unos pesos que me gané a la quiniela.\n--Si vos no jugás.\n--No me creés.\n--No, no te creo. Metiste la mano en mi secreter."
 +++
 

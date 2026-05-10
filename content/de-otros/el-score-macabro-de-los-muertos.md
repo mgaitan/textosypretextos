@@ -13,7 +13,6 @@ tags = [
 [extra]
 hero_image = "/media/gif/1argentino.gif"
 hero_alt = "1argentino.gif"
-subtitle = "Hernán Casciari"
 deck = "Nadie se pregunta para qué sirven los embajadores argentinos en cada país del mundo. Les sospechamos actividades poco esforzadas, los imaginamos en perpetuos ágapes, y siempre conocemos a alguien que conoce al hijo o a la hija de alguno. En general, los consideramos tipos con suerte, a ellos y a su familia. Siempre de viaje, generalmente tostados. Nos preguntamos poco si nos sirven para algo. Si nos son útiles. Hasta que ¡zas!, hay un maremoto en Asia, o un atentado en un hotel de Chipre, o una revuelta en el fin del mundo, o un accidente de avión en las antípodas. Entonces sí, los llamamos con urgencia por teléfono. Los embajadores se convierten en corresponsales muy requeridos en los medios, y de golpe recordamos para qué estaban allí, por qué los necesitábamos. Para saber si hay argentinos muertos, o argentinos heridos, o argentinos encerrados, o argentinos que se salvaron de milagro... A todos nos hipnotiza saber si hay argentinos en medio de los desastres."
 +++
 

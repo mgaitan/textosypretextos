@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Julio Cortázar"
 +++
 
 <div class="poetry">Todo lo que de vos quisiera<br>

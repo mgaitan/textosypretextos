@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Lisandro Aristimuño"
 deck = "<div class=\"poetry\">Puedo acariciar tu voz<br>\nser tu desierto<br>\ny mirarte horas enteras.<br>\n<br>\nPuedo acercarme a vos<br>\ny no ser tan terco<br>\npisando la basura del puerto.<br>\n<br>\nDesde el mar<br>\nno hay piedad<br>\nsi vos no te mojás<br>\n<br>\nSe cansó<br>\nla ansiedad,<br>\nla pena y el dolor.<br>\n<br>\nPuedo desestructurar<br>\n todo tu misterio<br>\npecando sin pensar en lo bueno<br>\n<br>\nAmarrarme a tu sol<br>\nser más sincero<br>\nen medio del calor de febrero.<br>\n<br>\nY contar<br>\ncada luz<br>\nque nos hace temblar<br>\ndesnudar<br>\nla canción<br>\npara vestirte hoy.<br>\n<br>\nPuedo descontracturar<br>\ntodo tu veneno<br>\ny hacerlo caracol en el suelo<br>\n<br>\nNo parar de festejar<br>\ncada fragmento<br>\ny darme el gusto de que sea nuestro.<br>\n<br>\nDespertar<br>\nen el mar<br>\ny ser la espuma gris<br>\ndesnudar<br>\nla canción<br>\npara vestirte hoy.</div>"
 +++
 

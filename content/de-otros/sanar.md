@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Jorge Drexler"
 +++
 
 <div class="poetry">Las lágrimas van al cielo<br>

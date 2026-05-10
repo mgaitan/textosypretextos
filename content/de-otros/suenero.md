@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Música",
 ]
-
-[extra]
-subtitle = "Jorge Fandermole"
 +++
 
 <div class="poetry">Silbo en la oscuridad<br>

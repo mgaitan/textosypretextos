@@ -10,9 +10,6 @@ tags = [
     "Familia",
     "Amistad",
 ]
-
-[extra]
-subtitle = "Fabián Casas"
 +++
 
 Hubo alguien antes pero yo no lo conocí. Aunque muchos me dicen que tengo algo de su carácter y de su boca. Esas cosas. A mí no me preocupa paracerme a alguien. Hay tantas caras en el mundo que uno, tarde o temprano, termina siendo otro. Yo quisiera hablar acá de los que conocí. Ellos dejaron sus huellas en mi vida y pienso que una forma de retribuirles que me hayan pisado es contar quiénes eran, lo que me enseñaron. Esas cosas.

@@ -10,9 +10,6 @@ tags = [
     "Música",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Adriana Battu (Pedro Mairal)"
 +++
 
 <intro>Me agarró la fiebre clasificatoria y empecé por ordenar mis zapatos, después mi biblioteca, después los papeles que daban vueltas hace meses, y ahora quiero terminar etiquetando los estilos sexuales de los hombres. Algunos los conocí, otros me los contaron. Todo esto fue hace mucho tiempo, en la etapa disipada de mi vida.

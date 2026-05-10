@@ -10,9 +10,6 @@ tags = [
     "Política",
     "Amistad",
 ]
-
-[extra]
-subtitle = "Sebastian Hacher"
 +++
 
 **INTRODUCCIÓN: El cerámico y los retratos**

@@ -7,9 +7,6 @@ authors = [
     "Julio Cortázar",
 ]
 tags = []
-
-[extra]
-subtitle = "Julio Cortázar"
 +++
 
 Yo no sé, mirá, es terrible cómo llueve. Llueve todo el tiempo,

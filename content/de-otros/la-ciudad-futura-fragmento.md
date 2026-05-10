@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Tecnología",
 ]
-
-[extra]
-subtitle = "Antonio Gramsci"
 +++
 
 Odio a los indiferentes. Creo que vivir es tomar partido. Quien verdaderamente vive no puede dejar de ser ciudadano y partidario. 
