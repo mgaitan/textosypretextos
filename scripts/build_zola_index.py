@@ -145,7 +145,7 @@ def main() -> int:
                     {
                         "title": author,
                         "slug": slugify(author),
-                        "url": f"/autores/{slugify(author)}/",
+                        "url": "",
                         "image": "",
                         "gender": "m",
                         "is_owner": False,
@@ -183,7 +183,7 @@ def main() -> int:
         for item in collection.values():
             item["articles"] = sorted(
                 set(item.get("articles") or []),
-                key=lambda rel: pages.get(rel, {}).get("date", ""),
+                key=lambda rel: (pages.get(rel, {}).get("date", ""), rel),
                 reverse=True,
             )
 
