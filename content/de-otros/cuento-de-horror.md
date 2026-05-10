@@ -7,9 +7,6 @@ authors = [
     "Marco Denevi",
 ]
 tags = []
-
-[extra]
-subtitle = "Marco Denevi"
 +++
 
 La señora Smithson, de Londres (estas historias siempre ocurren entre ingleses) resolvió matar a su marido, no por nada sino porque estaba harta de él después de cincuenta años de matrimonio. Se lo dijo:

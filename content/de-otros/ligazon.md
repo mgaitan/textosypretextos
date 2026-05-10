@@ -10,9 +10,6 @@ authors = [
 tags = [
     "Poesía",
 ]
-
-[extra]
-subtitle = "Pedro Mairal"
 +++
 
 <div class="poetry">Ella desnuda y yo desnudo<br>

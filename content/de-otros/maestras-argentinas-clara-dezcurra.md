@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Roberto Fontanarrosa"
 deck = "Clara Dezcurra toma la pluma y escribe la fecha: \"16 de Julio de 1840\". Luego, con la misma letra minúscula y erguida, agrega el encabezamiento: \"Querida Juana\". Finalmente, tras alisar el papel que tiene la textura y la consistencia del hojaldre, embebe la pluma en la tinta negra, y redacta: \"Ayer decidí cambiar el método que siempre utilizamos. Quise darle a mis chicos una alternativa diferente que los arrancara de la enseñanza rutinaria. Esta vez, en la clase de Habla Hispana, dejé de lado nuestra clásica composición 'Voyage autour de mon bureau' y quise sorprenderlos con algo propio, conocido, cercano. Fue entonces cuando les propuse escribir sobre 'La Vaca'.\"\n\nClara Dezcurra no lo sabe, pero ha introducido un hábito de escritura que será, luego, por décadas, indicador y modelo en las escuelas criollas."
 +++
 

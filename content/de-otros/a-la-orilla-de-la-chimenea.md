@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Joaquín Sabina"
 +++
 
 <div class="poetry">Puedo ponerme cursi y decir<br>

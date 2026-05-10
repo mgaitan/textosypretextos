@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Música",
 ]
-
-[extra]
-subtitle = "Homéro Expósito"
 +++
 
 <div class="poetry">Era más blanda que el agua,<br>

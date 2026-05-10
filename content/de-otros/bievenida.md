@@ -8,9 +8,6 @@ authors = [
     "Mario Benedetti",
 ]
 tags = []
-
-[extra]
-subtitle = "Mario Benedetti"
 +++
 
 <div class="poetry">Se me ocurre que vas a llegar distinta<br>

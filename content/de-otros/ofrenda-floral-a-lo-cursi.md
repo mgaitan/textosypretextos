@@ -8,9 +8,6 @@ authors = [
     "María Elena Walsh",
 ]
 tags = []
-
-[extra]
-subtitle = "María Elena Walsh"
 +++
 
 <poesie>

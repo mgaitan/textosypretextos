@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Manuel Castilla y Cuchi Leguizamón"
 +++
 
 <div class="poetry">Ay niña no queda nada<br>

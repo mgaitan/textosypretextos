@@ -7,9 +7,6 @@ authors = [
     "Joaquín Sabina",
 ]
 tags = []
-
-[extra]
-subtitle = "Joaquín Sabina"
 +++
 
 <div class="poetry">Benditas sean las rubias calentonas<br>

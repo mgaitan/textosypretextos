@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Jorge Lanata"
 deck = "Ayer fue el Día Internacional de la Mujer, o algo así, y quería --con muchísimas prevenciones-- decirte algo sobre eso. Lo de las prevenciones es natural: cualquier mujer se enoja si se habla de ellas solo en su día, y te sale con aquello de \"Che, no es el día del animal\"; pero también es posible que se enojen si no se lo menciona, o que critiquen con cierto cinismo si quien habla de las mujeres es un hombre.\n\nYo quiero contarte sobre algunas mujeres que conocí en mi vida, desde mi madre a mi hija, también otras mujeres que quise y quiero, mujeres que vi pasar, mujeres de las que me hablaron y otras que me tomo licencia para inventar."
 +++
 

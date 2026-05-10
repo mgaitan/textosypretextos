@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Alejandro Dolina"
 +++
 
 La señorita Claudia le pregunta a Ferro:

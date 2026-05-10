@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Memoria",
 ]
-
-[extra]
-subtitle = "Julia Prilutzky Farny"
 +++
 
 <div class="poetry">No amarse ahora, pero haber amado.<br>

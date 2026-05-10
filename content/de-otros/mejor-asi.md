@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Música",
 ]
-
-[extra]
-subtitle = "Juan Quintero"
 +++
 
 <div class="poetry">Sepa que aquí tiene prenda mía<br>

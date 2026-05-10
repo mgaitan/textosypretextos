@@ -11,9 +11,6 @@ tags = [
     "Música",
     "Humor",
 ]
-
-[extra]
-subtitle = "Josefina Licitra"
 +++
 
 <intro>

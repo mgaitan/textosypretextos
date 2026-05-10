@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Samanta Schweblin"
 deck = "Pasa una semana, un mes, y vamos haciéndonos la idea de que Teresita se adelantará a nuestros planes. Voy a tener que renunciar a la beca de estudios porque dentro de unos meses ya no va a ser fácil seguir. Quizá no por Teresita, sino por pura angustia, no puedo parar de comer y empiezo a engordar. Manuel me alcanza la comida al sillón, a la cama, al jardín. Todo organizado en la bandeja, limpio en la cocina, abastecido en la alacena, como si la culpa, o qué se yo qué cosa, lo obligara a cumplir con lo que espero de él. Pero pierde sus energías y no parece muy feliz: regresa tarde a casa, no me hace compañía, le molesta hablar del tema.\n\nPasa otro mes. Mamá también se resigna, nos compra algunos regalos y nos los entrega —la conozco bien— con algo de tristeza. Dice:\n\n—Este es un cambiador lavable con cierre de velcro… Estos son escarpines de puro algodón… Esta es la toalla con capucha en piqué… —papá mira las cosas que nos van regalando y asiente."
 +++
 

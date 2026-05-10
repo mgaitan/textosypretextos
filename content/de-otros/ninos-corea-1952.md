@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Juan Gelman"
 deck = "> A Nati, que me acompaña en esta dolorosa tarea de intentar abrir los ojos propios.\n"
 +++
 

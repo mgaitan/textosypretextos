@@ -8,9 +8,6 @@ authors = [
     "Alejandra Pizarnik",
 ]
 tags = []
-
-[extra]
-subtitle = "Alejandra Pizarnik"
 +++
 
 <div class="poetry">Esta lúgubre manía de vivir<br>

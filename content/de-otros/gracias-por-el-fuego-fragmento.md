@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Mario Benedetti"
 deck = "<div class=\"poetry\">Porque te tengo y no<br>\nporque te pienso<br>\nporque la noche está de ojos abiertos<br>\nporque la noche pasa y digo amor<br>\nporque has venido a recoger tu imagen<br>\ny eres mejor que todas tus imágenes<br>\nporque eres linda desde el pie hasta el alma<br>\nporque eres buena desde el alma a mí<br>\nporque te escondes dulce en el orgullo<br>\npequeña y dulce<br>\ncorazón coraza<br>\n<br>\nporque eres mía<br>\nporque no eres mía<br>\nporque te miro y muero<br>\ny peor que muero<br>\nsi no te miro amor<br>\nsi no te miro<br>\n<br>\nporque tú siempre existes dondequiera<br>\npero existes mejor donde te quiero<br>\nporque tu boca es sangre<br>\ny tienes frío<br>\ntengo que amarte amor<br>\ntengo que amarte<br>\naunque esta herida duela como dos<br>\naunque te busque y no te encuentre<br>\ny aunque<br>\nla noche pase y yo te tenga<br>\ny no.</div>"
 +++
 

@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Memoria",
 ]
-
-[extra]
-subtitle = "Juan Gelman"
 +++
 
 <div class="poetry">Ya que navegas por mi sangre y conoces mis límites<br>

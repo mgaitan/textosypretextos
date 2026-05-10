@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Córdoba",
 ]
-
-[extra]
-subtitle = "Fernando Cabrera"
 +++
 
 <div class="poetry">La calle Llupes raya al medio encuentra Belvedere<br>

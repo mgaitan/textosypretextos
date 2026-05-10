@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Amistad",
 ]
-
-[extra]
-subtitle = "Mario Benedetti"
 +++
 
 Lo cierto es que fueron años de arduo y pragmático aprendizaje, con lapsos de desaliento en los que estuvo a punto de desistir. Pero al fin triunfó la perseverancia y Raimundo aprendió a ladrar. No a imitar ladridos, como suelen hacer algunos chistosos o que se creen tales, sino verdaderamente a ladrar. ¿Qué lo había impulsado a ese adiestramiento? 

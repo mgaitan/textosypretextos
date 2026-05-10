@@ -10,9 +10,6 @@ tags = [
     "Humor",
     "Amor",
 ]
-
-[extra]
-subtitle = "Mario Benedetti"
 +++
 
 <div class="poetry">No te rindas, aun estas a tiempo<br>

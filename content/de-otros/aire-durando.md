@@ -7,9 +7,6 @@ authors = [
     "Manuel del Cabral",
 ]
 tags = []
-
-[extra]
-subtitle = "Manuel del Cabral"
 +++
 
 <div class="poetry">¿Quién ha matado este hombre<br>

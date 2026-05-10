@@ -12,7 +12,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Pedro Mairal"
 deck = "No están desnudas. Pero casi. Algunas sonriendo, o serias en pose hot, o con anteojos de sol, boca abajo en la cama, casi pegándose el culo con los talones, mostrando las marcas del bronceado, o con bombachas de corazones rojos o de estrellitas, en esos cuartos que todavía tienen las cortinas rosas elegidas por la madre. A veces están en el baño, de frente al espejo, o se sacan la foto por sobre el hombro, de espaldas al espejo, mostrando el culo para ver cómo les queda de atrás la bikini nueva. Me gustan todas. Deben tener entre 16 y 19 años, no más. Y así, descalzas en sus casas, tienen una sinceridad, un grado de realidad, que no encuentro a mi alrededor. Están posando, jugando a posar, probando su sensualidad, viendo si son capaces de calentar, como preguntando: ¿Te caliento? Yo susurro, les contesto, a todas, a nadie."
 +++
 

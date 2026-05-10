@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amor",
 ]
-
-[extra]
-subtitle = "Graciela Fernández Mayo"
 +++
 
 <div class="poetry">Es olvidar todo este tiempo<br>

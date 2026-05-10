@@ -7,9 +7,6 @@ authors = [
     "Pedro Mairal",
 ]
 tags = []
-
-[extra]
-subtitle = "Pedro Mairal"
 +++
 
 <div class="poetry">En la luz del espejo<br>

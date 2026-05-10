@@ -11,9 +11,6 @@ tags = [
     "Memoria",
     "Amor",
 ]
-
-[extra]
-subtitle = "Felix Luna y Ariel Ramirez"
 +++
 
 <div class="poetry">Yo no sé<br>

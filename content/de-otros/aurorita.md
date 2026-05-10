@@ -8,9 +8,6 @@ authors = [
     "Pedro Mairal",
 ]
 tags = []
-
-[extra]
-subtitle = "Pedro Mairal"
 +++
 
 <div class="poetry">Invierno en la avenida Juan B. Justo<br>

@@ -10,9 +10,6 @@ tags = [
     "Música",
     "Córdoba",
 ]
-
-[extra]
-subtitle = "Pecas Soriano"
 +++
 
 <div class="poetry">En la cima del árbol<br>

@@ -7,9 +7,6 @@ authors = [
     "Silvio Rodríguez",
 ]
 tags = []
-
-[extra]
-subtitle = "Silvio Rodríguez"
 +++
 
 {{% epigrafe() %}}

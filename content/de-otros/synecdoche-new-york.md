@@ -10,9 +10,6 @@ tags = [
     "Cine",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Charlie Kaufmann"
 +++
 
 <div style="float:right;">A la memoria de Philip Seymour Hoffman</div>

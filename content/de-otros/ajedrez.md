@@ -7,9 +7,6 @@ authors = [
     "Jorge Luis Borges",
 ]
 tags = []
-
-[extra]
-subtitle = "Jorge Luis Borges"
 +++
 
 ### I

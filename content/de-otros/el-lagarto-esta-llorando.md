@@ -7,9 +7,6 @@ authors = [
     "Federico García Lorca",
 ]
 tags = []
-
-[extra]
-subtitle = "Federico García Lorca"
 +++
 
 <div class="poetry">El lagarto está llorando.<br>

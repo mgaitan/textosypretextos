@@ -7,9 +7,6 @@ authors = [
     "Víctor Heredia",
 ]
 tags = []
-
-[extra]
-subtitle = "Víctor Heredia"
 +++
 
 <div class="poetry">Ella decide cuando es de día,<br>

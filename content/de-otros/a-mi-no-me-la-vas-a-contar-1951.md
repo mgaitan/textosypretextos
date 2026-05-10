@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Enrique Santos Discépolo"
 +++
 
 Resulta que antes no te importaba nada y ahora te importa todo. Sobre todo lo chiquito. Pasaste de náufrago a financista sin bajarte del bote. Vos, sí, vos, que ya estabas acostumbrado a saber que tu patria era la factoría de alguien y te encontraste con que te hacían el regalo de una patria nueva, y entonces, en vez de dar las gracias por el sobretodo de vicuña, dijiste que había una pelusa en la manga y que vos no lo querías derecho sino cruzado.

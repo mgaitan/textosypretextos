@@ -8,9 +8,6 @@ authors = [
     "Pedro Mairal",
 ]
 tags = []
-
-[extra]
-subtitle = "Pedro Mairal"
 +++
 
 <div class="poetry">Ella es el verde y yo el azul.<br>

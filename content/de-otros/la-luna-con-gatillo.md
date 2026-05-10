@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Amistad",
 ]
-
-[extra]
-subtitle = "Raúl González Tuñón"
 +++
 
 <div class="poetry">Es preciso que nos entendamos.<br>

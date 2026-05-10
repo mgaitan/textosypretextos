@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Memoria",
 ]
-
-[extra]
-subtitle = "Pedro Mairal"
 +++
 
 <div class="poetry">porque yo me desierto y tú me lluvias<br>

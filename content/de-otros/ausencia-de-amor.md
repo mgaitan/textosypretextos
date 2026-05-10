@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Juan Gelman"
 +++
 
 <div class="poetry">Cómo será pregunto.<br>

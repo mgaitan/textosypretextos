@@ -10,9 +10,6 @@ tags = [
     "Música",
     "Amor",
 ]
-
-[extra]
-subtitle = "Hamlet Lima Quintana"
 +++
 
 {{% epigrafe() %}}

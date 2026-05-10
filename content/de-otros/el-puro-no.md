@@ -7,9 +7,6 @@ authors = [
     "Oliverio Girondo",
 ]
 tags = []
-
-[extra]
-subtitle = "Oliverio Girondo"
 +++
 
 <div class="poetry">El No<br>

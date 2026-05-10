@@ -10,9 +10,6 @@ tags = [
     "Memoria",
     "Amor",
 ]
-
-[extra]
-subtitle = "Juan Luis Guerra"
 +++
 
 <div class="poetry">Abre las hojas del viento, mi vida,<br>

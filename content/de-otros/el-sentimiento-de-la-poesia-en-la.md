@@ -10,9 +10,6 @@ tags = [
     "Ensayo",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Julio Cortázar"
 +++
 
 El sentimiento de la poesía en la infancia: me gustaría

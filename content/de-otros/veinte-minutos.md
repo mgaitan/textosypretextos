@@ -10,9 +10,6 @@ tags = [
     "Humor",
     "Amor",
 ]
-
-[extra]
-subtitle = "Jorge Lanata"
 +++
 
 Papá nunca deja rastros. Incluso ahora, que trataba de evitar el mal humor durmiendo,

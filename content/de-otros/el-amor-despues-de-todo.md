@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Humor",
 ]
-
-[extra]
-subtitle = "Gorka Andraka"
 +++
 
 El amor se aprende, se hace, se inventa, se contagia… y también se acaba. Queramos o no, dura lo que dura. El amor caduca sin previo aviso y no admite reclamaciones ni devoluciones. El amor es así. Improbable. Impredecible. Improrrogable. Hay amores chispa, los amores chiribita. "Fue bonito mientras duró. / A las once me besaste. / A las once y un segundo supe que / estabas casado", confiesa Coloma Fernández Armero en su "Romance de un segundo". Y hay amores estrella, de lumbre perpetua, los amores que toda una vida no agotan.

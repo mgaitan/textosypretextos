@@ -7,9 +7,6 @@ authors = [
     "Mario Benedetti",
 ]
 tags = []
-
-[extra]
-subtitle = "Mario Benedetti"
 +++
 
 <div class="poetry">Si cuarenta mil niños sucumben diaramente<br>

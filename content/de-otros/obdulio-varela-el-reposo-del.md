@@ -11,7 +11,6 @@ tags = [
 ]
 
 [extra]
-subtitle = "Osvaldo Soriano"
 deck = "Historia de vida , tal como se la conocía en el suplemento cultural de La Opinión, era una de las formas más difíciles del reportaje. Consistía en escuchar, ante un grabador, durante cinco o seis horas--tal vez más--, a un hombre o una mujer que reconstruían los mejores--o los más terribles--momentos de su existencia. Luego había que comprimir sin reducir, restituyendo a la vez el sabor del relato, el estilo narrativo del entrevistado. Carlos Tarsitano, Ricardo Halac, Julio Ardiles Cray y yo practicábamos el género en La Opinión. Esta entrevista me fue sugerida por Hermenegildo Sábat, quien ilustró en el diario casi todos los textos que contiene este volumen."
 +++
 

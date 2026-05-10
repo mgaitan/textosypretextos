@@ -7,9 +7,6 @@ authors = [
     "Charly García",
 ]
 tags = []
-
-[extra]
-subtitle = "Charly García"
 +++
 
 <div class="poetry">Por favor no hagas promesas sobre el bidet<br>

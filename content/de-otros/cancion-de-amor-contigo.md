@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Música",
 ]
-
-[extra]
-subtitle = "Eduardo Peralta"
 +++
 
 <div class="poetry">Si debo hacer una caricia,<br>

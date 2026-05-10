@@ -7,9 +7,6 @@ authors = [
     "Baldomero Fernandez Moreno",
 ]
 tags = []
-
-[extra]
-subtitle = "Baldomero Fernandez Moreno"
 +++
 
 <div class="poetry">Harto ya de alabar tu piel dorada,<br>

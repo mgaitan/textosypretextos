@@ -9,9 +9,6 @@ authors = [
 tags = [
     "Cuento breve",
 ]
-
-[extra]
-subtitle = "Ernest Hemingway"
 +++
 
 Del otro lado del valle del Ebro, las colinas eran largas y blancas. De este lado no había sombra ni árboles y la estación se alzaba al rayo del sol, entre dos líneas de rieles. Junto a la pared de la estación caía la sombra tibia del edificio y una cortina de cuentas de bambú colgaba en el vano de la puerta del bar, para que no entraran las moscas. El americano y la muchacha que iba con él tomaron asiento a una mesa a la sombra, fuera del edificio. Hacía mucho calor y el expreso de Barcelona llegaría en cuarenta minutos. Se detenía dos minutos en este entronque y luego seguía hacia Madrid.

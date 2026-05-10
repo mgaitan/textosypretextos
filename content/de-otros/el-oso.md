@@ -8,9 +8,6 @@ authors = [
 tags = [
     "Poesía",
 ]
-
-[extra]
-subtitle = "Florencia Lobo"
 +++
 
 <div class="poetry">En este momento, el corazón de un oso pardo<br>

@@ -10,9 +10,6 @@ tags = [
     "Música",
     "Amor",
 ]
-
-[extra]
-subtitle = "María Elena Walsh"
 +++
 
 <div class="poetry">No hay tunel que dure cien años, mi vida. Mira<br>

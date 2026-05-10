@@ -10,9 +10,6 @@ tags = [
     "Amor",
     "Memoria",
 ]
-
-[extra]
-subtitle = "Gabriela Mistral"
 +++
 
 <div class="poetry">Hay besos que pronuncian por sí solos<br>

@@ -7,9 +7,6 @@ authors = [
     "Juan Gelman",
 ]
 tags = []
-
-[extra]
-subtitle = "Juan Gelman"
 +++
 
 <div class="poetry">en la noche<br>
