@@ -35,35 +35,37 @@ _ *Falta y Resto*
 
 {{ video_embed(provider="youtube", id="bQFFtNhEKsw") }}
 
-<div class="poetry">Florecen en el viento fresco de primavera<br>
-Anidan en los montes a orillas del amor<br>
-Son gotas de rocío que empapan la esperanza<br>
-Son luz de un arcoíris de infinito color<br>
-<br>
-Viven en la memoria de todas las esquinas<br>
-Rugen entre las olas tormentosas del sur<br>
-Gritan desde el recuerdo su alarido de triunfo<br>
-Aparecen cantando su eterna juventud<br>
-<br>
-Recitan la poesía de los amaneceres<br>
-Tibio y claro silencio de una voz que no está<br>
-Aparecen corriendo para hacernos la pica<br>
-Y liberar al último que falte liberar.<br>
-<br>
-Juegan todos los juegos que jugaron de niños<br>
-Bailan todas las danzas que les toque bailar<br>
-Son carne, piel y huesos de esa patria marchita<br>
-Que de su sacrificio habrá de germinar<br>
-<br>
-Son la voz de la noche, la piel de la mañana<br>
-Aroma de la feria, un sol en el pretil<br>
-Unas adolescentes sonriendo enamoradas<br>
-El retumbo en los barrios que agitan tamboril<br>
-<br>
-Aparecerán siempre que querramos buscarlos<br>
-Cual calcio en las entrañas de un país fraternal<br>
-Sangre sobre los surcos cultivando conciencias<br>
-Cosechando alegría, siempre aparecerán.</div>
+{% poetry() %}
+Florecen en el viento fresco de primavera
+Anidan en los montes a orillas del amor
+Son gotas de rocío que empapan la esperanza
+Son luz de un arcoíris de infinito color
+
+Viven en la memoria de todas las esquinas
+Rugen entre las olas tormentosas del sur
+Gritan desde el recuerdo su alarido de triunfo
+Aparecen cantando su eterna juventud
+
+Recitan la poesía de los amaneceres
+Tibio y claro silencio de una voz que no está
+Aparecen corriendo para hacernos la pica
+Y liberar al último que falte liberar.
+
+Juegan todos los juegos que jugaron de niños
+Bailan todas las danzas que les toque bailar
+Son carne, piel y huesos de esa patria marchita
+Que de su sacrificio habrá de germinar
+
+Son la voz de la noche, la piel de la mañana
+Aroma de la feria, un sol en el pretil
+Unas adolescentes sonriendo enamoradas
+El retumbo en los barrios que agitan tamboril
+
+Aparecerán siempre que querramos buscarlos
+Cual calcio en las entrañas de un país fraternal
+Sangre sobre los surcos cultivando conciencias
+Cosechando alegría, siempre aparecerán.
+{% end %}
 
 {% postscript() %}
 Ya subí [las fotos de la jornada](@/fotos/ii-jornadas-populares-y.md).

@@ -9,16 +9,18 @@ authors = [
 tags = []
 +++
 
-<div class="poetry">Ella desnuda y yo desnudo<br>
-y no hay mucho más que me importe.<br>
-Las cosas caen al suelo<br>
-como habiendo estado siempre en ese sitio,<br>
-así caigo yo en ella.<br>
-<br>
-Ella apunta sus rodillas<br>
-hacia dos constelaciones<br>
-y es entonces la pelviana letanía,<br>
-la ligazón oscura con la tierra.</div>
+{% poetry() %}
+Ella desnuda y yo desnudo
+y no hay mucho más que me importe.
+Las cosas caen al suelo
+como habiendo estado siempre en ese sitio,
+así caigo yo en ella.
+
+Ella apunta sus rodillas
+hacia dos constelaciones
+y es entonces la pelviana letanía,
+la ligazón oscura con la tierra.
+{% end %}
 
 {% postscript() %}
 de *Tigre como los Pájaros*, Ediciones Botella al mar, 1996

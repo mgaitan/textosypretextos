@@ -21,26 +21,28 @@ deck = "<div style=\"float:right\">A Nati</div>\n\n<div class=\"poetry\">Leve na
 
 *Mi modesta traducción:*
 
-<div class="poetry">**Niña de luna**<br>
-<br>
-<poesie><br>
-Lleva en la memoria<br>
-esta simple melodía que hice para ti<br>
-mi bien amada<br>
-princesa ojos de agua<br>
-niña de luna<br>
-<br>
-Quiero verte clara<br>
-aclarando la noche intensa de este amor<br>
-el cielo es tu sonrisa<br>
-en el blanco de tu rostro<br>
-que irradia ternura.<br>
-<br>
-Quiero que te desprendas<br>
-de que cualquier temor que sientas<br>
-tienes tu escudo<br>
-y tu telar<br>
-tienes en la mano, querida<br>
-una semilla<br>
-de una flor que inspira un beso ardiente<br>
-una invitación a amar.</div>
+{% poetry() %}
+**Niña de luna**
+
+<poesie>
+Lleva en la memoria
+esta simple melodía que hice para ti
+mi bien amada
+princesa ojos de agua
+niña de luna
+
+Quiero verte clara
+aclarando la noche intensa de este amor
+el cielo es tu sonrisa
+en el blanco de tu rostro
+que irradia ternura.
+
+Quiero que te desprendas
+de que cualquier temor que sientas
+tienes tu escudo
+y tu telar
+tienes en la mano, querida
+una semilla
+de una flor que inspira un beso ardiente
+una invitación a amar.
+{% end %}

@@ -14,53 +14,55 @@ tags = [
 deck = "> A Nati, que me acompaña en esta dolorosa tarea de intentar abrir los ojos propios.\n"
 +++
 
-<div class="poetry">Esto que tengo de niño fundamental<br>
-se me rebela, quiere<br>
-llorar en los rincones, desgarrarse<br>
-la frente, la mejilla,<br>
-olvidar el cuaderno donde dice<br>
-mamá con letras tiernas<br>
-y hay una dulce vaca de tres patas.<br>
-<br>
-Hermanitos, ¡qué nunca perseguida<br>
-la vuestra y cómo duele<br>
-aprender a contar como bombarderos<br>
-y el cielo de pizarra!<br>
-¡Cómo duele, hermanitos,<br>
-saberse de memoria la h de hambre<br>
-y saberse la muerte memoria<br>
-y saberse a los yanquis de odio puro,<br>
-cómo duele, hermanitos!<br>
-<br>
-Pienso que te andan castigando el pájaro<br>
-en los ojos, machacándote<br>
-el hueso<br>
-            y me dan ganas<br>
-urgentemente de cuidarte todo!<br>
-defenderse en el aire que te toca!<br>
-<br>
-(No te duermas, niño.<br>
-No te duermas , sol.<br>
-Que en los arrozales<br>
-mata el invasor.<br>
-No te duermas, niño.<br>
-Todavía no....)<br>
-<br>
-Que no y no duermas, párate, hermanito,<br>
-consérvate en tu metro,<br>
-yo sé -- esto que tengo de niño fundamental<br>
-me anda diciendo --<br>
-que estás así,<br>
-en tu leche confirmado.<br>
-peleando con los dedos,<br>
-continuando tu estirpe<br>
-¡y fuera el yanqui!<br>
-¡PAZ!<br>
-¡Paz para tu cuaderno!<br>
-<br>
-Porque puedas y digas<br>
-mamá con letras tiernas<br>
-bajo una dulce vaca de tres patas.</div>
+{% poetry() %}
+Esto que tengo de niño fundamental
+se me rebela, quiere
+llorar en los rincones, desgarrarse
+la frente, la mejilla,
+olvidar el cuaderno donde dice
+mamá con letras tiernas
+y hay una dulce vaca de tres patas.
+
+Hermanitos, ¡qué nunca perseguida
+la vuestra y cómo duele
+aprender a contar como bombarderos
+y el cielo de pizarra!
+¡Cómo duele, hermanitos,
+saberse de memoria la h de hambre
+y saberse la muerte memoria
+y saberse a los yanquis de odio puro,
+cómo duele, hermanitos!
+
+Pienso que te andan castigando el pájaro
+en los ojos, machacándote
+el hueso
+            y me dan ganas
+urgentemente de cuidarte todo!
+defenderse en el aire que te toca!
+
+(No te duermas, niño.
+No te duermas , sol.
+Que en los arrozales
+mata el invasor.
+No te duermas, niño.
+Todavía no....)
+
+Que no y no duermas, párate, hermanito,
+consérvate en tu metro,
+yo sé -- esto que tengo de niño fundamental
+me anda diciendo --
+que estás así,
+en tu leche confirmado.
+peleando con los dedos,
+continuando tu estirpe
+¡y fuera el yanqui!
+¡PAZ!
+¡Paz para tu cuaderno!
+
+Porque puedas y digas
+mamá con letras tiernas
+bajo una dulce vaca de tres patas.
+{% end %}
 
 {% postscript() %}
 Juan Gelman, *Violín y otras cuestiones*, Buenos Aires, 1956.

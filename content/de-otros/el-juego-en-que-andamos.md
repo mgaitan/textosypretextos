@@ -11,16 +11,18 @@ tags = [
 ]
 +++
 
-<div class="poetry">Si me dieran a elegir, yo elegiría<br>
-esta salud de saber que estamos muy enfermos,<br>
-esta dicha de andar tan infelices.<br>
-Si me dieran a elegir, yo elegiría<br>
-esta inocencia de no ser un inocente,<br>
-esta pureza en que ando por impuro.<br>
-<br>
-Si me dieran a elegir, yo elegiría<br>
-este amor con que odio,<br>
-esta esperanza que come panes desesperados.<br>
-<br>
-Aquí pasa, señores,<br>
-que me juego la muerte.</div>
+{% poetry() %}
+Si me dieran a elegir, yo elegiría
+esta salud de saber que estamos muy enfermos,
+esta dicha de andar tan infelices.
+Si me dieran a elegir, yo elegiría
+esta inocencia de no ser un inocente,
+esta pureza en que ando por impuro.
+
+Si me dieran a elegir, yo elegiría
+este amor con que odio,
+esta esperanza que come panes desesperados.
+
+Aquí pasa, señores,
+que me juego la muerte.
+{% end %}

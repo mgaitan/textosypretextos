@@ -9,22 +9,24 @@ authors = [
 tags = []
 +++
 
-<div class="poetry">¿Lejos?<br>
-<br>
-Hay un arco tendido<br>
-que hace viajar la flecha<br>
-de tu voz.<br>
-<br>
-¿Alto?<br>
-<br>
-Hay un ala que rema<br>
-recta, hacia el sol.<br>
-De polo a polo a una<br>
-secreta información.<br>
-<br>
-¿Qué más?<br>
-<br>
-Estar alerta<br>
-para el duro remar;<br>
-y toda el alma abierta<br>
-de par en par.</div>
+{% poetry() %}
+¿Lejos?
+
+Hay un arco tendido
+que hace viajar la flecha
+de tu voz.
+
+¿Alto?
+
+Hay un ala que rema
+recta, hacia el sol.
+De polo a polo a una
+secreta información.
+
+¿Qué más?
+
+Estar alerta
+para el duro remar;
+y toda el alma abierta
+de par en par.
+{% end %}

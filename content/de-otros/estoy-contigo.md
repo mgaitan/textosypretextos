@@ -9,17 +9,19 @@ authors = [
 tags = []
 +++
 
-<div class="poetry">Estoy contigo,<br>
-pero por encima de tu hombro<br>
-me dice adiós tu mano que se aleja.<br>
-<br>
-Entonces yo contengo mi mano<br>
-para que no nos traicione ella también.<br>
-<br>
-E insisto:<br>
-estoy contigo.<br>
-Los innegables títulos del adiós<br>
-abandonan entonces provisoriamente sus derechos.<br>
-<br>
-Y nuestras manos se aquietan<br>
-en las equidistancias de estar juntos.</div>
+{% poetry() %}
+Estoy contigo,
+pero por encima de tu hombro
+me dice adiós tu mano que se aleja.
+
+Entonces yo contengo mi mano
+para que no nos traicione ella también.
+
+E insisto:
+estoy contigo.
+Los innegables títulos del adiós
+abandonan entonces provisoriamente sus derechos.
+
+Y nuestras manos se aquietan
+en las equidistancias de estar juntos.
+{% end %}

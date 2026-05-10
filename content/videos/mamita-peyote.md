@@ -15,46 +15,46 @@ video_id = "wAVUYDCjov8"
 
 {{ video_embed(provider="youtube", id="wAVUYDCjov8", title="Mamita Peyote - Sentencia") }}
 
-<div class="poetry">
-En un bosque de mentiras estamos perdidos sin poder escapar.<br>
-Y si el camino está lleno de lobos, habrá que aprender a cazar.<br>
-<br>
-Encadenado a tu codicia sos brillante en ocultar.<br>
-Tené cuidado con lo que me escondas:<br>
-hay un destape a punto de estallar.<br>
-<br>
-Hasta en las más viejas ruinas<br>
-tienen escrita la palabra poder.<br>
-Todo vuelve en la vida, este sol vio imperios caer.<br>
-<br>
-<em>Estribillo:</em><br>
-<br>
-Habrá consecuencias, ante tantas faltas y engaños,<br>
-ante tanto mal provocado.<br>
-Ante tan deliberada crueldad, amor.<br>
-<br>
-Habrá consecuencias.<br>
-Porque no se miente de esa manera.<br>
-Lo que nace en el odio en el odio se queda.<br>
-Voy a rogar que una fuerza sobrenatural<br>
-sentencie tu esencia.<br>
-<br>
----<br>
-<br>
-En un desierto de ánimas negras pretendes enterrarme para no verme más.<br>
-Lo que se entierra crece, se hace más fuerte<br>
-y te puede venir a buscar.<br>
-<br>
-Encadenado a tu codicia sos brillante en ocultar.<br>
-Tené cuidado con lo que me escondas,<br>
-hay un destape a punto de estallar.<br>
-<br>
-Hasta en las más viejas ruinas<br>
-tienen escrita la palabra poder.<br>
-Todo vuelve en la vida, este sol vio imperios caer.<br>
-<br>
-<em>Estribillo bis.</em>
-</div>
+{% poetry() %}
+En un bosque de mentiras estamos perdidos sin poder escapar.
+Y si el camino está lleno de lobos, habrá que aprender a cazar.
+
+Encadenado a tu codicia sos brillante en ocultar.
+Tené cuidado con lo que me escondas:
+hay un destape a punto de estallar.
+
+Hasta en las más viejas ruinas
+tienen escrita la palabra poder.
+Todo vuelve en la vida, este sol vio imperios caer.
+
+*Estribillo:*
+
+Habrá consecuencias, ante tantas faltas y engaños,
+ante tanto mal provocado.
+Ante tan deliberada crueldad, amor.
+
+Habrá consecuencias.
+Porque no se miente de esa manera.
+Lo que nace en el odio en el odio se queda.
+Voy a rogar que una fuerza sobrenatural
+sentencie tu esencia.
+
+---
+
+En un desierto de ánimas negras pretendes enterrarme para no verme más.
+Lo que se entierra crece, se hace más fuerte
+y te puede venir a buscar.
+
+Encadenado a tu codicia sos brillante en ocultar.
+Tené cuidado con lo que me escondas,
+hay un destape a punto de estallar.
+
+Hasta en las más viejas ruinas
+tienen escrita la palabra poder.
+Todo vuelve en la vida, este sol vio imperios caer.
+
+*Estribillo bis.*
+{% end %}
 
 {% postscript() %}
 Músicos Invitados: Daniel Suárez y Cóndor Sbarbati (de Bersuit Vergarabat), Mariano Franceschelli y Martin "Moska" Lorenzo (de Los Auténticos Decadentes) en batería y percusión.

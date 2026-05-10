@@ -9,13 +9,15 @@ authors = [
 tags = []
 +++
 
-<div class="poetry">Escribo en el olvido<br>
-en cada fuego de la noche<br>
-cada rostro de ti.<br>
-Hay una piedra entonces<br>
-donde te acuesto mía,<br>
-ninguno la conoce,<br>
-he fundado pueblos en tu dulzura,<br>
-he sufrido esas cosas,<br>
-eres fuera de mí,<br>
-me perteneces extranjera.</div>
+{% poetry() %}
+Escribo en el olvido
+en cada fuego de la noche
+cada rostro de ti.
+Hay una piedra entonces
+donde te acuesto mía,
+ninguno la conoce,
+he fundado pueblos en tu dulzura,
+he sufrido esas cosas,
+eres fuera de mí,
+me perteneces extranjera.
+{% end %}

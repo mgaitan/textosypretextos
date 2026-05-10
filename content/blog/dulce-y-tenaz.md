@@ -35,38 +35,40 @@ Se lo admira, se lo respeta y se lo quiere. Por todo lo que hizo, y lo que sigue
 
 El domingo a las 3 de la tarde mis compañeros debían irse al [taller de serigrafía](http://www.agrupacionmazamorra.com.ar) que estamos haciendo con los chicos del barrio. Los compañeros del Movimiento Teresa Rodriguez nos hicieron un encargo, con la idea de que se convirtiera en la primera producción del taller: pañuelos con la cara del Che. Como corresponde a nuestra concepción de educación popular, antes que nada debíamos trabajar en torno a la figura del Che y me acordé del bello poema: 
 
-<div class="poetry">**Che 1997**<br>
-<br>
-Lo han cubierto/ de afiches de pancartas<br>
-de voces en los muros<br>
-de agravios retroactivos<br>
-de honores a destiempo<br>
-<br>
-lo han transformado en pieza de consumo<br>
-en memoria trivial<br>
-en ayer sin retorno<br>
-en rabia embalsamada<br>
-<br>
-han decidido usarlo como epílogo<br>
-como última thule de la inocencia vana<br>
-como añejo arquetipo de santo o satanás<br>
-<br>
-y quizás han resuelto que la única forma<br>
-de desprenderse de él<br>
-o dejarlo al garete<br>
-es vaciarlo de lumbre<br>
-convertirlo en un héroe<br>
-de mármol o de yeso<br>
-y por lo tanto inmóvil<br>
-o mejor como mito<br>
-o silueta o fantasma<br>
-del pasado pisado<br>
-<br>
-sin embargo los ojos incerrables del che<br>
-miran como si no pudieran no mirar<br>
-asombrados tal vez de que el mundo<br>
-no entienda que treinta años después<br>
-sigue bregando dulce y tenaz por la dicha del hombre.</div>
+{% poetry() %}
+**Che 1997**
+
+Lo han cubierto/ de afiches de pancartas
+de voces en los muros
+de agravios retroactivos
+de honores a destiempo
+
+lo han transformado en pieza de consumo
+en memoria trivial
+en ayer sin retorno
+en rabia embalsamada
+
+han decidido usarlo como epílogo
+como última thule de la inocencia vana
+como añejo arquetipo de santo o satanás
+
+y quizás han resuelto que la única forma
+de desprenderse de él
+o dejarlo al garete
+es vaciarlo de lumbre
+convertirlo en un héroe
+de mármol o de yeso
+y por lo tanto inmóvil
+o mejor como mito
+o silueta o fantasma
+del pasado pisado
+
+sin embargo los ojos incerrables del che
+miran como si no pudieran no mirar
+asombrados tal vez de que el mundo
+no entienda que treinta años después
+sigue bregando dulce y tenaz por la dicha del hombre.
+{% end %}
 
 <p>
 A las seis de la tarde, mientras una voz militante leía su poema en un barrio pobre de Córdoba, su cuerpo moría en una habitación de Montevideo. En ese instante, no lo detuvo la distancia ni la despedida. Como ayer, como siempre, sigue bregando, dulce y tenaz, por la dicha del hombre.</p>

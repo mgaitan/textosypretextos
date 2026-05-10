@@ -11,16 +11,18 @@ tags = [
 ]
 +++
 
-<div class="poetry">Una mujer y un hombre llevados por la vida,<br>
-una mujer y un hombre cara a cara<br>
-habitan en la noche, desbordan por sus manos,<br>
-se oyen subir libres en la sombra,<br>
-sus cabezas descansan en una bella infancia<br>
-que ellos crearon juntos, plena de sol, de luz,<br>
-una mujer y un hombre atados por sus labios<br>
-llenan la noche lenta con toda su memoria,<br>
-una mujer y un hombre más bellos en el otro<br>
-ocupan su lugar en la tierra.</div>
+{% poetry() %}
+Una mujer y un hombre llevados por la vida,
+una mujer y un hombre cara a cara
+habitan en la noche, desbordan por sus manos,
+se oyen subir libres en la sombra,
+sus cabezas descansan en una bella infancia
+que ellos crearon juntos, plena de sol, de luz,
+una mujer y un hombre atados por sus labios
+llenan la noche lenta con toda su memoria,
+una mujer y un hombre más bellos en el otro
+ocupan su lugar en la tierra.
+{% end %}
 
 {% postscript() %}
 de Gotán, 1962.

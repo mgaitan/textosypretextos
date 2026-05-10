@@ -30,12 +30,14 @@ De este si sé algo, Abel Cháneton. Fue historiador, periodista,
 intendente de Neuquén y, lo que más me simpatiza, amigo de Discepolín. Lo
 menciona en "Cafetín de Buenos Aires":
 
-<div class="poetry">Me diste en oro un puñado de amigos<br>
-que son los mismos que alientan mis horas:<br>
-José, el de la quimera<br>
-Marcial que aún cree y espera<br>
-y el flaco Abel que se nos fue<br>
-pero aún me guía.</div>
+{% poetry() %}
+Me diste en oro un puñado de amigos
+que son los mismos que alientan mis horas:
+José, el de la quimera
+Marcial que aún cree y espera
+y el flaco Abel que se nos fue
+pero aún me guía.
+{% end %}
 
 En esa pista, la del Don Bosco, corrí los 100 metros más rápidos de mi
 vida. Tenía 9 años y dos piernas fuertes para mi cuerpo pequeño.
