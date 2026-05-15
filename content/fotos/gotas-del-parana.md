@@ -13,21 +13,16 @@ hero_image = "/media/jpg/DSC_0037-1.jpg"
 hero_alt = "DSC_0037-1.jpg"
 +++
 
-> Tengo el color del río 
-
-Y su misma voz en mi canto sigo 
-
-Del agua mansa y su suave danza en el corazón, 
-
+{% poetry() %}
+Tengo el color del río
+Y su misma voz en mi canto sigo
+Del agua mansa y su suave danza en el corazón,
 Pero a veces oscura,
-
-Va turbulenta en la ciega hondura 
-
+Va turbulenta en la ciega hondura
 Y se hace brillo en este cuchillo de pescador.
->
-> — <em
 
-Oración del remanso</em>, Jorge Fandermole>
+*— Oración del remanso*, Jorge Fandermole
+{% end %}
 
 {% postscript() %}
 Fotos tomadas en Rosario, entre el 13 y el 16 de junio de 2008.
