@@ -529,6 +529,7 @@
     },
     "Jorge Fandermole": {
       "articles": [
+        "de-otros/diamante.md",
         "de-otros/suenero.md"
       ],
       "gender": "m",
@@ -779,6 +780,7 @@
     },
     "Martín Gaitán": {
       "articles": [
+        "blog/un-tomate-imperfecto.md",
         "videos/mamita-peyote.md",
         "videos/a-traves-de-tus-ojos.md",
         "blog/el-termo.md",
@@ -15692,6 +15694,22 @@
       "url": "/blog/un-mes/",
       "video_id": ""
     },
+    "blog/un-tomate-imperfecto.md": {
+      "authors": [
+        "Martín Gaitán"
+      ],
+      "comment_count": 0,
+      "date": "2026-05-23 00:00:00",
+      "description": "Discurso leído el 23 de mayo de 2006 en el festejo de nuestro <a href=\"https://locrasorio.pages.dev/\">Locrasorio</a>",
+      "hero_alt": "",
+      "hero_image": "",
+      "section_slug": "blog",
+      "section_title": "Blog",
+      "tags": [],
+      "title": "Un tomate imperfecto",
+      "url": "/blog/un-tomate-imperfecto/",
+      "video_id": ""
+    },
     "blog/una-decada-de-impunidad.md": {
       "authors": [
         "Martín Gaitán"
@@ -16423,6 +16441,22 @@
       "tags": [],
       "title": "Desganas",
       "url": "/de-otros/desganas/",
+      "video_id": ""
+    },
+    "de-otros/diamante.md": {
+      "authors": [
+        "Jorge Fandermole"
+      ],
+      "comment_count": 0,
+      "date": "2026-05-17 00:29:55",
+      "description": "",
+      "hero_alt": "",
+      "hero_image": "",
+      "section_slug": "de-otros",
+      "section_title": "De otres",
+      "tags": [],
+      "title": "Diamante",
+      "url": "/de-otros/diamante/",
       "video_id": ""
     },
     "de-otros/diario-de-viaje-de-un-mochilero.md": {

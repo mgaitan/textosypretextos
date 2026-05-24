@@ -7,6 +7,9 @@ authors = [
     "Martín Gaitán",
 ]
 tags = []
+
+[extra]
+deck = "Discurso leído el 23 de mayo de 2006 en el festejo de nuestro [Locrasorio](https://locrasorio.pages.dev/)"
 +++
 
 Buenas tardes a todas y a todos.
@@ -56,3 +59,5 @@ Y a vos, mi amor, compañera mia, espero que, como nos describio Galeano, sigamo
 
 Te amo.
 Martín
+
+{{ video_embed(provider="youtube", id="hhJDuNdVOgs") }}

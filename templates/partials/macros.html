@@ -65,7 +65,7 @@
       {% endif %}
       {% if page.description %}
         <p class="story-deck {% if is_compact or is_home_list %}text-base leading-7{% endif %}{% if is_home_list %} home-listing-summary{% endif %}">
-          {{ page.description }}
+          {{ page.description | safe }}
         </p>
       {% endif %}
       <div class="meta-row">
