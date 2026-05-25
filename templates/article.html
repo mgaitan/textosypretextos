@@ -1,14 +1,13 @@
 {% extends "base.html" %}
 {% import "partials/macros.html" as macros %}
-{% set share_description = page.description | default(value=config.description) | striptags %}
 
 {% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
-{% block meta_description %}{{ share_description }}{% endblock meta_description %}
+{% block meta_description %}{{ page.description | default(value=config.description) | striptags }}{% endblock meta_description %}
 {% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
 {% block og_type %}article{% endblock og_type %}
 {% block og_url %}{{ page.permalink }}{% endblock og_url %}
 {% block og_title %}{{ page.title }} · {{ config.title }}{% endblock og_title %}
-{% block og_description %}{{ share_description }}{% endblock og_description %}
+{% block og_description %}{{ page.description | default(value=config.description) | striptags }}{% endblock og_description %}
 {% block og_image %}
   {%- if page.extra.hero_image -%}
     {%- if page.extra.hero_image is starting_with("http://") or page.extra.hero_image is starting_with("https://") -%}
@@ -23,7 +22,7 @@
   {%- endif -%}
 {% endblock og_image %}
 {% block twitter_title %}{{ page.title }} · {{ config.title }}{% endblock twitter_title %}
-{% block twitter_description %}{{ share_description }}{% endblock twitter_description %}
+{% block twitter_description %}{{ page.description | default(value=config.description) | striptags }}{% endblock twitter_description %}
 {% block twitter_image %}
   {%- if page.extra.hero_image -%}
     {%- if page.extra.hero_image is starting_with("http://") or page.extra.hero_image is starting_with("https://") -%}
