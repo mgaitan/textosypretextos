@@ -11,7 +11,7 @@
 {% block og_description %}{{ share_description }}{% endblock og_description %}
 {% block og_image %}
   {%- if page.extra.hero_image -%}
-    {%- if page.extra.hero_image is starting_with(pat="http://") or page.extra.hero_image is starting_with(pat="https://") -%}
+    {%- if page.extra.hero_image is starting_with("http://") or page.extra.hero_image is starting_with("https://") -%}
       {{ page.extra.hero_image }}
     {%- else -%}
       {{ config.base_url }}{{ page.extra.hero_image }}
@@ -26,7 +26,7 @@
 {% block twitter_description %}{{ share_description }}{% endblock twitter_description %}
 {% block twitter_image %}
   {%- if page.extra.hero_image -%}
-    {%- if page.extra.hero_image is starting_with(pat="http://") or page.extra.hero_image is starting_with(pat="https://") -%}
+    {%- if page.extra.hero_image is starting_with("http://") or page.extra.hero_image is starting_with("https://") -%}
       {{ page.extra.hero_image }}
     {%- else -%}
       {{ config.base_url }}{{ page.extra.hero_image }}
