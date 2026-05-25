@@ -2,14 +2,15 @@
 title = "Un tomate imperfecto"
 slug = "un-tomate-imperfecto"
 date = 2026-05-23 00:00:00
-description = "Discurso leído el 23 de mayo de 2006 en el festejo de nuestro <a href=\"https://locrasorio.pages.dev/\">Locrasorio</a>"
+description = "Discurso leído el 23 de mayo de 2026 en el festejo de nuestro Locrasorio"
 authors = [
     "Martín Gaitán",
 ]
 tags = []
 
 [extra]
-deck = "Discurso leído el 23 de mayo de 2006 en el festejo de nuestro [Locrasorio](https://locrasorio.pages.dev/)"
+deck = "Discurso leído el 23 de mayo de 2026 en el festejo de nuestro [Locrasorio](https://locrasorio.pages.dev/)"
+hero_image = "https://locrasorio.pages.dev/images/gallery/gallery-14.jpg"
 +++
 
 Buenas tardes a todas y a todos.

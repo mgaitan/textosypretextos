@@ -1,16 +1,21 @@
 {% extends "base.html" %}
 {% import "partials/macros.html" as macros %}
+{% set share_description = page.description | default(value=config.description) | striptags %}
 
 {% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
-{% block meta_description %}{{ page.description | default(value=config.description) }}{% endblock meta_description %}
+{% block meta_description %}{{ share_description }}{% endblock meta_description %}
 {% block canonical_url %}{{ page.permalink }}{% endblock canonical_url %}
 {% block og_type %}article{% endblock og_type %}
 {% block og_url %}{{ page.permalink }}{% endblock og_url %}
 {% block og_title %}{{ page.title }} · {{ config.title }}{% endblock og_title %}
-{% block og_description %}{{ page.description | default(value=config.description) }}{% endblock og_description %}
+{% block og_description %}{{ share_description }}{% endblock og_description %}
 {% block og_image %}
   {%- if page.extra.hero_image -%}
-    {{ config.base_url }}{{ page.extra.hero_image }}
+    {%- if page.extra.hero_image is starting_with(pat="http://") or page.extra.hero_image is starting_with(pat="https://") -%}
+      {{ page.extra.hero_image }}
+    {%- else -%}
+      {{ config.base_url }}{{ page.extra.hero_image }}
+    {%- endif -%}
   {%- elif page.components[0] == "videos" and page.extra.video_id -%}
     https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg
   {%- else -%}
@@ -18,10 +23,14 @@
   {%- endif -%}
 {% endblock og_image %}
 {% block twitter_title %}{{ page.title }} · {{ config.title }}{% endblock twitter_title %}
-{% block twitter_description %}{{ page.description | default(value=config.description) }}{% endblock twitter_description %}
+{% block twitter_description %}{{ share_description }}{% endblock twitter_description %}
 {% block twitter_image %}
   {%- if page.extra.hero_image -%}
-    {{ config.base_url }}{{ page.extra.hero_image }}
+    {%- if page.extra.hero_image is starting_with(pat="http://") or page.extra.hero_image is starting_with(pat="https://") -%}
+      {{ page.extra.hero_image }}
+    {%- else -%}
+      {{ config.base_url }}{{ page.extra.hero_image }}
+    {%- endif -%}
   {%- elif page.components[0] == "videos" and page.extra.video_id -%}
     https://img.youtube.com/vi/{{ page.extra.video_id }}/hqdefault.jpg
   {%- else -%}
