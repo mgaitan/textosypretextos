@@ -38,7 +38,7 @@ Pero sí, intuyen bien queridos amigos, faltaba la gaseosa de la vomitiba public
 
 Justo a tiempo regresó con un papelito en la mano. 
 
--- {Acá está el vale del envase que trajimos -- y me dio el ticket que, aunque nunca había visto otro, supe original.  Sonreí con disimulo mientras aseguraba no tener "Tarjeta Disco", recibí el vuelto y salimos hablando del partido de ayer. 
+-- *Acá está el vale del envase que trajimos* -- y me dio el ticket que, aunque nunca había visto otro, supe original.  Sonreí con disimulo mientras aseguraba no tener "Tarjeta Disco", recibí el vuelto y salimos hablando del partido de ayer. 
 
 Doblando la esquina pregunté: 
 
