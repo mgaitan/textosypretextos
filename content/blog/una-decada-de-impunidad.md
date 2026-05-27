@@ -15,7 +15,7 @@ tags = [
 
 Cuando Camila cumplió 10 años hace algunas semanas, Mariano  y yo cumplímos una década siendo tios. [Lo dije](@/blog/querida-cami.md): es una de las cosas más bonitas que me han pasado; ese vínculo afectivo desde el que se puede gozar con la impunidad que los papás no pueden permitirse. 
 
-Me acuerdo patente y patético de mis rezos ateos para que el *"pan bajo el brazo"* fuese el mundial, el de Francia, que se empezó a jugar un mes después de que Camila nació.  No sé si por la falacia de mi religiosidad o porque Cami ya era suficiente regalo, se sabe, el panadero del cielo bajo el brazo no mandó ni una miguita y en cambio, me quizo conformar con un [cabezazo bajo la mandíbula](http://www.youtube.com/watch?v=xdHtsSIM7HM). 
+Me acuerdo patente y patético de mis rezos ateos para que el *"pan bajo el brazo"* fuese el mundial, el de Francia, que se empezó a jugar un mes después de que Camila nació.  No sé si por la falacia de mi religiosidad o porque Cami ya era suficiente regalo, se sabe, el panadero del cielo bajo el brazo no mandó ni una miguita y en cambio, me quizo conformar con un [cabezazo bajo la mandíbula](http://www.youtube.com/watch?v=QXTE-C3ov-g). 
 
 Diez años de tío. Joaquín se sumó en el camino y en el descuido se colaron 1200 kilómetros muy putos, que me hacen perder la mejor parte: la de la risa y el descubrimiento cotidiano. Pero igual la emoción se la ingenia para invadir, aprovechándose de cualquier comentario (una actuación en la escuela, una nueva palabra aprendida, una canción en el piano o los nuevos datos sobre el planeta marte), que siempre se amplifica en las babas de los abuelos. 
 
