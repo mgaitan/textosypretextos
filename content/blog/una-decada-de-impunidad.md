@@ -29,9 +29,9 @@ Aunque no fue la mejor presentación, los aplausos del público estremecieron la
 
 *(Aparece Ripolito tranquilamente desde el costado, para hacer la presentación. Detrás de él, entra Floripondia)*
 
-_ **Ripolito**: - Buenas, buenas! ¿Cómo andan? ¿Disfrutando cada centímetro nuevo de panza? Para nosotros es un gusto estar ésta noche acá, pasar a saludarlos y decirles ¡Feliz indigestión a todos!
+**Ripolito**: ¡Buenas, buenas! ¿Cómo andan? ¿Disfrutando cada centímetro nuevo de panza? Para nosotros es un gusto estar ésta noche acá, pasar a saludarlos y decirles ¡Feliz indigestión a todos!
 
-** Floripondia**: ¡Feliz Navidad, Ripolito! Se dice ¡Feliz Navidad!
+**Floripondia**: ¡Feliz Navidad, Ripolito! Se dice ¡Feliz Navidad!
 
 **Ripolito**: Sí, sí, felices las dos cosas. Nosotros la pasamos muy bien
 en la casa de nuestra amiga la Gata Machata, que es un poco sorda.
@@ -74,10 +74,10 @@ enfatizar que caminan. En la mitad de una pasada Ripolito se dirige hacia el pú
 
 **Ripolito**: ¿Y qué es lo que dijo?
 
-**Floripondia**: Dijo que está contento de estar acá, y que aprender a estar contento es la mejor sabiduría.
+**Floripondia**: Dijo que está contento de estar acá. Y que aprender a estar contentos es la mayor sabiduría.
 
 **Ripolito**: Mirá vos, escuchalo al grandote.
 
 **Gata Machata**: ¡Eso, eso! ¡Echalo, echalo! ¡Si se comió hasta mis ratones!
 
-*-FIN- *
+*FIN*
