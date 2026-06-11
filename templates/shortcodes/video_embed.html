@@ -21,6 +21,14 @@
         loading="lazy"
         allowfullscreen
       ></iframe>
+    {% elif provider == "googledrive" %}
+      <iframe
+        src="https://drive.google.com/file/d/{{ id }}/preview"
+        title="{{ title | default(value="Video") }}"
+        loading="lazy"
+        allow="autoplay; fullscreen"
+        allowfullscreen
+      ></iframe>
     {% endif %}
   </div>
 </figure>

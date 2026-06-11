@@ -1073,6 +1073,18 @@
       "title": "Nicolás Guillén",
       "url": "/autores/nicolas-guillen/"
     },
+    "Octavio Gencarelli": {
+      "articles": [
+        "videos/qatar-en-contexto.md"
+      ],
+      "gender": "m",
+      "group_name": "",
+      "image": "",
+      "is_owner": false,
+      "slug": "octavio-gencarelli",
+      "title": "Octavio Gencarelli",
+      "url": "/autores/octavio-gencarelli/"
+    },
     "Oliverio Girondo": {
       "articles": [
         "de-otros/el-puro-no.md",
@@ -15700,9 +15712,9 @@
       ],
       "comment_count": 0,
       "date": "2026-05-23 00:00:00",
-      "description": "Discurso leído el 23 de mayo de 2006 en el festejo de nuestro <a href=\"https://locrasorio.pages.dev/\">Locrasorio</a>",
+      "description": "Discurso leído el 23 de mayo de 2026 en el festejo de nuestro Locrasorio",
       "hero_alt": "",
-      "hero_image": "",
+      "hero_image": "https://locrasorio.pages.dev/images/gallery/gallery-14.jpg",
       "section_slug": "blog",
       "section_title": "Blog",
       "tags": [],
@@ -20161,6 +20173,26 @@
       "title": "Presto",
       "url": "/videos/presto/",
       "video_id": "qp71kQZMRZM"
+    },
+    "videos/qatar-en-contexto.md": {
+      "authors": [
+        "Octavio Gencarelli"
+      ],
+      "comment_count": 0,
+      "date": "2026-06-10 22:58:00",
+      "description": "La serie completa de videos de Octavio Gencarelli sobre el recorrido de Argentina en Qatar.",
+      "hero_alt": "Qatar en contexto, capítulo 1: Argentina vs Arabia Saudita",
+      "hero_image": "https://drive.google.com/thumbnail?id=1zCHZhGzDn0y2waTvnX9NaN60HrEzmo1-&sz=w1200",
+      "section_slug": "videos",
+      "section_title": "Videos",
+      "tags": [
+        "La pelota no se mancha",
+        "Deporte",
+        "Qatar"
+      ],
+      "title": "Qatar en contexto",
+      "url": "/videos/qatar-en-contexto/",
+      "video_id": ""
     },
     "videos/rafael-correa-gana-reeleccion.md": {
       "authors": [
@@ -31612,6 +31644,7 @@
     },
     "Deporte": {
       "articles": [
+        "videos/qatar-en-contexto.md",
         "blog/fideo.md"
       ],
       "gender": "m",
@@ -31851,6 +31884,7 @@
     },
     "La pelota no se mancha": {
       "articles": [
+        "videos/qatar-en-contexto.md",
         "blog/fideo.md"
       ],
       "gender": "m",
@@ -32061,6 +32095,18 @@
       "slug": "politica",
       "title": "Política",
       "url": "/etiquetas/politica/"
+    },
+    "Qatar": {
+      "articles": [
+        "videos/qatar-en-contexto.md"
+      ],
+      "gender": "m",
+      "group_name": "transversales",
+      "image": "",
+      "is_owner": false,
+      "slug": "qatar",
+      "title": "Qatar",
+      "url": "/etiquetas/qatar/"
     },
     "Refrito de Verano": {
       "articles": [
