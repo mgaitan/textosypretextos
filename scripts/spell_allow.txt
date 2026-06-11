@@ -5711,3 +5711,14 @@ america
 américa
 adelántame
 desandó
+
+# --- Tanda 2026-06-10 ---
+Arabia
+Cinema
+Duo
+Gardel
+Gencarelli
+Investido
+Qatar
+Saudita
+Verité
