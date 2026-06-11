@@ -45,6 +45,9 @@
   {% set page_authors = page_info.authors | default(value=page.authors | default(value=[])) %}
   {% set section_slug = page_info.section_slug | default(value=page.components[0]) %}
   {% set redundant_subtitle = page.extra.subtitle and page_authors and page.extra.subtitle == page_authors[0] %}
+  {% set first_author = page_authors | first | default(value="") %}
+  {% set first_author_info = site_index.authors | get(key=first_author, default=false) %}
+  {% set show_author_byline = page_authors and (section_slug == "de-otros" or not first_author_info or not first_author_info.is_owner) %}
   {% set use_subcat = section_slug in ["blog", "de-otros"] and page_tags and page_tags | length > 0 %}
   {% set comment_key = section_slug ~ "/" ~ page.slug %}
   {% set static_comments = comments_by_article | get(key=comment_key, default=[]) %}
@@ -60,7 +63,8 @@
         <p class="article-subtitle">
           {{ page.extra.subtitle }}
         </p>
-      {% elif section_slug == "de-otros" and page_authors %}
+      {% endif %}
+      {% if show_author_byline %}
         <p class="article-subtitle">
           {% for author in page_authors %}
             {% set author_info = site_index.authors | get(key=author, default=false) %}
