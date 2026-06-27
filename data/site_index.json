@@ -780,6 +780,7 @@
     },
     "Martín Gaitán": {
       "articles": [
+        "videos/aria-agraria-les-luthiers.md",
         "blog/un-tomate-imperfecto.md",
         "videos/mamita-peyote.md",
         "videos/a-traves-de-tus-ojos.md",
@@ -19033,6 +19034,24 @@
       "url": "/videos/aquarela/",
       "video_id": ""
     },
+    "videos/aria-agraria-les-luthiers.md": {
+      "authors": [
+        "Martín Gaitán"
+      ],
+      "comment_count": 0,
+      "date": "2026-06-27 20:29:06",
+      "description": "",
+      "hero_alt": "",
+      "hero_image": "",
+      "section_slug": "videos",
+      "section_title": "Videos",
+      "tags": [
+        "Música"
+      ],
+      "title": "Aria Agraria - Les Luthiers",
+      "url": "/videos/aria-agraria-les-luthiers/",
+      "video_id": "t6PgN_ums98"
+    },
     "videos/big-buck-bunny.md": {
       "authors": [
         "Martín Gaitán"
@@ -31946,6 +31965,7 @@
     },
     "Música": {
       "articles": [
+        "videos/aria-agraria-les-luthiers.md",
         "videos/mamita-peyote.md",
         "videos/a-traves-de-tus-ojos.md",
         "de-otros/a-traves-de-tus-ojos.md",
