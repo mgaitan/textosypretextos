@@ -3,7 +3,7 @@ title = "Aria Agraria - Les Luthiers"
 slug = "aria-agraria-les-luthiers"
 date = 2026-06-27 20:29:06
 authors = [
-    "Martín Gaitán",
+    "Les Luthiers",
 ]
 tags = [
     "Música",

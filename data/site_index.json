@@ -676,6 +676,17 @@
       "title": "La Portuaria",
       "url": ""
     },
+    "Les Luthiers": {
+      "articles": [
+        "videos/aria-agraria-les-luthiers.md"
+      ],
+      "gender": "m",
+      "image": "",
+      "is_owner": false,
+      "slug": "les-luthiers",
+      "title": "Les Luthiers",
+      "url": ""
+    },
     "Lisandro Aristimuño": {
       "articles": [
         "de-otros/cancion-de-amor.md",
@@ -780,7 +791,6 @@
     },
     "Martín Gaitán": {
       "articles": [
-        "videos/aria-agraria-les-luthiers.md",
         "blog/un-tomate-imperfecto.md",
         "videos/mamita-peyote.md",
         "videos/a-traves-de-tus-ojos.md",
@@ -19036,7 +19046,7 @@
     },
     "videos/aria-agraria-les-luthiers.md": {
       "authors": [
-        "Martín Gaitán"
+        "Les Luthiers"
       ],
       "comment_count": 0,
       "date": "2026-06-27 20:29:06",
