@@ -82,6 +82,17 @@
       "title": "Antonio Gramsci",
       "url": ""
     },
+    "Atahualpa Yupanqui": {
+      "articles": [
+        "de-otros/milonga-del-peon-de-campo.md"
+      ],
+      "gender": "m",
+      "image": "",
+      "is_owner": false,
+      "slug": "atahualpa-yupanqui",
+      "title": "Atahualpa Yupanqui",
+      "url": ""
+    },
     "Baldomero Fernandez Moreno": {
       "articles": [
         "de-otros/soneto-a-tus-visceras.md"
@@ -17579,6 +17590,24 @@
       "url": "/de-otros/menina-da-lua/",
       "video_id": ""
     },
+    "de-otros/milonga-del-peon-de-campo.md": {
+      "authors": [
+        "Atahualpa Yupanqui"
+      ],
+      "comment_count": 0,
+      "date": "2026-07-31 15:21:26",
+      "description": "Milonga de Atahualpa Yupanqui.",
+      "hero_alt": "",
+      "hero_image": "",
+      "section_slug": "de-otros",
+      "section_title": "De otres",
+      "tags": [
+        "Música"
+      ],
+      "title": "Milonga del peón de campo",
+      "url": "/de-otros/milonga-del-peon-de-campo/",
+      "video_id": ""
+    },
     "de-otros/monologo-octavo-habla-dulcinea.md": {
       "authors": [
         "Fernando Savater"
@@ -31975,6 +32004,7 @@
     },
     "Música": {
       "articles": [
+        "de-otros/milonga-del-peon-de-campo.md",
         "videos/aria-agraria-les-luthiers.md",
         "videos/mamita-peyote.md",
         "videos/a-traves-de-tus-ojos.md",
