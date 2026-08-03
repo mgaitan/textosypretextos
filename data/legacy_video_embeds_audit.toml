@@ -1,0 +1,43 @@
+updated_at = "2026-05-10"
+
+[[articles]]
+path = "content/videos/franja-de-gaza-agosto-2008.md"
+status = "replaced"
+replacement = "video_embed(provider=\"vimeo\", id=\"2740130\")"
+note = "Se eliminó el <object> legacy y se mantuvo el embed actual."
+
+[[articles]]
+path = "content/videos/buenas-noches-ouma.md"
+status = "pending_editorial_review"
+replacement = "external_embed(provider=\"vodpod\", ...)"
+note = "No se pudo validar un video vigente en este entorno; requiere reemplazo editorial."
+
+[[articles]]
+path = "content/videos/sebastian-s-voodoo.md"
+status = "pending_editorial_review"
+replacement = "external_embed(provider=\"aniboom\", ...)"
+note = "No se pudo validar un video vigente en este entorno; requiere reemplazo editorial."
+
+[[articles]]
+path = "content/videos/fallen.md"
+status = "pending_editorial_review"
+replacement = "external_embed(provider=\"metacafe\", ...)"
+note = "No se pudo validar un video vigente en este entorno; requiere reemplazo editorial."
+
+[[articles]]
+path = "content/videos/discurso-de-hugo-chavez.md"
+status = "pending_editorial_review"
+replacement = "external_embed(provider=\"radiomundial\", ...)"
+note = "No se pudo validar un video vigente en este entorno; requiere reemplazo editorial."
+
+[[articles]]
+path = "content/videos/el-despertar-de-ameroiberica.md"
+status = "pending_editorial_review"
+replacement = "external_embed(provider=\"youtube\", ...)"
+note = "No se pudo validar un video vigente en este entorno; requiere reemplazo editorial."
+
+[[articles]]
+path = "content/videos/el-copyright-como-criminalizacion-de-la-creatividad.md"
+status = "pending_editorial_review"
+replacement = "external_embed(provider=\"ted\", ...)"
+note = "No se pudo validar un video vigente en este entorno; requiere reemplazo editorial."

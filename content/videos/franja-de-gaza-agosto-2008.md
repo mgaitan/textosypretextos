@@ -14,8 +14,6 @@ tags = [
 subtitle = "Colectivo de Medios"
 +++
 
-<object width="500" height="401"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2740130&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" />
-
 {{ video_embed(provider="vimeo", id="2740130") }}
 
 Este vídeo surge de un viaje a Palestina realizado por compañer@s del Centro de Medios, colectivo de contrainformación e información alternativa de Madrid.
