@@ -12,7 +12,9 @@ tags = []
 subtitle = "Wolfram Kampffmeyer"
 +++
 
-<embed src="http://www.metacafe.com/fplayer/1677122/fallen.swf" width="500" height="431" wmode="transparent"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></embed>
+{{ external_embed(provider="metacafe", url="http://www.metacafe.com/fplayer/1677122/fallen.swf") }}
+
+_Pendiente de revisión editorial: buscar reemplazo vigente del video._
 
 ### Galería
 
