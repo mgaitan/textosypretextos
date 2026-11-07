@@ -467,6 +467,44 @@
     font-family: var(--font-ui);
   }
 
+  .story-content .footnote-reference {
+    font-family: var(--font-ui);
+    @apply text-[0.7em] leading-none;
+    scroll-margin-top: 6rem;
+  }
+
+  .story-content .footnote-definition {
+    @apply mt-8 border-t border-neutral-300 pt-4 text-[0.9rem] leading-6 text-neutral-700;
+    display: grid;
+    grid-template-columns: 1.25rem minmax(0, 1fr);
+    column-gap: 0.5rem;
+    scroll-margin-top: 6rem;
+  }
+
+  .story-content .footnote-definition + .footnote-definition {
+    @apply mt-3 border-t-0 pt-0;
+  }
+
+  .story-content .footnote-definition-label {
+    font-family: var(--font-ui);
+    @apply text-xs leading-6;
+    grid-column: 1;
+    grid-row: 1;
+    top: 0;
+  }
+
+  .story-content .footnote-definition > :not(.footnote-definition-label) {
+    grid-column: 2;
+  }
+
+  .story-content .footnote-definition p {
+    @apply my-0;
+  }
+
+  .story-content .footnote-definition p + p {
+    @apply mt-2;
+  }
+
   .story-content .article-postscript {
     @apply mt-12 border-t border-black pt-6 text-[0.98rem] leading-7 text-neutral-700;
   }
