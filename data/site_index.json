@@ -1,5 +1,16 @@
 {
   "authors": {
+    "Abdul El-Sayed": {
+      "articles": [
+        "de-otros/abdul.md"
+      ],
+      "gender": "m",
+      "image": "",
+      "is_owner": false,
+      "slug": "abdul-el-sayed",
+      "title": "Abdul El-Sayed",
+      "url": ""
+    },
     "Adriana Battu (Pedro Mairal)": {
       "articles": [
         "de-otros/en-la-cancha-se-ven-los-pingos.md"
@@ -15938,6 +15949,24 @@
       ],
       "title": "A través de tus ojos",
       "url": "/de-otros/a-traves-de-tus-ojos/",
+      "video_id": ""
+    },
+    "de-otros/abdul.md": {
+      "authors": [
+        "Abdul El-Sayed"
+      ],
+      "comment_count": 0,
+      "date": "2026-11-04",
+      "description": "Fragmento del discurso de Abdul El-Sayed tras derrotar a Mike Rogers en la elección al Senado por Michigan. Traducción al español.",
+      "hero_alt": "",
+      "hero_image": "",
+      "section_slug": "de-otros",
+      "section_title": "De otres",
+      "tags": [
+        "Política"
+      ],
+      "title": "Discurso de victoria de Abdul El-Sayed (fragmento)",
+      "url": "/de-otros/discurso-de-victoria-de-abdul-el-sayed-fragmento/",
       "video_id": ""
     },
     "de-otros/aire-durando.md": {
@@ -32106,6 +32135,7 @@
     },
     "Política": {
       "articles": [
+        "de-otros/abdul.md",
         "blog/del-amor-y-otras-politicas.md",
         "de-otros/historia-de-una-mujer-bomba.md",
         "de-otros/8n-yo-no-voy.md",
