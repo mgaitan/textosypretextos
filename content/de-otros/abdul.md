@@ -25,7 +25,7 @@ La belleza y el alma de Estados Unidos están en que nosotros, el pueblo, somos 
 
 Muchísimas gracias.
 
-[^1]: La frase juega con la frase de *a more perfect union* («una unión más perfecta»), expresión del preámbulo de la Constitución estadounidense.
+[^1]: juega con la frase  *a more perfect union* («una unión más perfecta»), expresión del preámbulo de la Constitución estadounidense.
 
 {% postscript(raw=true) %}
 <p>Fragmento del discurso de victoria de Abdul El-Sayed tras derrotar a Mike Rogers en la elección al Senado por Michigan, el 4 de noviembre de 2026. Traducción al español a partir de la <a href="https://www.rev.com/transcripts/abdul-el-sayed-victory-speech">transcripción completa publicada por Rev</a>.</p>
