@@ -25,10 +25,10 @@ La belleza y el alma de Estados Unidos están en que nosotros, el pueblo, somos 
 
 Muchísimas gracias.
 
-{% postscript() %}
-Fragmento del discurso de victoria de Abdul El-Sayed tras derrotar a Mike Rogers en la elección al Senado por Michigan, el 4 de noviembre de 2026. Traducción al español a partir de la [transcripción completa publicada por Rev](https://www.rev.com/transcripts/abdul-el-sayed-victory-speech).
+{% postscript(raw=true) %}
+<p>Fragmento del discurso de victoria de Abdul El-Sayed tras derrotar a Mike Rogers en la elección al Senado por Michigan, el 4 de noviembre de 2026. Traducción al español a partir de la <a href="https://www.rev.com/transcripts/abdul-el-sayed-victory-speech">transcripción completa publicada por Rev</a>.</p>
 
-Video del discurso completo, publicado por C-SPAN:
+<p>Video del discurso completo, publicado por C-SPAN:</p>
 
 {{ video_embed(provider="youtube", id="yMNEKYd3Pb8", title="Discurso de victoria de Abdul El-Sayed — C-SPAN") }}
 {% end %}
